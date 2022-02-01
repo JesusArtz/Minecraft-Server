@@ -1,0 +1,20 @@
+lastAccountName: BoingdeMango
+timestamps:
+  login: 1616292673028
+  lastteleport: 1616293208405
+  logout: 1616293338193
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -1.3528863081025106
+  y: 50.0
+  z: 15.310854404069211
+  yaw: -182.70612
+  pitch: 9.533093
+logoutlocation:
+  world: Survival_plots
+  x: -182.0468339545951
+  y: 21.0
+  z: -13.858015377169492
+  yaw: -8.191198
+  pitch: -0.3157756

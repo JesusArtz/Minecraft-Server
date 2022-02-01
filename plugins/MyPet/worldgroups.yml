@@ -1,0 +1,8 @@
+Groups:
+  default:
+  - world
+  - world_nether
+  - world_the_end
+  - Survival
+  - Survival_plots
+  - world_pvp

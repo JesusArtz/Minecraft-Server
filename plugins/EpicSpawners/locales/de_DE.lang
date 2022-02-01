@@ -1,0 +1,108 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicSpawners&8]'
+    exit: '&cSchließen'
+    next: '&9Weiter'
+    back: '&9Zurück'
+    confirm: '&a&lBestätigen'
+    currency: $
+# Interface Messages
+interface:
+  spawner:
+    upgradewithxp: '&aUpgrade mit XP'
+    upgradewithxplore: '&7Preis: &a%cost% Levels'
+    upgradewitheconomy: '&aUpgrade mit ECO'
+    upgradewitheconomylore: '&7Preis: &a%cost%'
+    statstitle: '&6Spawner Statistiken'
+    stats: '&a%amount% &7wurden bis jetzt gespawnt.'
+    onlyspawnson: '&7Spawnt nur auf &6%block%&7.'
+    boost: '&7Rechts-Click zum &aBoost&7.'
+    cantboost: '&cBoost nicht möglich.'
+    convert: '&7Links-Click zum &a&7Konvertieren.'
+    boostedstats: '&a&lAktueller Boost!|&7Gibt &6%amount% &7extra &6%type%s &7zu jedem Spawner.|&7Endet in &6%time%&7.'
+    boostednever: niemals
+    tutorialtitle: '&a&lNützliche Informationen'
+    tutorial: '{[LEVELUP]Du kannst diesen Spawner mit folgenden Sachen upgraden: [Nutze einen anderen Spawner auf diesem Spawner][Leveln mit XP][Leveln mit ECONOMY].}|{[DROP]Ein <TYPE> Spawner wird gedroppt, wenn du <AMT> [natural ]<TYPE>''s} tötest.|{[OMNI][Durch Stapeln von Spawnern unterschiedlicher Typen wird ein OmniSpawner erstellt].}|{[WATER][Spawner werden Wasser abweisen].}|{[REDSTONE][Du kannst diesen Spawner deaktivieren, indem du ihn mit Redstone-Energie versorgst].}|{[INVSTACK][Du kannst Spawner aus deinem Inventar stacken, indem du ihn aufeinander legst.]}'
+    howtonext: '&aKlicke, um zur nächsten Seite zu gehen.'
+    howtoback: '&aKlicke, um auf die vorherige Seite zu gehen.'
+    paused: '&6Das Spawnen wurde aus folgendem Grund pausiert:'
+    conditionBiome1: Nicht im Biom &6%biome%&7 platziert.
+    conditionBiome2: Nicht im richtigen Biom platziert.
+    conditionHeight: Die Y-Koordinate ist nicht zwischen &6%min%&7 und &6%max%&7.
+    conditionLight: Es ist nicht &6hell&7 genug.
+    conditionDark: Es ist nicht &6dunkel&7 genug.
+    conditionNearbyEntities: Es sind mehr als &6%max%&7 Wesen nahe des Spawners.
+    conditionNearbyPlayers: Es sind weniger als &6%amount%&7 Spieler innerhalb von &6%distance%&7 Blöcken um den Spawner.
+    conditionStorm: Es stürmt nicht.
+  convert:
+    title: Spawner konvertieren
+    lore: '&7Klicke hier zum Konvertieren.'
+  shop:
+    title: Spawner Shop
+    spawnershoptitle: '&8Kaufe einen %type%'
+    buyprice: '&7Kauf Preis: &a%cost%'
+    lore: '&7Klicke hier zum Kaufen.'
+    add1: '&a&lFüge 1 hinzu'
+    add10: '&a&lFüge 10 hinzu'
+    set1: '&c&lSetzen zu 1'
+    set64: '&a&lSetzen zu 64'
+    remove1: '&c&lEntferne 1'
+    remove10: '&c&lEntferne 10'
+  spawnerstats:
+    title: '&5&lSpawnerStats'
+    prefix: '&7Deine aktuellen Spawner-Stats:'
+    nokills: '&7Du hast akuell keine Monster getötet. Gehe einige töten!'
+  boost:
+    title: '&cBoosting %spawner% &cfür %amount%'
+    cost: '&7Kostet &6&l%cost%.'
+    boostfor: '&7&lBoost für &6&l%amount% &7&lMinuten'
+# Command Messages
+command:
+  give:
+    success: '&7Du hast dir %amount% vom Typ &6%type%&7 gegeben.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cDu hast keine Rechte dies zu tun.'
+  upgrade:
+    cannotafford: '&cDu kannst dir dieses Upgrade nicht leisten.'
+    success: '&7Du hast den Spawner zu Level &6%level%x&7 geupgradet.'
+    maxed: '&7Dieser Spawner hat das maximalen Level.'
+    successmaxed: '&7Du hast den Spawner zum maximalen Level geupgradet: &6%level%x&7.'
+  downgrade:
+    success: '&7Du hast den Spawner zu Level &6%level%x&7 gedowngradet.'
+  block:
+    place: '&7Du hast einen &6%type%&7 Spawner plaziert.'
+    broken: Dieser Spawner-Typ wurde entfernt und kann nicht platziert werden.
+    chargeplace: '&7Dir werden &6%cost% &7abgezogen, wenn du den Spawner nicht innerhalb von einer Minute entfernst.'
+    break: '&7Du hast einen &6%type%&7 Spawner entfernt.'
+    chargebreak: '&7Dir werden &6%cost% &7berechtnet wenn du diesen Spawner zerstörst. Schlage erneut, um zu bestätigen.'
+    blacklisted: '&cDiese Aktion ist deaktiviert.'
+    omnitake: '&7Du hast einen &6%type%&7 von einem OmniSpawner genommen.'
+    forcedeny: '&cDieser Spawner ist zu nah zu einem Anderen.'
+    mergedistance: '&7Dieser Spawner wurde mit einem anderen Spawner in der Nähe kombiniert.'
+    cannotbreak: '&7Du kannst diesen Spawner nicht entfernen.'
+  goal:
+    alert: '&7Du brauchst &6%goal% &7mehr Kills, um einen &6%type% Spawner&7 zu bekommen.'
+    reached: '&7Ein &6%type% Spawner &7wurde gedroppt!'
+  egg:
+    needmore: '&7Du brauchst &6%amount% &7Monstereier, um diesen Spawner zu konvertieren.'
+    sametype: '&7Dieser Spawner erschafft bereits &6%type%s&7.'
+  shop:
+    cannotafford: '&cDu kannst es dir nicht leisten dies zu kaufen.'
+    purchasesuccess: '&9Dein Kauf war erfolgreich.'
+  omni:
+    cannotmerge: '&cDu kannst nicht zwei OmniSpawner verschmelzen.'
+    combinefail: '&cDieser OmniSpawner kann keine weiteren Spawner aufnehmen.'
+    combinesuccess: '&7Dein Spawner wurde in einen OmniSpawner geändert.'
+    takespawner: '&7Du hast dem OmniSpawner &6%type%&7 entnommen.'
+  convert:
+    success: '&7Deine Konvertierung war erfolgreich.'
+  boost:
+    applied: '&6Dein Boost wurde angewendet'
+  combine:
+    onlyone: '&cDu kannst nur einen Spawner auf einmal kombinieren.'
+  spawner:
+    toomany: '&cDu kannst nur %amount% Spawner platzieren...'

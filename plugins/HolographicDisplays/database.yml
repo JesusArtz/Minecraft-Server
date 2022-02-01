@@ -1,0 +1,66 @@
+spawn:
+  location: world, 0.500, 54.000, 7.500
+  lines:
+  - '&u&lBienvenido a FrutyCraft Survival'
+  - '&8▆▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▆'
+  - Explora el lugar y diviértete
+  - grandes aventuras!
+  - '&8'
+  - '&eLugares disponibles actualmente'
+  - '&aPortales&f, &aAyuda&f, &aCrates&f, &aTienda&f, &aComida&f, &aRecompensas'
+  - '&8[x]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[x]'
+  - '&dfrutycraft.tebex.io'
+  - 'ICON: prismarine:2'
+portals:
+  location: world, 50.349, 49.436, 63.812
+  lines:
+  - '&u&lMundos paralelos'
+  - '&8&m------------------------------='
+  - Viaja por mundos paralelos y
+  - recopila todo tipo de experiencias
+  - '&8&m------------------------------='
+help1:
+  location: world, 79.525, 49.478, 34.393
+  lines:
+  - '&b&l¿Crea tu tienda?'
+help2:
+  location: world, 79.479, 49.399, 42.490
+  lines:
+  - '&b&lProtege tu hogar!'
+nether:
+  location: world_nether, -6.500, 67.200, 0.500
+  lines:
+  - '&c&lWARP NETHER'
+  - Viaja por el mundo y explora
+  - '&eBorde: &u250&ak &7x &u250&ak'
+survival:
+  location: Survival, 4.500, 86.200, 44.500
+  lines:
+  - '&a&lWARP SURVIVAL'
+  - Viaja por el mundo y explora
+  - '&eBorde: &u250&ak &7x &u250&ak'
+plots:
+  location: Survival_plots, 0.500, 43.200, -5.500
+  lines:
+  - '&6&lWARP &e&lPARCELAS'
+  - '&8&m-----------------'
+  - Consiga una parcela con
+  - '&c/plot auto'
+  - Claimea una parcela con
+  - '&c/plot claim'
+  - Agrega un amigo a tu parcela
+  - '&c/plot add <name>'
+  - '&8'
+  - '&bUtilice las parcelas para almacenar'
+  - '&btus cosas y así'
+  - '&btener más seguridad de sus artículos'
+  - '&8&m-----------------'
+  - 'ICON: grass'
+end:
+  location: world_the_end, 97.660, 50.384, 0.469
+  lines:
+  - '&u&lWARP END'
+tiendaprox:
+  location: world, -25.837, 49.249, 88.346
+  lines:
+  - '&5&lPROXIMAMENTE...'

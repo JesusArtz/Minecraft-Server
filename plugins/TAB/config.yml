@@ -1,0 +1,159 @@
+# 
+# %online%       = online count
+# %maxplayers%   = amount of slots on server
+# %ping%         = ping of player
+# %nick%         = nickname of player
+# %ip%           = IP of player
+# %tps%          = TPS of server
+# %time%         = for example 20:30:00
+# %date%         = current date, configurable below
+# %rank%         = permission group of player, output can be modified below
+# %money%        = money of player
+# %deluxetag%    = tag from plugin DeluxeTags
+# %world%        = name of world where player is
+# %worldonline%  = amount of players in the same world, might be useful with per-world-playerlist enabled
+# %canseeonline% = similar to online, but doesn't count vanished players
+# %staffonline%  = amount of staff online, groups can be defined below
+# %canseestaffonline% = combination of those 2 above
+# %faction%      = if a faction plugin is installed..
+# %health%       = health of player
+# %memory-used%  = used RAM memory of server
+# %memory-max%   = total RAM memory of server
+# %vault-prefix% = chat prefix of player set in Vault
+# %vault-suffix% = chat suffix of player set in Vault
+# .. + PlaceholderAPI
+
+change-nametag-prefix-suffix: true
+change-tablist-prefix-suffix: true
+enable-header-footer: true
+nametag-refresh-interval-ticks: 1200
+tablist-refresh-interval-ticks: 1200
+header-footer-refresh-interval-ticks: 1
+unlimited-nametag-prefix-suffix-mode:
+  enabled: true
+  space-between-lines: 0.22
+header:
+- '&r'
+- '&e&lFRUTYCRAFT&r'
+- '&r'
+footer:
+- '&r'
+- ' &eWeb&8:&bfrutycraft.tebex.io&r     &eShop&8:&bfrutycraft.tebex.io&r '
+- ' &eTwitter&8:&b@Proximamente...&r '
+- '&r'
+enable-collision: true
+tablist-objective: NONE
+tablist-objective-custom-value: ''
+per-world-playerlist: false
+use-essentials-nickname: false
+deluxetag-empty-value: '&oNo Tag :('
+factions-nofaction: Wilderness
+date-format: dd.MM.yyyy
+time-format: '[HH:mm:ss / h:mm a]'
+group-sorting-priority-list:
+- RankOwner
+- RankAdmin
+- RankMod
+- RankHelper
+- RankBuilder
+- RankPremium
+- RankPlayer
+- Rankdefault
+staff-groups:
+- RankOwner
+- RankAdmin
+- RankMod
+- RankModerator
+- RankHelper
+rank-aliases:
+  _OTHER_: '%vault-prefix%'
+Groups:
+  Owner:
+    tabprefix: '&4&lOWNER &4'
+    tagprefix: '&4'
+    abovename: '&4&lOWNER&r'
+    belowname: '&f%health% &c❤'
+  Admin:
+    tabprefix: '&c&lADMIN &c'
+    tagprefix: '&c'
+    abovename: '&c&lADMIN&r'
+    belowname: '&f%health% &c❤'
+  Mod:
+    tabprefix: '&a&lMOD &a'
+    tagprefix: '&a'
+    abovename: '&a&lMOD&r'
+    belowname: '&f%health% &c❤'
+  Helper:
+    tabprefix: '&9&lHELPER &9'
+    tagprefix: '&9'
+    abovename: '&9&lHELPER&r'
+    belowname: '&f%health% &c❤'
+  Vip:
+    tabprefix: '&3&lV&b&lI&f&lP &5'
+    tagprefix: '&5'
+    abovename: '&3&lV&b&lI&f&lP&r'
+    belowname: '&f%health% &c❤'
+  Vip+:
+    tabprefix: '&3&lV&b&lI&f&lP+ &2'
+    tagprefix: '&2'
+    abovename: '&3&lV&b&lI&f&lP+&r'
+    belowname: '&f%health% &c❤'
+  Elite:
+    tabprefix: '&6&lAD&e&lMIR&f&lAL &6'
+    tagprefix: '&6'
+    abovename: '&6&lAD&e&lMIR&f&lAL&r'
+    belowname: '&f%health% &c❤'
+  Navigator:
+    tabprefix: '&3&lNA&b&lVIGA&f&lTOR &3'
+    tagprefix: '&3'
+    abovename: '&3&lNA&b&lVIGA&f&lTOR&r'
+    belowname: '&f%health% &c❤'
+  User:
+    tabprefix: '&f'
+    tagprefix: '&f'
+    abovename: '&f&lUSUARIO&r'
+    belowname: '&f%health% &c❤'
+  _OTHER_:
+    tabprefix: '%rank%'
+    tagprefix: '%rank%'
+Users:
+  md_5:
+    tabprefix: '&6&lSpigot creator &a'
+    tagprefix: '&6&lDev &a'
+    tabsuffix: ''
+    tagsuffix: ''
+    abovename: Hi
+    belowname: There
+per-world-settings:
+  MUNDO1:
+    RANGO1:
+      tabprefix: ''
+      tagprefix: ''
+      abovename: ''
+      belowname: ''
+    RANGO2:
+      tabprefix: ''
+      tagprefix: ''
+      abovename: ''
+      belowname: ''
+placeholders:
+  faction-no: Wilderness
+  faction-yes: <%value%>
+  deluxetag-no: '&oNo Tag :('
+  deluxetag-yes: < %value% >
+  afk-no: ''
+  afk-yes: ' §4*§4§lAFK§4*§r'
+  time-format: '[HH:mm:ss / h:mm a]'
+  date-format: dd.MM.yyyy
+do-not-move-spectators: false
+disable-features-in-worlds:
+  header-footer:
+  - disabledworld
+  tablist-names:
+  - disabledworld
+  nametag:
+  - disabledworld
+  tablist-objective:
+  - disabledworld
+  bossbar:
+  - disabledworld

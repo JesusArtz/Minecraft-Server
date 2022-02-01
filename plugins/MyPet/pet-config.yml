@@ -1,0 +1,470 @@
+# #######################################################
+#        This is the pet configuration of MyPet         #
+#          You can find more info in the wiki:          #
+#        https://wiki.mypet-plugin.de/petconfig         #
+# #######################################################
+
+MyPet:
+  Pets:
+    Bat:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 375
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Blaze:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 289
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    CaveSpider:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 367
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Chicken:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 295
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      CanLayEggs: true
+      GrowUpItem: 373
+    Cow:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 296
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      CanGiveMilk: true
+      GrowUpItem: 373
+    Creeper:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 289
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Donkey:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 353
+      - 296
+      - 260
+      LeashFlags: Tamed
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    ElderGuardian:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 353
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    EnderDragon:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 121
+      LeashFlags: Impossible
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Enderman:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 88
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Endermite:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 353
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Evoker:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 260
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Ghast:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 289
+      LeashFlags: Impossible
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Giant:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 367
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Guardian:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 353
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Horse:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 353
+      - 296
+      - 260
+      LeashFlags: Tamed
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 297
+    Husk:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 367
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Illusioner:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 260
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    IronGolem:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 265
+      LeashFlags: UserCreated
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      CanThrowUp: true
+    Llama:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 296
+      LeashFlags: Tamed
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+    MagmaCube:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 331
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Mooshroom:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 296
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+      CanGiveStew: false
+    Mule:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 353
+      - 296
+      - 260
+      LeashFlags: Tamed
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Ocelot:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 349
+      LeashFlags: Tamed
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+    Parrot:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 295
+      - 357
+      LeashFlags: Tamed
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Pig:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 391
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+    PigZombie:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 367
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+    PolarBear:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 349
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Rabbit:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 391
+      - 38
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+    Sheep:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 296
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      CanBeSheared: true
+      CanRegrowWool: true
+      GrowUpItem: 373
+    Silverfish:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 353
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Skeleton:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 352
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    SkeletonHorse:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 352
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Slime:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 353
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Snowman:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 391
+      - 332
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      FixSnowTrack: true
+    Spider:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 367
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Squid:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 349
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Stray:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 352
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Witch:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 282
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Wither:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 352
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    WitherSkeleton:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 352
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Wolf:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 363
+      - 365
+      LeashFlags: Tamed
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+    Vex:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 260
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Villager:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 260
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+    Vindicator:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 260
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    Zombie:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 367
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+      GrowUpItem: 373
+    ZombieHorse:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 367
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420
+    ZombieVillager:
+      HP: 20.0
+      Speed: 0.3
+      Food:
+      - 367
+      LeashFlags: LowHp
+      CustomRespawnTimeFactor: 0
+      CustomRespawnTimeFixed: 0
+      LeashItem: 420

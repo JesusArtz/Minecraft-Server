@@ -1,0 +1,44 @@
+command /miniyt:
+	trigger:
+		send "&f&lPara adquirir rango Mini&c&lY&f&lT"
+		send "&f&lNecesitas estos requisitos:"
+		send "&c100 Subs"
+		send "&cReview o Directo del Servidor"
+		send "&cCon minimo de 10 Vistas"
+		send ""
+		send ""
+		send ""
+		send "&f&lEn caso tal de cumplir con los requisitos:"
+		send "&b&lContacta a un &4&lSTAFF"
+		send ""
+		
+		
+		
+command /yt:
+	trigger:
+		send "&f&lPara adquirir rango &c&lY&f&lT"
+		send "&f&lNecesitas estos requisitos:"
+		send "&c300 Subs"
+		send "&cReview o Directo del Servidor"
+		send "&cCon minimo de 25 Vistas"
+		send ""
+		send ""
+		send ""
+		send "&f&lEn caso tal de cumplir con los requisitos:"
+		send "&b&lContacta a un &4&lSTAFF"
+		send ""
+		
+		
+command /famoso:
+	trigger:
+		send "&f&lPara adquirir rango &d&lFamoso"
+		send "&f&lNecesitas estos requisitos:"
+		send "&c700 Subs"
+		send "&cReview o Directo del Servidor"
+		send "&cCon minimo de 50 Vistas"
+		send ""
+		send ""
+		send ""
+		send "&f&lEn caso tal de cumplir con los requisitos:"
+		send "&b&lContacta a un &4&lSTAFF"
+		send ""

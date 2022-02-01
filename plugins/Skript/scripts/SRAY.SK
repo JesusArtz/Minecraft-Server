@@ -1,0 +1,194 @@
+command /rename <text>:
+	usage: /rename <name>
+	permission: slasher.renomear
+	permission message: &8[&9&lRENOMEAR&8] &c➲ &fSem permissao para renomear itens.
+	trigger:
+		if arg-1 is set:
+			set the name of player's tool to "&r%colored arg-1%"
+			send "&8[&9&lRENOMEAR&8] &c➲ &fNome do item trocado para &r%colored arg-1%&r."
+
+command /relore [<integer=1>] [<text="">]:
+  aliases: lore
+  permission: slasher.renomear2
+  permission message: &8[&9&lRENOMEAR&8] &c➲ &fSem permissao para renomear itens.
+  trigger:
+    if arg-2 is set:
+      set line arg-1 of the lore of player's tool to "&d&o%colored arg-2%"
+      send "&8[&9&lRENOMEAR&8] &c➲ &fNome do item trocado para &r%colored arg-2%&r."
+
+command //calc [<text>]:
+	trigger:
+		send ""
+		send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+		send ""
+		
+command //eval [<text>]:
+	trigger:
+		send ""
+		send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+		send ""
+		
+command //evaluate [<text>]:
+	trigger:
+		send ""
+		send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+		send ""
+		
+command //calculate [<text>]:
+	trigger:
+		send ""
+		send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+		send ""
+		
+on command "/msg console":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/tell console":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/whisper console":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/t console":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/m console":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/w console":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/clan home regroup":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/chestshop":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event    
+on command "/plugins":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/pl":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/version":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event 	
+on command "/seed":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event 
+on command "/clan regroup"
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "?":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/bukkit:plugins":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/bukkit:pl":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event 
+on command "/bukkit:help":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event   	
+on command "/bukkit:?":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event 
+on command "/bukkit":
+    cancel event   
+on command "/help":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event	
+on command "/ver":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/minecraft:me":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/me":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/bukkit:reload":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/bukkit:op":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/minecraft:op":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/bukkit:deop":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/minecraft:deop":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/chestshop reload":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/? ":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event
+on command "/bukkit:about ":
+	send ""
+	send " &6CFrutyCraft: &cLo siento, no tienes permiso para eso."
+	send ""
+	cancel event	

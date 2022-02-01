@@ -1,0 +1,41 @@
+# MessageAnnouncer v1.9.1 Main configuration
+announcer_enabled: true
+announcer_random: true
+announce_interval: 80
+sound:
+  enabled: true
+  sound_name: NOTE_PLING
+  volume: 10
+  pitch: 1
+interval_announcement_list:
+- default
+- vote
+- YT
+announcements:
+  default:
+  - '{"text": "&e&l*&6&l&m-----------&e&l&m-----------&6&l&m-----------&e&l*"}'
+  - '{"text": ""}'
+  - '{"text": "&9&l[ANUNCIO] &e&lRANGOS VIP"}'
+  - '{"text": "&fTe gustaria volar, reparar gratis, escribir en colores, y mÃ¡s?"}'
+  - '{"text": "&aAdquiere un rango desde &a&l2$!! &d&l/buy"}'
+  - '{"text": ""}'
+  - '{"text": "&e&l*&6&l&m-----------&e&l&m-----------&6&l&m-----------&e&l*"}'
+  vote:
+  - '{"text": "&e&l*&6&l&m-----------&e&l&m-----------&6&l&m-----------&e&l*"}'
+  - '{"text": ""}'
+  - '{"text": "&aMercado del Pueblo"}'
+  - '{"text": "&cAbrir el mercado con &8Â» &f/ah"}'
+  - '{"text": "&cVender &8Â» &f/ah sell (precio)"}'
+  - '{"text": "&cSubastar &8Â» &f/ah bid (precio)"}'
+  - '{"text": "&cVentas de un jugador &8Â» &f/ah view (nick)"}'
+  - '{"text": ""}'
+  - '{"text": "&e&l*&6&l&m-----------&e&l&m-----------&6&l&m-----------&e&l*"}'
+  YT:
+  - '{"text": "&e&l*&6&l&m-----------&e&l&m-----------&6&l&m-----------&e&l*"}'
+  - '{"text": ""}'
+  - '{"text": "&9&l[ANUNCIO] &f&lHabilidades &a&lEspeciales"}'
+  - '{"text": "&fÂ¿Te gustaria reparar gratis?"}'
+  - '{"text": "&fRomper &a&lSpawners?"}'
+  - '{"text": "&aCompra las habilidades con &d&l/buy"}'
+  - '{"text": ""}'
+  - '{"text": "&e&l*&6&l&m-----------&e&l&m-----------&6&l&m-----------&e&l*"}'

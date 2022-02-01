@@ -1,0 +1,109 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicSpawners&8]'
+    exit: '&cÇıkış'
+    next: '&9Sonraki'
+    back: '&9Önceki'
+    confirm: '&a&lOnayla'
+    currency: $
+# Interface Messages
+interface:
+  spawner:
+    upgradewithxp: '&aXP aracılığı ile yükselt'
+    upgradewithxplore: '&7Fiyat: &a%cost% Level'
+    upgradewitheconomy: '&aPara ile yükselt'
+    upgradewitheconomylore: '&7Fiyat: &a%cost%'
+    statstitle: '&6Üretici Bilgisi'
+    stats: '&7Şuana kadar &a%amount%&7 adet spawnlandı.'
+    onlyspawnson: '&7Sadece &6%block%&7 bloğu üzerinde spawnlanır.'
+    boost: '&7Tıkla ve güçlendir.'
+    cantboost: '&cGüçlendirilemez'
+    convert: '&6Dönüştürmek&7 için Tıkla'
+    boostedstats: '&a&lŞuan güçlendirilmiş!|&7Her spawna &6%amount% &6%type%&7 fazladan ekleniyor.|&7&6%time%&7 zaman içinde bitecek.'
+    boostednever: Hiç Güçlendirilmemiş
+    tutorialtitle: '&a&lFaydalı Bilgi'
+    tutorial: '{[SEVIYEYUKSELTME]Bu üreticiyi [Başka bi üretici üstünde kullanarak][XP aracılığı ile seviye yükselterek][Para ile seviye yükselterek] stackleyebilir veya seviyesini yükseltebilirsin.}|{[SP DÜŞÜŞÜ] <AMT> [natural ]<TYPE> öldürdüğünde bir <TYPE> üretici düşecek}|{[OMNI][Farklı türdeki üreticileri stacklemek bir OmniSpawner oluşturacak].}|{[SU][Spawnerlar su püskürtecek].}|{[KIZILTAS][Bu üreticiyi kızıltaş gücü uygulayarak devre dışı bırakabilirsin].}|{[ENVSTACK][Birbirilerinin üzerine koyarak üreticileri envanterinden stackleyebilirsin.]}'
+    howtonext: '&aSonraki sayfaya gitmek için tıkla.'
+    howtoback: '&aİlk sayfaya geri dönmek için tıkla.'
+    paused: '&6Üretilme şu sebepten dolayı durdu:'
+    conditionBiome1: '&6%biome%&7 biyomuna koyulmadığı için.'
+    conditionBiome2: '&7Doğru biyomda koyulmadığı için.'
+    conditionHeight: '&7Yükseklik koordinatı &6%min%&7 ve &6%max%&7 aralığında olmadığı için.'
+    conditionLight: '&6Işık&7 olmadığı için.'
+    conditionDark: '&6Karanlık&7 olmadığı için.'
+    conditionNearbyEntities: '&7Bu üretici''nin yanında &6%max%&7 sayısından fazla varlık olduğu için.'
+    conditionNearbyPlayers: '&7Bu üretici''den &6%distance%&7 blok uzaklıkta &6%amount%&7 sayısından az oyuncu bulunduğu için.'
+    conditionStorm: '&7Hiç fırtına olmadığı için.'
+  convert:
+    title: Üretici Dönüştürücü
+    lore: '&7Dönüştürmek için buraya tıkla.'
+  shop:
+    title: Üretici Marketi
+    spawnershoptitle: '&8%type% Satın al'
+    buyprice: '&7Alış Fiyatı: &a%cost%'
+    lore: '&7Satın almak için tıkla.'
+    add1: '&a&l1 Ekle'
+    add10: '&a&l10 Ekle'
+    set1: '&c&lAyarla 1'
+    set64: '&a&lAyarla 64'
+    remove1: '&c&l1 Sil'
+    remove10: '&c&l10 Sil'
+  spawnerstats:
+    title: '&5&lÜreticiBilgisi'
+    prefix: '&7Şuanki üretici bilgilerin:'
+    nokills: '&7Hiç mob öldürmen yok. Biraz mob öldür!'
+  boost:
+    title: '&c%spawner%''ı %amount% dakika güçlendiriliyor'
+    cost: '&7Fiyat: &6&l%cost%.'
+    boostfor: '&6&l%amount% &7&ldakika güçlendir'
+# Command Messages
+command:
+  give:
+    success: '&7Sana %amount% adet &6%type%&7 verildi.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cBunu yapmaya yetkiniz bulunmuyor.'
+  upgrade:
+    cannotafford: '&cBu geliştirme için yeterli paran yok.'
+    success: '&7Bu üreticiyi &6%level%.&7 seviyeye geliştirdin.'
+    maxed: '&7Bu üretici son seviyede.'
+    successmaxed: '&7Bu üretici son &6%level%.&7 seviyesine getirdin.'
+  downgrade:
+    success: '&7Bu üreticiyi &6%level%.&7 seviyeye düşürdün.'
+  block:
+    place: '&7Bir adet &6%type%&7koydun.'
+    broken: Bu üretici tipi kaldırıldığı için yerleştiremezsin.
+    chargeplace: '&7Bu spawneri 1 dakika içinde kırmazsan &6%cost%&7 paran eksilecek.'
+    break: '&7Bir &6%type%&7 kırdın.'
+    chargebreak: '&7Bu spawneri kırarsan &6%cost%&7 paran eksilecek. Onaylamak içintekrar kır.'
+    blacklisted: '&cBu işlem devre dışı.'
+    omnitake: '&7OmniSpawner''dan bir &6%type%&7 aldın.'
+    forcedeny: '&cBu spawner diğer spawnere çok yakın.'
+    mergedistance: '&7Bu spawner yakındaki diğer spawner''la birleşmiş.'
+    chunklimit: '&cBu alana &4%amount% adet üreticiden &cfazla koyamazsın.'
+    cannotbreak: '&7Bu spawnerı kırmak için yeterli paran yok.'
+  goal:
+    alert: '&6%type% Üretici&7 almak için &6%goal%&7 öldürmenin olması gerek.'
+    reached: '&7Bir &6%type% Üretici&7 düştü.'
+  egg:
+    needmore: '&7Bu üreticiyi dönüştürmek için &6%amount% &7Mob Yumurtasına ihtiyacın var.'
+    sametype: '&7Bu zaten &6%type%s&7 spawnlıyor.'
+  shop:
+    cannotafford: '&cBunu almak için yeterli paran yok.'
+    purchasesuccess: '&9Satın alma başarıyla gerçekleşti.'
+  omni:
+    cannotmerge: '&c2OmniSpawner birleştiremezsin.'
+    combinefail: '&cBu Omni spawner artık bu türde üreticilerle birleşemez.'
+    combinesuccess: '&7Üreticinin OmniSpawner''la birleşti.'
+    takespawner: '&7OmniSpawner''dan bir &6%type%&7 aldın.'
+  convert:
+    success: '&7Dönüştürme başarıyla gerçekleşti.'
+  boost:
+    applied: '&6Güçlendirmen onaylandı.'
+  combine:
+    onlyone: '&cBir seferde sadece bir üretici birleştirebilirsin.'
+  spawner:
+    toomany: '&cSadece &4%amount% &ckadar üretici yerleştirebilirsin...'

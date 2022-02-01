@@ -1,0 +1,109 @@
+{
+  "Type": "CREEPER",
+  "Loot": [
+    {
+      "Type": "SULPHUR",
+      "Chance": 100.0,
+      "Min": 0,
+      "Max": 2,
+      "Looting": true
+    },
+    {
+      "Chance": 100.0,
+      "Min": 1,
+      "Max": 1,
+      "Looting": true,
+      "Only Drop For": [
+        "SKELETON"
+      ],
+      "Child Loot Drop Count Min": 1,
+      "Child Loot Drop Count Max": 1,
+      "Child Loot": [
+        {
+          "Type": "GOLD_RECORD",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "GREEN_RECORD",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_3",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_4",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_5",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_6",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_7",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_8",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_9",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_10",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_11",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "RECORD_12",
+          "Chance": 100.0,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        }
+      ]
+    }
+  ]
+}

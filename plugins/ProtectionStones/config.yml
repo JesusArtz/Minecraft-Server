@@ -1,0 +1,42 @@
+Blocks:
+- COAL_ORE 20
+- LAPIS_ORE 40
+- DIAMOND_ORE 60
+Flags:
+- use allow
+- pvp deny
+- damage-animals allow
+- greeting Entering the base of %player%
+- farewell Leaving the base of %player%
+Region:
+  SKYBEDROCK: true
+  AUTOHIDE: false
+  NODROP: false
+  NOSILKTOUCH: false
+  BLOCKPISTONS: true
+  LIMIT: -1
+  SAVETIMER: -1
+  PRIORITYOVERRIDE: false
+Group:
+  LIMIT1: 0
+  LIMIT2: 1
+  LIMIT3: 3
+  LIMIT4: 7
+  LIMIT5: -1
+  LIMIT6: 0
+  LIMIT7: 0
+  LIMIT8: 0
+  LIMIT9: 0
+  BLOCKS1: COAL_ORE LAPIS_ORE DIAMOND_ORE
+  BLOCKS2: COAL_ORE LAPIS_ORE DIAMOND_ORE
+  BLOCKS3: COAL_ORE LAPIS_ORE DIAMOND_ORE
+  BLOCKS4: COAL_ORE LAPIS_ORE DIAMOND_ORE
+  BLOCKS5: COAL_ORE LAPIS_ORE DIAMOND_ORE
+  BLOCKS6: COAL_ORE LAPIS_ORE DIAMOND_ORE
+  BLOCKS7: COAL_ORE LAPIS_ORE DIAMOND_ORE
+  BLOCKS8: COAL_ORE LAPIS_ORE DIAMOND_ORE
+  BLOCKS9: COAL_ORE LAPIS_ORE DIAMOND_ORE
+Exclusion:
+  WORLDS: world world_nether world_the_end survival_plots world_pvp
+  PLACEMENT: true
+Priority: 0

@@ -1,0 +1,31 @@
+lastAccountName: YoungWeed
+timestamps:
+  login: 1616363061518
+  lastteleport: 1616355838445
+  kits:
+    user: 1615922671363
+  logout: 1616363076685
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Survival_plots
+  x: -24.19457581439338
+  y: 21.0
+  z: -172.21830378704402
+  yaw: -169.78497
+  pitch: 24.956354
+money: '100.0'
+logoutlocation:
+  world: Survival
+  x: 152.30000001192093
+  y: 11.0
+  z: 844.0992630809815
+  yaw: 99.481995
+  pitch: 0.43453598
+homes:
+  home:
+    world: Survival
+    x: 141.3221191006032
+    y: 63.0
+    z: 902.6132075784061
+    yaw: -347.42664
+    pitch: 2.9342422

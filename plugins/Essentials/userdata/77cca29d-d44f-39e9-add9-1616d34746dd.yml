@@ -1,0 +1,23 @@
+lastAccountName: '58589'
+timestamps:
+  login: 1615880441259
+  kits:
+    user: 1615880480293
+  lastteleport: 1615880540438
+  logout: 1615880559123
+ipAddress: 190.6.217.57
+socialspy: false
+lastlocation:
+  world: world
+  x: -35.348637659432256
+  y: 47.0
+  z: 86.7429367733673
+  yaw: -67.14334
+  pitch: 9.989804
+logoutlocation:
+  world: world
+  x: 23.943672801827653
+  y: 47.0
+  z: 100.94999998807907
+  yaw: -29.3424
+  pitch: 8.047523

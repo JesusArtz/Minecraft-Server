@@ -1,0 +1,31 @@
+lastAccountName: Ender_Super
+timestamps:
+  login: 1616913994736
+  kits:
+    user: 1616914030668
+  lastteleport: 1616914048885
+  logout: 1616914783271
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -7.681253463103367
+  y: 44.0
+  z: 161.1865496605807
+  yaw: 198.15025
+  pitch: -6.1499963
+money: '100.0'
+homes:
+  home:
+    world: Survival
+    x: 810.4942402766009
+    y: 11.0
+    z: 293.69999998807907
+    yaw: 0.9946289
+    pitch: -5.008254
+logoutlocation:
+  world: Survival
+  x: 948.4048048500676
+  y: 9.0
+  z: 294.69999998807907
+  yaw: 118.14612
+  pitch: 69.29999

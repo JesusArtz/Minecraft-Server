@@ -1,0 +1,109 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicSpawners&8]'
+    exit: '&cGå ut'
+    next: '&9Nästa'
+    back: '&9Tillbaka'
+    confirm: '&a&lBekräfta'
+    currency: $
+# Interface Messages
+interface:
+  spawner:
+    upgradewithxp: '&aUpgradera med erfarenhet'
+    upgradewithxplore: '&7Pris: &a%cost% erfarenhetsnivåer'
+    upgradewitheconomy: '&aUpgradera med pengar'
+    upgradewitheconomylore: '&7Pris: &a%cost%'
+    statstitle: '&6Monsterskapar statistik'
+    stats: '&7Skapat &a%amount% &7hittills.'
+    onlyspawnson: '&7Skapas bara på &6%block%&7.'
+    boost: '&7Höger-klicka för att &aförbättra&7.'
+    cantboost: '&cKan inte förbättra.'
+    convert: '&7Vänster-klicka för att &akonvertera&7.'
+    boostedstats: '&a&lFör närvarande förbättrad!|&7Lägger till &6%amount% &7extra &6%type%''s &7till varje skapning.|&7Går ut om &6%time%&7.'
+    boostednever: alldrig
+    tutorialtitle: '&a&lAnvändbar information'
+    tutorial: '{[LEVELUP]Du kan stapla eller "öka nivån på" monsterskaparen genom att: [Använda monsterskaparen på en annan monsterskapare][Öka nivån med erfarenhet][Öka nivån med pengar].}|{[DROP]En <TYPE> monsterskapare kommer att tappas när du dödat <AMT> [natural ]<TYPE>''s}|{[OMNI][Stapla monsterskapare av flera olika typer för att skapa en multimonsterskapare].}|{[WATER][Monsterskaparen kommeratt stöta tillbaka vatten].}|{[REDSTONE][Du kan stänga av monsterskaparen genom att ge den en rösten signal.]}'
+    howtonext: '&aKlicka för att gå till nästa sida.'
+    howtoback: '&aKlicka för att gå till första sidan.'
+    paused: '&6Skapning Pausat På Grund Av:'
+    conditionBiome1: Blir inte placerad i en &6%biome%&7 biome.
+    conditionBiome2: Blir inte placerad i rätt biome.
+    conditionHeight: Y kordinaten är inte mellan &6%min%&7 och &6%max%&7.
+    conditionLight: Saknar &6ljus&7.
+    conditionDark: Saknar &6mörker&7.
+    conditionNearbyEntities: Det är mer än &6%max%&7 väsen runt denna monsterskaparen.
+    conditionNearbyPlayers: det är minder än &6%amount%&7 spelare innom &6%distance%&7 blocks ifrån denna monsterskaparen.
+    conditionStorm: Det är ingen storm.
+  convert:
+    title: Monsterskapar konvertering
+    lore: '&7Klicka här för att konverera.'
+  shop:
+    title: Monsterskapar butik
+    spawnershoptitle: '&8Köp en %type%'
+    buyprice: '&7Köp pris: &a%cost%'
+    lore: '&7Klicka här för att köpa.'
+    add1: '&a&lLägg till 1'
+    add10: '&a&lLägg till 10'
+    set1: '&c&lÄndra med 1'
+    set64: '&a&lÄndra med 64'
+    remove1: '&c&lTa bort 1'
+    remove10: '&c&lTa bort 10'
+  spawnerstats:
+    title: '&5&lMonsterskapar statistik'
+    prefix: '&7Din monsterskapares statistik:'
+    nokills: '&7Du har inte dödat några monster. Gå och döda några!'
+  boost:
+    title: '&cFörbättrar %spawner% &cmed %amount%'
+    cost: '&7Kostand &6&l%cost%.'
+    boostfor: '&7&lFörbättrar för &6&l%amount% &7&lMinuter'
+# Command Messages
+command:
+  give:
+    success: '&7Du har blivit given %amount% &6%type%&7.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cDu har inte tillstånd att göra det.'
+  upgrade:
+    cannotafford: '&cDu har inte råd med den här upgraderingen.'
+    success: '&7Du har upgraderat monsterskaparen till &6%level%x&7.'
+    maxed: '&7Monsterskaparen är max upgraderad.'
+    successmaxed: '&7Du har max upgraderat monsterskaparen till &6%level%x&7.'
+  downgrade:
+    success: '&7Du har nergraderat monsterskaparen till &6%level%x&7.'
+  block:
+    place: '&7Du placerade en &6%type%&7.'
+    broken: Den här monsterskapar typen har tagits bort så du kan inte placera den.
+    chargeplace: '&7Du kommer att betala &6%cost% &7om du inte tar bort monsterskaparen innom 1 minut.'
+    break: '&7Du förstörde en &6%type%&7.'
+    chargebreak: '&7Du kommer att betala &6%cost% &7för att ha förstört monsterskaparen. Förstör igen för att bekräfta.'
+    blacklisted: '&cDen handlingen är avstängd.'
+    omnitake: '&7Du tog &6%type%&7 från multimonsterskaparen.'
+    forcedeny: '&cMonsterskaparen är för nära en annan monsterskapare.'
+    mergedistance: '&7Monsterskaparen har kombinerats med en närliggande monsterskapare.'
+    chunklimit: '&cFlen än &4%amount% monsterskapare &ckan bli placerade i denna chunken.'
+    cannotbreak: '&7Du har inte råd att förstöra monsterskaparen.'
+  goal:
+    alert: '&7Du behöver &6%goal% &7mer dödsoffer för att få en &6%type% monsterskapare&7.'
+    reached: '&7En &6%type% monsterskapare &7har tappats!'
+  egg:
+    needmore: '&7Du behöver &6%amount% &7Monster ägg för att konverera monsterskaparen.'
+    sametype: '&7Den skapar redan &6%type%s&7.'
+  shop:
+    cannotafford: '&cDu har inte råd att köpa det.'
+    purchasesuccess: '&9Ditt köp lyckades.'
+  omni:
+    cannotmerge: '&cDu kan inte slå ihop två multimonsterskapare.'
+    combinefail: '&cMultimonsterskaparen vägrar absorbera fler monsterskapare av den typen.'
+    combinesuccess: '&7Din monsterskapare absorberades in i multimonsterskaparen.'
+    takespawner: '&7Du tog en &6%type%&7 från multimonsterskaparen.'
+  convert:
+    success: '&7Din konvertering var lyckad.'
+  boost:
+    applied: '&6Din förbättring har applicerats.'
+  combine:
+    onlyone: '&cDu kan bara kombinera en monsterskapare i taget.'
+  spawner:
+    toomany: '&cDu kan bara placera &4%amount% &cmonsterskapare...'

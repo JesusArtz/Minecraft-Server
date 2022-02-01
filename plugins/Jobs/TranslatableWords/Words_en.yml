@@ -1,0 +1,965 @@
+ItemList:
+  ACACIA_BUTTON: None
+  ACACIA_DOOR: Acacia Door
+  ACACIA_FENCE: Acacia Fence
+  ACACIA_FENCE_GATE: Acacia Fence Gate
+  ACACIA_LEAVES: Acacia Leaves
+  ACACIA_LOG: Acacia Log
+  ACACIA_PLANKS: Acacia Wood Plank
+  ACACIA_PRESSURE_PLATE: None
+  ACACIA_SAPLING: Acacia Sapling
+  ACACIA_SLAB: Acacia Wood Slab
+  ACACIA_STAIRS: Acacia Stairs
+  ACACIA_TRAPDOOR: None
+  ACACIA_WOOD: None
+  ACTIVATOR_RAIL: Activator Rail
+  AIR: None
+  ALLIUM: Allium
+  ANDESITE: Andesite
+  ANVIL: Anvil
+  APPLE: Apple
+  ARMOR_STAND: Armor Stand
+  ARROW: Arrow
+  ATTACHED_MELON_STEM: None
+  ATTACHED_PUMPKIN_STEM: None
+  AZURE_BLUET: Allium
+  BAKED_POTATO: Baked Potato
+  BARRIER: Barrier
+  BAT_SPAWN_EGG: Spawn Bat
+  BEACON: Beacon
+  BEDROCK: Bedrock
+  BEEF: Raw Beef
+  BIRCH_BUTTON: None
+  BIRCH_DOOR: Birch Door
+  BIRCH_FENCE: Birch Fence
+  BIRCH_FENCE_GATE: Birch Fence Gate
+  BIRCH_LEAVES: Birch Leaves
+  BIRCH_LOG: Birch Log
+  BIRCH_PLANKS: Acacia Wood Plank
+  BIRCH_PRESSURE_PLATE: None
+  BIRCH_SAPLING: Acacia Sapling
+  BIRCH_SLAB: Acacia Wood Slab
+  BIRCH_STAIRS: Birch Wood Stairs
+  BIRCH_TRAPDOOR: None
+  BIRCH_WOOD: None
+  BLACK_BANNER: Banner
+  BLACK_BED: Black Bed
+  BLACK_CARPET: Black Carpet
+  BLACK_STAINED_GLASS: Black Stained Glass
+  BLACK_STAINED_GLASS_PANE: Black Stained Glass Pane
+  BLACK_TERRACOTTA: Black Terracotta
+  BLACK_WALL_BANNER: Black Banner
+  BLACK_WOOL: Black Wool
+  BLAZE_POWDER: Blaze Powder
+  BLAZE_ROD: Blaze Rod
+  BLAZE_SPAWN_EGG: Spawn Bat
+  BLUE_BED: Black Bed
+  BLUE_CARPET: Black Carpet
+  BLUE_ICE: None
+  BLUE_ORCHID: Allium
+  BLUE_STAINED_GLASS: Black Stained Glass
+  BLUE_STAINED_GLASS_PANE: Black Stained Glass Pane
+  BLUE_TERRACOTTA: Black Terracotta
+  BLUE_WALL_BANNER: Black Banner
+  BLUE_WOOL: Black Wool
+  BONE: Bone
+  BONE_MEAL: Bone Meal
+  BOOK: Book
+  BOOKSHELF: Bookshelf
+  BOW: Bow
+  BOWL: Bowl
+  BRAIN_CORAL: None
+  BRAIN_CORAL_BLOCK: None
+  BRAIN_CORAL_FAN: None
+  BRAIN_CORAL_WALL_FAN: None
+  BREAD: Bread
+  BREWING_STAND: Brewing Stand
+  BRICK: Brick
+  BRICKS: Bricks
+  BRICK_SLAB: Brick Slab
+  BRICK_STAIRS: Brick Stairs
+  BROWN_BANNER: Banner
+  BROWN_BED: Black Bed
+  BROWN_CARPET: Black Carpet
+  BROWN_MUSHROOM: Brown Mushroom
+  BROWN_MUSHROOM_BLOCK: Brown Mushroom Block
+  BROWN_STAINED_GLASS: Black Stained Glass
+  BROWN_STAINED_GLASS_PANE: Black Stained Glass Pane
+  BROWN_TERRACOTTA: Black Terracotta
+  BROWN_WALL_BANNER: Black Banner
+  BROWN_WOOL: Black Wool
+  BUBBLE_COLUMN: None
+  BUBBLE_CORAL: None
+  BUBBLE_CORAL_BLOCK: None
+  BUBBLE_CORAL_FAN: None
+  BUBBLE_CORAL_WALL_FAN: None
+  BUCKET: Bucket
+  CACTUS: Cactus
+  CACTUS_GREEN: Bone Meal
+  CAKE: Cake
+  CARROT: Carrot
+  CARROTS: Carrots
+  CARROT_ON_A_STICK: Carrot on a Stick
+  CARVED_PUMPKIN: None
+  CAULDRON: Cauldron
+  CAVE_AIR: None
+  CAVE_SPIDER_SPAWN_EGG: Spawn Bat
+  CHAINMAIL_BOOTS: Chainmail Boots
+  CHAINMAIL_CHESTPLATE: Chainmail Chestplate
+  CHAINMAIL_HELMET: Chainmail Helmet
+  CHAINMAIL_LEGGINGS: Chainmail Leggings
+  CHAIN_COMMAND_BLOCK: None
+  CHARCOAL: Charcoal
+  CHEST: Chest
+  CHEST_MINECART: Minecart with Chest
+  CHICKEN: Raw Chicken
+  CHICKEN_SPAWN_EGG: Spawn Bat
+  CHIPPED_ANVIL: Anvil
+  CHISELED_QUARTZ_BLOCK: Chiseled Quartz Block
+  CHISELED_RED_SANDSTONE: Chiseled Red Sandstone
+  CHISELED_SANDSTONE: Chiseled Sandstone
+  CHISELED_STONE_BRICKS: Chiseled Stone Bricks
+  CLAY: Clay
+  CLAY_BALL: Clay Ball
+  CLOCK: Clock
+  COAL: Charcoal
+  COAL_BLOCK: Block of Coal
+  COAL_ORE: Coal Ore
+  COARSE_DIRT: Coarse Dirt
+  COBBLESTONE: Cobblestone
+  COBBLESTONE_SLAB: Brick Slab
+  COBBLESTONE_STAIRS: Cobblestone Stairs
+  COBBLESTONE_WALL: Cobblestone Wall
+  COBWEB: Cobweb
+  COCOA: Cocoa
+  COCOA_BEANS: Bone Meal
+  COD: None
+  COD_BUCKET: None
+  COD_SPAWN_EGG: None
+  COMMAND_BLOCK: Command Block
+  COMMAND_BLOCK_MINECART: Minecart with Command Block
+  COMPARATOR: Redstone Comparator
+  COMPASS: Compass
+  CONDUIT: None
+  COOKED_BEEF: Steak
+  COOKED_CHICKEN: Cooked Chicken
+  COOKED_COD: Cooked Fish
+  COOKED_MUTTON: Cooked Mutton
+  COOKED_PORKCHOP: Cooked Porkchop
+  COOKED_RABBIT: Cooked Rabbit
+  COOKED_SALMON: Cooked Fish
+  COOKIE: Cookie
+  COW_SPAWN_EGG: Spawn Bat
+  CRACKED_STONE_BRICKS: Chiseled Stone Bricks
+  CRAFTING_TABLE: Crafting Table
+  CREEPER_HEAD: Mob Head (Creeper)
+  CREEPER_SPAWN_EGG: Spawn Bat
+  CREEPER_WALL_HEAD: Creeper Wall Head
+  CUT_RED_SANDSTONE: None
+  CUT_SANDSTONE: None
+  CYAN_BANNER: Banner
+  CYAN_BED: Black Bed
+  CYAN_CARPET: Black Carpet
+  CYAN_DYE: Bone Meal
+  CYAN_STAINED_GLASS: Black Stained Glass
+  CYAN_STAINED_GLASS_PANE: Black Stained Glass Pane
+  CYAN_TERRACOTTA: Black Terracotta
+  CYAN_WALL_BANNER: Black Banner
+  CYAN_WOOL: Black Wool
+  DAMAGED_ANVIL: Anvil
+  DANDELION: Dandelion
+  DANDELION_YELLOW: Bone Meal
+  DARK_OAK_BUTTON: None
+  DARK_OAK_DOOR: Dark Oak Door
+  DARK_OAK_FENCE: Dark Oak Fence
+  DARK_OAK_FENCE_GATE: Dark Oak Fence Gate
+  DARK_OAK_LEAVES: Acacia Leaves
+  DARK_OAK_LOG: Acacia Log
+  DARK_OAK_PLANKS: Acacia Wood Plank
+  DARK_OAK_PRESSURE_PLATE: None
+  DARK_OAK_SAPLING: Acacia Sapling
+  DARK_OAK_SLAB: Acacia Wood Slab
+  DARK_OAK_STAIRS: Dark Oak Stairs
+  DARK_OAK_TRAPDOOR: None
+  DARK_OAK_WOOD: None
+  DARK_PRISMARINE: Dark Prismarine
+  DARK_PRISMARINE_SLAB: None
+  DARK_PRISMARINE_STAIRS: None
+  DAYLIGHT_DETECTOR: Daylight Detector
+  DEAD_BRAIN_CORAL: None
+  DEAD_BRAIN_CORAL_BLOCK: None
+  DEAD_BRAIN_CORAL_FAN: None
+  DEAD_BRAIN_CORAL_WALL_FAN: None
+  DEAD_BUBBLE_CORAL: None
+  DEAD_BUBBLE_CORAL_BLOCK: None
+  DEAD_BUBBLE_CORAL_FAN: None
+  DEAD_BUBBLE_CORAL_WALL_FAN: None
+  DEAD_BUSH: Dead Bush
+  DEAD_FIRE_CORAL: None
+  DEAD_FIRE_CORAL_BLOCK: None
+  DEAD_FIRE_CORAL_FAN: None
+  DEAD_FIRE_CORAL_WALL_FAN: None
+  DEAD_HORN_CORAL: None
+  DEAD_HORN_CORAL_BLOCK: None
+  DEAD_HORN_CORAL_FAN: None
+  DEAD_HORN_CORAL_WALL_FAN: None
+  DEAD_TUBE_CORAL: None
+  DEAD_TUBE_CORAL_BLOCK: None
+  DEAD_TUBE_CORAL_FAN: None
+  DEAD_TUBE_CORAL_WALL_FAN: None
+  DEBUG_STICK: None
+  DETECTOR_RAIL: Detector Rail
+  DIAMOND: Diamond
+  DIAMOND_AXE: Diamond Axe
+  DIAMOND_BLOCK: Block of Diamond
+  DIAMOND_BOOTS: Diamond Boots
+  DIAMOND_CHESTPLATE: Diamond Chestplate
+  DIAMOND_HELMET: Diamond Helmet
+  DIAMOND_HOE: Diamond Hoe
+  DIAMOND_HORSE_ARMOR: Diamond Horse Armor
+  DIAMOND_LEGGINGS: Diamond Leggings
+  DIAMOND_ORE: Diamond Ore
+  DIAMOND_PICKAXE: Diamond Pickaxe
+  DIAMOND_SHOVEL: Diamond Shovel
+  DIAMOND_SWORD: Diamond Sword
+  DIORITE: Andesite
+  DIRT: Coarse Dirt
+  DISPENSER: Dispenser
+  DOLPHIN_SPAWN_EGG: None
+  DONKEY_SPAWN_EGG: Spawn Bat
+  DRAGON_EGG: Dragon Egg
+  DRAGON_HEAD: Mob Head (Creeper)
+  DRAGON_WALL_HEAD: Creeper Wall Head
+  DRIED_KELP: None
+  DRIED_KELP_BLOCK: None
+  DROPPER: Dropper
+  DROWNED_SPAWN_EGG: None
+  EGG: Egg
+  ELDER_GUARDIAN_SPAWN_EGG: Spawn Bat
+  EMERALD: Emerald
+  EMERALD_BLOCK: Emerald Block
+  EMERALD_ORE: Emerald Ore
+  ENCHANTED_BOOK: Enchanted Book
+  ENCHANTED_GOLDEN_APPLE: Enchanted Golden Apple
+  ENCHANTING_TABLE: Enchanting Table
+  ENDERMAN_SPAWN_EGG: Spawn Bat
+  ENDERMITE_SPAWN_EGG: Spawn Bat
+  ENDER_CHEST: Ender Chest
+  ENDER_EYE: Eye of Ender
+  ENDER_PEARL: Ender Pearl
+  END_PORTAL: End Portal
+  END_PORTAL_FRAME: End Portal Frame
+  END_STONE: End Stone
+  EVOKER_SPAWN_EGG: Spawn Bat
+  EXPERIENCE_BOTTLE: Bottle o' Enchanting
+  FARMLAND: Farmland
+  FEATHER: Feather
+  FERMENTED_SPIDER_EYE: Fermented Spider Eye
+  FERN: Fern
+  FILLED_MAP: Map
+  FIRE: Fire
+  FIREWORK_ROCKET: Firework Rocket
+  FIREWORK_STAR: Firework Star
+  FIRE_CHARGE: Fire Charge
+  FIRE_CORAL: None
+  FIRE_CORAL_BLOCK: None
+  FIRE_CORAL_FAN: None
+  FIRE_CORAL_WALL_FAN: None
+  FISHING_ROD: Fishing Rod
+  FLINT: Flint
+  FLINT_AND_STEEL: Flint and Steel
+  FLOWER_POT: Flower Pot
+  FURNACE: Furnace
+  FURNACE_MINECART: Minecart with Furnace
+  GHAST_SPAWN_EGG: Spawn Bat
+  GHAST_TEAR: Ghast Tear
+  GLASS: Glass
+  GLASS_BOTTLE: Glass Bottle
+  GLASS_PANE: Glass Pane
+  GLISTERING_MELON_SLICE: Glistering Melon
+  GLOWSTONE: Glowstone
+  GLOWSTONE_DUST: Glowstone Dust
+  GOLDEN_APPLE: Enchanted Golden Apple
+  GOLDEN_AXE: Golden Axe
+  GOLDEN_BOOTS: Golden Boots
+  GOLDEN_CARROT: Golden Carrot
+  GOLDEN_CHESTPLATE: Golden Chestplate
+  GOLDEN_HELMET: Golden Helmet
+  GOLDEN_HOE: Golden Hoe
+  GOLDEN_HORSE_ARMOR: Golden Horse Armor
+  GOLDEN_LEGGINGS: Golden Leggings
+  GOLDEN_PICKAXE: Golden Pickaxe
+  GOLDEN_SHOVEL: Golden Shovel
+  GOLDEN_SWORD: Golden Sword
+  GOLD_BLOCK: Block of Gold
+  GOLD_INGOT: Gold Ingot
+  GOLD_NUGGET: Gold Nugget
+  GOLD_ORE: Gold Ore
+  GRANITE: Andesite
+  GRASS: Grass
+  GRASS_BLOCK: Grass Block
+  GRAVEL: Gravel
+  GRAY_BANNER: Banner
+  GRAY_BED: Black Bed
+  GRAY_CARPET: Black Carpet
+  GRAY_DYE: Bone Meal
+  GRAY_STAINED_GLASS: Black Stained Glass
+  GRAY_STAINED_GLASS_PANE: Black Stained Glass Pane
+  GRAY_TERRACOTTA: Black Terracotta
+  GRAY_WALL_BANNER: Black Banner
+  GRAY_WOOL: Black Wool
+  GREEN_BANNER: Banner
+  GREEN_BED: Black Bed
+  GREEN_CARPET: Black Carpet
+  GREEN_STAINED_GLASS: Black Stained Glass
+  GREEN_STAINED_GLASS_PANE: Black Stained Glass Pane
+  GREEN_TERRACOTTA: Black Terracotta
+  GREEN_WALL_BANNER: Black Banner
+  GREEN_WOOL: Black Wool
+  GUARDIAN_SPAWN_EGG: Spawn Bat
+  GUNPOWDER: Gunpowder
+  HAY_BLOCK: Hay Bale
+  HEART_OF_THE_SEA: None
+  HEAVY_WEIGHTED_PRESSURE_PLATE: Heavy Weighted Pressure Plate
+  HOPPER: Hopper
+  HOPPER_MINECART: Minecart with Hopper
+  HORN_CORAL: None
+  HORN_CORAL_BLOCK: None
+  HORN_CORAL_FAN: None
+  HORN_CORAL_WALL_FAN: None
+  HORSE_SPAWN_EGG: Spawn Bat
+  HUSK_SPAWN_EGG: Spawn Bat
+  ICE: Ice
+  INFESTED_CHISELED_STONE_BRICKS: Infested Chiseled Stone Bricks
+  INFESTED_COBBLESTONE: Infested Chiseled Stone Bricks
+  INFESTED_CRACKED_STONE_BRICKS: Infested Chiseled Stone Bricks
+  INFESTED_MOSSY_STONE_BRICKS: Infested Chiseled Stone Bricks
+  INFESTED_STONE: Infested Chiseled Stone Bricks
+  INFESTED_STONE_BRICKS: Infested Chiseled Stone Bricks
+  INK_SAC: Bone Meal
+  IRON_AXE: Iron Axe
+  IRON_BARS: Iron Bars
+  IRON_BLOCK: Block of Iron
+  IRON_BOOTS: Iron Boots
+  IRON_CHESTPLATE: Iron Chestplate
+  IRON_DOOR: Iron Door
+  IRON_HELMET: Iron Helmet
+  IRON_HOE: Iron Hoe
+  IRON_HORSE_ARMOR: Iron Horse Armor
+  IRON_INGOT: Iron Ingot
+  IRON_LEGGINGS: Iron Leggings
+  IRON_ORE: Iron Ore
+  IRON_PICKAXE: Iron Pickaxe
+  IRON_SHOVEL: Iron Shovel
+  IRON_SWORD: Iron Sword
+  IRON_TRAPDOOR: Iron Trapdoor
+  ITEM_FRAME: Item Frame
+  JACK_O_LANTERN: Jack o'Lantern
+  JUKEBOX: Jukebox
+  JUNGLE_BUTTON: None
+  JUNGLE_DOOR: Jungle Door
+  JUNGLE_FENCE: Jungle Fence
+  JUNGLE_FENCE_GATE: Jungle Fence Gate
+  JUNGLE_LEAVES: Birch Leaves
+  JUNGLE_LOG: Birch Log
+  JUNGLE_PLANKS: Acacia Wood Plank
+  JUNGLE_PRESSURE_PLATE: None
+  JUNGLE_SAPLING: Acacia Sapling
+  JUNGLE_SLAB: Double Stone Slab
+  JUNGLE_STAIRS: Jungle Wood Stairs
+  JUNGLE_TRAPDOOR: None
+  JUNGLE_WOOD: None
+  KELP: None
+  KELP_PLANT: None
+  LADDER: Ladder
+  LAPIS_BLOCK: Lapis Lazuli Block
+  LAPIS_LAZULI: Bone Meal
+  LAPIS_ORE: Lapis Lazuli Ore
+  LARGE_FERN: Large Fern
+  LAVA: Flowing Lava
+  LAVA_BUCKET: Lava Bucket
+  LEAD: Lead
+  LEATHER: Leather
+  LEATHER_BOOTS: Leather Boots
+  LEATHER_CHESTPLATE: Leather Tunic
+  LEATHER_HELMET: Leather Cap
+  LEATHER_LEGGINGS: Leather Pants
+  LEVER: Lever
+  LIGHT_BLUE_BANNER: Banner
+  LIGHT_BLUE_BED: Black Bed
+  LIGHT_BLUE_CARPET: Black Carpet
+  LIGHT_BLUE_DYE: Bone Meal
+  LIGHT_BLUE_STAINED_GLASS: Black Stained Glass
+  LIGHT_BLUE_STAINED_GLASS_PANE: Black Stained Glass Pane
+  LIGHT_BLUE_TERRACOTTA: Black Terracotta
+  LIGHT_BLUE_WALL_BANNER: Black Banner
+  LIGHT_BLUE_WOOL: Black Wool
+  LIGHT_GRAY_BANNER: Banner
+  LIGHT_GRAY_BED: Black Bed
+  LIGHT_GRAY_CARPET: Black Carpet
+  LIGHT_GRAY_DYE: Bone Meal
+  LIGHT_GRAY_STAINED_GLASS: Black Stained Glass
+  LIGHT_GRAY_STAINED_GLASS_PANE: Black Stained Glass Pane
+  LIGHT_GRAY_TERRACOTTA: Black Terracotta
+  LIGHT_GRAY_WALL_BANNER: Black Banner
+  LIGHT_GRAY_WOOL: Black Wool
+  LIGHT_WEIGHTED_PRESSURE_PLATE: Light Weighted Pressure Plate
+  LILAC: Large Fern
+  LILY_PAD: Lily Pad
+  LIME_BANNER: Banner
+  LIME_BED: Black Bed
+  LIME_CARPET: Black Carpet
+  LIME_DYE: Bone Meal
+  LIME_STAINED_GLASS: Black Stained Glass
+  LIME_STAINED_GLASS_PANE: Black Stained Glass Pane
+  LIME_TERRACOTTA: Black Terracotta
+  LIME_WALL_BANNER: Black Banner
+  LIME_WOOL: Black Wool
+  LLAMA_SPAWN_EGG: Spawn Bat
+  MAGENTA_BANNER: Banner
+  MAGENTA_BED: Black Bed
+  MAGENTA_CARPET: Black Carpet
+  MAGENTA_DYE: Bone Meal
+  MAGENTA_STAINED_GLASS: Black Stained Glass
+  MAGENTA_STAINED_GLASS_PANE: Black Stained Glass Pane
+  MAGENTA_TERRACOTTA: Black Terracotta
+  MAGENTA_WALL_BANNER: Black Banner
+  MAGENTA_WOOL: Black Wool
+  MAGMA_CREAM: Magma Cream
+  MAGMA_CUBE_SPAWN_EGG: Spawn Bat
+  MAP: Empty Map
+  MELON: Melon
+  MELON_SEEDS: Melon Seeds
+  MELON_SLICE: Melon Slice
+  MELON_STEM: Melon Stem
+  MILK_BUCKET: Milk Bucket
+  MINECART: Minecart
+  MOOSHROOM_SPAWN_EGG: Spawn Bat
+  MOSSY_COBBLESTONE: Mossy Cobblestone
+  MOSSY_COBBLESTONE_WALL: Cobblestone Wall
+  MOSSY_STONE_BRICKS: Chiseled Stone Bricks
+  MOVING_PISTON: Piston Moving Piece
+  MULE_SPAWN_EGG: Spawn Bat
+  MUSHROOM_STEM: None
+  MUSHROOM_STEW: Mushroom Stew
+  MUSIC_DISC_11: 11 Disc
+  MUSIC_DISC_13: 13 Disc
+  MUSIC_DISC_BLOCKS: Blocks Disc
+  MUSIC_DISC_CAT: Cat Disc
+  MUSIC_DISC_CHIRP: Chirp Disc
+  MUSIC_DISC_FAR: Far Disc
+  MUSIC_DISC_MALL: Mall Disc
+  MUSIC_DISC_MELLOHI: Mellohi Disc
+  MUSIC_DISC_STAL: Stal Disc
+  MUSIC_DISC_STRAD: Strad Disc
+  MUSIC_DISC_WAIT: Wait Disc
+  MUSIC_DISC_WARD: Ward Disc
+  MUTTON: Raw Mutton
+  MYCELIUM: Mycelium
+  NAME_TAG: Name Tag
+  NAUTILUS_SHELL: None
+  NETHERRACK: Netherrack
+  NETHER_BRICK: Nether Brick
+  NETHER_BRICKS: Nether Bricks
+  NETHER_BRICK_FENCE: Nether Brick Fence
+  NETHER_BRICK_SLAB: Brick Slab
+  NETHER_BRICK_STAIRS: Nether Brick Stairs
+  NETHER_PORTAL: Nether Portal
+  NETHER_QUARTZ_ORE: Nether Quartz Ore
+  NETHER_STAR: Nether Star
+  NETHER_WART: Nether Wart
+  NOTE_BLOCK: Note Block
+  OAK_BOAT: Boat
+  OAK_BUTTON: Oak Button
+  OAK_DOOR: Wooden Door
+  OAK_FENCE: Oak Fence
+  OAK_FENCE_GATE: Oak Fence Gate
+  OAK_LEAVES: Birch Leaves
+  OAK_LOG: Birch Log
+  OAK_PLANKS: Acacia Wood Plank
+  OAK_PRESSURE_PLATE: Oak Pressure Plate
+  OAK_SAPLING: Acacia Sapling
+  OAK_SLAB: Acacia Wood Slab
+  OAK_STAIRS: Oak Stairs
+  OAK_TRAPDOOR: Oak Trapdoor
+  OAK_WOOD: None
+  OBSIDIAN: Obsidian
+  OCELOT_SPAWN_EGG: Spawn Bat
+  ORANGE_BANNER: Banner
+  ORANGE_BED: Black Bed
+  ORANGE_CARPET: Black Carpet
+  ORANGE_DYE: Bone Meal
+  ORANGE_STAINED_GLASS: Black Stained Glass
+  ORANGE_STAINED_GLASS_PANE: Black Stained Glass Pane
+  ORANGE_TERRACOTTA: Black Terracotta
+  ORANGE_TULIP: Allium
+  ORANGE_WALL_BANNER: Black Banner
+  ORANGE_WOOL: Black Wool
+  OXEYE_DAISY: Allium
+  PACKED_ICE: Packed Ice
+  PAINTING: Painting
+  PAPER: Paper
+  PARROT_SPAWN_EGG: Spawn Bat
+  PEONY: Large Fern
+  PETRIFIED_OAK_SLAB: None
+  PHANTOM_MEMBRANE: None
+  PHANTOM_SPAWN_EGG: None
+  PIG_SPAWN_EGG: Spawn Bat
+  PINK_BANNER: Banner
+  PINK_BED: Black Bed
+  PINK_CARPET: Black Carpet
+  PINK_DYE: Bone Meal
+  PINK_STAINED_GLASS: Black Stained Glass
+  PINK_STAINED_GLASS_PANE: Black Stained Glass Pane
+  PINK_TERRACOTTA: Black Terracotta
+  PINK_TULIP: Allium
+  PINK_WALL_BANNER: Black Banner
+  PINK_WOOL: Black Wool
+  PISTON: Piston
+  PISTON_HEAD: Piston Head
+  PLAYER_HEAD: Mob Head (Creeper)
+  PLAYER_WALL_HEAD: Creeper Wall Head
+  PODZOL: Coarse Dirt
+  POISONOUS_POTATO: Poisonous Potato
+  POLAR_BEAR_SPAWN_EGG: Spawn Bat
+  POLISHED_ANDESITE: Andesite
+  POLISHED_DIORITE: Andesite
+  POLISHED_GRANITE: Andesite
+  POPPY: Allium
+  PORKCHOP: Raw Porkchop
+  POTATO: Potato
+  POTATOES: Potatoes
+  POTION: Potion
+  POTTED_ACACIA_SAPLING: None
+  POTTED_ALLIUM: None
+  POTTED_AZURE_BLUET: None
+  POTTED_BIRCH_SAPLING: None
+  POTTED_BLUE_ORCHID: None
+  POTTED_BROWN_MUSHROOM: None
+  POTTED_CACTUS: None
+  POTTED_DANDELION: None
+  POTTED_DARK_OAK_SAPLING: None
+  POTTED_DEAD_BUSH: None
+  POTTED_FERN: None
+  POTTED_JUNGLE_SAPLING: None
+  POTTED_OAK_SAPLING: None
+  POTTED_ORANGE_TULIP: None
+  POTTED_OXEYE_DAISY: None
+  POTTED_PINK_TULIP: None
+  POTTED_POPPY: None
+  POTTED_RED_MUSHROOM: None
+  POTTED_RED_TULIP: None
+  POTTED_SPRUCE_SAPLING: None
+  POTTED_WHITE_TULIP: None
+  POWERED_RAIL: Powered Rail
+  PRISMARINE: Dark Prismarine
+  PRISMARINE_BRICKS: Dark Prismarine
+  PRISMARINE_BRICK_SLAB: None
+  PRISMARINE_BRICK_STAIRS: None
+  PRISMARINE_CRYSTALS: Prismarine Crystals
+  PRISMARINE_SHARD: Prismarine Shard
+  PRISMARINE_SLAB: None
+  PRISMARINE_STAIRS: None
+  PUFFERFISH: Pufferfish
+  PUFFERFISH_BUCKET: None
+  PUFFERFISH_SPAWN_EGG: None
+  PUMPKIN: Pumpkin
+  PUMPKIN_PIE: Pumpkin Pie
+  PUMPKIN_SEEDS: Pumpkin Seeds
+  PUMPKIN_STEM: Pumpkin Stem
+  PURPLE_BANNER: Banner
+  PURPLE_BED: Black Bed
+  PURPLE_CARPET: Black Carpet
+  PURPLE_DYE: Bone Meal
+  PURPLE_STAINED_GLASS: Black Stained Glass
+  PURPLE_STAINED_GLASS_PANE: Black Stained Glass Pane
+  PURPLE_TERRACOTTA: Black Terracotta
+  PURPLE_WALL_BANNER: Black Banner
+  PURPLE_WOOL: Black Wool
+  QUARTZ: Nether Quartz
+  QUARTZ_BLOCK: Chiseled Quartz Block
+  QUARTZ_PILLAR: Chiseled Quartz Block
+  QUARTZ_SLAB: Brick Slab
+  QUARTZ_STAIRS: Quartz Stairs
+  RABBIT: Raw Rabbit
+  RABBIT_FOOT: Rabbit's Foot
+  RABBIT_HIDE: Rabbit Hide
+  RABBIT_SPAWN_EGG: Spawn Bat
+  RABBIT_STEW: Rabbit Stew
+  RAIL: Rail
+  REDSTONE: Redstone
+  REDSTONE_BLOCK: Block of Redstone
+  REDSTONE_LAMP: Redstone Lamp
+  REDSTONE_ORE: Redstone Ore
+  REDSTONE_TORCH: Redstone Torch(on)
+  REDSTONE_WALL_TORCH: Redstone Torch(on)
+  REDSTONE_WIRE: Redstone Dust
+  RED_BANNER: Banner
+  RED_BED: Black Bed
+  RED_CARPET: Black Carpet
+  RED_MUSHROOM: Red Mushroom
+  RED_MUSHROOM_BLOCK: Red Mushroom Block
+  RED_SAND: Red Sand
+  RED_SANDSTONE: Chiseled Red Sandstone
+  RED_SANDSTONE_SLAB: Red Sandstone Slab
+  RED_SANDSTONE_STAIRS: Red Sandstone Stairs
+  RED_STAINED_GLASS: Black Stained Glass
+  RED_STAINED_GLASS_PANE: Black Stained Glass Pane
+  RED_TERRACOTTA: Black Terracotta
+  RED_TULIP: Allium
+  RED_WALL_BANNER: Black Banner
+  RED_WOOL: Black Wool
+  REPEATER: Redstone Repeater
+  REPEATING_COMMAND_BLOCK: None
+  ROSE_BUSH: Large Fern
+  ROSE_RED: Bone Meal
+  ROTTEN_FLESH: Rotten Flesh
+  SADDLE: Saddle
+  SALMON: Pufferfish
+  SALMON_BUCKET: None
+  SALMON_SPAWN_EGG: None
+  SAND: Red Sand
+  SANDSTONE: Chiseled Sandstone
+  SANDSTONE_SLAB: Brick Slab
+  SANDSTONE_STAIRS: Sandstone Stairs
+  SCUTE: None
+  SEAGRASS: None
+  SEA_LANTERN: Sea Lantern
+  SEA_PICKLE: None
+  SHEARS: Shears
+  SHEEP_SPAWN_EGG: Spawn Bat
+  SHULKER_SPAWN_EGG: Spawn Bat
+  SIGN: Sign
+  SILVERFISH_SPAWN_EGG: Spawn Bat
+  SKELETON_HORSE_SPAWN_EGG: Spawn Bat
+  SKELETON_SKULL: Mob Head (Creeper)
+  SKELETON_SPAWN_EGG: Spawn Bat
+  SKELETON_WALL_SKULL: Creeper Wall Head
+  SLIME_BALL: Slimeball
+  SLIME_BLOCK: Slime Block
+  SLIME_SPAWN_EGG: Spawn Bat
+  SMOOTH_QUARTZ: None
+  SMOOTH_RED_SANDSTONE: Chiseled Red Sandstone
+  SMOOTH_SANDSTONE: Chiseled Sandstone
+  SMOOTH_STONE: None
+  SNOW: Snow
+  SNOWBALL: Snowball
+  SNOW_BLOCK: Snow Block
+  SOUL_SAND: Soul Sand
+  SPAWNER: Spawner
+  SPIDER_EYE: Spider Eye
+  SPIDER_SPAWN_EGG: Spawn Bat
+  SPONGE: Sponge
+  SPRUCE_BUTTON: None
+  SPRUCE_DOOR: Spruce Door
+  SPRUCE_FENCE: Spruce Fence
+  SPRUCE_FENCE_GATE: Spruce Fence Gate
+  SPRUCE_LEAVES: Birch Leaves
+  SPRUCE_LOG: Birch Log
+  SPRUCE_PLANKS: Acacia Wood Plank
+  SPRUCE_PRESSURE_PLATE: None
+  SPRUCE_SAPLING: Acacia Sapling
+  SPRUCE_SLAB: Acacia Wood Slab
+  SPRUCE_STAIRS: Spruce Wood Stairs
+  SPRUCE_TRAPDOOR: None
+  SPRUCE_WOOD: None
+  SQUID_SPAWN_EGG: Spawn Bat
+  STICK: Stick
+  STICKY_PISTON: Sticky Piston
+  STONE: Andesite
+  STONE_AXE: Stone Axe
+  STONE_BRICKS: Chiseled Stone Bricks
+  STONE_BRICK_SLAB: Brick Slab
+  STONE_BRICK_STAIRS: Stone Brick Stairs
+  STONE_BUTTON: Stone Button
+  STONE_HOE: Stone Hoe
+  STONE_PICKAXE: Stone Pickaxe
+  STONE_PRESSURE_PLATE: Stone Pressure Plate
+  STONE_SHOVEL: Stone Shovel
+  STONE_SLAB: Brick Slab
+  STONE_SWORD: Stone Sword
+  STRAY_SPAWN_EGG: Spawn Bat
+  STRING: String
+  STRIPPED_ACACIA_LOG: None
+  STRIPPED_ACACIA_WOOD: None
+  STRIPPED_BIRCH_LOG: None
+  STRIPPED_BIRCH_WOOD: None
+  STRIPPED_DARK_OAK_LOG: None
+  STRIPPED_DARK_OAK_WOOD: None
+  STRIPPED_JUNGLE_LOG: None
+  STRIPPED_JUNGLE_WOOD: None
+  STRIPPED_OAK_LOG: None
+  STRIPPED_OAK_WOOD: None
+  STRIPPED_SPRUCE_LOG: None
+  STRIPPED_SPRUCE_WOOD: None
+  SUGAR: Sugar
+  SUGAR_CANE: Sugar Canes
+  SUNFLOWER: Large Fern
+  TALL_GRASS: Fern
+  TALL_SEAGRASS: None
+  TERRACOTTA: Terracotta
+  TNT: TNT
+  TNT_MINECART: Minecart with TNT
+  TORCH: Torch
+  TRAPPED_CHEST: Trapped Chest
+  TRIDENT: None
+  TRIPWIRE: Tripwire
+  TRIPWIRE_HOOK: Tripwire Hook
+  TROPICAL_FISH: Pufferfish
+  TROPICAL_FISH_BUCKET: None
+  TROPICAL_FISH_SPAWN_EGG: None
+  TUBE_CORAL: None
+  TUBE_CORAL_BLOCK: None
+  TUBE_CORAL_FAN: None
+  TUBE_CORAL_WALL_FAN: None
+  TURTLE_EGG: None
+  TURTLE_HELMET: None
+  TURTLE_SPAWN_EGG: None
+  VEX_SPAWN_EGG: Spawn Bat
+  VILLAGER_SPAWN_EGG: Spawn Bat
+  VINDICATOR_SPAWN_EGG: Spawn Bat
+  VINE: Vines
+  VOID_AIR: None
+  WALL_SIGN: Wall Sign
+  WALL_TORCH: Torch
+  WATER: Flowing Water
+  WATER_BUCKET: Water Bucket
+  WET_SPONGE: Sponge
+  WHEAT: Wheat
+  WHEAT_SEEDS: Wheat Seeds
+  WHITE_BANNER: Banner
+  WHITE_BED: Black Bed
+  WHITE_CARPET: Black Carpet
+  WHITE_STAINED_GLASS: Black Stained Glass
+  WHITE_STAINED_GLASS_PANE: Black Stained Glass Pane
+  WHITE_TERRACOTTA: Black Terracotta
+  WHITE_TULIP: Allium
+  WHITE_WALL_BANNER: Black Banner
+  WHITE_WOOL: Black Wool
+  WITCH_SPAWN_EGG: Spawn Bat
+  WITHER_SKELETON_SKULL: Mob Head (Creeper)
+  WITHER_SKELETON_SPAWN_EGG: Spawn Bat
+  WITHER_SKELETON_WALL_SKULL: Creeper Wall Head
+  WOLF_SPAWN_EGG: Spawn Bat
+  WOODEN_AXE: Wooden Axe
+  WOODEN_HOE: Wooden Hoe
+  WOODEN_PICKAXE: Wooden Pickaxe
+  WOODEN_SHOVEL: Wooden Shovel
+  WOODEN_SWORD: Wooden Sword
+  WRITABLE_BOOK: Book and Quill
+  WRITTEN_BOOK: Written Book
+  YELLOW_BANNER: Banner
+  YELLOW_BED: Black Bed
+  YELLOW_CARPET: Black Carpet
+  YELLOW_STAINED_GLASS: Black Stained Glass
+  YELLOW_STAINED_GLASS_PANE: Black Stained Glass Pane
+  YELLOW_TERRACOTTA: Black Terracotta
+  YELLOW_WALL_BANNER: Black Banner
+  YELLOW_WOOL: Black Wool
+  ZOMBIE_HEAD: Mob Head (Creeper)
+  ZOMBIE_HORSE_SPAWN_EGG: Spawn Bat
+  ZOMBIE_PIGMAN_SPAWN_EGG: Spawn Bat
+  ZOMBIE_SPAWN_EGG: Spawn Bat
+  ZOMBIE_VILLAGER_SPAWN_EGG: Spawn Bat
+  ZOMBIE_WALL_HEAD: Creeper Wall Head
+  ACACIA_SIGN: None
+  ACACIA_WALL_SIGN: None
+  ANDESITE_SLAB: None
+  ANDESITE_STAIRS: None
+  ANDESITE_WALL: None
+  BAMBOO: None
+  BAMBOO_SAPLING: None
+  BARREL: None
+  BELL: None
+  BIRCH_SIGN: None
+  BIRCH_WALL_SIGN: None
+  BLACK_DYE: None
+  BLAST_FURNACE: None
+  BLUE_DYE: None
+  BRICK_WALL: None
+  BROWN_DYE: None
+  CAMPFIRE: None
+  CARTOGRAPHY_TABLE: None
+  CAT_SPAWN_EGG: None
+  CORNFLOWER: None
+  CREEPER_BANNER_PATTERN: None
+  CROSSBOW: None
+  CUT_RED_SANDSTONE_SLAB: None
+  CUT_SANDSTONE_SLAB: None
+  DARK_OAK_SIGN: None
+  DARK_OAK_WALL_SIGN: None
+  DIORITE_SLAB: None
+  DIORITE_STAIRS: None
+  DIORITE_WALL: None
+  END_STONE_BRICK_SLAB: None
+  END_STONE_BRICK_STAIRS: None
+  END_STONE_BRICK_WALL: None
+  FLETCHING_TABLE: None
+  FLOWER_BANNER_PATTERN: None
+  FOX_SPAWN_EGG: None
+  GLOBE_BANNER_PATTERN: None
+  GRANITE_SLAB: None
+  GRANITE_STAIRS: None
+  GRANITE_WALL: None
+  GREEN_DYE: None
+  GRINDSTONE: None
+  JIGSAW: None
+  JUNGLE_SIGN: None
+  JUNGLE_WALL_SIGN: None
+  LANTERN: None
+  LEATHER_HORSE_ARMOR: None
+  LECTERN: None
+  LILY_OF_THE_VALLEY: None
+  LOOM: None
+  MOJANG_BANNER_PATTERN: None
+  MOSSY_COBBLESTONE_SLAB: None
+  MOSSY_COBBLESTONE_STAIRS: None
+  MOSSY_STONE_BRICK_SLAB: None
+  MOSSY_STONE_BRICK_STAIRS: None
+  MOSSY_STONE_BRICK_WALL: None
+  NETHER_BRICK_WALL: None
+  OAK_SIGN: None
+  OAK_WALL_SIGN: None
+  PANDA_SPAWN_EGG: None
+  PILLAGER_SPAWN_EGG: None
+  POLISHED_ANDESITE_STAIRS: None
+  POLISHED_ANDESITE_SLAB: None
+  POLISHED_DIORITE_SLAB: None
+  POLISHED_DIORITE_STAIRS: None
+  POLISHED_GRANITE_SLAB: None
+  POLISHED_GRANITE_STAIRS: None
+  POTTED_BAMBOO: None
+  POTTED_CORNFLOWER: None
+  POTTED_LILY_OF_THE_VALLEY: None
+  POTTED_WITHER_ROSE: None
+  PRISMARINE_WALL: None
+  RAVAGER_SPAWN_EGG: None
+  RED_DYE: None
+  RED_NETHER_BRICK_SLAB: None
+  RED_NETHER_BRICK_STAIRS: None
+  RED_NETHER_BRICK_WALL: None
+  RED_SANDSTONE_WALL: None
+  SANDSTONE_WALL: None
+  SCAFFOLDING: None
+  SKULL_BANNER_PATTERN: None
+  SMITHING_TABLE: None
+  SMOKER: None
+  SMOOTH_QUARTZ_SLAB: None
+  SMOOTH_QUARTZ_STAIRS: None
+  SMOOTH_RED_SANDSTONE_SLAB: None
+  SMOOTH_RED_SANDSTONE_STAIRS: None
+  SMOOTH_SANDSTONE_SLAB: None
+  SMOOTH_SANDSTONE_STAIRS: None
+  SMOOTH_STONE_SLAB: None
+  SPRUCE_SIGN: None
+  SPRUCE_WALL_SIGN: None
+  STONECUTTER: None
+  STONE_BRICK_WALL: None
+  STONE_STAIRS: None
+  SUSPICIOUS_STEW: None
+  SWEET_BERRIES: None
+  SWEET_BERRY_BUSH: None
+  TRADER_LLAMA_SPAWN_EGG: None
+  WANDERING_TRADER_SPAWN_EGG: None
+  WHITE_DYE: None
+  WITHER_ROSE: None
+  YELLOW_DYE: None
+  COMPOSTER: None
+  BEEHIVE: None
+  BEE_NEST: None
+  BEE_SPAWN_EGG: None
+  HONEYCOMB: None
+  HONEYCOMB_BLOCK: None
+  HONEY_BLOCK: None
+  HONEY_BOTTLE: None
+  LEGACY_STATIONARY_WATER: Stationary Water
+  LEGACY_STATIONARY_LAVA: Stationary Lava
+  LEGACY_BURNING_FURNACE: Burning Furnace
+  LEGACY_NETHER_WARTS: Nether Warts
+  LEGACY_IRON_DOOR_BLOCK: Iron Door Block
+  LEGACY_GLOWING_REDSTONE_ORE: Glowing Redstone Ore
+  LEGACY_SUGAR_CANE_BLOCK: Sugar Cane Block
+  LEGACY_RAW_FISH: Pufferfish
+  LEGACY_SKULL: Creeper Wall Head
+  LEGACY_SIGN_POST: Sign Post
+  LEGACY_BED_BLOCK: Bed Block
+  LEGACY_REDSTONE_TORCH_OFF: Redstone Torch Off
+  LEGACY_REDSTONE_TORCH_ON: Redstone Torch(on)
+  LEGACY_CAKE_BLOCK: Cake Block
+  LEGACY_DIODE_BLOCK_OFF: Diode Block Off
+  LEGACY_DIODE_BLOCK_ON: Diode Block On
+  LEGACY_BREWING_STAND: Brewing Stand
+  LEGACY_REDSTONE_LAMP_ON: LEGACY_REDSTONE_LAMP_ON
+  LEGACY_REDSTONE_COMPARATOR_OFF: Redstone Comparator Off
+  LEGACY_REDSTONE_COMPARATOR_ON: Redstone Comparator On
+  LEGACY_WOODEN_DOOR_BLOCK: Wooden Door Block
+  LEGACY_SPRUCE_DOOR: Spruce Door Block
+  LEGACY_BIRCH_DOOR: Birch Door Block
+  LEGACY_JUNGLE_DOOR: Jungle Door Block
+  LEGACY_ACACIA_DOOR: Acacia Door Block
+  LEGACY_DARK_OAK_DOOR: Dark Oak Door Block
+  LEGACY_WHEAT: Wheat Block
+EntityList:
+  30-ARMOR_STAND: Armor Stand
+  50-CREEPER: Creeper
+  51-SKELETON: Skeleton
+  52-SPIDER: Spider
+  53-GIANT: Giant
+  54-ZOMBIE: Zombie
+  55-SLIME: Slime
+  56-GHAST: Ghast
+  57-PIG_ZOMBIE: Zombie Pigman
+  58-ENDERMAN: Enderman
+  59-CAVE_SPIDER: Cave Spider
+  60-SILVERFISH: Silverfish
+  61-BLAZE: Blaze
+  62-MAGMA_CUBE: Magma Cube
+  63-ENDER_DRAGON: Ender Dragon
+  64-WITHER: Wither
+  65-BAT: Bat
+  66-WITCH: Witch
+  67-ENDERMITE: Endermite
+  68-GUARDIAN: Guardian
+  90-PIG: Pig
+  91-SHEEP: Sheep
+  92-COW: Cow
+  93-CHICKEN: Chicken
+  94-SQUID: Squid
+  95-WOLF: Wolf
+  96-MUSHROOM_COW: Mushroom Cow
+  97-SNOWMAN: Snowman
+  98-OCELOT: Ocelot
+  99-IRON_GOLEM: Iron Golem
+  100-HORSE: Horse
+  101-RABBIT: Rabbit
+  120-VILLAGER: Villager
+  914-PLAYER: Player
+EnchantList:
+  Protection: Protection
+  Unknown: Unknown
+  Thorns: Thorns
+  Depth strider: Depth strider
+  Knockback: Knockback
+  Fire aspect: Fire aspect
+  Silk touch: Silk touch
+  Lure: Lure
+ColorList:
+  0-white: '&fWhite'
+  1-orange: '&6Orange'
+  2-magenta: '&dMagenta'
+  3-light_blue: '&9Light Blue'
+  4-yellow: '&eYellow'
+  5-lime: '&aLime'
+  6-pink: '&dPink'
+  7-gray: '&8Gray'
+  8-light_gray: '&7Light Gray'
+  9-cyan: '&3Cyan'
+  10-purple: '&5Purple'
+  11-blue: '&1Blue'
+  12-brown: '&4Brown'
+  13-green: '&2Green'
+  14-red: '&cRed'
+  15-black: '&0Black'
+MythicEntityList:
+  AngrySludge: Angry Sludge
+  SkeletalKnight: Skeletal Knight

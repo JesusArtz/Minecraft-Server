@@ -1,0 +1,23 @@
+lastAccountName: Brunkkaster
+timestamps:
+  login: 1615844918653
+  kits:
+    user: 1615844968383
+  lastteleport: 1615845007471
+  logout: 1615845020346
+ipAddress: 190.132.88.86
+socialspy: false
+lastlocation:
+  world: world
+  x: -3.3771282078376155
+  y: 50.0
+  z: 12.377971883918576
+  yaw: 4.5002894
+  pitch: 11.250014
+logoutlocation:
+  world: Survival_plots
+  x: -16.054597053911863
+  y: 38.0
+  z: -27.164614580957743
+  yaw: -61.07957
+  pitch: 15.5999975

@@ -1,0 +1,31 @@
+lastAccountName: ferranlopez88
+timestamps:
+  login: 1616223043721
+  lastteleport: 1616223546501
+  kits:
+    user: 1616187964712
+  logout: 1616223677183
+ipAddress: 147.161.71.198
+lastlocation:
+  world: Survival
+  x: 1127.6627397430611
+  y: 72.0
+  z: 1313.1307682195247
+  yaw: 353.97693
+  pitch: 15.750163
+money: '1.0'
+logoutlocation:
+  world: world
+  x: -0.888488757446271
+  y: 45.0
+  z: 67.90110602082991
+  yaw: 319.5001
+  pitch: 32.399937
+homes:
+  home:
+    world: Survival
+    x: 1132.601477591788
+    y: 72.0
+    z: 1321.2280814332444
+    yaw: 74.078125
+    pitch: 47.550224

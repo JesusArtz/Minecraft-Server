@@ -1,0 +1,285 @@
+08/11/2018 21:55:57 [INFO] Loading placeholder [WorldGuard] ...
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: firework
+08/11/2018 21:55:52 [INFO] Loading placeholder [Geographical] ...
+08/11/2018 21:55:57 [DEBUG] Loaded placeholder: worldguard
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9'
+08/11/2018 21:55:57 [INFO] Loading event hook: WorldGuard Region ...
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9'
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9'
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9'
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9'
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: geographical
+08/11/2018 21:55:57 [INFO] Loading event hook: WorldGuard Region ...
+08/11/2018 21:55:57 [INFO] Checking for placeholder updates ...
+08/11/2018 21:55:30 [INFO] Loading placeholders and event triggers ...
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_physical'
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_physical'
+08/11/2018 21:55:57 [INFO] Loaded 2342 of the 2342 placholders
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_physical'
+08/11/2018 21:55:52 [INFO] Loading placeholder [Hotbar] ...
+08/11/2018 21:55:57 [INFO] Loading custom effect 'example3' ...
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_physical'
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_physical'
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_total'
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_total'
+08/11/2018 21:55:57 [INFO] Creating new custom effect: example3
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_total'
+08/11/2018 21:55:30 [INFO] Loading internal placeholders ...
+08/11/2018 21:55:58 [INFO] Loading custom effect 'example1' ...
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_total'
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: hotbar
+08/11/2018 21:55:58 [INFO] Creating new custom effect: example1
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622'
+08/11/2018 21:56:03 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@45d1acb9_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622'
+08/11/2018 21:55:52 [INFO] Loading placeholder [JavaInfo] ...
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622'
+08/11/2018 21:55:58 [INFO] Loading custom effect 'example2' ...
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622'
+08/11/2018 21:55:58 [INFO] Creating new custom effect: example2
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_physical'
+08/11/2018 21:55:30 [DEBUG] Loaded placeholder: CustomPlaceholders
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_physical'
+08/11/2018 21:55:58 [DEBUG] Using SCOREBOARD v7
+08/11/2018 21:55:58 [DEBUG]  - Server supports Objective entries
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_total'
+08/11/2018 21:56:01 [INFO] Using OPTIMAL as the update strategy
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_total'
+08/11/2018 21:55:30 [DEBUG] Loaded placeholder: MySQL
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: leaderheads
+08/11/2018 21:56:01 [INFO] Loading scoreboard 'benchmark' ...
+08/11/2018 21:55:52 [INFO] Loading placeholder [LeaderHeads] ...
+08/11/2018 21:55:58 [DEBUG]  - Server supports Team entries
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: java
+08/11/2018 21:56:01 [DEBUG] 	Line: title Static: false
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5ad31622_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4'
+08/11/2018 21:55:52 [INFO] Loading placeholder [Marriage] ...
+08/11/2018 21:56:01 [DEBUG] 	Line: line1 Static: false
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4'
+08/11/2018 21:56:01 [DEBUG] 	Line: line2 Static: false
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_physical'
+08/11/2018 21:55:30 [INFO] Fetching available placeholders from server ...
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: marriage
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_physical'
+08/11/2018 21:56:01 [DEBUG] 	Line: line3 Static: false
+08/11/2018 21:56:01 [DEBUG] 	Line: line4 Static: false
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_total'
+08/11/2018 21:55:52 [INFO] Loading placeholder [Memory] ...
+08/11/2018 21:56:01 [DEBUG] 	Line: line6 Static: false
+08/11/2018 21:56:01 [DEBUG] 	Line: line5 Static: false
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@24081de4_total'
+08/11/2018 21:56:01 [DEBUG] 	Line: line7 Static: false
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: memory
+08/11/2018 21:55:30 [INFO] Loading placeholder [Armor] ...
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_physical'
+08/11/2018 21:56:02 [DEBUG] 	Line: line8 Static: false
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_physical'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_total'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_physical'
+08/11/2018 21:56:02 [DEBUG] 	Line: line10 Static: false
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000'
+08/11/2018 21:56:02 [DEBUG] 	Line: line9 Static: false
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2bc7f000_physical'
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: multiverse
+08/11/2018 21:55:52 [INFO] Loading placeholder [Multiverse-Core] ...
+08/11/2018 21:56:02 [DEBUG] 	Line: line11 Static: false
+08/11/2018 21:55:52 [INFO] Loading placeholder [Permissions] ...
+08/11/2018 21:56:02 [DEBUG] 	Line: line12 Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: line14 Static: false
+08/11/2018 21:55:30 [DEBUG] Loaded placeholder: armor
+08/11/2018 21:56:02 [DEBUG] 	Line: line15 Static: false
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: permissions
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797'
+08/11/2018 21:56:04 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@377ad797'
+08/11/2018 21:56:02 [INFO] Loading scoreboard 'mcmmo-levelup' ...
+08/11/2018 21:55:30 [INFO] Loading placeholder [Bukkit] ...
+08/11/2018 21:56:02 [DEBUG] 	Line: title Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: line13 Static: false
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: placeholderapi
+08/11/2018 21:55:30 [DEBUG] Loaded placeholder: bukkit
+08/11/2018 21:56:02 [DEBUG] 	Line: info-label Static: true
+08/11/2018 21:55:52 [INFO] Loading placeholder [Player] ...
+08/11/2018 21:56:02 [DEBUG] 	Line: skill-label Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer1 Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: header Static: true
+08/11/2018 21:55:52 [INFO] Loading placeholder [PlaceholderAPI] ...
+08/11/2018 21:55:30 [INFO] Loading placeholder [BungeeCord] ...
+08/11/2018 21:56:02 [DEBUG] 	Line: skilllevel-label Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer2 Static: true
+08/11/2018 21:55:52 [INFO] Loading placeholder [PlotSquared] ...
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: player
+08/11/2018 21:56:02 [DEBUG] 	Line: skilllevel Static: true
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: plotsquared
+08/11/2018 21:56:02 [DEBUG] 	Line: footer Static: true
+08/11/2018 21:55:52 [INFO] Loading event hook: PlotSquared Plot ...
+08/11/2018 21:56:02 [DEBUG] 	Line: skill Static: true
+08/11/2018 21:56:02 [INFO] Loading scoreboard 'default' ...
+08/11/2018 21:56:02 [DEBUG] 	Line: title Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer-player1 Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer-player2 Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: player-line1 Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: player-line3 Static: false
+08/11/2018 21:55:52 [INFO] Loading event hook: PlotSquared Plot ...
+08/11/2018 21:55:52 [INFO] Loading placeholder [Previous Names] ...
+08/11/2018 21:56:02 [DEBUG] 	Line: player-label1 Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer-player3 Static: true
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: previousnames
+08/11/2018 21:56:02 [DEBUG] 	Line: player-label2 Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: player-line2 Static: false
+08/11/2018 21:55:52 [INFO] Loading placeholder [RedisBungee] ...
+08/11/2018 21:56:02 [DEBUG] 	Line: player-line5 Static: false
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'createscoreboard'
+08/11/2018 21:55:30 [DEBUG] Loaded placeholder: bungeecord
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'module'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'info'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'removescoreboard'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'editsetting'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'remove'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'hide'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'add'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'modules'
+08/11/2018 21:56:02 [DEBUG] 	Line: player-line6 Static: false
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'parse'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'help'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'reload'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'generatebbcode'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'permissions'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'reload'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'about'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'debug'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'show'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'placeholders'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'toggle'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'on'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'off'
+08/11/2018 21:56:02 [DEBUG] 	Adding sub command 'gui'
+08/11/2018 21:56:02 [INFO] Adding command 'featherboard'
+08/11/2018 21:56:02 [INFO] Toggle persistence is disabled!
+08/11/2018 21:56:02 [INFO] Added 'PERMISSION' as the default scoreboard assign method
+08/11/2018 21:56:02 [DEBUG] 	default - 10
+08/11/2018 21:56:02 [DEBUG] 	benchmark - 0
+08/11/2018 21:56:02 [DEBUG] 	combat-scoreboard-example - 0
+08/11/2018 21:56:02 [DEBUG] 	mcmmo-levelup - 0
+08/11/2018 21:56:02 [DEBUG] 	towny-town-example - 0
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer2 Static: false
+08/11/2018 21:56:02 [DEBUG] Scoreboards groups sorted by priority:
+08/11/2018 21:56:02 [DEBUG] 	Line: townboard Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: footer Static: true
+08/11/2018 21:56:02 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+08/11/2018 21:56:02 [DEBUG] 	Line: poplulation-data Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: header Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: population-label Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: townboard-label Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: town-data Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: town-label Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: title Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: footer Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: health-label Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer1 Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: health-data-1 Static: false
+08/11/2018 21:56:02 [INFO] Loading scoreboard 'towny-town-example' ...
+08/11/2018 21:56:02 [DEBUG] 	Line: combat-label Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: header Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: title Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer-player4 Static: true
+08/11/2018 21:56:02 [DEBUG] 	Line: footer Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: player-line7 Static: true
+08/11/2018 21:55:30 [INFO] Loading placeholder [Color] ...
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: redisbungee
+08/11/2018 21:56:02 [DEBUG] 	Line: player-line31 Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer-player5 Static: true
+08/11/2018 21:55:52 [INFO] Loading placeholder [ServerPinger] ...
+08/11/2018 21:55:31 [DEBUG] Loaded placeholder: color
+08/11/2018 21:55:31 [INFO] Loading placeholder [CommandPlaceholderPack] ...
+08/11/2018 21:56:02 [INFO] Loading scoreboard 'combat-scoreboard-example' ...
+08/11/2018 21:55:31 [INFO] Loading placeholder [Compass placeholders] ...
+08/11/2018 21:55:31 [DEBUG] Loaded placeholder: compass
+08/11/2018 21:55:52 [INFO] Loading placeholder [Statistics] ...
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: statistics
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: sound
+08/11/2018 21:56:02 [DEBUG] 	Line: combat-data Static: false
+08/11/2018 21:56:02 [DEBUG] 	Line: health-data-2 Static: false
+08/11/2018 21:55:31 [DEBUG] Loaded placeholder: command
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: tickspersecond
+08/11/2018 21:55:52 [INFO] Loading placeholder [TicksPerSecond] ...
+08/11/2018 21:55:52 [INFO] Loading placeholder [Sound Effects] ...
+08/11/2018 21:55:52 [INFO] Loading placeholder [Twitter] ...
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: serverpinger
+08/11/2018 21:55:31 [INFO] Loading placeholder [Economy] ...
+08/11/2018 21:55:57 [DEBUG] Loaded placeholder: twitter
+08/11/2018 21:55:57 [DEBUG] Loaded placeholder: unicode
+08/11/2018 21:55:57 [INFO] Loading placeholder [Unicode Characters] ...
+08/11/2018 21:55:57 [INFO] Loading placeholder [VanillaEvents] ...
+08/11/2018 21:55:31 [DEBUG] Loaded placeholder: economy
+08/11/2018 21:55:31 [INFO] Loading placeholder [Effects] ...
+08/11/2018 21:55:57 [DEBUG] Loaded placeholder: vanillaevents
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Block break hook ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Combat hook ...
+08/11/2018 21:56:02 [DEBUG] 	Line: spacer1 Static: false
+08/11/2018 21:55:31 [DEBUG] Loaded placeholder: entities
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Block place hook ...
+08/11/2018 21:55:31 [DEBUG] Loaded placeholder: playereffects
+08/11/2018 21:55:31 [INFO] Loading placeholder [Entities] ...
+08/11/2018 21:55:31 [INFO] Loading placeholder [Essentials] ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla player join ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla player first join ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Block break hook ...
+08/11/2018 21:56:02 [INFO] Generating metrics information ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla player rejoin ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Death hook ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Combat hook ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Create portal hook ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Block place hook ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla player rejoin ...
+08/11/2018 21:55:31 [DEBUG] Loaded placeholder: essentials
+08/11/2018 21:55:57 [INFO] Loading placeholder [World] ...
+08/11/2018 21:55:57 [DEBUG] Loaded placeholder: world
+08/11/2018 21:55:31 [INFO] Loading placeholder [Facebook] ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla player first join ...
+08/11/2018 21:55:30 [INFO] Loading messages ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Death hook ...
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla player join ...
+08/11/2018 21:55:52 [DEBUG] Loaded placeholder: facebook
+08/11/2018 21:55:52 [INFO] Loading placeholder [FireworkEffect] ...
+08/11/2018 21:55:30 [INFO] Loading language file: lang_en
+08/11/2018 21:55:57 [INFO] Loading event hook: Vanilla Create portal hook ...
+08/11/2018 21:56:19 [INFO] Checking for module updates ...
+08/11/2018 21:56:19 [INFO] Fetching modules from server ...

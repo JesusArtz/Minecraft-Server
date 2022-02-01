@@ -1,0 +1,40 @@
+config_version: 1
+debug_messages: false
+expire_groups:
+  default:
+    permission: deathchestpro.expire.default
+    teleport_cost: 0
+    unlock_after: -1
+    time: 60
+allow_break_chests: false
+allow_killer_looting: false
+drop_items_after_expire: false
+lava_spawning: true
+lava_protection: true
+void_spawning_chest: true
+auto_equip_armor: true
+clickable_message: true
+spawn_chest_on_highest_block: false
+start_timer_at_death: false
+store_experience: false
+max_player_chests: 3
+deathchest_fireworks:
+  enabled: true
+  interval: 5
+disabled_worlds:
+- example_world
+disabled_regions:
+- example_region
+sounds:
+  click: UI_BUTTON_CLICK
+  gui_open: ENTITY_EXPERIENCE_ORB_PICKUP
+hologram:
+  enabled: true
+  death_date_format: dd.MM.yyyy hh:mm
+  lines:
+  - '%locked%'
+  - '%item_count% DeathChestItems / %xp% XP'
+  - Died %death_date%
+  - 'Owner: %player%'
+  - '%timeleft% left'
+deathchest_inv_title: '&7%player%''s DeathChest'

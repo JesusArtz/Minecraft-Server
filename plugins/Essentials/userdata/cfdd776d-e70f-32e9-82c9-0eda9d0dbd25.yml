@@ -1,0 +1,31 @@
+lastAccountName: KittyChloe
+timestamps:
+  login: 1617119302294
+  lastteleport: 1616771072914
+  logout: 1617121001618
+  kits:
+    user: 1616602142132
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -39.83365182440912
+  y: 47.0
+  z: 64.7227890668808
+  yaw: -188.9866
+  pitch: -18.374401
+money: '1577.5539999999999791'
+homes:
+  home:
+    world: Survival
+    x: 1458.4810554175967
+    y: 70.0
+    z: 277.25657389986696
+    yaw: -113.54094
+    pitch: 31.631996
+logoutlocation:
+  world: world
+  x: 0.46875522525879365
+  y: 50.0
+  z: 0.5257768590240784
+  yaw: 2.71672E-4
+  pitch: -1.6499976

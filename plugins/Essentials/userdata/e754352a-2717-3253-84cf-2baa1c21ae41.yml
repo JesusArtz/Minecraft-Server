@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: SrAlexMC
+timestamps:
+  login: 1615822191802
+  kits:
+    user: 1615822317562
+  lastteleport: 1615822600170
+  logout: 1615822711658
+ipAddress: 188.26.223.79
+lastlocation:
+  world: Survival_plots
+  x: -139.46518449795894
+  y: 21.0
+  z: 72.47005202610391
+  yaw: 65.71822
+  pitch: 1.350012
+logoutlocation:
+  world: world_pvp
+  x: -55.86809038214619
+  y: 51.0
+  z: -10.690802790231832
+  yaw: 18.914795
+  pitch: 65.09999

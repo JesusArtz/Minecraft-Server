@@ -1,0 +1,40 @@
+socialspy: false
+lastAccountName: JossielDark
+timestamps:
+  login: 1618161553942
+  lastteleport: 1618164535507
+  kits:
+    pvp: 1617467713544
+    user: 1617466264806
+  logout: 1618154560841
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Survival
+  x: 219.39368955015007
+  y: 64.0
+  z: 363.99708409049646
+  yaw: 110.05975
+  pitch: 23.77478
+money: '80.750'
+homes:
+  hogar:
+    world: Survival
+    x: 231.2342733607386
+    y: 73.0
+    z: 843.1881856120164
+    yaw: 345.7251
+    pitch: 13.08503
+  talar:
+    world: Survival
+    x: 207.91617751894987
+    y: 68.0
+    z: 444.1886924288468
+    yaw: -327.4375
+    pitch: 1.4065543
+logoutlocation:
+  world: Survival_plots
+  x: -173.00443722999398
+  y: 24.5
+  z: 28.568012907980716
+  yaw: -213.0968
+  pitch: 36.652195

@@ -1,0 +1,32 @@
+lastAccountName: Ruwd_
+timestamps:
+  login: 1617255823710
+  lastteleport: 1617255845805
+  kits:
+    pvp: 1617250011452
+    user: 1617250022822
+  logout: 1617255992755
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Survival
+  x: 9185.572423050815
+  y: 70.0
+  z: 5683.478266709355
+  yaw: 212.9025
+  pitch: 27.358334
+logoutlocation:
+  world: world
+  x: 78.66107264917872
+  y: 46.0
+  z: 37.45196124040991
+  yaw: -164.76854
+  pitch: 6.540254
+money: '544.8359999999984220'
+homes:
+  home:
+    world: Survival
+    x: 507.06960009339775
+    y: 42.0
+    z: 550.2588320714931
+    yaw: 276.00037
+    pitch: 32.784977

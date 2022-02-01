@@ -1,0 +1,159 @@
+#
+menu_title: '&8¡Survival Portals!'
+open_command: Mysteris
+size: 27
+items:
+  '1':
+    material: 'hdb-145'
+    slot: 11
+    display_name: '&c&lNether'
+    lore:
+    - '&aTo go use click Right/Left!'
+    left_click_commands:
+    - '[player] warp nether'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp nether'
+    - '[close]'
+  '2':
+    material: 'hdb-1110'
+    slot: 15
+    display_name: '&3&lEnd'
+    lore:
+    - '&aTo go use click Right/Left!'
+    left_click_commands:
+    - '[player] warp end'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp end'
+    - '[close]'
+  'Back':
+    material: 'hdb-10786'
+    slot: 22
+    display_name: '&4&l‹‹ Back'
+    left_click_commands:
+    - '[player] menu'
+    - '[close]'
+    right_click_commands:
+    - '[player] menu'
+    - '[close]'
+  'Next':
+    material: 'hdb-10783'
+    slot: 4
+    display_name: '&2&l›› Next'
+    left_click_commands:
+    - '[player] menu'
+    - '[close]'
+    right_click_commands:
+    - '[player] menu'
+    - '[close]'
+  'Panel1':
+    material: 160
+    data: 15
+    slot: 0
+    display_name: '&8'
+  'Panel2':
+    material: 160
+    data: 15
+    slot: 1
+    display_name: '&8'
+  'Panel3':
+    material: 160
+    data: 15
+    slot: 2
+    display_name: '&8'
+  'Panel4':
+    material: 160
+    data: 15
+    slot: 3
+    display_name: '&8'
+  'Panel5':
+    material: 160
+    data: 15
+    slot: 5
+    display_name: '&8'
+  'Panel6':
+    material: 160
+    data: 15
+    slot: 6
+    display_name: '&8'
+  'Panel7':
+    material: 160
+    data: 15
+    slot: 7
+    display_name: '&8'
+  'Panel8':
+    material: 160
+    data: 15
+    slot: 8
+    display_name: '&8'
+  'Panel9':
+    material: 160
+    data: 15
+    slot: 9
+    display_name: '&8'
+  'Panel10':
+    material: 160
+    data: 15
+    slot: 17
+    display_name: '&8'
+  'Panel11':
+    material: 160
+    data: 15
+    slot: 18
+    display_name: '&8'
+  'Panel12':
+    material: 160
+    data: 15
+    slot: 19
+    display_name: '&8'
+  'Panel13':
+    material: 160
+    data: 15
+    slot: 20
+    display_name: '&8'
+  'Panel14':
+    material: 160
+    data: 15
+    slot: 21
+    display_name: '&8'
+  'Panel16':
+    material: 160
+    data: 15
+    slot: 23
+    display_name: '&8'
+  'Panel17':
+    material: 160
+    data: 15
+    slot: 24
+    display_name: '&8'
+  'Panel18':
+    material: 160
+    data: 15
+    slot: 25
+    display_name: '&8'
+  'Panel19':
+    material: 160
+    data: 15
+    slot: 26
+    display_name: '&8'
+  'Panel20':
+    material: 160
+    data: 15
+    slot: 12
+    display_name: '&8'
+  'Panel21':
+    material: 160
+    data: 15
+    slot: 10
+    display_name: '&8'
+  'Panel22':
+    material: 160
+    data: 15
+    slot: 14
+    display_name: '&8'
+  'Panel24':
+    material: 160
+    data: 15
+    slot: 16
+    display_name: '&8'

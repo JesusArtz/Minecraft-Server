@@ -1,0 +1,113 @@
+#IS REQUIERED!
+# *-*-* REMEMBER TO CONFIGURE REWARDS.YML AFTER START THE SERVER AND CREATING THE SQL TABLE *-*-*
+MySQL:
+  # if it is true, plugin will use mysql db, if it is false, plugin will use sqlite local db
+  enable: false
+  ip: localhost
+  port: 3306
+  database: deliveryman
+  user: root
+  pass: 1234
+
+# Use votifier ?
+Votifier:
+  enable: false
+  # recive the vote only if the player is online
+  only_online: false
+  # more possible configuration on Rewards.yml
+
+# Npc configuration
+Npc:
+  # es.eltrueno.deliveryman.npc name
+  name: '&e&lREWARDS'
+  # es.eltrueno.deliveryman.npc skin name
+  skin: Zealock
+  holograms_heigh: 1.4
+  # This will be displayed in the hologram ussing the variable <animation>
+  # Per second update
+  # <player> = player's name
+  # <rewards> = number of rewards to claim
+  rewards_animation:
+    frame1:
+      none: '&rYou do not have any Padlock!'
+      singular: '&eDo you have &2<rewards> &ePadlock!'
+      plural: '&eDo you have &2<rewards> &ePadlocks!'
+    frame2:
+      none: '&4You do not have any Padlock!'
+      singular: '&6Do you have &a<rewards> &6Padlock!'
+      plural: '&eDo you have &a<rewards> &6Padlocks!'
+  # Holograms up the name
+  # <player> = player's name
+  # <rewards> = number of rewards to claim
+  holograms:
+  - '&b<player>'
+  - '<animation>'
+  - '&6&l>&e&l> &a&lRIGHT CLICK &e&l<&6&l<'
+
+# Message on join
+JoinMessage:
+  enable: true
+  # delay betwen join and send the message (in seconds)
+  message_delay: 1
+  # Placeholders:
+  # <rewards> = number of rewards to claim
+  # <player> = player's name
+  #
+  # when player have 0 rewards to claim
+  none_message:
+  - ''
+  - '&b&lREWARDS&8: &8At the moment you do not have any padlock, do not forget to claim them every so often..'
+  - ''
+  # when player have 1 es.eltrueno.deliveryman.reward to claim
+  singular_message:
+  - ''
+  - '&b&lREWARDS&8: &9<player> &8currently has &e1 &7Padlock'
+  - ''
+  # when player have more than 1 rewards to claim
+  plural_message:
+  - ''
+  - '&b&lREWARDS&8: &9<player> &8you currently have &c<rewards> &8Padlocks'
+  - ''
+
+RewardMenu:
+  # menu title
+  title: '&8¡Rewards!'
+  # 1-6
+  rows: 3
+  # close menu when click a item to get a vote link
+  vote_close: true
+  # Close menu on click
+  auto_close: false
+
+#WARNING! Only for advanzed users, the bad modification of this can cause severe lag problems or bugs.
+#I am not responsible of any problems after modify this.
+Advanzed_settings:
+  # possible methods: ram / cpu
+  #
+  # RAM: use more ram (recommended if your server has a bad cpu or have tps problems)
+  # How it works? When a player join, it creates on ram a inventory only for this player and when
+  # player left, it remove it. So each second, if player has inventory opened, this inventory will
+  # be updated.
+  #
+  # CPU: use more cpu (recommended if your server ram is ussed by other plugins or things)
+  # How it works? Each time a player click to open the menu, it creates a task for this player. This task
+  # will update the inventory every second. The task will be canceled when the player close the menu
+  #
+  update_method: ram 
+  
+  #How often will be updated the animation hologram.
+  #(Only animation es.eltrueno.deliveryman.hologram. Reward variable inside of it won't be updated here)
+  #(ticks)
+  animation_update: 20
+  
+  #How often will be updated the reward menu.
+  #Menu only update for the players that has the menu opened. (no innecasery lag)
+  #(ticks)
+  menu_update: 20
+  
+  #How often will be updated the holograms.
+  #This update all the, incluiding animation hologram, and incluiding reward variable of it.
+  #(ticks)
+  hologram_update: 160
+
+

@@ -1,0 +1,233 @@
+# ########################################################
+#        This is the main configuration of MyPet         #
+#          You can find more info in the wiki:           #
+#        https://wiki.mypet-plugin.de/configfile         #
+# ########################################################
+
+MyPet:
+  Update:
+    Check: true
+    Download: false
+    ReplaceOld: false
+    In-Background: false
+  Leash:
+    Consume: false
+    AllowRanged: true
+  OwnerCanAttackPet: false
+  DisablePetVersusPlayer: false
+  RemovePetsAfterRelease: false
+  FollowStartDistance: 7.0
+  ReleasePetsOnDeath: false
+  RetainEquipmentOnTame: true
+  Make-Pet-Invisible-When-Owner-Is-Invisible: true
+  Log:
+    Level: INFO
+  Max-Stored-Pet-Count: 45
+  Throw-PlayerMoveEvent-While-Riding: true
+  Disable-All-Actionbar-Messages: false
+  OverwriteLanguages: ''
+  Respawn:
+    Time:
+      Default:
+        Factor: 5
+        Fixed: 0
+      Player:
+        Factor: 5
+        Fixed: 0
+    EconomyCost:
+      Fixed: 0.0
+      Factor: 1.0
+  Permissions:
+    Enabled: true
+    Extended: false
+    Legacy: false
+  LevelSystem:
+    CalculationMode: Default
+  HungerSystem:
+    Active: true
+    Time: 60
+    SaturationPerFeed: 6.0
+    Affect-Ride-Speed: true
+    Affect-Beacon-Range: true
+  Skilltree:
+    AutomaticAssignment: false
+    RandomAssignment: false
+    InheritAlreadyInheritedSkills: false
+    ChooseOnce: false
+    PreventLevellingWithout: true
+    SwitchFee:
+      Fixed: 0.0
+      Percent: 5
+      Admin: false
+  Hooks:
+    Kingdoms: true
+    Towny: true
+    Heroes: true
+    Factions: true
+    WorldGuard: true
+    Citizens: true
+    mcMMO: true
+    SimpleClans: true
+    RedProtect: true
+    MobArena:
+      Enabled: true
+      AllowPets: true
+      RespectPvPRule: true
+    Residence: true
+    AncientRPG: true
+    GriefPrevention: true
+    PvPManager: true
+    PvPDiffTimer: true
+    Minigames:
+      DisablePetsInGames: true
+    PvPArena:
+      DisablePetsInArena: true
+      PvP: true
+    PlotSquared: true
+    SurvivalGames:
+      PvP: true
+      DisablePetsInGames: true
+    MyHungerGames:
+      DisablePetsInGames: true
+    BattleArena:
+      DisablePetsInArena: true
+    Vault:
+      Economy: true
+    SkillAPI:
+      GrantExp: true
+      Disable-Vanilla-Exp: false
+    MythicMobs:
+      Disable-Leashing: true
+  Name:
+    Filter:
+    - whore
+    - fuck
+    MaxLength: 32
+    Tag:
+      Show: true
+      Prefix: <aqua>
+      Suffix: ''
+  Exp:
+    DamageWeightedExperienceDistribution: true
+    Passive:
+      Always-Grant-Passive-XP: true
+      PercentPerMonster: 25
+    Loss:
+      Percent: 0
+      Fixed: 0.0
+      Drop: true
+    Gain:
+      PreventFromSpawnReason: []
+    LevelCap: 100
+    Disabled-Worlds: []
+    Active:
+      CREEPER:
+        Min: 5.0
+        Max: 5.0
+      SKELETON:
+        Min: 5.0
+        Max: 5.0
+      SPIDER:
+        Min: 5.0
+        Max: 5.0
+      GIANT:
+        Min: 25.0
+        Max: 25.0
+      ZOMBIE:
+        Min: 5.0
+        Max: 5.0
+      SLIME:
+        Min: 1.0
+        Max: 4.0
+      GHAST:
+        Min: 5.0
+        Max: 5.0
+      PIG_ZOMBIE:
+        Min: 5.0
+        Max: 5.0
+      ENDERMAN:
+        Min: 5.0
+        Max: 5.0
+      CAVE_SPIDER:
+        Min: 5.0
+        Max: 5.0
+      SILVERFISH:
+        Min: 5.0
+        Max: 5.0
+      BLAZE:
+        Min: 10.0
+        Max: 10.0
+      MAGMA_CUBE:
+        Min: 1.0
+        Max: 4.0
+      ENDER_DRAGON:
+        Min: 20000.0
+        Max: 20000.0
+      WITHER:
+        Min: 100.0
+        Max: 100.0
+      BAT:
+        Min: 1.0
+        Max: 1.0
+      WITCH:
+        Min: 10.0
+        Max: 10.0
+      ENDERMITE:
+        Min: 3.0
+        Max: 3.0
+      GUARDIAN:
+        Min: 10.0
+        Max: 10.0
+      PIG:
+        Min: 1.0
+        Max: 3.0
+      SHEEP:
+        Min: 1.0
+        Max: 3.0
+      COW:
+        Min: 1.0
+        Max: 3.0
+      CHICKEN:
+        Min: 1.0
+        Max: 3.0
+      SQUID:
+        Min: 1.0
+        Max: 3.0
+      WOLF:
+        Min: 1.0
+        Max: 3.0
+      MUSHROOM_COW:
+        Min: 1.0
+        Max: 3.0
+      SNOWMAN:
+        Min: 0.0
+        Max: 0.0
+      OCELOT:
+        Min: 1.0
+        Max: 3.0
+      IRON_GOLEM:
+        Min: 0.0
+        Max: 0.0
+      RABBIT:
+        Min: 1.0
+        Max: 1.0
+      VILLAGER:
+        Min: 0.0
+        Max: 0.0
+      ENDER_CRYSTAL:
+        Min: 10.0
+        Max: 10.0
+  Skill:
+    Control:
+      Item: 420
+    Inventory:
+      Creative: false
+      DropWhenOwnerDies: false
+    Beacon:
+      HungerDecreaseTime: 100
+      Party-Support: true
+    Ride:
+      Item: 420
+      HungerPerMeter: 0.01
+  Info:
+    Wiki-URL: https://wiki.mypet-plugin.de

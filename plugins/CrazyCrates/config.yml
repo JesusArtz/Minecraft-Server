@@ -1,0 +1,66 @@
+#List of all the enchantments: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/enchantments/Enchantment.html
+Settings:
+  Prefix: '&8'
+  InventoryName: '&8¡Skyblock Drawers!'
+  InventorySize: 45
+  KnockBack: true
+  Update-Checker: true
+  Show-Preview: true #Toggle this on and off if you want to show the preview for the crates when left clicked.
+  Physical-Accepts-Virtual-Keys: true #If physical crates can accept virtual keys.
+  Virtual-Accepts-Physical-Keys: true #If virtual crates can accept physical keys.
+  Give-Virtual-Keys-When-Inventory-Full: false #If the player's inventory is full when given a physical key it will instead give them virtual keys. If false it will drop the keys on the ground.
+  QuadCrate:
+    Timer: 300
+  DisabledWorlds:
+    - 'world_nether'
+    - 'world_the_end'
+    - 'Survival'
+    - 'Survival_plots'
+    - 'world_pvp'
+  Preview:
+    Buttons:
+      Menu:
+        Item: '342'
+        Name: '&6➜ &e&lDrawers'
+        Lore:
+          - '&7Click to return to the drawers'
+      Next:
+        Item: '143'
+        Name: '&aNext &2&l»&a&l»'
+        Lore:
+          - '&7Click to go to the next page'
+      Back:
+        Item: '77'
+        Name: '&c&l«&4&l« &cBack'
+        Lore:
+          - '&7Click to return to the previous page'
+  Filler: #This allows you to quickly fill the GUI with one item.
+    Toggle: false #If it fills the GUI with an item.
+    Item: '160:15' #The item you wish to use.
+    Name: ' ' #The name of the item.
+    Lore: {} #The lore of the item.
+  GUI-Customizer: #Place extra items in the GUI. If you wish to not use this, remove all items and set it to GUI-Customizer: {}
+    - 'Slot:1, Item:160:15, Name: '
+    - 'Slot:2, Item:160:15, Name: '
+    - 'Slot:3, Item:160:15, Name: '
+    - 'Slot:4, Item:160:15, Name: '
+    - 'Slot:5, Item:160:15, Name: '
+    - 'Slot:6, Item:160:15, Name: '
+    - 'Slot:7, Item:160:15, Name: '
+    - 'Slot:8, Item:160:15, Name: '
+    - 'Slot:9, Item:160:15, Name: '
+    - 'Slot:10, Item:160:15, Name: '
+    - 'Slot:18, Item:160:15, Name: '
+    - 'Slot:19, Item:160:15, Name: '
+    - 'Slot:27, Item:160:15, Name: '
+    - 'Slot:28, Item:160:15, Name: '
+    - 'Slot:36, Item:160:15, Name: '
+    - 'Slot:37, Item:160:15, Name: '
+    - 'Slot:38, Item:160:15, Name: '
+    - 'Slot:39, Item:160:15, Name: '
+    - 'Slot:40, Item:160:15, Name: '
+    - 'Slot:41, Item:160:15, Name: '
+    - 'Slot:42, Item:160:15, Name: '
+    - 'Slot:43, Item:160:15, Name: '
+    - 'Slot:44, Item:160:15, Name: '
+    - 'Slot:45, Item:160:15, Name: '

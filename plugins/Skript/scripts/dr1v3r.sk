@@ -1,0 +1,115 @@
+on death:
+	set death message to ""
+	stop
+	
+on join:
+	set join message to ""
+	stop 
+	
+on quit:
+	set leave message to ""
+	stop
+
+on weather change to rain or thunder:
+	cancel event
+	
+on command "//calc":
+	cancel event
+	send "&cUsted no puede utilizar este comando."
+	
+#Desenvolvido por DR1V3R_
+#Não retire os créditos
+
+options:
+	msg_pl: &fPlugins (1): &axD
+on command:
+
+	if command contains ":" or "?":
+		cancel event
+		send "&cUsted no puede utilizar este comando."
+		stop
+
+on command "tell console":
+	cancel event
+	send "&cUsted no puede utilizar este comando."
+on command "t console":
+	cancel event
+	send "&cUsted no puede utilizar este comando."
+on command "whisper console":
+	cancel event
+	send "&cUsted no puede utilizar este comando."
+on command "w console":
+	cancel event
+	send "&cUsted no puede utilizar este comando."
+on command "msg console":
+	cancel event
+	send "&cUsted no puede utilizar este comando."
+command bukkit:me:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command help:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command version:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command bukkit:help:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command about:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command bukkit:about:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command bukkit:version:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command bukkit:?:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command ?:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command bukkit:ver:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command ver:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command bukkit:pl:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command bukkit:plugins:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command plugins:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+command pl:
+	trigger:
+		send "&cUsted no puede utilizar este comando."
+on command "/logout":
+	cancel event
+	send "&cUsted no puede utilizar este comando."
+	
+	
+#Sempre de dia
+at 6pm in "world":
+	set time to 07:00
+	
+
+on break lapis ore:
+	chance of 1%:
+		execute console command "/fuel 1 %player% 1"
+		execute console command "/tm message %player% &2&lSORTE <nl> &bVoce achou um combustivel minerando"
+on break lapis ore:
+	chance of 0.5%:
+		execute console command "/fuel 2 %player% 1"
+		execute console command "/tm message %player% &2&lSORTE <nl> &bVoce achou um combustivel minerando"#
+on break lapis ore:
+	chance of 0.1%:
+		execute console command "/fuel 3 %player% 1"
+		execute console command "/tm message %player% &2&lSORTE <nl> &bVoce achou um combustivel minerando"
+		
+	

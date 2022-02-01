@@ -1,0 +1,35 @@
+settings:
+  Spawner-max: 5
+  Search-Radius: 8x4x8
+  Spawner-Spawn-Equation: '{MULTI} + {RAND}'
+  Spawner-Rate-Equation: '{DEFAULT} / {MULTI}'
+  Glass-Type-1: 7
+  Glass-Type-2: 11
+  Glass-Type-3: 3
+  Random-Low: 1
+  Random-High: 3
+  Rainbow-Glass: false
+  Silktouch-spawners: true
+  Eggs-convert-spawners: false
+  Alert-place-break: false
+  Sneak-for-stack: true
+  Display-Level-One: false
+  Spawner-holograms: false
+  Upgrade-with-eco: true
+  Upgrade-with-xp: true
+  Upgrade-xp-cost: 500
+  Upgrade-eco-cost: 5000000
+  ECO-Icon: DOUBLE_PLANT
+  XP-Icon: EXP_BOTTLE
+  Only-drop-stacked: false
+  Helpful-Tips: true
+  Thin-Entity-data: true
+  Debug-Mode: false
+  SpawnEffect: EXPLOSION_NORMAL
+  Max-Entities-Around-Single-Spawner: 5
+  Large-Entity-Safe-Spawning: true
+  Upgrade-particle-type: WITCH_MAGIC
+  Use-equations: false
+  XP-cost-equation: '{XPCost} * {Level}'
+  ECO-cost-equation: '{ECOCost} * {Level}'
+  Name-format: '&e{TYPE} &fSpawner [&c{AMT}x]'

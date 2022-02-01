@@ -1,0 +1,239 @@
+(08:56:30) azen5513 failed Speed check | suspicious movement (move: 0.231, predict: 0.212, friction: 0.6, ground:false, motY: 0.001, increase:0.026, preMove:0.186, motion: 0.125,0.001,0.194, attribute: 0.13, tag: pred) (+5) | vl:5 ping:0 tps:20.0 lp:0 component: move.xz
+(08:56:33) azen5513 failed Speed check | suspicious movement (move: 4.817, tag: gv-) (+10) | vl:15 ping:0 tps:20.0 lp:0 component: speed.main
+(08:56:33) azen5513 failed Speed check | suspicious movement (move: 4.817, predict: 0.248, friction: 0.6, ground:true, motY: -0.062, increase:0.13, preMove:0.118, motion: 1.019,-0.062,-4.708, attribute: 0.13, tag: pred) (+5) | vl:20 ping:0 tps:20.0 lp:0 component: move.xz
+(11:39:02) JossielDark failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+0) | vl:0 ping:292 tps:20.0 lp:401 component: interact.through
+(11:40:00) JossielDark failed BadPackets check | (timer) send 42 moving packets in 1052ms | tag: limit (+3) | vl:3 ping:299 tps:20.0 lp:13 component: net.timer
+(11:40:00) JossielDark failed Speed check | suspicious movement (move: 2.501, expect: 0.4065, tag: ea) (+6) | vl:6 ping:299 tps:20.0 lp:13 component: speed.main
+(11:40:00) JossielDark failed Speed check | suspicious movement (move: 2.501, predict: 0.295, friction: 0.6, ground:false, motY: 1.225, increase:0.026, preMove:0.269, motion: 2.466,1.225,0.415, attribute: 0.13, tag: pred) (+1) | vl:7 ping:299 tps:20.0 lp:13 component: move.xz
+(11:40:00) JossielDark failed Fly check | step | p:4 (+0) | vl:2 ping:299 tps:20.0 lp:13 component: speed.step
+(11:40:00) JossielDark failed Fly check | step | p: 1 | m:1.2247629905310013 ev:-0.155 lm:0.99 (+2) | vl:2 ping:299 tps:20.0 lp:13 component: speed.step
+(11:40:01) JossielDark failed Speed check | suspicious movement (move: 0.715, expect: 0.45899999999999996, g_tk:4, tag: b) (+2) | vl:9 ping:299 tps:20.0 lp:20 component: speed.main
+(11:40:01) JossielDark failed Speed check | suspicious movement (move: 0.715, predict: 0.265, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.135, motion: -0.704,0.0,-0.123, attribute: 0.13, tag: pred) (+1) | vl:10 ping:299 tps:20.0 lp:20 component: move.xz
+(11:40:01) JossielDark failed Speed check | suspicious movement (move: 0.467, expect: 0.45899999999999996, g_tk:5, tag: b) (+2) | vl:12 ping:299 tps:20.0 lp:20 component: speed.main
+(11:40:01) JossielDark failed Speed check | suspicious movement (move: 0.467, predict: 0.275, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.145, motion: -0.46,0.0,-0.081, attribute: 0.13, tag: pred) (+1) | vl:13 ping:299 tps:20.0 lp:20 component: move.xz
+(11:40:01) JossielDark failed Speed check | suspicious movement (move: 2.354, expect: 0.4065, tag: ea) (+6) | vl:19 ping:299 tps:20.0 lp:20 component: speed.main
+(11:40:01) JossielDark failed Speed check | suspicious movement (move: 2.354, predict: 0.283, friction: 0.6, ground:false, motY: -1.252, increase:0.026, preMove:0.257, motion: -2.319,-1.252,-0.406, attribute: 0.13, tag: pred) (+1) | vl:20 ping:299 tps:20.0 lp:20 component: move.xz
+(11:40:01) JossielDark failed Fly check | suspicious movement:-1.252 predict:-0.075 lm:0.003 hard_pred:-0.075 sev_pred:0.003 air_t:6 fall_t:1 g:-+ tag:gn (+1) | vl:3 ping:299 tps:20.0 lp:20 component: fly.main
+(11:40:01) JossielDark failed Speed check | suspicious movement (move: 0.449, expect: 0.4065, tag: ea) (+1) | vl:21 ping:299 tps:20.0 lp:20 component: speed.main
+(11:40:01) JossielDark failed Speed check | suspicious movement (move: 0.449, predict: 0.283, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.257, motion: -0.442,0.0,-0.077, attribute: 0.13, tag: pred) (+1) | vl:22 ping:299 tps:20.0 lp:20 component: move.xz
+(11:40:02) JossielDark failed Speed check | suspicious movement (move: 0.504, expect: 0.45899999999999996, g_tk:5, tag: b) (+2) | vl:24 ping:299 tps:20.0 lp:20 component: speed.main
+(11:40:02) JossielDark failed Speed check | suspicious movement (move: 0.504, predict: 0.273, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.143, motion: -0.496,0.0,-0.087, attribute: 0.13, tag: pred) (+1) | vl:25 ping:299 tps:20.0 lp:20 component: move.xz
+(11:40:44) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:320 tps:20.0 lp:24 component: fly.main
+(11:40:54) SaBUT1 failed Phase check | moved into block (block: chest, move: 0.025,0.333,0.286, at: -134.006,20.753,-7.238, dist: 0.287, loop: false) (+1) | vl:1 ping:276 tps:20.0 lp:22 component: phase.main
+(11:40:55) SaBUT1 failed Phase check | moved into block (block: chest, move: -0.002,-0.186,0.089, at: -134.029,20.0,-7.291, dist: 0.089, loop: false) (+1) | vl:2 ping:276 tps:20.0 lp:22 component: phase.main
+(11:41:50) SaBUT1 failed BadPackets check | (timer) send 37 moving packets in 1083ms | tag: limit (+1) | vl:1 ping:1197 tps:20.0 lp:36 component: net.timer
+(11:41:50) SaBUT1 failed Speed check | suspicious movement (move: 0.431, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:1 ping:1197 tps:20.0 lp:36 component: speed.main
+(11:41:51) SaBUT1 failed Speed check | suspicious movement (move: 1.384, expect: 0.45899999999999996, g_tk:7, tag: b) (+2) | vl:3 ping:1197 tps:20.0 lp:36 component: speed.main
+(11:41:51) SaBUT1 failed Speed check | suspicious movement (move: 1.384, predict: 0.249, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.119, motion: -1.263,0.0,0.566, attribute: 0.13, tag: pred) (+1) | vl:4 ping:1197 tps:20.0 lp:36 component: move.xz
+(11:41:51) SaBUT1 failed Speed check | suspicious movement (move: 0.427, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:5 ping:1197 tps:20.0 lp:36 component: speed.main
+(11:41:51) SaBUT1 failed Speed check | suspicious movement (move: 0.427, predict: 0.266, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.136, motion: -0.39,0.0,0.175, attribute: 0.13, tag: pred) (+1) | vl:6 ping:1197 tps:20.0 lp:36 component: move.xz
+(11:41:51) SaBUT1 failed Speed check | suspicious movement (move: 1.316, tag: gv-) (+1) | vl:7 ping:1197 tps:20.0 lp:36 component: speed.main
+(11:41:51) SaBUT1 failed Speed check | suspicious movement (move: 1.316, predict: 0.25, friction: 0.6, ground:true, motY: -0.5, increase:0.13, preMove:0.12, motion: -1.201,-0.5,0.538, attribute: 0.13, tag: pred) (+1) | vl:8 ping:1197 tps:20.0 lp:36 component: move.xz
+(11:42:52) SaBUT1 failed Phase check | moved into block (block: chest, move: 0.014,0.333,0.152, at: -134.307,20.753,-7.238, dist: 0.153, loop: false) (+1) | vl:1 ping:283 tps:20.0 lp:142 component: phase.main
+(11:44:01) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:278 tps:20.0 lp:19 component: speed.main
+(11:48:38) JossielDark failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:278 tps:20.0 lp:9 component: speed.main
+(11:49:57) JossielDark failed Speed check | suspicious movement (0.299, air_t: 12, lm:0.0, tag: ed) (+2) | vl:2 ping:300 tps:20.0 lp:134 component: speed.main
+(11:54:47) JossielDark failed Fly check | suspicious movement:0.0 predict:-0.002 vel:-0.155 air_t:12 tag:m4 (+3) | vl:3 ping:273 tps:20.0 lp:7 component: fly.main
+(11:54:47) JossielDark failed Fly check | suspicious movement:0.078 predict:-0.155 vel:-0.304 air_t:12 tag:m4 (+3) | vl:6 ping:273 tps:20.0 lp:7 component: fly.main
+(11:56:40) JossielDark failed Fly check | suspicious movement:-0.374 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.377 air_t:11 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:274 tps:20.0 lp:146 component: fly.main
+(12:00:47) SaBUT1 failed Speed check | t: spin (+1) | vl:1 ping:278 tps:20.0 lp:39 component: speed.spin
+(12:01:35) JossielDark failed Phase check | moved into block (block: wood, move: 0.273,0.034,-0.048, at: -162.711,4.2,-41.62, dist: 0.277, loop: false) (+1) | vl:1 ping:284 tps:20.0 lp:27 component: phase.main
+(12:01:37) JossielDark failed Phase check | moved into block (block: dirt, move: -0.26,0.034,0.02, at: -164.435,4.2,-42.662, dist: 0.261, loop: false) (+1) | vl:2 ping:284 tps:20.0 lp:27 component: phase.main
+(12:03:03) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:290 tps:20.0 lp:7 component: speed.main
+(12:03:27) JossielDark failed Speed check | suspicious movement (move: 0.444, expect: 0.24, tag: c,noslow) (+1) | vl:1 ping:276 tps:20.0 lp:59 component: speed.main
+(12:03:27) JossielDark failed Speed check | suspicious movement (move: 0.215, expect: 0.19, tag: ea,noslow) (+1) | vl:2 ping:276 tps:20.0 lp:59 component: speed.main
+(12:03:27) JossielDark failed Speed check | suspicious movement (move: 0.201, expect: 0.19, tag: ea,noslow) (+1) | vl:3 ping:276 tps:20.0 lp:59 component: speed.main
+(12:05:00) JossielDark failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:288 tps:20.0 lp:15 component: speed.main
+(12:05:19) SaBUT1 failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+1) | vl:1 ping:255 tps:20.0 lp:83 component: speed.main
+(12:05:44) JossielDark failed Fly check | step | p: 1 | m:1.5 ev:-0.155 lm:1.49 (+2) | vl:2 ping:284 tps:20.0 lp:67 component: speed.step
+(12:08:56) SaBUT1 failed BadPackets check | (timer) send 39 moving packets in 1131ms | tag: limit (+3) | vl:3 ping:276 tps:20.0 lp:23 component: net.timer
+(12:08:57) SaBUT1 failed Speed check | suspicious movement (move: 1.106, expect: 0.419, g_tk:7, tag: b) (+5) | vl:5 ping:276 tps:20.0 lp:23 component: speed.main
+(12:08:57) SaBUT1 failed Speed check | suspicious movement (move: 1.106, predict: 0.164, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.034, motion: -0.499,0.0,0.987, attribute: 0.13, tag: pred) (+1) | vl:6 ping:276 tps:20.0 lp:23 component: move.xz
+(12:10:22) SaBUT1 failed BadPackets check | (timer) send 36 moving packets in 1002ms | tag: limit (+3) | vl:3 ping:274 tps:20.0 lp:15 component: net.timer
+(12:10:42) SaBUT1 failed Inventory check | inventory move | pattern: b | s:31 (+2) | vl:2 ping:290 tps:20.0 lp:21 component: inv.move
+(12:10:43) SaBUT1 failed Inventory check | inventory move | pattern: b | s:15 (+2) | vl:4 ping:290 tps:20.0 lp:21 component: inv.move
+(12:10:57) SaBUT1 failed Inventory check | inventory move | pattern: b | s:24 (+1) | vl:1 ping:729 tps:20.0 lp:27 component: inv.move
+(12:11:03) SaBUT1 failed Inventory check | inventory move | pattern: b | s:31 (+2) | vl:3 ping:676 tps:20.0 lp:19 component: inv.move
+(12:11:04) SaBUT1 failed Inventory check | inventory move | pattern: b | s:15 (+2) | vl:5 ping:676 tps:20.0 lp:19 component: inv.move
+(12:11:13) SaBUT1 failed FastHeal check | regen health too fast (difficulty: hard, delay: 3.214, ver: 8) (+1) | vl:1 ping:250 tps:20.0 lp:49 component: heal
+(12:11:13) SaBUT1 failed BadPackets check | (timer) send 37 moving packets in 1177ms | tag: limit (+1) | vl:1 ping:250 tps:20.0 lp:49 component: net.timer
+(12:11:52) SaBUT1 failed Fly check | suspicious movement:0.333 predict:0.253 vel:0.248 air_t:2 tag:vt (+1) | vl:1 ping:314 tps:20.0 lp:151 component: fly.main
+(12:11:52) SaBUT1 failed Fly check | suspicious movement:0.248 predict:0.17 vel:0.165 air_t:3 tag:vt (+1) | vl:2 ping:314 tps:20.0 lp:151 component: fly.main
+(12:11:52) SaBUT1 failed Fly check | suspicious movement:0.165 predict:0.088 vel:0.083 air_t:4 tag:vt (+1) | vl:3 ping:314 tps:20.0 lp:151 component: fly.main
+(12:12:46) SaBUT1 failed Speed check | suspicious movement (move: 0.544, predict: 0.33, friction: 0.6, ground:true, motY: 0.42, increase:0.33, preMove:0.0, motion: -0.215,0.42,-0.5, attribute: 0.13, tag: pred) (+1) | vl:1 ping:373 tps:20.0 lp:150 component: move.xz
+(12:12:47) SaBUT1 failed BadPackets check | (timer) send 47 moving packets in 1023ms | tag: limit (+1) | vl:1 ping:373 tps:20.0 lp:150 component: net.timer
+(12:12:47) SaBUT1 failed Speed check | suspicious movement (move: 1.28, expect: 0.3665, tag: ea) (+3) | vl:4 ping:373 tps:20.0 lp:150 component: speed.main
+(12:12:47) SaBUT1 failed Speed check | suspicious movement (move: 1.28, predict: 0.075, friction: 0.6, ground:false, motY: 1.086, increase:0.026, preMove:0.049, motion: 0.584,1.086,-1.139, attribute: 0.13, tag: pred) (+1) | vl:5 ping:373 tps:20.0 lp:150 component: move.xz
+(12:12:47) SaBUT1 failed Fly check | step | p: 1 | m:1.0860940793155152 ev:0.165 lm:0.99 (+2) | vl:2 ping:373 tps:20.0 lp:150 component: speed.step
+(12:12:47) SaBUT1 failed Fly check | suspicious movement:1.086 predict:0.088 vel:0.165 air_t:4 tag:vt (+1) | vl:3 ping:373 tps:20.0 lp:150 component: fly.main
+(12:12:51) SaBUT1 failed Phase check | moved into block (block: stone, move: 0.115,0.0,0.022, at: 792.769,89.0,-365.783, dist: 0.117, loop: false) (+1) | vl:1 ping:308 tps:20.0 lp:41 component: phase.main
+(12:12:51) SaBUT1 failed Phase check | moved into block (block: stone, move: 0.178,0.0,0.035, at: 792.831,89.0,-365.771, dist: 0.181, loop: false) (+1) | vl:2 ping:308 tps:20.0 lp:41 component: phase.main
+(12:12:51) SaBUT1 failed Phase check | moved into block (block: stone, move: 0.212,0.0,0.041, at: 792.866,89.0,-365.764, dist: 0.216, loop: false) (+1) | vl:3 ping:308 tps:20.0 lp:41 component: phase.main
+(12:12:51) SaBUT1 failed Speed check | suspicious movement (move: 0.343, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:6 ping:308 tps:20.0 lp:41 component: speed.main
+(12:12:51) SaBUT1 failed Phase check | moved into block (block: stone, move: 0.339,0.0,0.054, at: 792.992,89.0,-365.751, dist: 0.343, loop: false) (+1) | vl:4 ping:308 tps:20.0 lp:41 component: phase.main
+(12:12:51) SaBUT1 failed Speed check | suspicious movement (move: 0.402, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:7 ping:308 tps:20.0 lp:41 component: speed.main
+(12:12:51) SaBUT1 failed Speed check | suspicious movement (move: 0.402, predict: 0.317, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.187, motion: 0.398,0.0,0.06, attribute: 0.13, tag: pred) (+1) | vl:8 ping:308 tps:20.0 lp:41 component: move.xz
+(12:12:51) SaBUT1 failed Phase check | moved into block (block: stone, move: 0.398,0.0,0.06, at: 793.051,89.0,-365.746, dist: 0.402, loop: false) (+1) | vl:5 ping:308 tps:20.0 lp:41 component: phase.main
+(12:12:51) SaBUT1 failed Speed check | suspicious movement (move: 0.434, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:9 ping:308 tps:20.0 lp:41 component: speed.main
+(12:12:52) SaBUT1 failed Speed check | suspicious movement (move: 0.434, predict: 0.35, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.22, motion: 0.43,0.0,0.06, attribute: 0.13, tag: pred) (+1) | vl:10 ping:308 tps:20.0 lp:41 component: move.xz
+(12:12:52) SaBUT1 failed Phase check | moved into block (block: stone, move: 0.43,0.0,0.06, at: 793.083,89.0,-365.746, dist: 0.434, loop: false) (+1) | vl:6 ping:308 tps:20.0 lp:41 component: phase.main
+(12:12:52) SaBUT1 failed Speed check | suspicious movement (move: 0.466, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:11 ping:308 tps:20.0 lp:41 component: speed.main
+(12:12:52) SaBUT1 failed Speed check | suspicious movement (move: 0.466, predict: 0.367, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.237, motion: 0.462,0.0,0.06, attribute: 0.13, tag: pred) (+1) | vl:12 ping:308 tps:20.0 lp:41 component: move.xz
+(12:12:52) SaBUT1 failed Phase check | moved into block (block: stone, move: 0.462,0.0,0.06, at: 793.116,89.0,-365.746, dist: 0.466, loop: false) (+1) | vl:7 ping:308 tps:20.0 lp:41 component: phase.main
+(12:12:52) Execute command: matrix notify SaBUT1 is phase into block (Phase)
+(12:12:59) SaBUT1 failed Inventory check | inventory move | pattern: b | s:15 (+1) | vl:1 ping:248 tps:20.0 lp:37 component: inv.move
+(12:13:19) JossielDark failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.155 air_t:8 fall_t:3 g:-- tag:gn (+1) | vl:1 ping:285 tps:20.0 lp:10 component: fly.main
+(12:13:37) SaBUT1 failed Inventory check | inventory move | pattern: b | s:15 (+7) | vl:7 ping:0 tps:20.0 lp:0 component: inv.move
+(12:13:52) JossielDark failed Inventory check | inventory move | pattern: b | s:11 (+1) | vl:1 ping:278 tps:20.0 lp:26 component: inv.move
+(12:13:55) JossielDark failed Phase check | moved into block (block: stone, move: 0.023,0.034,-0.282, at: -139.547,9.2,50.418, dist: 0.283, loop: false) (+1) | vl:1 ping:278 tps:20.0 lp:26 component: phase.main
+(12:14:00) SaBUT1 failed Fly check | suspicious movement:0.42 predict:0.338 vel:-0.078 air_t:1 tag:vt (+1) | vl:1 ping:286 tps:20.0 lp:26 component: fly.main
+(12:14:00) SaBUT1 failed Fly check | suspicious movement:0.333 predict:0.253 vel:0.42 air_t:2 tag:vt (+1) | vl:2 ping:286 tps:20.0 lp:26 component: fly.main
+(12:14:00) SaBUT1 failed Fly check | suspicious movement:0.248 predict:0.17 vel:0.333 air_t:3 tag:vt (+1) | vl:3 ping:286 tps:20.0 lp:26 component: fly.main
+(12:14:00) SaBUT1 failed Fly check | suspicious movement:0.165 predict:0.088 vel:0.248 air_t:4 tag:vt (+1) | vl:4 ping:286 tps:20.0 lp:26 component: fly.main
+(12:14:50) SaBUT1 failed Fly check | step | p: 1 | m:1.5 ev:-0.155 lm:1.49 (+4) | vl:4 ping:240 tps:20.0 lp:185 component: speed.step
+(12:15:30) JossielDark failed Inventory check | inventory move | pattern: b | s:14 (+1) | vl:1 ping:277 tps:20.0 lp:40 component: inv.move
+(12:16:05) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+1) | vl:1 ping:285 tps:20.0 lp:27 component: speed.main
+(12:16:57) JossielDark failed Phase check | moved into block (block: chest, move: 0.008,-0.075,0.161, at: -129.238,21.177,-11.22, dist: 0.161, loop: false) (+1) | vl:1 ping:274 tps:20.0 lp:21 component: phase.main
+(12:16:57) JossielDark failed Phase check | moved into block (block: chest, move: -0.019,-0.228,0.166, at: -129.267,20.797,-10.89, dist: 0.167, loop: false) (+1) | vl:2 ping:274 tps:20.0 lp:21 component: phase.main
+(12:16:58) JossielDark failed Phase check | moved into block (block: chest, move: 0.049,0.0,0.21, at: -129.298,20.0,-8.841, dist: 0.216, loop: false) (+1) | vl:3 ping:284 tps:20.0 lp:21 component: phase.main
+(12:17:10) SaBUT1 failed Inventory check | inventory move | pattern: b | s:11 (+1) | vl:1 ping:273 tps:20.0 lp:67 component: inv.move
+(12:17:11) SaBUT1 failed Inventory check | inventory move | pattern: b | s:24 (+1) | vl:2 ping:273 tps:20.0 lp:67 component: inv.move
+(12:17:14) SaBUT1 failed Fly check | suspicious movement:-0.232 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:5 fall_t:1 g:-+ tag:gn (+1) | vl:1 ping:334 tps:20.0 lp:67 component: fly.main
+(12:17:14) SaBUT1 failed Fly check | suspicious movement:-0.247 predict:-0.305 lm:-0.232 hard_pred:-0.305 sev_pred:-0.231 air_t:6 fall_t:1 g:+- tag:gn (+1) | vl:2 ping:334 tps:20.0 lp:67 component: fly.main
+(12:17:14) SaBUT1 failed Speed check | suspicious movement (move: 0.449, expect: 0.3665, tag: ea) (+1) | vl:1 ping:334 tps:20.0 lp:75 component: speed.main
+(12:17:14) SaBUT1 failed Speed check | suspicious movement (0.449, air_t: 12, lm:0.123, tag: ed) (+2) | vl:3 ping:334 tps:20.0 lp:75 component: speed.main
+(12:17:20) SaBUT1 failed Inventory check | inventory move | pattern: b | s:25 (+1) | vl:3 ping:334 tps:20.0 lp:75 component: inv.move
+(12:18:04) JossielDark failed Speed check | suspicious movement (move: 1.213, expect: 0.4065, tag: ea) (+3) | vl:3 ping:290 tps:20.0 lp:71 component: speed.main
+(12:18:04) JossielDark failed Speed check | suspicious movement (move: 1.213, predict: 0.172, friction: 0.6, ground:false, motY: -1.452, increase:0.026, preMove:0.146, motion: -0.33,-1.452,-1.167, attribute: 0.13, tag: pred) (+1) | vl:4 ping:290 tps:20.0 lp:71 component: move.xz
+(12:18:04) JossielDark failed Fly check | suspicious movement:-1.452 predict:-0.078 lm:0.083 hard_pred:0.003 sev_pred:0.083 air_t:5 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:290 tps:20.0 lp:71 component: fly.main
+(12:18:05) JossielDark failed Speed check | suspicious movement (move: 0.314, predict: 0.182, friction: 0.6, ground:false, motY: -0.203, increase:0.026, preMove:0.156, motion: -0.14,-0.203,-0.282, attribute: 0.13, tag: pred) (+1) | vl:5 ping:290 tps:20.0 lp:71 component: move.xz
+(12:18:05) JossielDark failed Fly check | suspicious movement:-0.203 predict:-1.502 lm:-1.452 hard_pred:-1.502 sev_pred:0.083 air_t:6 fall_t:1 g:+- tag:gn (+1) | vl:2 ping:290 tps:20.0 lp:71 component: fly.main
+(12:18:05) JossielDark failed Fly check | suspicious movement:-0.386 predict:-0.231 lm:-0.155 hard_pred:-0.231 sev_pred:-0.155 air_t:9 fall_t:1 g:-- tag:gn (+1) | vl:3 ping:290 tps:20.0 lp:71 component: fly.main
+(12:18:05) JossielDark failed Speed check | suspicious movement (move: 0.281, predict: 0.125, friction: 0.6, ground:false, motY: 0.282, increase:0.026, preMove:0.099, motion: 0.123,0.282,0.252, attribute: 0.13, tag: pred) (+1) | vl:6 ping:290 tps:20.0 lp:71 component: move.xz
+(12:18:05) JossielDark failed Speed check | suspicious movement (move: 0.619, tag: gv-) (+1) | vl:7 ping:290 tps:20.0 lp:71 component: speed.main
+(12:18:05) JossielDark failed Speed check | suspicious movement (move: 0.619, predict: 0.223, friction: 0.6, ground:true, motY: -0.282, increase:0.13, preMove:0.093, motion: -0.418,-0.282,-0.457, attribute: 0.13, tag: pred) (+1) | vl:8 ping:290 tps:20.0 lp:71 component: move.xz
+(12:18:05) JossielDark failed Speed check | suspicious movement (move: 0.369, predict: 0.252, friction: 0.6, ground:true, motY: -0.282, increase:0.13, preMove:0.122, motion: -0.19,-0.282,-0.316, attribute: 0.13, tag: pred) (+1) | vl:9 ping:290 tps:20.0 lp:71 component: move.xz
+(12:19:30) JossielDark failed Phase check | moved into block (block: step, move: 0.093,0.072,-0.11, at: -141.766,9.7,44.645, dist: 0.144, loop: false) (+1) | vl:1 ping:281 tps:20.0 lp:62 component: phase.main
+(12:19:32) JossielDark failed Phase check | moved into block (block: step, move: -0.115,0.197,-0.082, at: -142.7,9.7,37.652, dist: 0.142, loop: false) (+1) | vl:2 ping:281 tps:20.0 lp:62 component: phase.main
+(12:19:38) JossielDark failed Phase check | moved into block (block: step, move: 0.026,0.28,0.289, at: -139.677,8.7,47.011, dist: 0.291, loop: false) (+1) | vl:1 ping:283 tps:20.0 lp:5 component: phase.main
+(12:19:38) JossielDark failed Phase check | moved into block (block: stone, move: -0.027,0.034,0.308, at: -139.685,9.2,50.346, dist: 0.31, loop: false) (+1) | vl:2 ping:283 tps:20.0 lp:4 component: phase.main
+(12:19:44) SaBUT1 failed Speed check | t: spin (+5) | vl:5 ping:246 tps:20.0 lp:17 component: speed.spin
+(12:19:53) SaBUT1 failed BadPackets check | (timer) send 40 moving packets in 1038ms | tag: limit (+1) | vl:1 ping:287 tps:20.0 lp:29 component: net.timer
+(12:19:53) SaBUT1 failed Speed check | suspicious movement (move: 1.045, expect:0.49729999999999996, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:6 ping:287 tps:20.0 lp:29 component: speed.main
+(12:19:53) SaBUT1 failed Speed check | suspicious movement (move: 1.045, predict: 0.43, friction: 0.6, ground:true, motY: 0.0, increase:0.33, preMove:0.1, motion: -0.747,0.0,0.73, attribute: 0.13, tag: pred) (+1) | vl:7 ping:287 tps:20.0 lp:29 component: move.xz
+(12:19:57) JossielDark failed Phase check | moved into block (block: step, move: -0.234,0.197,-0.01, at: -142.7,9.7,38.215, dist: 0.234, loop: false) (+1) | vl:3 ping:287 tps:20.0 lp:74 component: phase.main
+(12:20:00) JossielDark failed Phase check | moved into block (block: smooth_brick, move: -0.01,0.2,-0.004, at: -143.123,10.2,39.46, dist: 0.01, loop: false) (+1) | vl:4 ping:287 tps:20.0 lp:5 component: phase.main
+(12:20:00) JossielDark failed Phase check | moved into block (block: smooth_brick, move: 0.0,0.2,0.0, at: -143.123,10.2,39.46, dist: 0.0, loop: false) (+1) | vl:5 ping:287 tps:20.0 lp:5 component: phase.main
+(12:20:00) JossielDark failed Phase check | moved into block (block: smooth_brick, move: 0.0,0.2,0.0, at: -143.123,10.2,39.46, dist: 0.0, loop: false) (+1) | vl:6 ping:287 tps:20.0 lp:5 component: phase.main
+(12:20:00) JossielDark failed Phase check | moved into block (block: smooth_brick, move: 0.0,0.2,0.0, at: -143.123,10.2,39.46, dist: 0.0, loop: false) (+1) | vl:7 ping:287 tps:20.0 lp:5 component: phase.main
+(12:20:00) Execute command: matrix notify JossielDark is phase into block (Phase)
+(12:20:00) JossielDark failed Fly check | suspicious movement:0.122 predict:-0.155 pmv:0.2 tag:ground (+1) | vl:1 ping:287 tps:20.0 lp:5 component: fly.main
+(12:20:01) JossielDark failed Phase check | moved into block (block: smooth_brick, move: 0.0,0.2,0.0, at: -143.123,10.2,39.46, dist: 0.0, loop: false) (+1) | vl:8 ping:287 tps:20.0 lp:5 component: phase.main
+(12:20:01) JossielDark failed Fly check | suspicious movement:0.122 predict:-0.078 pmv:0.2 tag:ground (+1) | vl:2 ping:287 tps:20.0 lp:5 component: fly.main
+(12:20:01) JossielDark failed Phase check | moved into block (block: smooth_brick, move: 0.0,0.2,0.0, at: -143.123,10.2,39.46, dist: 0.0, loop: false) (+1) | vl:9 ping:287 tps:20.0 lp:5 component: phase.main
+(12:21:34) SaBUT1 failed BadPackets check | (timer) send 38 moving packets in 1021ms | tag: limit (+1) | vl:1 ping:274 tps:20.0 lp:76 component: net.timer
+(12:21:34) SaBUT1 failed Speed check | suspicious movement (move: 0.987, expect: 0.3665, tag: ea) (+1) | vl:1 ping:274 tps:20.0 lp:76 component: speed.main
+(12:21:34) SaBUT1 failed Speed check | suspicious movement (move: 0.987, predict: 0.298, friction: 0.6, ground:false, motY: -0.495, increase:0.026, preMove:0.272, motion: 0.402,-0.495,0.902, attribute: 0.13, tag: pred) (+1) | vl:2 ping:274 tps:20.0 lp:76 component: move.xz
+(12:21:34) SaBUT1 failed Fly check | suspicious movement:-0.495 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.304 air_t:10 fall_t:5 g:-+ tag:gn (+1) | vl:1 ping:274 tps:20.0 lp:76 component: fly.main
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (move: 0.436, expect: 0.3665, tag: ea) (+1) | vl:3 ping:274 tps:20.0 lp:76 component: speed.main
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (0.436, air_t: 12, lm:0.222, tag: ed) (+2) | vl:5 ping:274 tps:20.0 lp:76 component: speed.main
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (move: 0.436, predict: 0.228, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.202, motion: 0.137,0.0,0.414, attribute: 0.13, tag: pred) (+1) | vl:6 ping:274 tps:20.0 lp:76 component: move.xz
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (move: 0.677, expect: 0.419, g_tk:3, tag: b) (+1) | vl:7 ping:274 tps:20.0 lp:76 component: speed.main
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (move: 0.677, predict: 0.263, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.133, motion: -0.289,0.0,-0.612, attribute: 0.13, tag: pred) (+1) | vl:8 ping:274 tps:20.0 lp:76 component: move.xz
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (move: 0.435, expect: 0.419, g_tk:4, tag: b) (+1) | vl:9 ping:274 tps:20.0 lp:76 component: speed.main
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (move: 0.435, predict: 0.273, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.143, motion: -0.167,0.0,-0.401, attribute: 0.13, tag: pred) (+1) | vl:10 ping:274 tps:20.0 lp:76 component: move.xz
+(12:21:35) SaBUT1 failed Speed check | sprint with weird direction (dist: 1.05, angle:177.352) (+1) | vl:11 ping:274 tps:20.0 lp:76 component: speed.sprint
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (move: 1.05, expect: 0.419, g_tk:6, tag: b) (+2) | vl:13 ping:274 tps:20.0 lp:76 component: speed.main
+(12:21:35) SaBUT1 failed Speed check | suspicious movement (move: 1.05, predict: 0.28, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.15, motion: -0.367,0.0,-0.983, attribute: 0.13, tag: pred) (+1) | vl:14 ping:274 tps:20.0 lp:76 component: move.xz
+(12:22:20) SaBUT1 failed Fly check | suspicious movement:0.165 predict:0.088 vel:-0.078 air_t:4 tag:vt (+1) | vl:1 ping:361 tps:20.0 lp:32 component: fly.main
+(12:22:21) SaBUT1 failed BadPackets check | (timer) send 41 moving packets in 1071ms | tag: limit (+1) | vl:1 ping:361 tps:20.0 lp:32 component: net.timer
+(12:22:21) SaBUT1 failed Fly check | step | p: 1 | m:1.2522033402537218 ev:-0.078 lm:0.99 (+2) | vl:3 ping:361 tps:20.0 lp:32 component: speed.step
+(12:22:22) SaBUT1 failed Speed check | suspicious movement (move: 0.457, expect: 0.4065, tag: ea) (+1) | vl:1 ping:361 tps:20.0 lp:32 component: speed.main
+(12:22:22) SaBUT1 failed Speed check | suspicious movement (move: 0.443, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:2 ping:361 tps:20.0 lp:32 component: speed.main
+(12:22:29) SaBUT1 failed BadPackets check | (timer) send 41 moving packets in 1024ms | tag: limit (+1) | vl:2 ping:715 tps:20.0 lp:42 component: net.timer
+(12:22:29) SaBUT1 failed Speed check | suspicious movement (move: 1.263, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:3 ping:715 tps:20.0 lp:42 component: speed.main
+(12:22:29) SaBUT1 failed Speed check | suspicious movement (move: 1.263, predict: 0.238, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.108, motion: -0.692,0.0,-1.057, attribute: 0.13, tag: pred) (+1) | vl:4 ping:715 tps:20.0 lp:42 component: move.xz
+(12:22:31) SaBUT1 failed Speed check | suspicious movement (move: 0.746, expect: 0.45899999999999996, g_tk:5, tag: b) (+1) | vl:5 ping:715 tps:20.0 lp:42 component: speed.main
+(12:22:31) SaBUT1 failed Speed check | suspicious movement (move: 0.746, predict: 0.221, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.091, motion: 0.0,0.0,-0.746, attribute: 0.13, tag: pred) (+1) | vl:6 ping:715 tps:20.0 lp:42 component: move.xz
+(12:22:31) SaBUT1 failed Speed check | suspicious movement (move: 0.443, predict: 0.251, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.121, motion: 0.0,0.0,-0.443, attribute: 0.13, tag: pred) (+1) | vl:7 ping:715 tps:20.0 lp:42 component: move.xz
+(12:27:22) SaBUT1 failed Interact check | interact block through solid (through: WOOD, block:CHEST) (+0) | vl:0 ping:274 tps:20.0 lp:326 component: interact.through
+(12:29:46) SaBUT1 failed BadPackets check | (timer) send 47 moving packets in 1041ms | tag: limit (+1) | vl:1 ping:786 tps:20.0 lp:38 component: net.timer
+(12:29:47) SaBUT1 failed Speed check | sprint with weird direction (dist: 0.467, angle:180.0) (+1) | vl:1 ping:786 tps:20.0 lp:38 component: speed.sprint
+(12:29:47) SaBUT1 failed Speed check | suspicious movement (move: 0.467, expect: 0.419, g_tk:3, tag: b) (+1) | vl:2 ping:786 tps:20.0 lp:38 component: speed.main
+(12:29:49) SaBUT1 failed BadPackets check | (timer) send 42 moving packets in 1261ms | tag: limit (+1) | vl:2 ping:786 tps:20.0 lp:38 component: net.timer
+(12:34:06) SaBUT1 failed Fly check | suspicious movement:0.333 predict:0.253 vel:0.248 air_t:2 tag:vt (+1) | vl:1 ping:355 tps:20.0 lp:28 component: fly.main
+(12:34:06) SaBUT1 failed Fly check | suspicious movement:0.248 predict:0.17 vel:0.165 air_t:3 tag:vt (+1) | vl:2 ping:355 tps:20.0 lp:28 component: fly.main
+(12:34:06) SaBUT1 failed Fly check | suspicious movement:0.165 predict:0.088 vel:0.083 air_t:4 tag:vt (+1) | vl:3 ping:355 tps:20.0 lp:28 component: fly.main
+(12:34:10) SaBUT1 failed Fly check | suspicious movement:-0.228 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:9 fall_t:1 g:-- tag:gn (+1) | vl:4 ping:295 tps:20.0 lp:28 component: fly.main
+(12:34:35) SaBUT1 failed Inventory check | inventory move | pattern: b | s:15 (+1) | vl:1 ping:324 tps:20.0 lp:47 component: inv.move
+(12:34:36) SaBUT1 failed Inventory check | inventory move | pattern: b | s:25 (+1) | vl:2 ping:324 tps:20.0 lp:47 component: inv.move
+(12:34:37) SaBUT1 failed Inventory check | inventory move | pattern: b | s:24 (+1) | vl:3 ping:324 tps:20.0 lp:47 component: inv.move
+(12:34:38) SaBUT1 failed Inventory check | inventory move | pattern: b | s:24 (+1) | vl:4 ping:324 tps:20.0 lp:47 component: inv.move
+(12:34:46) SaBUT1 failed Inventory check | inventory move | pattern: b | s:26 (+1) | vl:1 ping:501 tps:20.0 lp:47 component: inv.move
+(12:35:02) SaBUT1 failed Inventory check | inventory move | pattern: b | s:15 (+1) | vl:2 ping:458 tps:20.0 lp:52 component: inv.move
+(12:35:05) SaBUT1 failed Inventory check | inventory move | pattern: b | s:25 (+1) | vl:3 ping:475 tps:20.0 lp:52 component: inv.move
+(12:36:11) JossielDark failed Fly check | suspicious movement:-0.231 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.155 air_t:3 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:305 tps:20.0 lp:9 component: fly.main
+(12:37:20) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:292 tps:20.0 lp:13 component: fly.main
+(12:37:30) SaBUT1 failed Fly check | suspicious movement:-0.407 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.078 air_t:7 fall_t:1 g:-+ tag:gn (+1) | vl:1 ping:262 tps:20.0 lp:63 component: fly.main
+(12:37:51) SaBUT1 failed Inventory check | inventory move | pattern: b | s:12 (+2) | vl:2 ping:307 tps:20.0 lp:23 component: inv.move
+(12:38:00) SaBUT1 failed Inventory check | inventory move | pattern: b | s:12 (+1) | vl:3 ping:307 tps:20.0 lp:87 component: inv.move
+(12:39:15) SaBUT1 failed Inventory check | inventory move | pattern: b | s:12 (+7) | vl:7 ping:0 tps:20.0 lp:0 component: inv.move
+(12:46:10) SaBUT1 failed Inventory check | inventory move | pattern: b | s:14 (+1) | vl:1 ping:286 tps:20.0 lp:427 component: inv.move
+(12:46:11) SaBUT1 failed Inventory check | inventory move | pattern: b | s:31 (+1) | vl:2 ping:286 tps:20.0 lp:427 component: inv.move
+(12:46:20) SaBUT1 failed Inventory check | inventory move | pattern: b | s:15 (+1) | vl:3 ping:251 tps:20.0 lp:70 component: inv.move
+(12:47:42) SaBUT1 failed Fly check | suspicious movement:-0.152 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:8 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:408 tps:20.0 lp:59 component: fly.main
+(12:47:43) SaBUT1 failed BadPackets check | (timer) send 40 moving packets in 1003ms | tag: limit (+1) | vl:1 ping:408 tps:20.0 lp:59 component: net.timer
+(12:47:43) SaBUT1 failed Speed check | suspicious movement (move: 0.549, expect: 0.4065, tag: ea) (+1) | vl:1 ping:408 tps:20.0 lp:59 component: speed.main
+(12:47:43) SaBUT1 failed Speed check | suspicious movement (move: 0.549, predict: 0.107, friction: 0.6, ground:false, motY: 1.142, increase:0.026, preMove:0.081, motion: -0.393,1.142,-0.384, attribute: 0.13, tag: pred) (+1) | vl:2 ping:408 tps:20.0 lp:59 component: move.xz
+(12:47:43) SaBUT1 failed Fly check | step | p: 1 | m:1.1416851727245358 ev:-0.155 lm:0.99 (+2) | vl:3 ping:408 tps:20.0 lp:59 component: speed.step
+(12:47:43) SaBUT1 failed Fly check | step | p:4 (+1) | vl:4 ping:408 tps:20.0 lp:59 component: speed.step
+(12:47:44) SaBUT1 failed Speed check | suspicious movement (move: 0.535, expect: 0.4065, tag: ea) (+1) | vl:3 ping:408 tps:20.0 lp:57 component: speed.main
+(12:47:44) SaBUT1 failed Speed check | suspicious movement (move: 0.535, predict: 0.132, friction: 0.6, ground:false, motY: -1.249, increase:0.026, preMove:0.106, motion: 0.43,-1.249,-0.318, attribute: 0.13, tag: pred) (+1) | vl:4 ping:408 tps:20.0 lp:57 component: move.xz
+(12:47:44) SaBUT1 failed Fly check | suspicious movement:-1.249 predict:-0.078 lm:0.083 hard_pred:0.003 sev_pred:0.083 air_t:5 fall_t:1 g:-+ tag:gn (+1) | vl:5 ping:408 tps:20.0 lp:57 component: fly.main
+(12:47:44) SaBUT1 failed Speed check | suspicious movement (move: 0.438, expect: 0.4065, tag: ea) (+1) | vl:5 ping:408 tps:20.0 lp:57 component: speed.main
+(12:47:44) SaBUT1 failed Fly check | suspicious movement:-1.249 predict:-0.078 lm:0.083 hard_pred:0.003 sev_pred:0.083 air_t:5 fall_t:1 g:-+ tag:gn (+1) | vl:6 ping:408 tps:20.0 lp:57 component: fly.main
+(13:05:21) SaBUT1 failed Fly check | suspicious movement:-0.304 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.377 air_t:4 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:304 tps:20.0 lp:43 component: fly.main
+(13:06:38) SaBUT1 failed BadPackets check | (timer) send 39 moving packets in 999ms | tag: limit (+1) | vl:1 ping:841 tps:20.0 lp:47 component: net.timer
+(13:06:38) SaBUT1 failed Speed check | suspicious movement (move: 0.431, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:1 ping:841 tps:20.0 lp:47 component: speed.main
+(13:06:38) SaBUT1 failed Speed check | suspicious movement (move: 0.466, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:2 ping:841 tps:20.0 lp:47 component: speed.main
+(13:06:38) SaBUT1 failed Speed check | suspicious movement (move: 0.466, predict: 0.366, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.236, motion: -0.045,0.0,-0.464, attribute: 0.13, tag: pred) (+1) | vl:3 ping:841 tps:20.0 lp:47 component: move.xz
+(13:07:00) SaBUT1 failed Speed check | t: spin (+1) | vl:4 ping:267 tps:20.0 lp:30 component: speed.spin
+(13:07:14) SaBUT1 failed BadPackets check | (timer) send 36 moving packets in 1021ms | tag: limit (+3) | vl:3 ping:281 tps:20.0 lp:18 component: net.timer
+(13:09:06) SaBUT1 failed BadPackets check | (timer) send 38 moving packets in 1016ms | tag: limit (+1) | vl:1 ping:433 tps:20.0 lp:263 component: net.timer
+(13:09:06) SaBUT1 failed Speed check | suspicious movement (move: 0.632, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:1 ping:433 tps:20.0 lp:263 component: speed.main
+(13:09:06) SaBUT1 failed Speed check | suspicious movement (move: 0.632, predict: 0.241, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.111, motion: -0.451,0.0,-0.443, attribute: 0.13, tag: pred) (+1) | vl:2 ping:433 tps:20.0 lp:263 component: move.xz
+(13:09:07) SaBUT1 failed Speed check | suspicious movement (move: 0.969, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:1 ping:433 tps:20.0 lp:47 component: speed.main
+(13:09:07) SaBUT1 failed Speed check | suspicious movement (move: 0.969, predict: 0.168, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.038, motion: -0.559,0.0,-0.792, attribute: 0.13, tag: pred) (+1) | vl:2 ping:433 tps:20.0 lp:47 component: move.xz
+(20:53:13) SaBUT1 failed Speed check | t: spin (+1) | vl:1 ping:311 tps:20.0 lp:36 component: speed.spin
+(20:53:22) SaBUT1 failed BadPackets check | (timer) send 36 moving packets in 999ms | tag: limit (+1) | vl:1 ping:257 tps:20.0 lp:29 component: net.timer
+(20:56:59) SaBUT1 failed Fly check | suspicious movement:-0.302 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.304 air_t:10 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:235 tps:20.0 lp:31 component: fly.main
+(20:59:41) SaBUT1 failed Fly check | suspicious movement:-0.149 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.078 air_t:9 fall_t:1 g:-+ tag:gn (+1) | vl:1 ping:291 tps:20.0 lp:24 component: fly.main
+(21:02:10) SaBUT1 failed Speed check | t: spin (+1) | vl:1 ping:289 tps:20.0 lp:40 component: speed.spin
+(21:02:45) SaBUT1 failed BadPackets check | (timer) send 39 moving packets in 1026ms | tag: limit (+1) | vl:1 ping:266 tps:20.0 lp:38 component: net.timer
+(21:02:45) SaBUT1 failed Speed check | suspicious movement (move: 0.862, expect:0.49729999999999996, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:1 ping:266 tps:20.0 lp:38 component: speed.main
+(21:02:45) SaBUT1 failed Speed check | suspicious movement (move: 0.862, predict: 0.447, friction: 0.6, ground:true, motY: 0.0, increase:0.33, preMove:0.117, motion: 0.861,0.0,0.037, attribute: 0.13, tag: pred) (+1) | vl:2 ping:266 tps:20.0 lp:38 component: move.xz
+(21:05:55) SaBUT1 failed Phase check | moved into block (block: stained_glass_pane, move: -0.064,0.0,-0.206, at: -35.656,47.0,94.254, dist: 0.216, loop: false) (+1) | vl:1 ping:498 tps:20.0 lp:30 component: phase.main
+(21:05:56) SaBUT1 failed Speed check | suspicious movement (move: 1.822, expect:0.49729999999999996, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:1 ping:498 tps:20.0 lp:30 component: speed.main
+(21:05:56) SaBUT1 failed Speed check | suspicious movement (move: 1.822, predict: 0.45, friction: 0.6, ground:true, motY: 0.0, increase:0.33, preMove:0.12, motion: 1.71,0.0,0.63, attribute: 0.13, tag: pred) (+1) | vl:2 ping:498 tps:20.0 lp:30 component: move.xz
+(21:05:56) SaBUT1 failed Phase check | moved into block (block: stained_glass_pane, move: 1.71,0.0,0.63, at: -35.656,47.0,94.254, dist: 1.822, loop: false) (+1) | vl:2 ping:498 tps:20.0 lp:30 component: phase.main
+(21:06:31) SaBUT1 failed Fly check | step | p: 1 | m:1.5 ev:-0.155 lm:1.49 (+2) | vl:2 ping:1233 tps:20.0 lp:24 component: speed.step
+(21:07:39) SaBUT1 failed BadPackets check | (timer) send 37 moving packets in 1180ms | tag: limit (+1) | vl:1 ping:1072 tps:20.0 lp:118 component: net.timer
+(21:07:39) SaBUT1 failed Speed check | suspicious movement (move: 0.309, predict: 0.228, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.202, motion: -0.149,0.0,-0.27, attribute: 0.13, tag: pred) (+1) | vl:1 ping:1072 tps:20.0 lp:118 component: move.xz
+(21:07:39) SaBUT1 failed Speed check | suspicious movement (move: 0.356, predict: 0.307, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.281, motion: -0.172,0.0,-0.312, attribute: 0.13, tag: pred) (+1) | vl:2 ping:1072 tps:20.0 lp:118 component: move.xz
+(21:07:39) SaBUT1 failed Speed check | suspicious movement (move: 0.396, expect: 0.3665, tag: ea) (+1) | vl:3 ping:1072 tps:20.0 lp:118 component: speed.main
+(21:07:39) SaBUT1 failed Speed check | suspicious movement (move: 0.396, predict: 0.35, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.324, motion: -0.192,0.0,-0.347, attribute: 0.13, tag: pred) (+1) | vl:4 ping:1072 tps:20.0 lp:118 component: move.xz
+(21:07:40) Spartano_12J failed BadPackets check | (timer) send 45 moving packets in 1027ms | tag: limit (+10) | vl:10 ping:0 tps:20.0 lp:0 component: net.timer
+(21:07:40) Spartano_12J failed Speed check | suspicious movement (move: 2.473, expect: 0.4065, tag: ea) (+20) | vl:20 ping:0 tps:20.0 lp:0 component: speed.main
+(21:07:40) Spartano_12J failed Speed check | suspicious movement (move: 2.473, predict: 0.341, friction: 0.6, ground:false, motY: -0.316, increase:0.026, preMove:0.315, motion: -0.203,-0.316,2.465, attribute: 0.13, tag: pred) (+5) | vl:25 ping:0 tps:20.0 lp:0 component: move.xz
+(21:07:41) Spartano_12J failed Speed check | suspicious movement (move: 0.324, predict: 0.142, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.116, motion: -0.058,0.0,0.319, attribute: 0.13, tag: pred) (+5) | vl:30 ping:0 tps:20.0 lp:0 component: move.xz
+(21:08:48) SaBUT1 failed Phase check | moved into block (block: chest, move: 0.095,0.333,-0.067, at: -134.934,20.753,-7.762, dist: 0.117, loop: false) (+1) | vl:1 ping:264 tps:20.0 lp:11 component: phase.main
+(21:09:07) SaBUT1 failed Phase check | moved into block (block: chest, move: 0.166,0.333,-0.142, at: -135.478,20.753,-7.762, dist: 0.219, loop: false) (+1) | vl:1 ping:293 tps:20.0 lp:83 component: phase.main
+(21:10:03) SaBUT1 failed Phase check | moved into block (block: chest, move: -0.005,-0.078,0.027, at: -135.56,20.797,-7.722, dist: 0.028, loop: false) (+1) | vl:1 ping:259 tps:20.0 lp:167 component: phase.main
+(21:10:04) SaBUT1 failed Phase check | moved into block (block: chest, move: 0.176,0.42,-0.04, at: -135.138,20.42,-7.726, dist: 0.18, loop: false) (+1) | vl:2 ping:259 tps:20.0 lp:167 component: phase.main
+(21:10:04) SaBUT1 failed Phase check | moved into block (block: chest, move: 0.129,0.42,-0.027, at: -135.129,20.42,-7.725, dist: 0.132, loop: false) (+1) | vl:3 ping:259 tps:20.0 lp:167 component: phase.main
+(21:10:04) SaBUT1 failed Phase check | moved into block (block: chest, move: 0.018,0.0,-0.007, at: -135.239,20.0,-7.704, dist: 0.02, loop: false) (+1) | vl:4 ping:259 tps:20.0 lp:167 component: phase.main
+(21:10:06) SaBUT1 failed BadPackets check | (timer) send 37 moving packets in 1003ms | tag: limit (+1) | vl:1 ping:274 tps:20.0 lp:30 component: net.timer
+(21:10:06) SaBUT1 failed Speed check | suspicious movement (move: 0.433, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:1 ping:274 tps:20.0 lp:30 component: speed.main
+(21:10:07) SaBUT1 failed Speed check | suspicious movement (move: 0.326, predict: 0.185, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.159, motion: -0.07,0.0,-0.318, attribute: 0.13, tag: pred) (+1) | vl:2 ping:274 tps:20.0 lp:30 component: move.xz
+(21:11:28) SaBUT1 failed Inventory check | inventory move | pattern: b | s:9 (+1) | vl:1 ping:308 tps:20.0 lp:77 component: inv.move
+(21:11:28) SaBUT1 failed Inventory check | inventory move | pattern: b | s:27 (+1) | vl:2 ping:308 tps:20.0 lp:77 component: inv.move

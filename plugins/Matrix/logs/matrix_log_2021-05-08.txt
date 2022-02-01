@@ -1,0 +1,10 @@
+(05:43:40) Matrix Enabled!
+(05:43:40) Version: 4.8.4
+(05:47:00) Matrix Enabled!
+(05:47:00) Version: 4.8.4
+(06:52:30) Matrix Enabled!
+(06:52:30) Version: 4.8.4
+(07:11:20) SimoneVergasola failed Fly check | ground spoof (expect: +-, move: 0.0,-0.098,0.0, at: 0.469,49.902,0.526, type: air, pkt: false) (+0) | vl:0 ping:0 tps:20.0 lp:0 component: fly.gf
+(19:16:10) Matrix Enabled!
+(19:16:10) Version: 4.8.4
+(19:17:49) SimoneVergasola failed Fly check | ground spoof (expect: +-, move: 0.0,-0.468,0.0, at: 0.469,49.532,0.526, type: air, pkt: false) (+1) | vl:1 ping:10657363 tps:20.0 lp:0 component: fly.gf

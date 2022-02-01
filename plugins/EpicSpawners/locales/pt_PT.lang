@@ -1,0 +1,109 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicSpawners&8]'
+    exit: '&cSair'
+    next: '&9Prox'
+    back: '&9Voltar'
+    confirm: '&a&lConfirma'
+    currency: $
+# Interface Messages
+interface:
+  spawner:
+    upgradewithxp: '&aAtualizacao usando XP'
+    upgradewithxplore: '&7Valor: &a%cost% Levels'
+    upgradewitheconomy: '&aAtualizacao Usando Money'
+    upgradewitheconomylore: '&7Valor: &a$%cost%'
+    statstitle: '&6Estatisticas do spawner'
+    stats: '&7Ja nasceram &a%amount% &7vezes ate agora.'
+    onlyspawnson: '&7Nasce apenas em &6%block%&7.'
+    boost: '&7Clique direito para ligar o &aboost&7.'
+    cantboost: '&cNão é possível Impulsionar'
+    convert: '&7Clique esquerdo para &aConverte&7.'
+    boostedstats: '&a&lBoost ativado|&7Adicicionado &6%amount% &7extra de &6%type% &7para todos os spawns|&7Expira Em &6%time%&7.'
+    boostednever: Nunca
+    tutorialtitle: '&a&lInformacao Util'
+    tutorial: '{[LEVELUP]Voce pode stackar ou atualizar este spawner usando: [Usar outro spawner neste Spawner][Subir de level usando XP][Subir level usando Money].}|{[DROP]O spawner de <TYPE> vai dropar quando voce matar  <AMT> [natural ]Do tipo <TYPE>}|{[OMNI][Stackar spawners com diferentes tipos vai criar um "OmniSpawner"].}|{[WATER][Spawners repeliram a água].}|{[REDSTONE][Voce pode desativar este spawner usando sinais de Redstone].}|{[INVSTACK][Voce pode stackar spawners do seu inventario colocando eles em cima de cada um.]}'
+    howtonext: '&aClique Para Ir Para A Proxima Pagina'
+    howtoback: '&aClique Para Ir Para A Primaira Pagina'
+    paused: '&6Spawnamento Pausado Por:'
+    conditionBiome1: Nao Colocado No Bioma &6%biome%&7.
+    conditionBiome2: Nao Colocado No Bioma Correto!
+    conditionHeight: A Cordenada Y Nao Sendo Dentro De &6%min%&7 e &6%max%&7.
+    conditionLight: Falta De &6Luz&7.
+    conditionDark: Falta De &6Escuridao&7.
+    conditionNearbyEntities: Existe Mais De &6%max%&7 Entidades A Volta Deste Spawner.
+    conditionNearbyPlayers: Existe Menos De &6%amount%&7 players na distancia de &6%distance%&7 blocos deste spawner!
+    conditionStorm: Não há Tempestade.
+  convert:
+    title: Spawner
+    lore: '&7Clique para converter'
+  shop:
+    title: Loja de Spawners
+    spawnershoptitle: '&8%type%'
+    buyprice: '&7Valor: &a%cost%'
+    lore: '&7Clique para comprar.'
+    add1: '&a&lAdicionar 1'
+    add10: '&a&lAdicionar 10'
+    set1: '&c&lSetar 1'
+    set64: '&a&lSetar 64'
+    remove1: '&c&lRemover 1'
+    remove10: '&c&lRemover 10'
+  spawnerstats:
+    title: '&5&lEstatisticas do spawner'
+    prefix: '&7Status:'
+    nokills: '&7Você atualmente não matou nada. Va matar alguma coisa!'
+  boost:
+    title: '&c%spawner% Boostado por %amount%'
+    boostfor: '&7&lBost por &6&l%amount% &7&lMinutos'
+    cost: '&7Custa &6&l%cost%.'
+# Command Messages
+command:
+  give:
+    success: '&7Foi dado &6%amount%&7x &6Spawners &7do tipo &6%type%&7.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cVocê não tem permissão para fazer isso.'
+  upgrade:
+    cannotafford: '&cVocê não tem o suficiente para esta atualizacao atualização!'
+    success: '&7Atualizacao para &6%level%&7.'
+    maxed: '&7Esse spawner esta no Maximo!'
+    successmaxed: '&7Voce maximou este Spawner no level &6%level%&7.'
+  downgrade:
+    success: '&7Voce &cdesatualizou &7este spawner para o level &6%level%.'
+  block:
+    place: '&7+ &6%type%&7.'
+    broken: Este spawner foi removido e voce nao pode colocar ele.
+    chargeplace: '&7Voce sera cobrado por &6$%cost% &7se voce nao quebrar este spawner no tempo de &61 Minuto&7!'
+    break: '&7- &6%type%&7.'
+    chargebreak: '&7Voce sera cobrado por &6$%cost% &7por quebrar este spawner! Quebre denovo para confirmar!'
+    blacklisted: '&cIsto foi desativado!'
+    omnitake: '&7Agora este spawner do tipo &6%type% &7tornou-se um &6OmniSpawner&7.'
+    forcedeny: '&cEste spawner está muito perto de outro spawner.'
+    mergedistance: '&7Este spawner foi combinado com outro spawner por perto.'
+    chunklimit: '&cNão mais de &4%amount% spawners &cpodem ser colocados nesta chunk.'
+    cannotbreak: '&7Voce nao pode quebrar este &6spawner&7!'
+  goal:
+    alert: '&7Você precisa matar mais &6%goal% &7para ganha um spawner do tipo &6%type%&7.'
+    reached: Spawner do tipo &6%type% &7foi descartado!
+  egg:
+    needmore: '&7Voce precisa de &6%amount% &7ovos para mudar esse spawner.'
+    sametype: '&7Esse spawner ja é do tipo &6%type%s&7.'
+  shop:
+    cannotafford: '&7Voce nao consegue comprar este &6Spawner&7!'
+    purchasesuccess: '&9Voce comprou um spawner com sucesso!'
+  omni:
+    cannotmerge: '&cVocê não pode combinar dois Omni Spawners.'
+    combinefail: '&cO spawner omni se recusa a absorver mais spawners desse tipo.'
+    combinesuccess: '&7Seu spawner foi combinado com um &6OmniSpawner&7.'
+    takespawner: '&7Você &cquebrou &7um spawner do tipo &6%type%&7 do &6OmniSpawner&7.'
+  convert:
+    success: '&9Conversao feita com sucesso!'
+  boost:
+    applied: '&6Impulso aplicado com sucesso!'
+  combine:
+    onlyone: '&cVoce so pode combinar um &6Spawner &7de cada vez. &6Aguarde&7!'
+  spawner:
+    toomany: '&cVoce So Pode Colocar &4%amount% &cSpawners...'

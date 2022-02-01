@@ -1,0 +1,108 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicSpawners&8]'
+    exit: '&cKhoroj'
+    next: '&9Badi'
+    back: '&9Ghabli'
+    confirm: '&a&lTayid'
+    currency: $
+# Interface Messages
+interface:
+  spawner:
+    upgradewithxp: '&aUpgrade kardan ba XP'
+    upgradewithxplore: '&7Gheymat: &a%cost% Level'
+    upgradewitheconomy: '&aUpgrade kardan ba pol'
+    upgradewitheconomylore: '&7Gheymat: &a$%cost%'
+    statstitle: '&6Vaziate Spawner'
+    stats: '&6%amount% &7Adad ta alan spawn shode'
+    onlyspawnson: '&7Faghat roye &6%block%&7 spawn mishavad.'
+    boost: '&7Click konid baraye &6Boost'
+    cantboost: '&cGhabel Boost nist'
+    convert: '&7Baraye &6Convert &7Click konid.'
+    boostedstats: '&a&lBoost shode ast. |&7Ezafe kardane &6%amount% &7adad &6%type% &7ezafi baraye har spawn. |&7Engheza: &6%time%&7.'
+    boostednever: never
+    tutorialtitle: '&a&lEteelaat mohem'
+    tutorial: '{[LEVELUP]Shoma mitavanid stack konid ya levelup konid ''levelup'' in spawner ra tavasote: [Ezafe kardane yek spawner digar be in spawner][Level up ba xp][Level up ba pol].}|{[DROP]A <TYPE> spawner drop khahad shod vaghti shoma <AMT> adad [natural ]<TYPE>} mikoshid|{[OMNI][Stack kardan spawner haye mokhtalef OmniSpawner dorost khahad kard].}|{[WATER][Spawners ha ab ra dor khahand kard].}|{[REDSTONE][Shoma in spawner ra mitavanid gheyre faal konid ba roshan kardane an ba redstone.]}'
+    howtonext: '&aClick baraye safheye badi'
+    howtoback: '&aClick baraye raftan be safheye aval'
+    paused: '&6Spawn shoan mob ha gheyre faal shod be khatere:'
+    conditionBiome1: Dar biome &6%biome%&7 gozashte nashode.
+    conditionBiome2: Dar biome dorost gozashte nashode.
+    conditionHeight: Y coordinate spawner beyne &6%min%&7 va &6%max%&7 nist.
+    conditionLight: faghede &6roshanayi&7 ast.
+    conditionDark: Faghede &6Makane tarik&7 ast.
+    conditionNearbyEntities: Dar inja bishtar az &6%max%&7 entity vojod darad.
+    conditionNearbyPlayers: Inja kam tar az &6%amount%&7 player vojod darad dar faseleye &6%distance%&7 block az in spawner.
+    conditionStorm: weather storm nist.
+  convert:
+    title: Tabdile spawner
+    lore: '&7CBaraye tabdil click konid'
+  shop:
+    title: Spawner Shop
+    spawnershoptitle: '&8Kharide %type%'
+    buyprice: '&7Gheymate kharid: &a%cost%'
+    lore: '&7Click konid baraye kharid kardan.'
+    add1: '&a&lEzafe kardan 1 adad'
+    add10: '&a&lEzafe kardan 10 adad'
+    set1: '&c&lSet to 1'
+    set64: '&a&lSet to 64'
+    remove1: '&c&lKam kardane 1 adad'
+    remove10: '&c&lKam kardane 10 adad'
+  spawnerstats:
+    title: '&5&lVaziate spawner'
+    prefix: '&7Vaziate spawner shoma:'
+    nokills: '&7Shoma hich mobi ba in spawner nakoshtid. Yechizi bokosh!'
+  boost:
+    title: '&8Boost kardan %spawner% &8tavasote %amount%'
+    cost: '&7Gheymat: &6&l%cost%.'
+    boostfor: '&7&lBoost kardan baraye &6&l%amount% &7&lDaghighe'
+# Command Messages
+command:
+  give:
+    success: '&7Shoma %amount% adad &6%type%&7 Daryaft kardid.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cShoma ejaze estefade nadarid.'
+  upgrade:
+    cannotafford: '&cShoma be andaze kafi pol/xp nadarid.'
+    success: '&7Shoma in spawner ra be level &6%level%x&7 Upgrade kardid.'
+    maxed: '&7In spawner level akhar mibashad.'
+    successmaxed: '&7Shoma in spawner ra be level akhar &6%level%x&7 bordid.'
+  downgrade:
+    success: '&7Shoma in spawner ra &6%level%x&7 Level downgrade kardid.'
+  block:
+    place: '&7Shoma &6%type%&7 ra zamin gozashtid.'
+    broken: In spawner remove shode ast va shoma nemitavanid estefade konid.
+    chargeplace: '&7Shoma &6%cost% &7Pardakht mikonid agar in spawner ra dar 1 daghigheye digar nakanid.'
+    break: '&7Shoma &6%type%&7 ra kandid.'
+    chargebreak: '&7Shoma &6%cost% &7Pardakht mikonid agar in spawner ra bekanid. Baraye tayid dobare bekanid.'
+    blacklisted: '&cIn ghabeliat gheyre faal mibashad.'
+    omnitake: '&7Shoma &6%type%&7 ra az OmniSpawner gereftid.'
+    forcedeny: '&cIn spawner kheyli nazdik be spawner digar mibashad.'
+    mergedistance: '&7In spawner ba spawner digar merge shod.'
+    cannotbreak: '&7Shoma meghadre kafi pol baraye kandan in spawner ra nadarid.'
+  goal:
+    alert: '&7Shoma &6%goal% &7Kill bishtar niaz darid baraye daryafte &6%type% Spawner&7.'
+    reached: '&6%type% Spawner &7Drop shod.'
+  egg:
+    needmore: '&7Shoma &6%amount% &7adad Monster Eggs baraye tabdil kardane in spawner niaz darid.'
+    sametype: '&7In hamaknon &6%type%s&7 spawn mikonad.'
+  shop:
+    cannotafford: '&cShoma meghdar kafi pol nadarid'
+    purchasesuccess: '&9Kharidari shod.'
+  omni:
+    cannotmerge: '&cShoma 2 Omni spawner ra nemitavanid merge konid.'
+    combinefail: '&cOmnispawner digar nemitavanad az in type ra ghabol konad.'
+    combinesuccess: '&7Spawner shoma jazbe in Omnispawner shod.'
+    takespawner: '&7Shoma &6%type%&7 ra az Omnispawner gereftid.'
+  convert:
+    success: '&7Ba mofagahiat tabdil shod.'
+  boost:
+    applied: '&6Boost dade shod.'
+  combine:
+    onlyone: '&cDar in zaman, Shoma faghat 1 spawner ra mitavanid merge konid'
+  spawner:
+    toomany: '&cShoma faghat %amount% adad spawner mitavanid roye zamin bezarid.'

@@ -1,0 +1,311 @@
+#
+menu_title: '&8¡Warps of Survival!'
+open_command:
+- Warp
+- Warps
+size: 54
+items:
+  '1':
+    material: 'grass'
+    slot: 20
+    display_name: '&a&lWarp survival'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Sal y diviértete explorando,'
+    - '&7recolectando y sobreviviendo.'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp survival'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp survival'
+    - '[close]'
+  '2':
+    material: 'enchanted_book'
+    slot: 21
+    display_name: '&9&lWarp Ayuda'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Obtenga ayuda básica sobre cómo proteger'
+    - '&7tu casa y hacer una tienda aquí.'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp help'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp help'
+    - '[close]'
+  '3':
+    material: 'bread'
+    slot: 22
+    display_name: '&9&lWarp Comida'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Tienes hambre y no sabes como'
+    - '&7levanta los muslos, ven aquí.'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp food'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp food'
+    - '[close]'
+  '4':
+    material: 'ender_chest'
+    slot: 23
+    display_name: '&9&lWarp Crates'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Abra los crates y consiga'
+    - '&7varios articulos'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp drawers'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp drawers'
+    - '[close]'
+  '5':
+    material: 'gold_ingot'
+    slot: 24
+    display_name: '&9&lWarp Tienda'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Ingrese a la tienda del servidor para'
+    - '&7Vende y compra lo que buscas'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp shop'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp shop'
+    - '[close]'
+  '6':
+    material: 'enchantment_table'
+    slot: 29
+    display_name: '&9&lWarp Encantamientos'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Entra y encanta todo lo que'
+    - '&7tengas en la mano'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp enchant'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp enchant'
+    - '[close]'
+  '7':
+    material: 'wood'
+    slot: 30
+    display_name: '&9&lWarp Parcelas'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Viaja a un lugar donde podras'
+    - '&7vivir trankil@ en un terreno privado'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp parcelas'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp parcelas'
+    - '[close]'
+  '8':
+    material: 'netherrack'
+    slot: 31
+    display_name: '&9&lWarp Nether'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Explora un mundo lleno de feroces entidades'
+    - '&7y recolectar todo tipo de material'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp nether'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp nether'
+    - '[close]'
+  '9':
+    material: 'ender_pearl'
+    slot: 32
+    display_name: '&9&lWarp End'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Cuidado con las criaturas que'
+    - '&7miras a los ojos..'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp end'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp end'
+    - '[close]'
+  '10':
+    material: 'diamond_sword'
+    slot: 33
+    display_name: '&c&lWarp PVP'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Pelea con gente del servidor'
+    - '&7Y gana las batallas'
+    - ''
+    - '&2➜ &aPara ir usa click derecho / izquierdo!'
+    left_click_commands:
+    - '[player] warp pvp'
+    - '[close]'
+    right_click_commands:
+    - '[player] warp pvp'
+    - '[close]'
+  'Back':
+    material: 'hdb-10786'
+    slot: 49
+    display_name: '&4&l‹‹ Atras'
+    left_click_commands:
+    - '[openguimenu] Menu'
+    right_click_commands:
+    - '[openguimenu] Menu'
+  'Wwarps':
+    material: '323'
+    slot: 4
+    display_name: '&b&lWarp created by users'
+    lore:
+    - '&8⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊⚊'
+    - '&b▪ &7Visita y crea tus propios warps'
+    - '&7Como lo hicieron'
+    - ''
+    - '&2➜ &aClick to visit these warps!'
+    left_click_commands:
+    - '[player] wwarps'
+    - '[close]'
+    right_click_commands:
+    - '[player] wwarps'
+    - '[close]'
+  'Panel1':
+    material: 160
+    data: 15
+    slot: 0
+    display_name: '&8'
+  'Panel2':
+    material: 160
+    data: 15
+    slot: 1
+    display_name: '&8'
+  'Panel3':
+    material: 160
+    data: 15
+    slot: 2
+    display_name: '&8'
+  'Panel4':
+    material: 160
+    data: 15
+    slot: 3
+    display_name: '&8'
+  'Panel5':
+    material: 160
+    data: 15
+    slot: 5
+    display_name: '&8'
+  'Panel6':
+    material: 160
+    data: 15
+    slot: 6
+    display_name: '&8'
+  'Panel7':
+    material: 160
+    data: 15
+    slot: 7
+    display_name: '&8'
+  'Panel8':
+    material: 160
+    data: 15
+    slot: 8
+    display_name: '&8'
+  'Panel9':
+    material: 160
+    data: 15
+    slot: 9
+    display_name: '&8'
+  'Panel10':
+    material: 160
+    data: 15
+    slot: 17
+    display_name: '&8'
+  'Panel11':
+    material: 160
+    data: 15
+    slot: 18
+    display_name: '&8'
+  'Panel12':
+    material: 160
+    data: 15
+    slot: 26
+    display_name: '&8'
+  'Panel13':
+    material: 160
+    data: 15
+    slot: 27
+    display_name: '&8'
+  'Panel14':
+    material: 160
+    data: 15
+    slot: 35
+    display_name: '&8'
+  'Panel16':
+    material: 160
+    data: 15
+    slot: 36
+    display_name: '&8'
+  'Panel17':
+    material: 160
+    data: 15
+    slot: 44
+    display_name: '&8'
+  'Panel18':
+    material: 160
+    data: 15
+    slot: 45
+    display_name: '&8'
+  'Panel19':
+    material: 160
+    data: 15
+    slot: 46
+    display_name: '&8'
+  'Panel20':
+    material: 160
+    data: 15
+    slot: 47
+    display_name: '&8'
+  'Panel21':
+    material: 160
+    data: 15
+    slot: 48
+    display_name: '&8'
+  'Panel23':
+    material: 160
+    data: 15
+    slot: 50
+    display_name: '&8'
+  'Panel24':
+    material: 160
+    data: 15
+    slot: 51
+    display_name: '&8'
+  'Panel25':
+    material: 160
+    data: 15
+    slot: 52
+    display_name: '&8'
+  'Panel26':
+    material: 160
+    data: 15
+    slot: 53
+    display_name: '&8'

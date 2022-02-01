@@ -1,0 +1,387 @@
+# 
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+ops-name-color: none
+nickname-prefix: '~'
+max-nick-length: 30
+ignore-colors-in-max-nick-length: false
+change-displayname: true
+teleport-safety: true
+force-disable-teleport-safety: true
+teleport-cooldown: 5
+teleport-delay: 5
+teleport-invulnerability: 0
+teleport-to-center: true
+heal-cooldown: 60
+near-radius: 200
+permission-based-item-spawn: false
+spawnmob-limit: 3
+warn-on-smite: false
+drop-items-if-full: false
+notify-no-new-mail: false
+notify-player-of-mail-cooldown: 60
+disabled-commands:
+- mail
+- mail.send
+- me
+- email
+- email.send
+- eme
+- eessentials
+socialspy-commands:
+- msg
+- w
+- r
+- mail
+- m
+- t
+- whisper
+- emsg
+- tell
+- er
+- reply
+- ereply
+- email
+- action
+- describe
+- eme
+- eaction
+- edescribe
+- etell
+- ewhisper
+- pm
+- bc
+- ebc
+- broadcast
+- ebroadcast
+- '*'
+socialspy-listen-muted-players: false
+mute-commands:
+- f
+- kittycannon
+player-commands:
+- afk
+- afk.auto
+- back
+- back.ondeath
+- balance
+- balance.others
+- balancetop
+- build
+- chat.color
+- chat.format
+- chat.shout
+- chat.question
+- clearinventory
+- compass
+- depth
+- delhome
+- getpos
+- geoip.show
+- help
+- helpop
+- home
+- home.others
+- ignore
+- info
+- itemdb
+- kit
+- kits.tools
+- list
+- mail
+- mail.send
+- me
+- motd
+- msg
+- msg.color
+- nick
+- near
+- pay
+- ping
+- protect
+- r
+- rules
+- realname
+- seen
+- sell
+- sethome
+- setxmpp
+- signs.create.protection
+- signs.create.trade
+- signs.break.protection
+- signs.break.trade
+- signs.use.balance
+- signs.use.buy
+- signs.use.disposal
+- signs.use.enchant
+- signs.use.free
+- signs.use.gamemode
+- signs.use.heal
+- signs.use.info
+- signs.use.kit
+- signs.use.mail
+- signs.use.protection
+- signs.use.repair
+- signs.use.sell
+- signs.use.time
+- signs.use.trade
+- signs.use.warp
+- signs.use.weather
+- spawn
+- suicide
+- time
+- tpa
+- tpaccept
+- tpahere
+- tpdeny
+- warp
+- warp.list
+- world
+- worth
+- xmpp
+skip-used-one-time-kits-from-kit-list: false
+pastebin-createkit: true
+enabledSigns:
+- buy
+- free
+- disposal
+- kit
+sign-use-per-second: 4
+backup:
+  interval: 30
+per-warp-permission: false
+list:
+  Admins: owner admin
+debug: false
+locale: es
+remove-god-on-disconnect: true
+auto-afk: 300
+auto-afk-kick: -1
+freeze-afk-players: false
+disable-item-pickup-while-afk: false
+cancel-afk-on-interact: true
+cancel-afk-on-move: true
+afk-list-name: none
+death-messages: false
+allow-silent-join-quit: false
+custom-join-message: '&8[&a✔&8] &a{PLAYER}'
+custom-quit-message: '&8[&c✖&8] &c{PLAYER}'
+world-teleport-permissions: false
+default-stack-size: 64
+oversized-stacksize: 64
+repair-enchanted: false
+unsafe-enchantments: false
+register-back-in-listener: false
+login-attack-delay: 5
+max-fly-speed: 0.8
+max-walk-speed: 0.8
+mails-per-minute: 1000
+max-tempban-time: -1
+last-message-reply-recipient: false
+last-message-reply-recipient-timeout: 180
+milk-bucket-easter-egg: true
+send-fly-enable-on-join: false
+world-time-permissions: false
+command-cooldown-persistence: true
+npcs-in-balance-ranking: false
+allow-bulk-buy-sell: false
+delay-motd: 0
+update-bed-at-daytime: false
+world-home-permissions: false
+sethome-multiple:
+  User: 2
+  Navigator: 3
+  Admiral: 5
+  Captain: 10
+  Lieutenant: 20
+tpa-accept-cancellation: 120
+allow-direct-hat: false
+starting-balance: 0
+currency-symbol: $
+max-money: 1000000000
+min-money: 0
+economy-log-enabled: false
+use-bukkit-permissions: true
+minimum-pay-amount: 0.001
+non-ess-in-help: false
+hide-permissionless-help: true
+chat:
+  radius: 0
+  format: '&f{DISPLAYNAME} &3►&b► &f{MESSAGE}'
+protect:
+  prevent:
+    lava-flow: false
+    water-flow: false
+    water-bucket-flow: false
+    fire-spread: true
+    lava-fire-spread: true
+    flint-fire: false
+    lightning-fire-spread: true
+    portal-creation: false
+    tnt-explosion: false
+    tnt-playerdamage: false
+    tnt-minecart-explosion: false
+    tnt-minecart-playerdamage: false
+    fireball-explosion: false
+    fireball-fire: false
+    fireball-playerdamage: false
+    witherskull-explosion: false
+    witherskull-playerdamage: false
+    wither-spawnexplosion: false
+    wither-blockreplace: false
+    creeper-explosion: false
+    creeper-playerdamage: false
+    creeper-blockdamage: false
+    enderdragon-blockdamage: true
+    enderman-pickup: false
+    villager-death: false
+    entitytarget: false
+    spawn:
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: false
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: false
+      pig: false
+      sheep: false
+      cow: false
+      chicken: false
+      squid: false
+      wolf: false
+      mushroom_cow: false
+      snowman: false
+      ocelot: false
+      iron_golem: false
+      villager: false
+      wither: false
+      bat: false
+      witch: false
+      horse: false
+  creeper:
+    max-height: -1
+  disable:
+    fall: false
+    pvp: false
+    drown: false
+    suffocate: false
+    lavadmg: false
+    projectiles: false
+    contactdmg: false
+    firedmg: false
+    lightning: false
+    wither: false
+    weather:
+      storm: false
+      thunder: false
+      lightning: false
+    build: true
+    use: true
+    warn-on-build-disallow: true
+  alert:
+    on-placement: 10,11,46,327
+    on-use: 327
+  blacklist:
+    placement: 10,11,46,327
+    usage: 327
+    piston: 10,11,327
+    dispenser: 10,11,327
+newbies:
+  announce-format: ''
+  spawnpoint: none
+  kit: New
+respawn-listener-priority: high
+spawn-join-listener-priority: high
+respawn-at-home: false
+spawn-on-join: false
+kits:
+  User:
+    delay: 1296000
+    items:
+    - 267:0 1 name:§8Sword_of_§f§lUSER
+    - 306:0 1 name:§8Helmet_of_§f§lUSER
+    - 307:0 1 name:§8Chestplate_of_§f§lUSER
+    - 308:0 1 name:§8Leggings_of_§f§lUSER
+    - 309:0 1 name:§8Boots_of_§f§lUSER
+    - 257:0 1 name:§8Pickaxe_of_§f§lUSER
+    - 258:0 1 name:§8Axe_of_§f§lUSER
+    - 256:0 1 name:§8Shovel_of_§f§lUSER
+    - 322:0 2
+  Navigator:
+    delay: 1296000
+    items:
+    - 276:0 1 name:§8Sword_of_§3§lNA§b§lVIGA§f§lTOR
+    - 310:0 1 name:§8Helmet_of_§3§lNA§b§lVIGA§f§lTOR
+    - 311:0 1 name:§8Chestplate_of_§3§lNA§b§lVIGA§f§lTOR
+    - 312:0 1 name:§8Leggings_of_§3§lNA§b§lVIGA§f§lTOR
+    - 313:0 1 name:§8Boots_of_§3§lNA§b§lVIGA§f§lTOR
+    - 278:0 1 name:§8Pickaxe_of_§3§lNA§b§lVIGA§f§lTOR
+    - 279:0 1 name:§8Axe_of_§3§lNA§b§lVIGA§f§lTOR
+    - 277:0 1 name:§8Shovel_of_§3§lNA§b§lVIGA§f§lTOR
+    - 322:1 2
+  Admiral:
+    delay: 1296000
+    items:
+    - 276:0 1 damage_all:2 durability:1 name:§8Sword_of_§6§lAD§e§lMIR§f§lAL
+    - 310:0 1 protection_environmental:2 durability:1 name:§8Helmet_of_§6§lAD§e§lMIR§f§lAL
+    - 311:0 1 protection_environmental:2 durability:1 name:§8Chestplate_of_§6§lAD§e§lMIR§f§lAL
+    - 312:0 1 protection_environmental:2 durability:1 name:§8Leggings_of_§6§lAD§e§lMIR§f§lAL
+    - 313:0 1 protection_environmental:2 durability:1 name:§8Boots_of_§6§lAD§e§lMIR§f§lAL
+    - 278:0 1 dig_speed:2 durability:1 name:§8Pickaxe_of_§6§lAD§e§lMIR§f§lAL
+    - 279:0 1 dig_speed:2 durability:1 name:§8Axe_of_§6§lAD§e§lMIR§f§lAL
+    - 277:0 1 dig_speed:2 durability:1 name:§8Shovel_of_§6§lAD§e§lMIR§f§lAL
+    - 322:1 3
+  Captain:
+    delay: 1296000
+    items:
+    - 276:0 1 damage_all:4 fire_aspect:1 durability:2 name:§8Sword_of_§2§lCA§a§lPTA§f§lIN
+    - 310:0 1 protection_environmental:3 durability:2 name:§8Helmet_of_§2§lCA§a§lPTA§f§lIN
+    - 311:0 1 protection_environmental:3 durability:2 name:§8Chestplate_of_§2§lCA§a§lPTA§f§lIN
+    - 312:0 1 protection_environmental:3 durability:2 name:§8Leggings_of_§2§lCA§a§lPTA§f§lIN
+    - 313:0 1 protection_environmental:3 durability:2 name:§8Boots_of_§2§lCA§a§lPTA§f§lIN
+    - 278:0 1 dig_speed:4 durability:2 name:§8Pickaxe_of_§2§lCA§a§lPTA§f§lIN
+    - 279:0 1 dig_speed:4 durability:2 name:§8Axe_of_§2§lCA§a§lPTA§f§lIN
+    - 277:0 1 dig_speed:4 durability:2 name:§8Shovel_of_§2§lCA§a§lPTA§f§lIN
+    - 322:1 5
+  Lieutenant:
+    delay: 1296000
+    items:
+    - 276:0 1 damage_all:5 durability:3 fire_aspect:2 loot_bonus_mobs:3 name:§8Sword_of_§5§lLI§d§lEUTE§f§lNANT
+    - 310:0 1 protection_environmental:4 durability:3 name:§8Helmet_of_§5§lLI§d§lEUTE§f§lNANT
+    - 311:0 1 protection_environmental:4 durability:3 name:§8Chestplate_of_§5§lLI§d§lEUTE§f§lNANT
+    - 312:0 1 protection_environmental:4 durability:3 name:§8Leggings_of_§5§lLI§d§lEUTE§f§lNANT
+    - 313:0 1 protection_environmental:4 durability:3 name:§8Boots_of_§5§lLI§d§lEUTE§f§lNANT
+    - 278:0 1 dig_speed:5 durability:3 name:§8Pickaxe_of_§5§lLI§d§lEUTE§f§lNANT
+    - 279:0 1 dig_speed:5 durability:3 name:§8Axe_of_§5§lLI§d§lEUTE§f§lNANT
+    - 277:0 1 dig_speed:5 durability:3 name:§8Shovel_of_§5§lLI§d§lEUTE§f§lNANT
+    - 322:1 10
+  PvP:
+    delay: 30
+    items:
+    - 272:0 1
+    - 302:0 1
+    - 303:0 1
+    - 304:0 1
+    - 305:0 1
+    - 346:0 1
+  New:
+    delay: 31536000
+    items:
+    - 268:0 1
+    - 298:0 1
+    - 299:0 1
+    - 300:0 1
+    - 301:0 1
+    - 297:0 24
+    - 16:0 1
+    - 387:0 1 title:Aa author:Submarine World lore:[§aFind out about things you might not know..] book:New0 name:§8B§7o§fo§ek_§6o§cf_§4B§3e§bg§3i§cn§6n§ee§7r§8s lore:§aFind_out_about_things_you_might_not_know..
+    - 54:0 1

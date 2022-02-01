@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: tizigames12
+timestamps:
+  login: 1615825727909
+  lastteleport: 1615825773573
+  logout: 1615825883407
+ipAddress: 190.3.31.73
+lastlocation:
+  world: world
+  x: -21.6620640807129
+  y: 47.0
+  z: 70.0871070995064
+  yaw: 213.75027
+  pitch: 18.900005
+money: '1.0'
+logoutlocation:
+  world: Survival
+  x: 354.69999998807907
+  y: 76.0
+  z: 264.81341975051606
+  yaw: 319.35
+  pitch: 25.799988

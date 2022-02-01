@@ -1,0 +1,91 @@
+Locations:
+  Drawer1:
+    World: world
+    X: 24
+    Y: 46
+    Z: 102
+    Particle: Potion
+  Drawer2:
+    World: world
+    X: 19
+    Y: 46
+    Z: 102
+    Particle: Potion
+  Shop1:
+    World: world
+    X: -41
+    Y: 53
+    Z: 82
+    Particle: Magic
+  Rewards:
+    World: world
+    X: 24
+    Y: 44
+    Z: 80
+    Particle: Music
+  Enchant1:
+    World: world
+    X: -18
+    Y: 47
+    Z: 79
+    Particle: Enchant
+  Enchant2:
+    World: world
+    X: -18
+    Y: 47
+    Z: 84
+    Particle: Enchant
+  Survival:
+    World: Survival
+    X: -7
+    Y: 82
+    Z: -7
+    Particle: Snow
+  Plots:
+    World: Survival_plots
+    X: 0
+    Y: 38
+    Z: 0
+    Particle: BigSoulWell
+  Volcano:
+    World: world_pvp
+    X: 16
+    Y: 60
+    Z: 2
+    Particle: Volcano
+  Volcano2:
+    World: world_pvp
+    X: 12
+    Y: 59
+    Z: 4
+    Particle: Volcano
+  Volcano3:
+    World: world_pvp
+    X: 16
+    Y: 59
+    Z: -1
+    Particle: Volcano
+  Volcano4:
+    World: world_pvp
+    X: 18
+    Y: 59
+    Z: 3
+    Particle: Volcano
+  Volcano5:
+    World: world_pvp
+    X: 13
+    Y: 59
+    Z: 0
+    Particle: Volcano
+  pvp:
+    World: world_pvp
+    X: -9
+    Y: 57
+    Z: 60
+    Particle: BigSoulWell
+  End:
+    World: world_the_end
+    X: 100
+    Y: 48
+    Z: 0
+    Particle: BigSoulWell

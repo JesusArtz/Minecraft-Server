@@ -1,0 +1,458 @@
+08/11/2018 19:33:37 [INFO] Loading language file: lang_en
+08/11/2018 19:33:38 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/color.jar
+08/11/2018 19:34:04 [DEBUG] Loaded placeholder: twitter
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/b69f2856-daba-4fa7-a405-14c3bf61c8cc/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:04 [INFO] Downloading placeholder [Unicode Characters 1.0.1] ...
+08/11/2018 19:34:04 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/3bb0751f-ea43-44a8-b468-62d907991d76/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:04 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/unicode characters.jar
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/geographical.jar
+08/11/2018 19:33:38 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/af492a97-cde0-4e34-a80e-2f6bab4b9e3a/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:04 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/unicode characters.jar
+08/11/2018 19:34:04 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/unicode characters.jar
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/geographical.jar
+08/11/2018 19:34:00 [INFO] Loading placeholder [Geographical 1.0.1] ...
+08/11/2018 19:34:04 [INFO] Loading placeholder [Unicode Characters 1.0.1] ...
+08/11/2018 19:33:38 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/color.jar
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: geographical
+08/11/2018 19:34:04 [INFO] Downloading placeholder [VanillaEvents 1.0.5] ...
+08/11/2018 19:34:04 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/vanillaevents.jar
+08/11/2018 19:34:04 [DEBUG] Loaded placeholder: unicode
+08/11/2018 19:34:04 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/c4537efb-81e5-417a-a61d-0e754b9b8588/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:00 [INFO] Downloading placeholder [Hotbar 1.0.1] ...
+08/11/2018 19:34:04 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/vanillaevents.jar
+08/11/2018 19:33:38 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/color.jar
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/hotbar.jar
+08/11/2018 19:34:04 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/vanillaevents.jar
+08/11/2018 19:34:04 [INFO] Loading placeholder [VanillaEvents 1.0.5] ...
+08/11/2018 19:34:04 [DEBUG] Loaded placeholder: vanillaevents
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/ecbcb67f-3cdc-420f-a50f-66eb56d0351f/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Combat hook ...
+08/11/2018 19:33:37 [INFO] Loading placeholders and event triggers ...
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/hotbar.jar
+08/11/2018 19:33:38 [INFO] Loading placeholder [Color 1.0.1] ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Block break hook ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Block place hook ...
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/hotbar.jar
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla player rejoin ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla player join ...
+08/11/2018 19:33:38 [DEBUG] Loaded placeholder: color
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Death hook ...
+08/11/2018 19:34:00 [INFO] Loading placeholder [Hotbar 1.0.1] ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Create portal hook ...
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: hotbar
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Combat hook ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla player first join ...
+08/11/2018 19:33:37 [INFO] Loading internal placeholders ...
+08/11/2018 19:34:00 [INFO] Downloading placeholder [JavaInfo 1.0.1] ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Block break hook ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Block place hook ...
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/javainfo.jar
+08/11/2018 19:33:38 [INFO] Downloading placeholder [CommandPlaceholderPack 1.0.1] ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla player join ...
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d02ea30f-f831-4e8b-a80d-a48e436a0e4e/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:38 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/commandplaceholderpack.jar
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Death hook ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla Create portal hook ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla player rejoin ...
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/javainfo.jar
+08/11/2018 19:34:04 [INFO] Downloading placeholder [World 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/javainfo.jar
+08/11/2018 19:33:38 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d84132d6-4053-482f-afcf-d568eea7f35d/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:37 [DEBUG] Loaded placeholder: CustomPlaceholders
+08/11/2018 19:34:00 [INFO] Loading placeholder [JavaInfo 1.0.1] ...
+08/11/2018 19:34:04 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/world.jar
+08/11/2018 19:34:04 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/world.jar
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: java
+08/11/2018 19:33:38 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/commandplaceholderpack.jar
+08/11/2018 19:34:04 [DEBUG] Loaded placeholder: world
+08/11/2018 19:34:00 [INFO] Downloading placeholder [LeaderHeads 2.0.9] ...
+08/11/2018 19:34:04 [INFO] Loading placeholder [World 1.0.1] ...
+08/11/2018 19:34:04 [INFO] Loading event hook: Vanilla player first join ...
+08/11/2018 19:33:37 [DEBUG] Loaded placeholder: MySQL
+08/11/2018 19:33:38 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/commandplaceholderpack.jar
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/leaderheads.jar
+08/11/2018 19:34:04 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/worldguard.jar
+08/11/2018 19:34:04 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/f45af077-96b3-4a6c-857c-d4c345a63355/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:04 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/12dea5c6-4646-41ee-9048-ae7d7fefe422/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:04 [INFO] Loading placeholder [WorldGuard 1.0.1] ...
+08/11/2018 19:33:38 [INFO] Loading placeholder [CommandPlaceholderPack 1.0.1] ...
+08/11/2018 19:34:04 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/worldguard.jar
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/a6794e61-13e2-4051-8925-dc7c0874a0f9/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:04 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/worldguard.jar
+08/11/2018 19:34:04 [INFO] Downloading placeholder [WorldGuard 1.0.1] ...
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_total'
+08/11/2018 19:34:04 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/world.jar
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@56542435'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3bcc655'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21'
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/leaderheads.jar
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_total'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_physical'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db'
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@e02c1db_physical'
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/leaderheads.jar
+08/11/2018 19:34:04 [INFO] Loading event hook: WorldGuard Region ...
+08/11/2018 19:34:04 [DEBUG] Loaded placeholder: worldguard
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1e852666'
+08/11/2018 19:33:38 [DEBUG] Loaded placeholder: command
+08/11/2018 19:34:00 [INFO] Loading placeholder [LeaderHeads 2.0.9] ...
+08/11/2018 19:34:04 [INFO] Checking for placeholder updates ...
+08/11/2018 19:33:37 [INFO] Fetching available placeholders from server ...
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'info'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'modules'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'module'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'editsetting'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'createscoreboard'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'generatebbcode'
+08/11/2018 19:34:04 [INFO] Loading event hook: WorldGuard Region ...
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'parse'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'remove'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'show'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'reload'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'help'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'about'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'permissions'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'debug'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'reload'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'removescoreboard'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'placeholders'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'off'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'gui'
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'on'
+08/11/2018 19:34:04 [INFO] Loaded 2342 of the 2342 placholders
+08/11/2018 19:34:10 [INFO] Toggle persistence is disabled!
+08/11/2018 19:34:09 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'toggle'
+08/11/2018 19:34:08 [DEBUG] 	towny-town-example - 0
+08/11/2018 19:34:08 [INFO] Generating metrics information ...
+08/11/2018 19:34:08 [DEBUG] 	benchmark - 0
+08/11/2018 19:34:08 [INFO] Added 'PERMISSION' as the default scoreboard assign method
+08/11/2018 19:34:05 [INFO] Copying default custom effects ...
+08/11/2018 19:34:08 [DEBUG] 	default - 10
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: leaderheads
+08/11/2018 19:34:08 [DEBUG] 	Line: poplulation-data Static: true
+08/11/2018 19:34:05 [INFO] Loading custom effect 'example3' ...
+08/11/2018 19:34:08 [DEBUG] 	Line: townboard-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: town-data Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: footer Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: population-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: townboard Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: spacer1 Static: false
+08/11/2018 19:34:08 [DEBUG] 	combat-scoreboard-example - 0
+08/11/2018 19:34:08 [DEBUG] Scoreboards groups sorted by priority:
+08/11/2018 19:34:08 [DEBUG] 	Line: header Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: title Static: false
+08/11/2018 19:34:08 [INFO] Loading scoreboard 'towny-town-example' ...
+08/11/2018 19:34:08 [DEBUG] 	Line: town-label Static: true
+08/11/2018 19:34:05 [INFO] Creating new custom effect: example3
+08/11/2018 19:34:08 [DEBUG] 	Line: footer Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: health-data-2 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: health-data-1 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: title Static: false
+08/11/2018 19:33:38 [INFO] Downloading placeholder [Compass placeholders 1.0.1] ...
+08/11/2018 19:34:08 [DEBUG] 	Line: footer Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: server-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: server-line1 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: news Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: spacer3 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: spacer2 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: spacer1 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: player-line2 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: news-info Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: server-line2 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: timesplayed-label Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: health-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: spacer1 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: combat-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: header Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: combat-data Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: timesplayed Static: false
+08/11/2018 19:34:08 [INFO] Loading scoreboard 'combat-scoreboard-example' ...
+08/11/2018 19:34:08 [DEBUG] 	Line: player-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: title Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: header Static: false
+08/11/2018 19:34:08 [INFO] Loading scoreboard 'default' ...
+08/11/2018 19:34:08 [DEBUG] 	Line: skilllevel Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: player-line1 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: spacer1 Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: skill Static: true
+08/11/2018 19:34:00 [INFO] Downloading placeholder [Marriage 1.0.2] ...
+08/11/2018 19:34:08 [DEBUG] 	Line: skill-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: spacer2 Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: skilllevel-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: info-label Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: header Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: footer Static: true
+08/11/2018 19:34:08 [DEBUG] 	Line: line15 Static: false
+08/11/2018 19:34:08 [INFO] Loading scoreboard 'mcmmo-levelup' ...
+08/11/2018 19:34:08 [DEBUG] 	Line: line12 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: line13 Static: false
+08/11/2018 19:34:07 [DEBUG] 	Line: line4 Static: false
+08/11/2018 19:34:07 [DEBUG] 	Line: line6 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: line11 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: line10 Static: false
+08/11/2018 19:34:07 [DEBUG] 	Line: line5 Static: false
+08/11/2018 19:34:07 [DEBUG] 	Line: line8 Static: false
+08/11/2018 19:34:07 [DEBUG] 	Line: line3 Static: false
+08/11/2018 19:34:07 [DEBUG] 	Line: line7 Static: false
+08/11/2018 19:34:08 [DEBUG] 	Line: line9 Static: false
+08/11/2018 19:34:07 [DEBUG] 	Line: line1 Static: false
+08/11/2018 19:34:07 [DEBUG] 	Line: title Static: false
+08/11/2018 19:34:07 [INFO] Loading scoreboard 'benchmark' ...
+08/11/2018 19:34:08 [DEBUG] 	Line: line14 Static: false
+08/11/2018 19:34:07 [INFO] Using OPTIMAL as the update strategy
+08/11/2018 19:34:05 [DEBUG]  - Server supports Team entries
+08/11/2018 19:34:05 [INFO] Loading custom effect 'example2' ...
+08/11/2018 19:34:05 [INFO] Creating new custom effect: example1
+08/11/2018 19:33:38 [INFO] Downloading placeholder [Armor 1.0.1] ...
+08/11/2018 19:34:05 [INFO] Loading custom effect 'example1' ...
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/marriage.jar
+08/11/2018 19:34:05 [DEBUG]  - Server supports Objective entries
+08/11/2018 19:34:05 [DEBUG] Using SCOREBOARD v7
+08/11/2018 19:34:07 [INFO] Copying default scoreboards ...
+08/11/2018 19:34:05 [INFO] Creating new custom effect: example2
+08/11/2018 19:33:38 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/compass placeholders.jar
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/marriage.jar
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/3ac39411-0588-4726-ac95-7c52233af68c/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/marriage.jar
+08/11/2018 19:33:39 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/55f47c7a-085b-409f-aa6a-2ad63fae89a9/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:39 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/compass placeholders.jar
+08/11/2018 19:34:00 [INFO] Downloading placeholder [Memory 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: marriage
+08/11/2018 19:34:07 [DEBUG] 	Line: line2 Static: false
+08/11/2018 19:33:39 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/compass placeholders.jar
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/fa5e56ac-5b4c-4b18-94f2-9f9c98c0efc9/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/memory.jar
+08/11/2018 19:34:00 [INFO] Loading placeholder [Marriage 1.0.2] ...
+08/11/2018 19:34:00 [INFO] Loading placeholder [Memory 1.0.1] ...
+08/11/2018 19:33:38 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/armor.jar
+08/11/2018 19:33:39 [INFO] Loading placeholder [Compass placeholders 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/memory.jar
+08/11/2018 19:33:39 [DEBUG] Loaded placeholder: compass
+08/11/2018 19:33:39 [INFO] Downloading placeholder [Economy 1.0.1] ...
+08/11/2018 19:33:38 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/0da20ebe-8635-4c28-befc-6c3a24c9fdf9/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:08 [DEBUG] 	Line: title Static: false
+08/11/2018 19:33:39 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/economy.jar
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/df725e8e-1895-4fc5-b930-c90f3eb30b7c/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/multiverse-core.jar
+08/11/2018 19:33:39 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/31e2c055-4d34-47cf-b8eb-869f73800dba/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:38 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/armor.jar
+08/11/2018 19:33:39 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/economy.jar
+08/11/2018 19:34:00 [INFO] Loading placeholder [Multiverse-Core 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: multiverse
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/multiverse-core.jar
+08/11/2018 19:34:00 [INFO] Downloading placeholder [Permissions 1.0.1] ...
+08/11/2018 19:33:38 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/armor.jar
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/memory.jar
+08/11/2018 19:34:00 [INFO] Downloading placeholder [Multiverse-Core 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: memory
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/multiverse-core.jar
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/permissions.jar
+08/11/2018 19:33:39 [DEBUG] Loaded placeholder: economy
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/permissions.jar
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/permissions.jar
+08/11/2018 19:33:38 [DEBUG] Loaded placeholder: armor
+08/11/2018 19:33:38 [INFO] Loading placeholder [Armor 1.0.1] ...
+08/11/2018 19:33:39 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/economy.jar
+08/11/2018 19:33:39 [INFO] Loading placeholder [Economy 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/a037ff10-3991-4b65-8059-aa09fd0d2fad/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:00 [INFO] Loading placeholder [Permissions 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: permissions
+08/11/2018 19:33:39 [INFO] Downloading placeholder [Effects 1.0.1] ...
+08/11/2018 19:34:01 [INFO] Loading placeholder [Twitter 1.0.2] ...
+08/11/2018 19:34:01 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d0c4ab1d-a802-4224-8d2e-3e308b44d584/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:01 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/twitter.jar
+08/11/2018 19:34:01 [INFO] Downloading placeholder [Twitter 1.0.2] ...
+08/11/2018 19:34:01 [DEBUG] Loaded placeholder: tickspersecond
+08/11/2018 19:34:01 [INFO] Loading placeholder [TicksPerSecond 1.0.2] ...
+08/11/2018 19:34:01 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/twitter.jar
+08/11/2018 19:34:01 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/tickspersecond.jar
+08/11/2018 19:34:01 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/twitter.jar
+08/11/2018 19:34:01 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/tickspersecond.jar
+08/11/2018 19:34:01 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/tickspersecond.jar
+08/11/2018 19:34:01 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/02d11193-32da-456e-b2b3-16e1e5ba5072/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:01 [INFO] Loading placeholder [Statistics 1.0.3] ...
+08/11/2018 19:34:01 [DEBUG] Loaded placeholder: statistics
+08/11/2018 19:34:01 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/15a8a3dc-e3ce-43df-b4ab-b04da812209d/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:01 [INFO] Loading placeholder [Sound Effects 1.0.1] ...
+08/11/2018 19:34:01 [INFO] Downloading placeholder [TicksPerSecond 1.0.2] ...
+08/11/2018 19:34:01 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/statistics.jar
+08/11/2018 19:34:01 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/sound effects.jar
+08/11/2018 19:34:01 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/sound effects.jar
+08/11/2018 19:34:01 [INFO] Downloading placeholder [Statistics 1.0.3] ...
+08/11/2018 19:34:01 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d55bae2c-ef40-4002-b509-1929cc39f464/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:01 [INFO] Downloading placeholder [Sound Effects 1.0.1] ...
+08/11/2018 19:34:01 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/serverpinger.jar
+08/11/2018 19:34:12 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@31718b21'
+08/11/2018 19:34:01 [INFO] Loading placeholder [ServerPinger 1.0.2] ...
+08/11/2018 19:34:01 [INFO] Downloading placeholder [ServerPinger 1.0.2] ...
+08/11/2018 19:34:01 [DEBUG] Loaded placeholder: serverpinger
+08/11/2018 19:34:01 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/statistics.jar
+08/11/2018 19:34:01 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/serverpinger.jar
+08/11/2018 19:34:01 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/sound effects.jar
+08/11/2018 19:34:01 [INFO] Loading placeholder [RedisBungee 1.0.1] ...
+08/11/2018 19:34:01 [DEBUG] Loaded placeholder: redisbungee
+08/11/2018 19:34:01 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/redisbungee.jar
+08/11/2018 19:34:01 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/statistics.jar
+08/11/2018 19:34:01 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/66aafeb3-e1f7-4e78-b1e3-ba9ff4c8c7e9/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:01 [DEBUG] Loaded placeholder: sound
+08/11/2018 19:34:01 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/redisbungee.jar
+08/11/2018 19:34:01 [INFO] Downloading placeholder [RedisBungee 1.0.1] ...
+08/11/2018 19:34:01 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/redisbungee.jar
+08/11/2018 19:34:01 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/c3926954-b7ba-4f5e-9956-70fdf421d077/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:01 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/previous names.jar
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'hide'
+08/11/2018 19:34:01 [INFO] Loading placeholder [Previous Names 1.0.1] ...
+08/11/2018 19:34:01 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/previous names.jar
+08/11/2018 19:34:01 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/1169a630-36d0-4e67-af93-8f77e6f4d990/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:01 [DEBUG] Loaded placeholder: plotsquared
+08/11/2018 19:34:01 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/plotsquared.jar
+08/11/2018 19:34:01 [INFO] Loading event hook: PlotSquared Plot ...
+08/11/2018 19:34:01 [INFO] Loading event hook: PlotSquared Plot ...
+08/11/2018 19:34:01 [INFO] Downloading placeholder [Previous Names 1.0.1] ...
+08/11/2018 19:34:01 [DEBUG] Loaded placeholder: player
+08/11/2018 19:34:10 [DEBUG] 	Adding sub command 'add'
+08/11/2018 19:34:10 [INFO] Adding command 'featherboard'
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/player.jar
+08/11/2018 19:34:08 [DEBUG] 	mcmmo-levelup - 0
+08/11/2018 19:34:01 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/45a77a9d-06fb-4638-a818-b408b4a496fa/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:00 [INFO] Loading placeholder [Player 1.0.11] ...
+08/11/2018 19:34:01 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/plotsquared.jar
+08/11/2018 19:34:01 [DEBUG] Loaded placeholder: previousnames
+08/11/2018 19:34:01 [INFO] Loading placeholder [PlotSquared 1.0.1] ...
+08/11/2018 19:34:08 [DEBUG] 	Line: spacer2 Static: false
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/player.jar
+08/11/2018 19:34:00 [INFO] Loading placeholder [PlaceholderAPI 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: placeholderapi
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/placeholderapi.jar
+08/11/2018 19:34:00 [INFO] Downloading placeholder [Player 1.0.11] ...
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/placeholderapi.jar
+08/11/2018 19:34:00 [INFO] Downloading placeholder [PlaceholderAPI 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/placeholderapi.jar
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/22b28930-2b33-402d-ad57-3b4ac6bab1dd/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:39 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/effects.jar
+08/11/2018 19:33:39 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/7ae70f9d-9f43-4b95-b74c-bcd99eabd20b/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/29d6a360-23da-43e8-b575-ca7a4c710bd3/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:38 [INFO] Downloading placeholder [Bukkit 1.0.5] ...
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/player.jar
+08/11/2018 19:33:38 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/bukkit.jar
+08/11/2018 19:33:39 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/93cb5b0c-06b4-4333-8ad0-7845d3ce183b/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:38 [INFO] Loading placeholder [Bukkit 1.0.5] ...
+08/11/2018 19:33:38 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/bukkit.jar
+08/11/2018 19:33:39 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/entities.jar
+08/11/2018 19:33:39 [INFO] Downloading placeholder [Entities 1.0.1] ...
+08/11/2018 19:34:01 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/plotsquared.jar
+08/11/2018 19:33:39 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/effects.jar
+08/11/2018 19:34:01 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/previous names.jar
+08/11/2018 19:33:38 [INFO] Downloading placeholder [BungeeCord 1.0.1] ...
+08/11/2018 19:33:39 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d1e86e80-d79e-4055-93f3-6bdcd46bba10/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:38 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/7fb749cc-7d20-465c-8aab-a9b53b2e7f93/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:38 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/bungeecord.jar
+08/11/2018 19:33:39 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/essentials.jar
+08/11/2018 19:33:38 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/48c998b3-6d9a-446e-8138-55d80397067f/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:39 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/essentials.jar
+08/11/2018 19:33:39 [DEBUG] Loaded placeholder: playereffects
+08/11/2018 19:33:39 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/entities.jar
+08/11/2018 19:33:39 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/effects.jar
+08/11/2018 19:33:39 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/essentials.jar
+08/11/2018 19:33:38 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/bukkit.jar
+08/11/2018 19:33:39 [INFO] Loading placeholder [Effects 1.0.1] ...
+08/11/2018 19:33:39 [DEBUG] Loaded placeholder: entities
+08/11/2018 19:33:39 [INFO] Loading placeholder [Entities 1.0.1] ...
+08/11/2018 19:33:39 [INFO] Downloading placeholder [Essentials 1.0.1] ...
+08/11/2018 19:33:38 [DEBUG] Loaded placeholder: bukkit
+08/11/2018 19:33:39 [DEBUG] Loaded placeholder: essentials
+08/11/2018 19:33:39 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/entities.jar
+08/11/2018 19:34:01 [INFO] Downloading placeholder [PlotSquared 1.0.1] ...
+08/11/2018 19:33:39 [INFO] Loading placeholder [Essentials 1.0.1] ...
+08/11/2018 19:33:38 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/bungeecord.jar
+08/11/2018 19:34:01 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/serverpinger.jar
+08/11/2018 19:33:39 [INFO] Downloading placeholder [Facebook 1.0.2] ...
+08/11/2018 19:33:39 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/facebook.jar
+08/11/2018 19:33:38 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/bungeecord.jar
+08/11/2018 19:33:39 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/fea83b6e-2058-4e44-8a31-4a6df5e13a6d/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:33:39 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/facebook.jar
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: facebook
+08/11/2018 19:33:38 [INFO] Loading placeholder [BungeeCord 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/geographical.jar
+08/11/2018 19:33:39 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/facebook.jar
+08/11/2018 19:34:00 [INFO] Downloading placeholder [Geographical 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Loaded placeholder: firework
+08/11/2018 19:34:00 [INFO] Loading placeholder [FireworkEffect 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Download location: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/fireworkeffect.jar
+08/11/2018 19:34:00 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/ca9f5e55-3fb7-43fe-94d6-e9e1609997ff/download?plugin=FeatherBoard&plugin-version=4.13.0&plugin-filehash=4131e8d6207675291da77ec9255e47ad&plugin-nonce=-1491768596&plugin-asmhash=b1a93b32626d967969e2445b861d5b9d&plugin-asmhash2=923f05e9d47a00f2fbc21b26bdf8d934&plugin-filecount=403&plugin-user=23763&server-javaversion=1.8.0_172
+08/11/2018 19:34:00 [INFO] Downloading placeholder [FireworkEffect 1.0.1] ...
+08/11/2018 19:34:00 [DEBUG] Downloaded file to: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/fireworkeffect.jar
+08/11/2018 19:33:39 [INFO] Loading placeholder [Facebook 1.0.2] ...
+08/11/2018 19:33:37 [INFO] Loading messages ...
+08/11/2018 19:34:00 [DEBUG] Output file is: /home/gs/gs/data/servers/9507771/plugins/FeatherBoard/modules/fireworkeffect.jar
+08/11/2018 19:33:37 [INFO] Creating new file 'plugins/FeatherBoard/lang/lang_en.yml'!
+08/11/2018 19:33:38 [DEBUG] Loaded placeholder: bungeecord
+08/11/2018 19:33:38 [INFO] Downloading placeholder [Color 1.0.1] ...
+08/11/2018 19:34:26 [INFO] Checking for module updates ...
+08/11/2018 19:34:26 [INFO] Fetching modules from server ...

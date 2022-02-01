@@ -1,0 +1,175 @@
+#
+menu_title: '&8¡Survival Tops!'
+open_command: Tops
+size: 27
+items:
+  '1':
+    material: 'hdb-13512'
+    slot: 11
+    display_name: '&e&lTops Kills'
+    lore:
+    - '&aTo go use click Right/Left!'
+    left_click_commands:
+    - '[player] topkills'
+    - '[close]'
+    right_click_commands:
+    - '[player] topkills'
+    - '[close]'
+  '2':
+    material: 'hdb-13185'
+    slot: 12
+    display_name: '&e&lTops Mob Kills'
+    lore:
+    - '&aTo go use click Right/Left!'
+    left_click_commands:
+    - '[player] topmobkills'
+    - '[close]'
+    right_click_commands:
+    - '[player] topmobkills'
+    - '[close]'
+  '3':
+    material: 'hdb-13583'
+    slot: 13
+    display_name: '&e&lTops Muertes'
+    lore:
+    - '&aTo go use click Right/Left!'
+    left_click_commands:
+    - '[player] topdeaths'
+    - '[close]'
+    right_click_commands:
+    - '[player] topdeaths'
+    - '[close]'
+  '4':
+    material: 'hdb-8210'
+    slot: 14
+    display_name: '&e&lTops Millonarios'
+    lore:
+    - '&aTo go use click Right/Left!'
+    left_click_commands:
+    - '[player] topbalances'
+    - '[close]'
+    right_click_commands:
+    - '[player] topbalances'
+    - '[close]'
+  '5':
+    material: 'hdb-1003'
+    slot: 15
+    display_name: '&e&lTops Game Time'
+    lore:
+    - '&aTo go use click Right/Left!'
+    left_click_commands:
+    - '[player] topplayed'
+    - '[close]'
+    right_click_commands:
+    - '[player] topplayed'
+    - '[close]'
+  'Back':
+    material: 'hdb-10786'
+    slot: 22
+    display_name: '&4&l‹‹ Back'
+    left_click_commands:
+    - '[player] menu'
+    - '[close]'
+    right_click_commands:
+    - '[player] menu'
+    - '[close]'
+  'Next':
+    material: 'hdb-10783'
+    slot: 4
+    display_name: '&2&l›› Next'
+    left_click_commands:
+    - '[player] menu'
+    - '[close]'
+    right_click_commands:
+    - '[player] menu'
+    - '[close]'
+  'Panel1':
+    material: 160
+    data: 15
+    slot: 0
+    display_name: '&8'
+  'Panel2':
+    material: 160
+    data: 15
+    slot: 1
+    display_name: '&8'
+  'Panel3':
+    material: 160
+    data: 15
+    slot: 2
+    display_name: '&8'
+  'Panel4':
+    material: 160
+    data: 15
+    slot: 3
+    display_name: '&8'
+  'Panel5':
+    material: 160
+    data: 15
+    slot: 5
+    display_name: '&8'
+  'Panel6':
+    material: 160
+    data: 15
+    slot: 6
+    display_name: '&8'
+  'Panel7':
+    material: 160
+    data: 15
+    slot: 7
+    display_name: '&8'
+  'Panel8':
+    material: 160
+    data: 15
+    slot: 8
+    display_name: '&8'
+  'Panel9':
+    material: 160
+    data: 15
+    slot: 9
+    display_name: '&8'
+  'Panel10':
+    material: 160
+    data: 15
+    slot: 17
+    display_name: '&8'
+  'Panel11':
+    material: 160
+    data: 15
+    slot: 18
+    display_name: '&8'
+  'Panel12':
+    material: 160
+    data: 15
+    slot: 19
+    display_name: '&8'
+  'Panel13':
+    material: 160
+    data: 15
+    slot: 20
+    display_name: '&8'
+  'Panel14':
+    material: 160
+    data: 15
+    slot: 21
+    display_name: '&8'
+  'Panel16':
+    material: 160
+    data: 15
+    slot: 23
+    display_name: '&8'
+  'Panel17':
+    material: 160
+    data: 15
+    slot: 24
+    display_name: '&8'
+  'Panel18':
+    material: 160
+    data: 15
+    slot: 25
+    display_name: '&8'
+  'Panel19':
+    material: 160
+    data: 15
+    slot: 26
+    display_name: '&8'

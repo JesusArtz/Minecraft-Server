@@ -1,0 +1,13 @@
+{
+  "Type": "PIG",
+  "Loot": [
+    {
+      "Type": "PORK",
+      "Burned Type": "GRILLED_PORK",
+      "Chance": 100.0,
+      "Min": 1,
+      "Max": 3,
+      "Looting": true
+    }
+  ]
+}

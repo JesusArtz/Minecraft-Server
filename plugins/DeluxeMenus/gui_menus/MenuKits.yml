@@ -1,0 +1,379 @@
+#
+menu_title: '&8¡Survival Kits!'
+open_command: 
+- Kit
+- Kits
+size: 54
+items:
+  '1':
+    material: 276
+    data: 0
+    slot: 19
+    display_name: '&8Kit &f&lUSUARIO'
+    lore:
+    - ''
+    - '&7Reclama este kit cada'
+    - '&b15 &7dias'
+    - ''
+    - '&2➜ &aUsa clic derecho / izquierdo!'
+    enchantments:
+    - 'DAMAGE_ALL;5'
+    left_click_commands:
+    - '[player] kit user'
+    - '[close]'
+    right_click_commands:
+    - '[player] kit user'
+    - '[close]'
+  Chest-1:
+    material: 403
+    data: 0
+    slot: 28
+    display_name: '&8✎ &eObservar contenido'
+    left_click_commands:
+    - '[openguimenu] Kits_User'
+    right_click_commands:
+    - '[openguimenu] Kits_User'
+  '2':
+    material: 276
+    data: 0
+    slot: 20
+    display_name: '&8Kit &3&lV&b&lI&f&lP'
+    lore:
+    - ''
+    - '&7Reclama este kit cada'
+    - '&b15 &7dias'
+    - ''
+    - '&2➜ &aUsa clic derecho / izquierdo!'
+    enchantments:
+    - 'DAMAGE_ALL;5'
+    left_click_commands:
+    - '[player] kit navigator'
+    - '[close]'
+    right_click_commands:
+    - '[player] kit navigator'
+    - '[close]'
+  Chest-2:
+    material: 403
+    data: 0
+    slot: 29
+    display_name: '&8✎ &eObservar contenido'
+    left_click_commands:
+    - '[openguimenu] Kits_Navigator'
+    right_click_commands:
+    - '[openguimenu] Kits_Navigator'
+  '3':
+    material: 276
+    data: 0
+    slot: 21
+    display_name: '&8Kit &6&lV&e&lI&f&lP+'
+    lore:
+    - ''
+    - '&7Reclama este kit cada'
+    - '&b15 &7days'
+    - ''
+    - '&2➜ &aUsa clic derecho / izquierdo!'
+    enchantments:
+    - 'DAMAGE_ALL;5'
+    left_click_commands:
+    - '[player] kit admiral'
+    - '[close]'
+    right_click_commands:
+    - '[player] kit admiral'
+    - '[close]'
+  Chest-3:
+    material: 403
+    data: 0
+    slot: 30
+    display_name: '&8✎ &eObservar contenido'
+    left_click_commands:
+    - '[openguimenu] Kits_Admiral'
+    right_click_commands:
+    - '[openguimenu] Kits_Admiral'
+  '4':
+    material: 276
+    data: 0
+    slot: 22
+    display_name: '&8Kit &2&lE&a&lLI&f&lTE'
+    lore:
+    - ''
+    - '&7Reclama este kit cada'
+    - '&b15 &7days'
+    - ''
+    - '&2➜ &aUsa clic derecho / izquierdo!'
+    enchantments:
+    - 'DAMAGE_ALL;5'
+    left_click_commands:
+    - '[player] kit captain'
+    - '[close]'
+    right_click_commands:
+    - '[player] kit captain'
+    - '[close]'
+  Chest-4:
+    material: 403
+    data: 0
+    slot: 31
+    display_name: '&8✎ &eObservar contenido'
+    left_click_commands:
+    - '[openguimenu] Kits_Captain'
+    right_click_commands:
+    - '[openguimenu] Kits_Captain'
+  '5':
+    material: 276
+    data: 0
+    slot: 23
+    display_name: '&8Kit &5&lLI&d&lEUTE&f&lNANT'
+    lore:
+    - ''
+    - '&7Reclama este kit cada'
+    - '&b15 &7days'
+    - ''
+    - '&2➜ &aUsa clic derecho / izquierdo!'
+    enchantments:
+    - 'DAMAGE_ALL;5'
+    left_click_commands:
+    - '[player] kit lieutenant'
+    - '[close]'
+    right_click_commands:
+    - '[player] kit lieutenant'
+    - '[close]'
+  Chest-5:
+    material: 403
+    data: 0
+    slot: 32
+    display_name: '&8✎ &eObservar contenido'
+    left_click_commands:
+    - '[openguimenu] Kits_Lieutenant'
+    right_click_commands:
+    - '[openguimenu] Kits_Lieutenant'
+  '7':
+    material: 276
+    data: 0
+    slot: 25
+    display_name: '&8Kit &7&lPVP'
+    lore:
+    - ''
+    - '&7Reclama este kit cada'
+    - '&b30 &7seconds'
+    - ''
+    - '&2➜ &aUsa clic derecho / izquierdo!'
+    enchantments:
+    - 'DAMAGE_ALL;5'
+    left_click_commands:
+    - '[player] kit pvp'
+    - '[close]'
+    right_click_commands:
+    - '[player] kit pvp'
+    - '[close]'
+  Chest-7:
+    material: 403
+    data: 0
+    slot: 34
+    display_name: '&8✎ &eObservar contenido'
+    left_click_commands:
+    - '[openguimenu] Kits_PvP'
+    right_click_commands:
+    - '[openguimenu] Kits_PvP'
+  'Next':
+    material: 'hdb-10783'
+    slot: 4
+    display_name: '&2&l›› Next'
+  'Back':
+    material: 'hdb-10786'
+    slot: 49
+    display_name: '&4&l‹‹ Back'
+    left_click_commands:
+    - '[player] menu'
+    - '[close]'
+    right_click_commands:
+    - '[player] menu'
+    - '[close]'
+  Pane0:
+    material: 160
+    data: 15
+    slot: 0
+    display_name: '&8'
+  Pane1:
+    material: 160
+    data: 15
+    slot: 1
+    display_name: '&8'
+  Pane2:
+    material: 160
+    data: 7
+    slot: 2
+    display_name: '&8'
+  Pane3:
+    material: 160
+    data: 7
+    slot: 3
+    display_name: '&8'
+  Pane5:
+    material: 160
+    data: 7
+    slot: 5
+    display_name: '&8'
+  Pane6:
+    material: 160
+    data: 7
+    slot: 6
+    display_name: '&8'
+  Pane7:
+    material: 160
+    data: 15
+    slot: 7
+    display_name: '&8'
+  Pane8:
+    material: 160
+    data: 15
+    slot: 8
+    display_name: '&8'
+  Pane9:
+    material: 160
+    data: 5
+    slot: 9
+    display_name: '&8'
+  Pane10:
+    material: 160
+    data: 5
+    slot: 10
+    display_name: '&8'
+  Pane11:
+    material: 160
+    data: 5
+    slot: 11
+    display_name: '&8'
+  Pane12:
+    material: 160
+    data: 5
+    slot: 12
+    display_name: '&8'
+  Pane13:
+    material: 160
+    data: 5
+    slot: 13
+    display_name: '&8'
+  Pane14:
+    material: 160
+    data: 5
+    slot: 14
+    display_name: '&8'
+  Pane15:
+    material: 160
+    data: 5
+    slot: 15
+    display_name: '&8'
+  Pane16:
+    material: 160
+    data: 5
+    slot: 16
+    display_name: '&8'
+  Pane17:
+    material: 160
+    data: 5
+    slot: 17
+    display_name: '&8'
+  Pane18:
+    material: 160
+    data: 5
+    slot: 18
+    display_name: '&8'
+  Pane26:
+    material: 160
+    data: 5
+    slot: 26
+    display_name: '&8'
+  Pane27:
+    material: 160
+    data: 5
+    slot: 27
+    display_name: '&8'
+  Pane35:
+    material: 160
+    data: 5
+    slot: 35
+    display_name: '&8'
+  Panel36:
+    material: 160
+    data: 5
+    slot: 36
+    display_name: '&8'
+  Panel37:
+    material: 160
+    data: 5
+    slot: 37
+    display_name: '&8'
+  Panel38:
+    material: 160
+    data: 5
+    slot: 38
+    display_name: '&8'
+  Panel39:
+    material: 160
+    data: 5
+    slot: 39
+    display_name: '&8'
+  Panel40:
+    material: 160
+    data: 5
+    slot: 40
+    display_name: '&8'
+  Panel41:
+    material: 160
+    data: 5
+    slot: 41
+    display_name: '&8'
+  Panel42:
+    material: 160
+    data: 5
+    slot: 42
+    display_name: '&8'
+  Panel43:
+    material: 160
+    data: 5
+    slot: 43
+    display_name: '&8'
+  Panel44:
+    material: 160
+    data: 5
+    slot: 44
+    display_name: '&8'
+  Pane45:
+    material: 160
+    data: 15
+    slot: 45
+    display_name: '&8'
+  Pane46:
+    material: 160
+    data: 15
+    slot: 46
+    display_name: '&8'
+  Pane47:
+    material: 160
+    data: 7
+    slot: 47
+    display_name: '&8'
+  Pane48:
+    material: 160
+    data: 7
+    slot: 48
+    display_name: '&8'
+  Pane50:
+    material: 160
+    data: 7
+    slot: 50
+    display_name: '&8'
+  Pane51:
+    material: 160
+    data: 7
+    slot: 51
+    display_name: '&8'
+  Pane52:
+    material: 160
+    data: 15
+    slot: 52
+    display_name: '&8'
+  Pane53:
+    material: 160
+    data: 15
+    slot: 53
+    display_name: '&8'

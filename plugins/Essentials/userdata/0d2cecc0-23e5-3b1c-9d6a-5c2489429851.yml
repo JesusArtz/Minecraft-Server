@@ -1,0 +1,24 @@
+lastAccountName: oscarst14
+timestamps:
+  login: 1616720786830
+  lastteleport: 1616628996708
+  kits:
+    pvp: 1616618553286
+    user: 1616373438147
+  logout: 1616720800689
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -4.768059277040363
+  y: 45.0
+  z: 26.313141598471024
+  yaw: -356.09985
+  pitch: 46.800022
+money: '131.500'
+logoutlocation:
+  world: world
+  x: 4.401477497845226
+  y: 50.0
+  z: 6.8965157663846375
+  yaw: -54.89972
+  pitch: 34.95002

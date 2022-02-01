@@ -1,0 +1,833 @@
+Crate:
+  CrateType: Wheel
+  CrateName: '&8Box &5&lLI&d&lEUTE&f&lNANT'
+  StartingKeys: 0
+  InGUI: true
+  Slot: 25
+  OpeningBroadCast: true
+  BroadCast: '%Prefix%&b%Player% &7opened a box &5&lLI&d&lEUTE&f&lNANT.'
+  Item: '342'
+  Name: '&8Box &5&lLI&d&lEUTE&f&lNANT'
+  Lore:
+    - '&5&m-----&d&m-----&f&m-----&d&m-----&5&m-----'
+    - '&d'
+    - '&dClaim your special drawer and'
+    - '&dget several items'
+    - '&d'
+    - '&b➜ &fCurrently accounts'
+    - '&2   &fwith &b%Keys% &fpadlocks &5&lLI&d&lEUTE&f&lNANT'
+    - '&2   &Favailable/s.'
+    - '&7'
+    - '&b➜ &fClassification of drawer:'
+    - '&7   &9✎ &e&lEPIC DRAWER'
+    - '&7   &9✎ &6✯✯✯✯&f✯'
+    - '&7'
+    - '&dBuy padlocks in the store'
+    - '&dfrom the forum:'
+    - '&dShop&8: &6server.es/donate'
+    - '&7'
+    - '&5&m-----&d&m-----&f&m-----&d&m-----&5&m-----'
+    - '&a&lUse click to open drawer!'
+  PhysicalKey:
+    Name: '&8Box key &5&lLI&d&lEUTE&f&lNANT'
+    Lore:
+      - '&5This item opens the physical drawers'
+      - '&5of box &5&lLI&d&lEUTE&f&lNANT'
+    Item: '131'
+    Glowing: true
+  Prizes:
+    1:
+      DisplayName: '&fCoal block'
+      DisplayItem: '173'
+      DisplayAmount: 64
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 173 64'
+      Messages:
+        - '&6&lPRIZE&8: &e64 &fCoal blocks'
+    2:
+      DisplayName: '&fRedstone block'
+      DisplayItem: '152'
+      DisplayAmount: 48
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 152 48'
+      Messages:
+        - '&6&lPRIZE&8: &e48 &fRedstone blocks'
+    3:
+      DisplayName: '&fLapis block'
+      DisplayItem: '22'
+      DisplayAmount: 32
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 22 32'
+      Messages:
+        - '&6&lPRIZE&8: &e32 &fLapis blocks'
+    4:
+      DisplayName: '&fIron block'
+      DisplayItem: '42'
+      DisplayAmount: 64
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 42 64'
+      Messages:
+        - '&6&lPRIZE&8: &e64 &fIron blocks'
+    5:
+      DisplayName: '&fObsidian block'
+      DisplayItem: '49'
+      DisplayAmount: 48
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 49 48'
+      Messages:
+        - '&6&lPRIZE&8: &e48 &fObsidian blocks'
+    6:
+      DisplayName: '&fDiamond block'
+      DisplayItem: '57'
+      DisplayAmount: 32
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 57 32'
+      Messages:
+        - '&6&lPRIZE&8: &e32 &fDiamond blocks'
+    7:
+      DisplayName: '&fGold block'
+      DisplayItem: '41'
+      DisplayAmount: 32
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 41 32'
+      Messages:
+        - '&6&lPRIZE&8: &e32 &fGold blocks'
+    8:
+      DisplayName: '&fEmerald block'
+      DisplayItem: '133'
+      DisplayAmount: 48
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 133 48'
+      Messages:
+        - '&6&lPRIZE&8: &e48 &fEmerald blocks'
+    9:
+      DisplayName: '&fBedrock'
+      DisplayItem: '7'
+      DisplayAmount: 48
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 7 48'
+      Messages:
+        - '&6&lPRIZE&8: &e48 &fBedrock'
+    10:
+      DisplayName: '&bDiamond Helmet'
+      DisplayItem: '310'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:5'
+        - 'DURABILITY:4'
+      Commands:
+        - 'Give %Player% 310 1 {ench:[{id:0,lvl:5},{id:34,lvl:4}]}'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &bDiamond Helmet'
+    11:
+      DisplayName: '&bDiamond Chestplate'
+      DisplayItem: '311'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:5'
+        - 'DURABILITY:4'
+      Commands:
+        - 'Give %Player% 311 1 {ench:[{id:0,lvl:5},{id:34,lvl:4}]}'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &bDiamond Chestplate'
+    12:
+      DisplayName: '&bDiamond Leggings'
+      DisplayItem: '312'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:5'
+        - 'DURABILITY:4'
+      Commands:
+        - 'Give %Player% 312 1 {ench:[{id:0,lvl:5},{id:34,lvl:4}]}'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &bDiamond Leggings'
+    13:
+      DisplayName: '&bDiamond Boots'
+      DisplayItem: '313'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: true
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:5'
+        - 'DURABILITY:4'
+      Commands:
+        - 'Give %Player% 313 1 {ench:[{id:0,lvl:5},{id:34,lvl:4}]}'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &bDiamond Boots'
+    14:
+      DisplayName: '&fEnderpearl'
+      DisplayItem: '368'
+      DisplayAmount: 32
+      Lore:
+        - '&aProbability&8: &e2%'
+      MaxRange: 100
+      Chance: 2
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 368 32'
+      Messages:
+        - '&6&lPRIZE&8: &e32 &fEnderpearl'
+    15:
+      DisplayName: '&bDiamond Sword'
+      DisplayItem: '276'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: true
+      DisplayEnchantments:
+        - 'DAMAGE_ALL:6'
+        - 'DURABILITY:5'
+      Commands:
+        - 'Give %Player% 276 1 {ench:[{id:16,lvl:6},{id:34,lvl:5}]}'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &bDiamond Sword'
+    16:
+      DisplayName: '&bDiamond Axe'
+      DisplayItem: '279'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: true
+      DisplayEnchantments:
+        - 'DIG_SPEED-6'
+        - 'DURABILITY-5'
+      Commands:
+        - 'Give %Player% 279 1 {ench:[{id:16,lvl:6},{id:34,lvl:5}]}'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &bDiamond Axe'
+    17:
+      DisplayName: '&bDiamond Pickaxe'
+      DisplayItem: '278'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: true
+      DisplayEnchantments:
+        - 'DIG_SPEED-6'
+        - 'DURABILITY-5'
+      Commands:
+        - 'Give %Player% 278 1 {ench:[{id:16,lvl:6},{id:34,lvl:5}]}'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &bDiamond Pickaxe'
+    18:
+      DisplayName: '&bDiamond Shovel'
+      DisplayItem: '277'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: true
+      DisplayEnchantments:
+        - 'DIG_SPEED-6'
+        - 'DURABILITY-5'
+      Commands:
+        - 'Give %Player% 277 1 {ench:[{id:16,lvl:6},{id:34,lvl:5}]}'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &bDiamond Shovel'
+    19:
+      DisplayName: '&fApple'
+      DisplayItem: '260'
+      DisplayAmount: 64
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 260 64'
+      Messages:
+        - '&6&lPRIZE&8: &e64 &fApples'
+    20:
+      DisplayName: '&bGolden Apple'
+      DisplayItem: '322'
+      DisplayAmount: 64
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 322 64'
+      Messages:
+        - '&6&lPRIZE&8: &e64 &bGolden Apples'
+    21:
+      DisplayName: '&dGolden Apple'
+      DisplayItem: '322:1'
+      DisplayAmount: 32
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Give %Player% 322:1 32'
+      Messages:
+        - '&6&lPRIZE&8: &e32 &dGolden Apple'
+    22:
+      DisplayName: '&c✘ Bad luck!'
+      DisplayItem: '166'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 50
+      Firework: true
+      Glowing: true
+      Commands:
+        - ''
+      Messages:
+        - ''
+    23:
+      DisplayName: '&fPig &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% PIG 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dPig Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dPig Spawner'
+    24:
+      DisplayName: '&fSheep &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% SHEEP 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dSheep Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dSheep Spawner'
+    25:
+      DisplayName: '&fCow &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% COW 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dCow Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dCow Spawner'
+    26:
+      DisplayName: '&fChicken &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% CHICKEN 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dChicken Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dChicken Spawner'
+    27:
+      DisplayName: '&fSquid &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% SQUID 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dSquid Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dSquid Spawner'
+    28:
+      DisplayName: '&fWolf &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% WOLF 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dWolf Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dWolf Spawner'
+    29:
+      DisplayName: '&fMushroom &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% MUSHROOM_COW 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dMushroom Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dMushroom Spawner'
+    30:
+      DisplayName: '&fOzelot &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% OCELOT 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dOzelot Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dOzelot Spawner'
+    31:
+      DisplayName: '&fHorse &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% HORSE 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dHorse Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dHorse Spawner'
+    32:
+      DisplayName: '&fRabbit &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% RABBIT 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dRabbit Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dRabbit Spawner'
+    33:
+      DisplayName: '&fZombie &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% ZOMBIE 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dZombie Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dZombie Spawner'
+    34:
+      DisplayName: '&fCreeper &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% CREEPER 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dCreeper Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dCreeper Spawner'
+    35:
+      DisplayName: '&fSkeleton &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% SKELETON 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dSkeleton Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dSkeleton Spawner'
+    36:
+      DisplayName: '&fSpider &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% SPIDER 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dSpider Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dSpider Spawner'
+    37:
+      DisplayName: '&fSlime &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% SLIME 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dSlime Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dSlime Spawner'
+    38:
+      DisplayName: '&fPigZombie &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% PIG_ZOMBIE 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dPigZombie Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dPigZombie Spawner'
+    39:
+      DisplayName: '&fEnderman &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% ENDERMAN 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dEnderman Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dEnderman Spawner'
+    40:
+      DisplayName: '&fCaveSpider &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% CAVE_SPIDER 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dCaveSpider Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dCaveSpider Spawner'
+    41:
+      DisplayName: '&fSilverfish &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% SILVERFISH 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dSilverfish Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dSilverfish Spawner'
+    42:
+      DisplayName: '&fBlaze &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% Blaze 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dBlaze Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dBlaze Spawner'
+    43:
+      DisplayName: '&fMagmaCube &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% MAGMA_CUBE 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dMagmaCube Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dMagmaCube Spawner'
+    44:
+      DisplayName: '&fWitch &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% Witch 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dWitch Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dWitch Spawner'
+    45:
+      DisplayName: '&fGuardian &eSpawner'
+      DisplayItem: '52'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'es give %Player% Guardian 1 1'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e1 &dGuardian Spawner'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dGuardian Spawner'
+    46:
+      DisplayName: '&e1500 &dof money'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e15%'
+      MaxRange: 100
+      Chance: 8
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Eco give %Player% 1500'
+      Messages:
+        - '&6&lPRIZE&8: &e1500 &dof money'
+    47:
+      DisplayName: '&e2000 &dof money'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e10%'
+      MaxRange: 100
+      Chance: 8
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Eco give %Player% 2000'
+      Messages:
+        - '&6&lPRIZE&8: &e2000 &dof money'   
+    48:
+      DisplayName: '&e3000 &dof money'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e5%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Eco give %Player% 3000'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e3000 &dof money'
+      Messages:
+        - '&6&lPRIZE&8: &e3000 &dof money'   
+    49:
+      DisplayName: '&e3200 &dof money'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e5%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Eco give %Player% 3200'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e3200 &dof money'
+      Messages:
+        - '&6&lPRIZE&8: &e3200 &dof money'      
+    50:
+      DisplayName: '&dPadlock &3&lNA&b&lVIGA&f&lTOR'
+      DisplayItem: '288'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e5%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Crazycrate give virtual Navigator 1 %Player%'
+        - 'bc &2&lCONGRATULATIONS&8: &b%Player% &7won &e1 &dPadlock &3&lNA&b&lVIGA&f&lTOR'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dPadlock &3&lNA&b&lVIGA&f&lTOR'
+    51:
+      DisplayName: '&dPadlock &6&lAD&e&lMIR&f&lAL'
+      DisplayItem: '288'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e5%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Crazycrate give virtual Admiral 1 %Player%'
+        - 'bc &2&lCONGRATULATIONS&8: &b%Player% &7won &e1 &dPadlock &6&lAD&e&lMIR&f&lAL'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dPadlock &6&lAD&e&lMIR&f&lAL'
+    52:
+      DisplayName: '&dPadlock &2&lCA&a&lPTA&f&lIN'
+      DisplayItem: '288'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e5%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Crazycrate give virtual Captain 1 %Player%'
+        - 'bc &2&lCONGRATULATIONS&8: &b%Player% &7won &e1 &dPadlock &2&lCA&a&lPTA&f&lIN'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dPadlock &2&lCA&a&lPTA&f&lIN'
+    53:
+      DisplayName: '&dPadlock &5&lLI&d&lEUTE&f&lNANT'
+      DisplayItem: '288'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e5%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'Crazycrate give virtual Lieutenant 1 %Player%'
+        - 'bc &2&lCONGRATULATIONS&8: &b%Player% &7won &e1 &dPadlock &5&lLI&d&lEUTE&f&lNANT'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dPadlock &5&lLI&d&lEUTE&f&lNANT'

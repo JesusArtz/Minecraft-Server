@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Nuckduck
+timestamps:
+  login: 1615824193331
+  lastteleport: 1615824448759
+  kits:
+    user: 1615823699483
+  logout: 1615824630108
+ipAddress: 190.144.46.14
+lastlocation:
+  world: Survival
+  x: 671.828721548355
+  y: 71.0
+  z: 738.7617444436985
+  yaw: 122.431145
+  pitch: 17.169643
+money: '100.0'
+logoutlocation:
+  world: world
+  x: 20.638100549552917
+  y: 46.0
+  z: 96.13565899996
+  yaw: 283.09866
+  pitch: 5.7029743

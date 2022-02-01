@@ -1,0 +1,31 @@
+lastAccountName: SimoneVergasola
+timestamps:
+  login: 1620494266381
+  lastteleport: 1620495196045
+  kits:
+    lieutenant: 1616379343580
+    navigator: 1620450680066
+    pvp: 1620495110720
+    captain: 1615732431418
+    admiral: 1616287852045
+    user: 1620450686687
+  logout: 1620495323846
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Survival_plots
+  x: 0.536708025925838
+  y: 39.0
+  z: 0.5442626640285796
+  yaw: 181.62009
+  pitch: 1.950122
+logoutlocation:
+  world: world
+  x: 0.5412842506029364
+  y: 50.0
+  z: 2.4203443563625755
+  yaw: 5.400421
+  pitch: -7.3499846
+money: '3989665.6040000000000004'
+afk: false
+homes: {}
+socialspy: false

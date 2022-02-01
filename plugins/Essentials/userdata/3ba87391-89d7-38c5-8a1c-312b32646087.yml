@@ -1,0 +1,33 @@
+lastAccountName: El_LiChi_MC
+timestamps:
+  login: 1615902317616
+  logout: 1615902639406
+  kits:
+    pvp: 1615825024840
+    user: 1615822472531
+  lastteleport: 1615902396580
+ipAddress: 187.187.224.18
+socialspy: false
+logoutlocation:
+  world: Survival
+  x: 389.1229750140293
+  y: 90.0
+  z: 1045.6875316139717
+  yaw: 96.05053
+  pitch: 39.11901
+money: '111.0'
+lastlocation:
+  world: Survival
+  x: 330.69999998807907
+  y: 27.0
+  z: 4.699999988079071
+  yaw: 132.64268
+  pitch: 56.25244
+homes:
+  home:
+    world: Survival
+    x: 415.30000001192093
+    y: 27.0
+    z: 64.61050814705482
+    yaw: -47.568855
+    pitch: 57.809933

@@ -1,0 +1,25 @@
+lastAccountName: Mazy_Man
+timestamps:
+  login: 1617996923509
+  lastteleport: 1617996958468
+  logout: 1617997056232
+  kits:
+    pvp: 1616084945754
+    user: 1617997044338
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Survival_plots
+  x: -119.96334985748858
+  y: 21.0
+  z: 64.7558360715704
+  yaw: -103.321396
+  pitch: 25.356455
+money: '952.875'
+logoutlocation:
+  world: world
+  x: 10.750141628085489
+  y: 49.0
+  z: 6.794344407848344
+  yaw: 340.83844
+  pitch: 10.361347
+socialspy: false

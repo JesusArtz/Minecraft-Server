@@ -1,0 +1,109 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicSpawners&8] '
+    exit: '&cSluiten'
+    next: '&9Volgende'
+    back: '&9Terug'
+    confirm: '&a&lBevestigen'
+    currency: $
+# Interface Messages
+interface:
+  spawner:
+    upgradewithxp: '&aUpgraden met XP'
+    upgradewithxplore: '&7Kost: &a%cost% Levels'
+    upgradewitheconomy: '&aUpgraden met ECO'
+    upgradewitheconomylore: '&7Kost: &a%cost%'
+    statstitle: '&6Spawner Statistieken'
+    stats: '&a%amount% &7keer gespawned tot nu toe.'
+    onlyspawnson: '&7Spawnt alleen op &6%block%&7.'
+    boost: '&7Klik rechts om te &aversterken&7.'
+    cantboost: '&cKan niet geboost worden.'
+    convert: '&7Klik links om te &averanderen&7.'
+    boostedstats: '&a&lOp dit moment versterkt!|&7Er worden &6%amount% &7extra &6%type%s &7toegevoegd bij elke spawn.|&7Verloopt over &6%time%&7.'
+    boostednever: nooit
+    howtotitle: '&a&lHandige informatie'
+    howtoinfo: '{[LEVELUP]Je kunt deze spawner stacken of "level verhogen" door: [Een andere spawner op deze spawner te gebruiken][Level verhogen met XP][Level verhogen met ECONOMY].}|{[DROP]Een <TYPE> spawner dropt wanneer je <AMT> [natuurlijk gespawnde ]<TYPE>''s hebt vermoord}|{[OMNI][Wanneer je verschillende type spawners stackt creëert dit een OmniSpawner].}|{[WATER][Spawners stoten water af].}|{[REDSTONE][Je kunt deze spawner uitzetten door het redstone power te geven].}|{[INVSTACK][Je kunt spawners uit je inventory stacken door ze bovenop elkaar te plaatsen.]}'
+    howtonext: '&aKlik om naar de volgende pagina te gaan.'
+    howtoback: '&aKlik om naar de vorige pagina te gaan.'
+    paused: '&6Spawner gepauzeerd omdat:'
+    conditionBiome1: Het is niet geplaatst in een &6%biome%&7 klimaat.
+    conditionBiome2: Het is niet geplaatst in het correcte klimaat.
+    conditionHeight: Het Y coördinaat is niet tussen &6%min%&7 en &6%max%&7.
+    conditionLight: Niet genoeg &6licht&7.
+    conditionDark: Niet &6donker&7 genoeg.
+    conditionNearbyEntities: Er zijn meer dan &6%max%&7 entiteiten rond deze spawner.
+    conditionNearbyPlayers: Er zijn minder dan &6%amount%&7 spelers binnen een radius van &6%distance%&7 blokken van deze spawner.
+    conditionStorm: Er is geen storm.
+  convert:
+    title: Spawner Converteren.
+    lore: '&7Klik hier om te Converteren.'
+  shop:
+    title: Spawner Shop
+    spawnershoptitle: '&8Koop een %type%'
+    buyprice: '&7Verkoopprijs: &a%cost%'
+    lore: '&7Klik hier om te kopen.'
+    add1: '&a&lVoeg 1 toe'
+    add10: '&a&lVoeg 10 toe'
+    set1: '&c&lZet naar 1'
+    set64: '&a&lZet naar 64'
+    remove1: '&c&lVerwijder 1'
+    remove10: '&c&lVerwijder 10'
+  spawnerstats:
+    title: '&5&lSpawnerStats'
+    prefix: '&7Jouw spawner stats:'
+    nokills: '&7Je hebt op dit moment geen monster kills. Ga iets vermoorden!'
+  boost:
+    title: '&c%spawner% &cwordt versterkt met %amount%'
+    cost: '&7Kost &6&l%cost%.'
+    boostfor: '&7&lVersterkt voor &6&l%amount% &7&lMinuten'
+# Command Messages
+command:
+  give:
+    success: '&7You have been given %amount% &6%type%&7.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cJe hebt geen toestemming om dat te doen.'
+  upgrade:
+    cannotafford: '&cJe kunt deze upgrade niet betalen.'
+    success: '&7Je hebt deze spawner geupgrade naar &6%level%x&7.'
+    maxed: '&7Deze spawner heeft het maximale level bereikt.'
+    successmaxed: '&7Deze spawner heeft het maximale level van &6%level%x&7 bereikt.'
+  downgrade:
+    success: '&7Je hebt deze spawner verlaagd naar &6%level%x&7.'
+  block:
+    place: '&7Je hebt een &6%type%&7 geplaatst.'
+    broken: Dit spawner type is verwijderd en je kunt het niet plaatsen.
+    chargeplace: '&7Je moet &6%cost% &7betalen als je deze spawner niet binnen 1  minuut breekt.'
+    break: '&7Je hebt een &6%type%&7 gebroken.'
+    chargebreak: '&7Je moet &6%cost% &7betalen om deze spawner te breken. Breek de spawner opnieuw om te bevestigen.'
+    blacklisted: '&cDie optie is uitgeschakeld.'
+    omnitake: '&7Je hebt een &6%type%&7 verwijderd van de OmniSpawner.'
+    forcedeny: '&cDeze spawner staat te dicht bij een andere spawner.'
+    mergedistance: '&7Deze spawner is gecombineerd met een nabije spawner.'
+    chunklimit: '&cEr kunnen niet meer dan &4%amount% spawners &cgeplaatst worden in deze chunk.'
+    cannotbreak: '&7Je kunt het breken van deze spawner niet betalen.'
+  goal:
+    alert: '&7Je hebt nog &6%goal% &7meer kills nodig om een &6%type% Spawner&7 te ontvangen.'
+    reached: '&7Er is een &6%type% Spawner &7gedropt!'
+  egg:
+    needmore: '&7Je hebt &6%amount% &7monster eieren nodig om deze spawner te converteren.'
+    sametype: '&7Dit spawnt al &6%type%s&7.'
+  shop:
+    cannotafford: '&cJe kunt dit niet betalen.'
+    purchasesuccess: '&9Je aankoop was succesvol.'
+  omni:
+    cannotmerge: '&cJe kunt twee OmniSpawners niet combineren.'
+    combinefail: '&cDe OmniSpawner weigert om meer spawners van dit type te absorberen.'
+    combinesuccess: '&7Jouw spawner is geabsorbeerd in de OmniSpawner.'
+    takespawner: '&7Je hebt een &6%type%&7 van de OmniSpawner verwijderd.'
+  convert:
+    success: '&7De conversie was successvol.'
+  boost:
+    applied: '&6Jouw versterking is toegepast.'
+  combine:
+    onlyone: '&cJe kunt maar een spawner per keer combineren.'
+  spawner:
+    toomany: '&cJe kunt maar &4%amount% &cspawners plaatsen...'

@@ -1,0 +1,41 @@
+SavedNPCs:
+  '4':
+    cooldown: 0
+    customPerms: noPerms
+    commands: Mysteris
+  '8':
+    cooldown: 0
+    customPerms: noPerms
+    commands: ah
+  '0':
+    cooldown: 0
+    customPerms: noPerms
+    commands: Menu
+  '10':
+    cooldown: 0
+    customPerms: noPerms
+    commands: warp plots
+  '1':
+    cooldown: 0
+    customPerms: noPerms
+    commands: sdm gui
+  '2':
+    cooldown: 0
+    customPerms: noPerms
+    commands: cc
+  '3':
+    cooldown: 0
+    customPerms: noPerms
+    commands: cc
+  '11':
+    cooldown: 0
+    customPerms: noPerms
+    commands: rtp
+  '6':
+    cooldown: 0
+    customPerms: noPerms
+    commands: Spawners
+  '7':
+    cooldown: 0
+    customPerms: noPerms
+    commands: warp pvp

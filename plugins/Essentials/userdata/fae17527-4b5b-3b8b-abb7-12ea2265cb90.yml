@@ -1,0 +1,42 @@
+lastAccountName: Pulevita
+timestamps:
+  login: 1616765013589
+  lastteleport: 1616709131947
+  logout: 1616765057790
+  kits:
+    lieutenant: 1615732975466
+    pvp: 1615907639541
+    user: 1615817134002
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Survival_plots
+  x: 38.400626288088915
+  y: 21.0
+  z: -175.35605030016504
+  yaw: -281.54953
+  pitch: 90.0
+logoutlocation:
+  world: Survival_plots
+  x: 35.290131461194726
+  y: 4.0
+  z: -173.539883414899
+  yaw: 255.31369
+  pitch: 37.199963
+money: '101.0'
+afk: false
+socialspy: false
+homes:
+  lvls:
+    world: Survival
+    x: 621.7904141300955
+    y: 27.0
+    z: 506.065628946141
+    yaw: -176.25708
+    pitch: 41.95493
+  spawn:
+    world: Survival
+    x: 823.7512820935676
+    y: 74.0
+    z: -322.7708340995461
+    yaw: -293.4752
+    pitch: -5.0998807

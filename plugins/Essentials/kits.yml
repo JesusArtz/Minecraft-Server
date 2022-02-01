@@ -1,0 +1,92 @@
+# EssentialsX new Kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+# 
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - itemID[:DataValue/Durability] Amount [Enchantment:Level].. [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  Usuario:
+    delay: 1296000
+    items:
+    - 267:0 1 name:§8Espada_de_§f§lUSUARIO
+    - 306:0 1 name:§8Casco_de_§f§lUSUARIO
+    - 307:0 1 name:§8Pechera_de_§f§lUSUARIO
+    - 308:0 1 name:§8Pantalones_de_§f§lUSUARIO
+    - 309:0 1 name:§8Botas_de_§f§lUSUARIO
+    - 257:0 1 name:§8Pico_de_§f§lUSUARIO
+    - 258:0 1 name:§8Hacha_de_§f§lUSUARIO
+    - 256:0 1 name:§8Pala_de_§f§lUSUARIO
+    - 322:0 2
+  Vip:
+    delay: 1296000
+    items:
+    - 276:0 1 name:§8Espada_de_&3&lV&b&lI&f&lP
+    - 310:0 1 name:§8Casco_de_&3&lV&b&lI&f&lP
+    - 311:0 1 name:§8Pechera_de_&3&lV&b&lI&f&lP
+    - 312:0 1 name:§8Pantalones_de_&3&lV&b&lI&f&lP
+    - 313:0 1 name:§8Botas_de_&3&lV&b&lI&f&lP
+    - 278:0 1 name:§8Pico_de_&3&lV&b&lI&f&lP
+    - 279:0 1 name:§8Hacha_de_&3&lV&b&lI&f&lP
+    - 277:0 1 name:§8Pala_de_&3&lV&b&lI&f&lP
+    - 322:1 2
+  Vip+:
+    delay: 1296000
+    items:
+    - 276:0 1 damage_all:2 durability:1 name:§8Espada_de_&6&lV&e&lI&f&lP+
+    - 310:0 1 protection_environmental:2 durability:1 name:§8Casco_de_&6&lV&e&lI&f&lP+
+    - 311:0 1 protection_environmental:2 durability:1 name:§8Pechera_de_&6&lV&e&lI&f&lP+
+    - 312:0 1 protection_environmental:2 durability:1 name:§8Pantalones_de_&6&lV&e&lI&f&lP+
+    - 313:0 1 protection_environmental:2 durability:1 name:§8Botas_de_&6&lV&e&lI&f&lP+
+    - 278:0 1 dig_speed:2 durability:1 name:§8Pico_de_&6&lV&e&lI&f&lP+
+    - 279:0 1 dig_speed:2 durability:1 name:§8Hacha_de_&6&lV&e&lI&f&lP+
+    - 277:0 1 dig_speed:2 durability:1 name:§8Pala_de_&6&lV&e&lI&f&lP+
+    - 322:1 3
+  Elite:
+    delay: 1296000
+    items:
+    - 276:0 1 damage_all:4 fire_aspect:1 durability:2 name:§8Espada_de_§2§lCA§a§lPTA§f§lIN
+    - 310:0 1 protection_environmental:3 durability:2 name:§8Casco_de_§2§lCA§a§lPTA§f§lIN
+    - 311:0 1 protection_environmental:3 durability:2 name:§8Pechera_de_§2§lCA§a§lPTA§f§lIN
+    - 312:0 1 protection_environmental:3 durability:2 name:§8Pantalones_de_§2§lCA§a§lPTA§f§lIN
+    - 313:0 1 protection_environmental:3 durability:2 name:§8Botas_de_§2§lCA§a§lPTA§f§lIN
+    - 278:0 1 dig_speed:4 durability:2 name:§8Pickaxe_of_§2§lCA§a§lPTA§f§lIN
+    - 279:0 1 dig_speed:4 durability:2 name:§8Axe_of_§2§lCA§a§lPTA§f§lIN
+    - 277:0 1 dig_speed:4 durability:2 name:§8Shovel_of_§2§lCA§a§lPTA§f§lIN
+    - 322:1 5
+  Lieutenant:
+    delay: 1296000
+    items:
+    - 276:0 1 damage_all:5 durability:3 fire_aspect:2 loot_bonus_mobs:3 name:§8Sword_of_§5§lLI§d§lEUTE§f§lNANT
+    - 310:0 1 protection_environmental:4 durability:3 name:§8Helmet_of_§5§lLI§d§lEUTE§f§lNANT
+    - 311:0 1 protection_environmental:4 durability:3 name:§8Chestplate_of_§5§lLI§d§lEUTE§f§lNANT
+    - 312:0 1 protection_environmental:4 durability:3 name:§8Leggings_of_§5§lLI§d§lEUTE§f§lNANT
+    - 313:0 1 protection_environmental:4 durability:3 name:§8Boots_of_§5§lLI§d§lEUTE§f§lNANT
+    - 278:0 1 dig_speed:5 durability:3 name:§8Pickaxe_of_§5§lLI§d§lEUTE§f§lNANT
+    - 279:0 1 dig_speed:5 durability:3 name:§8Axe_of_§5§lLI§d§lEUTE§f§lNANT
+    - 277:0 1 dig_speed:5 durability:3 name:§8Shovel_of_§5§lLI§d§lEUTE§f§lNANT
+    - 322:1 10
+  PvP:
+    delay: 30
+    items:
+    - 272:0 1
+    - 302:0 1
+    - 303:0 1
+    - 304:0 1
+    - 305:0 1
+    - 346:0 1
+  New:
+    delay: 31536000
+    items:
+    - 268:0 1
+    - 298:0 1
+    - 299:0 1
+    - 300:0 1
+    - 301:0 1
+    - 297:0 24
+    - 16:0 1
+    - 387:0 1 title:Aa author:Submarine World lore:[§aFind out about things you might not know..] book:New0 name:§8B§7o§fo§ek_§6o§cf_§4B§3e§bg§3i§cn§6n§ee§7r§8s lore:§aFind_out_about_things_you_might_not_know..
+    - 54:0 1

@@ -1,0 +1,115 @@
+# Default FeatherBoard comes with a board called "default". All players have the permission
+# featherboard.group.default  (by default) meaning all players should see the scoreboard unless
+# the permission is negated.
+
+# Example of the use of settings
+# This section is optional
+settings:
+  # If you quickly want to change the
+  # the label color change it here.
+  # It replaces $setting_label-color$ throughout the entire config
+  label-color: "&e"
+  # Show or hide the health
+  # This is an example of the script
+  show-health: true
+  # The priority of the scoreboard. The higher the number -> higher priority
+  # Used when having more than one scoreboard assigned
+  priority: 10
+
+# Example of pre processing script
+# This section is optional
+script-pre: |
+    if (settings['show-health'] == true){
+        board.getMeta().setSetting("enable-health","");
+    }else{
+        board.getMeta().setSetting("enable-health","|disabled|");
+    }
+
+# This section is required. Those are your scoreboard lines
+lines:
+  # Every section here are different lines. The first section will be used as the title
+  # the following sections will be used as the lines on the scoreboard (max 15)
+  # Just as the scoreboard names you can name these 'lines' whatever you want. But to make
+  # things simple I will use logical names such as "title", "spacer", "header", ...
+    title:
+      text:
+      - '&3&lSU&b&lRVI&f&lVAL &7({PLAYERCOUNT})'
+      interval: 2
+      random: false
+    spacer-player1:
+      text:
+      - '&8&m----------------------'
+      interval: 0
+      random: false
+    player-label1:
+      text:
+      - ' &e&lINFORMATION&8:' 
+      interval: 0
+      random: false
+    spacer-player2:
+      text:
+      - ' &3❑ &bName: &f{player}'
+      interval: 0
+      random: false
+    player-line1:
+      text:
+      - ' &3❑ &bRank: &f{group}'
+      interval: 0
+      random: false
+    player-line2:
+      text:
+      - ' &3❑ &bMoney: &a{money_formatted} &a⛁'
+      interval: 0
+      random: false
+    player-line3:
+      text:
+      - ' &3❑ &bPing: &c{ping} ms'
+      interval: 0
+      random: false
+    spacer-player3:
+      text:
+      - ''
+      interval: 0
+      random: false
+    player-label2:
+      text:
+      - ' &e&lSTATISTICS&8:' 
+      interval: 0
+      random: false
+    player-line5:
+      text:
+      - ' &3❑ &bKills: &f{stat_pkills}'
+      interval: 0
+      random: false
+    player-line6:
+      text:
+      - ' &3❑ &bDeaths: &f{stat_deaths}'
+      interval: 0
+      random: false
+    player-line7:
+      text:
+      - ''
+      interval: 3
+      random: false
+    spacer-player5:
+      text:
+      - ' &6&lIN GAME&8:'
+      interval: 0
+      random: false
+    player-line31:
+      text:
+      - ' &8❑ &7{stat_time_played}'
+      interval: 1
+      random: false
+    spacer-player4:
+      text:
+      - '&8&m----------------------'
+      interval: 0
+      random: false
+    footer:
+      text:
+      - '       &3play.survival.es  '
+      - '       &bplay.survival.es  '
+      - '       &fplay.survival.es  '
+      interval: 60
+      random: false

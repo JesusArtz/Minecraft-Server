@@ -1,0 +1,672 @@
+# ==============================================================
+menu_title: '&8¡Shop and Pets!'
+open_command:
+- Pets
+- MyPet
+- Pet
+size: 54
+open_commands:
+- '[sound] CHEST_OPEN 2 0'
+items:
+  'Creeper':
+    material: 383
+    data: 50
+    slot: 10
+    display_name: '&e⚉ Creeper'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Creeper'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Creeper'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Skeleton':
+    material: 383
+    data: 51
+    slot: 11
+    display_name: '&e⚉ Skeleton'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Skeleton'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Skeleton'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Spider':
+    material: 383
+    data: 52
+    slot: 12
+    display_name: '&e⚉ Spider'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Spider'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Spider'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Zombie':
+    material: 383
+    data: 54
+    slot: 13
+    display_name: '&e⚉ Zombie'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Zombie'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Zombie'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'PigZombie':
+    material: 383
+    data: 57
+    slot: 14
+    display_name: '&e⚉ PigZombie'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% PigZombie'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% PigZombie'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Enderman':
+    material: 383
+    data: 58
+    slot: 15
+    display_name: '&e⚉ Enderman'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Enderman'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Enderman'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Blaze':
+    material: 383
+    data: 61
+    slot: 16
+    display_name: '&e⚉ Blaze'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Blaze'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Blaze'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Witch':
+    material: 383
+    data: 66
+    slot: 19
+    display_name: '&e⚉ Witch'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Witch'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Witch'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Guardian':
+    material: 383
+    data: 68
+    slot: 20
+    display_name: '&e⚉ Guardian'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Guardian'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Guardian'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Pig':
+    material: 383
+    data: 90
+    slot: 21
+    display_name: '&e⚉ Pig'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Pig'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Pig'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Sheep':
+    material: 383
+    data: 91
+    slot: 22
+    display_name: '&e⚉ Sheep'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Sheep'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Sheep'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Wolf':
+    material: 383
+    data: 95
+    slot: 23
+    display_name: '&e⚉ Wolf'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Wolf'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Wolf'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Ocelot':
+    material: 383
+    data: 98
+    slot: 24
+    display_name: '&e⚉ Ocelot'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Ocelot'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Ocelot'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'WitherBoss':
+    material: 383
+    data: 1
+    slot: 25
+    display_name: '&e⚉ WitherBoss'
+    lore:
+    - ''
+    - ' &7If you need a pet for your adventures,'
+    - ' &7Your best option is to have a pet.'
+    - ''
+    - ' &fPrice: &a100,000 ⛁'
+    - ''
+    - '&a¡Click to buy the pet!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999.999'
+    - '[console] petadmin create %player_name% Wither'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] petadmin create %player_name% Wither'
+    - '[message] &aPurchase made successfully.!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'ListPet':
+    material: 340
+    slot: 37
+    display_name: '&bYour pets'
+    lore:
+    - ''
+    - '&7Click to see your pets obtained'
+    left_click_commands:
+    - '[player] petswitch'
+    - '[close]'
+    right_click_commands:
+    - '[player] petswitch'
+    - '[close]'
+  'Skills':
+    material: 352
+    slot: 38
+    display_name: '&bSkills'
+    left_click_commands:
+    - '[player] petchooseskilltree'
+    - '[close]'
+    right_click_commands:
+    - '[player] petchooseskilltree'
+    - '[close]'
+  'Name':
+    material: 421
+    slot: 39
+    display_name: '&bName pet'
+    left_click_commands:
+    - '[player] petname &e⚉ &f%player_name%´s &amascot'
+    - '[message] &cIf you want to add a custom name use &b/petname text'
+    - '[close]'
+    right_click_commands:
+    - '[player] petname &e⚉ &f%player_name%´s &amascot'
+    - '[message] &cIf you want to add a custom name use &b/petname text'
+    - '[close]'
+  'Lead':
+    material: 340
+    slot: 40
+    display_name: '&bCapture pet'
+    left_click_commands:
+    - '[message] &cIf you want to capture a pet, you need to kill it with a rein.'
+    - '[close]'
+    right_click_commands:
+    - '[message] &cIf you want to capture a pet, you need to kill it with a rein.'
+    - '[close]'
+  'Rod':
+    material: 346
+    slot: 41
+    display_name: '&bCall pet'
+    left_click_commands:
+    - '[player] petcall'
+    - '[close]'
+    right_click_commands:
+    - '[player] petcall'
+    - '[close]'
+  'paper':
+    material: 339
+    slot: 42
+    display_name: '&9Information of your pet'
+    left_click_commands:
+    - '[player] petinfo'
+    - '[close]'
+    right_click_commands:
+    - '[player] petinfo'
+    - '[close]'
+  'feather':
+    material: 288
+    slot: 43
+    display_name: '&cSend your pet away'
+    left_click_commands:
+    - '[player] petsa'
+    - '[close]'
+    right_click_commands:
+    - '[player] petsa'
+    - '[close]'
+  '1':
+    material: 160
+    data: 15
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 17
+    - 18
+    - 26
+    - 27
+    - 35
+    - 36
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+  '2':
+    material: 160
+    data: 7
+    slots:
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34

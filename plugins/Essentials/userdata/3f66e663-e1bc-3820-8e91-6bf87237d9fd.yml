@@ -1,0 +1,47 @@
+lastAccountName: troya2000
+timestamps:
+  login: 1617988726632
+  logout: 1617992487486
+  kits:
+    navigator: 1617991078388
+    pvp: 1617990931040
+    user: 1616030522977
+  lastteleport: 1617990953047
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Survival
+  x: 203.71618441283604
+  y: 77.0
+  z: 415.8668221122932
+  yaw: -324.57812
+  pitch: 23.249786
+lastlocation:
+  world: Survival
+  x: 8.839344160735788
+  y: 84.86512835898047
+  z: 50.727586041446735
+  yaw: -105.98166
+  pitch: 56.250008
+money: '13918.0'
+homes:
+  xp:
+    world: Survival
+    x: 243.5072105938367
+    y: 102.0
+    z: 451.2567129034562
+    yaw: -98.401855
+    pitch: 16.949999
+  vacas:
+    world: Survival
+    x: -318.8663200063476
+    y: 78.0
+    z: 1012.7014495375104
+    yaw: -155.1006
+    pitch: 40.500057
+  de:
+    world: world_nether
+    x: 166.69999998807907
+    y: 70.0
+    z: -338.30000001192093
+    yaw: -208.6222
+    pitch: 24.450163

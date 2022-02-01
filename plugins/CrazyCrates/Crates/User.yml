@@ -1,0 +1,630 @@
+Crate:
+  CrateType: Wheel
+  CrateName: '&8CAJA &f&lUSUARIO'
+  StartingKeys: 1
+  InGUI: true
+  Slot: 21
+  OpeningBroadCast: true
+  BroadCast: '%Prefix%&b%Player% &7esta abriendo una caja &f&lUSUARIO&7.'
+  Item: '342'
+  Name: '&8BCaja &f&lUSUARIO'
+  Lore:
+    - '&8&m-----&7&m-----&f&m-----&7&m-----&8&m-----'
+    - '&f'
+    - '&7Reclama tus items aqui'
+    - '&7quizas tengas suerte!'
+    - '&7'
+    - '&b➜ &fLLaves disponibles'
+    - '&2   &b%Keys% &fpadlocks &f&lUSER'
+    - '&2   &Favailable/s.'
+    - '&7'
+    - '&b➜ &fClasificacion:'
+    - '&7   &9✎ &e&lCAJA BASICA'
+    - '&7   &9✎ &6✯&f✯✯✯✯'
+    - '&7'
+    - '&7Puedes comprar llaves en'
+    - '&7nuestra tienda:'
+    - '&7Shop&8: &6frutycraft.tebex.io/'
+    - '&7'
+    - '&8&m-----&7&m-----&f&m-----&7&m-----&8&m-----'
+    - '&a&lClick para abrir!'
+  PhysicalKey:
+    Name: '&8Llave &f&lUSUARIO'
+    Lore:
+      - '&5Con este item puedes abrir'
+      - '&5Cajas &f&lUSUARIO'
+    Item: '131'
+    Glowing: true
+  Prizes:
+    1:
+      DisplayName: '&fGrass block'
+      DisplayItem: '2'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 2 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fGrass blocks'
+    2:
+      DisplayName: '&fMycelium block'
+      DisplayItem: '110'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 110 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fMycelium blocks'
+    3:
+      DisplayName: '&fPodzol block'
+      DisplayItem: '3:2'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 3:2 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fPodzol blocks'
+    4:
+      DisplayName: '&fOak Wood'
+      DisplayItem: '17'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 17 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fOak Wood'
+    5:
+      DisplayName: '&fSpruce Wood'
+      DisplayItem: '17:1'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 17:1 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fSpruce Wood'
+    6:
+      DisplayName: '&fBirch Wood'
+      DisplayItem: '17:2'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 17:2 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fBirch Wood'
+    7:
+      DisplayName: '&fJungle Wood'
+      DisplayItem: '17:3'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 17:3 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fJungle Wood'
+    8:
+      DisplayName: '&fAcacia Wood'
+      DisplayItem: '162'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 162 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fAcacia Wood'
+    9:
+      DisplayName: '&fDark Oak Wood'
+      DisplayItem: '162:1'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e80%'
+      MaxRange: 100
+      Chance: 80
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 162:1 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fDark Oak Wood'
+    10:
+      DisplayName: '&fDiamond Helmet'
+      DisplayItem: '310'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 310 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Helmet'
+    11:
+      DisplayName: '&fDiamond Chestplate'
+      DisplayItem: '311'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 311 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Chestplate'
+    12:
+      DisplayName: '&fDiamond Leggings'
+      DisplayItem: '312'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 312 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Leggings'
+    13:
+      DisplayName: '&fDiamond Boots'
+      DisplayItem: '313'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 313 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Boots'
+    14:
+      DisplayName: '&fDiamond Sword'
+      DisplayItem: '276'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 276 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Sword'
+    15:
+      DisplayName: '&fDiamond Axe'
+      DisplayItem: '279'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 279 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Axe'
+    16:
+      DisplayName: '&fDiamond Pickaxe'
+      DisplayItem: '278'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 278 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Pickaxe'
+    17:
+      DisplayName: '&fDiamond Shovel'
+      DisplayItem: '277'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 277 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Shovel'
+    18:
+      DisplayName: '&fDiamond Hoe'
+      DisplayItem: '293'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e70%'
+      MaxRange: 100
+      Chance: 70
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 293 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fDiamond Hoe'
+    19:
+      DisplayName: '&fRotten Flesh'
+      DisplayItem: '367'
+      DisplayAmount: 32
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 367 32'
+      Messages:
+        - '&6&lPRIZE&8: &e32 &fof Rotten Flesh'
+    20:
+      DisplayName: '&fCookie'
+      DisplayItem: '357'
+      DisplayAmount: 16
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 357 16'
+      Messages:
+        - '&6&lPRIZE&8: &e16 &fCookies'
+    21:
+      DisplayName: '&fCarrot'
+      DisplayItem: '391'
+      DisplayAmount: 8
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 391 8'
+      Messages:
+        - '&6&lPRIZE&8: &e8 &fCarrots'
+    22:
+      DisplayName: '&fBread'
+      DisplayItem: '297'
+      DisplayAmount: 6
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 297 6'
+      Messages:
+        - '&6&lPRIZE&8: &e6 &fof Bread'
+    23:
+      DisplayName: '&fPotato'
+      DisplayItem: '392'
+      DisplayAmount: 8
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 392 8'
+      Messages:
+        - '&6&lPRIZE&8: &e8 &fPotato'
+    24:
+      DisplayName: '&fCooked Fish'
+      DisplayItem: '350'
+      DisplayAmount: 16
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 350 16'
+      Messages:
+        - '&6&lPRIZE&8: &e16 &fCooked Fish'
+    25:
+      DisplayName: '&fApple'
+      DisplayItem: '260'
+      DisplayAmount: 10
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 260 10'
+      Messages:
+        - '&6&lPRIZE&8: &e10 &fApples'
+    26:
+      DisplayName: '&bGolden Apple'
+      DisplayItem: '322'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 322 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &bGolden Apples'
+    27:
+      DisplayName: '&dGolden Apple'
+      DisplayItem: '322:1'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 322:1 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dGolden Apple'
+    28:
+      DisplayName: '&fCoal'
+      DisplayItem: '263'
+      DisplayAmount: 12
+      Lore:
+        - '&aProbability&8: &e50%'
+      MaxRange: 100
+      Chance: 50
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 263 12'
+      Messages:
+        - '&6&lPRIZE&8: &e12 &fof Coal'
+    29:
+      DisplayName: '&fIron Ingot'
+      DisplayItem: '265'
+      DisplayAmount: 10
+      Lore:
+        - '&aProbability&8: &e50%'
+      MaxRange: 100
+      Chance: 50
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 265 10'
+      Messages:
+        - '&6&lPRIZE&8: &e10 &fIron Ingot'
+    30:
+      DisplayName: '&fGold Ingot'
+      DisplayItem: '266'
+      DisplayAmount: 5
+      Lore:
+        - '&aProbability&8: &e50%'
+      MaxRange: 100
+      Chance: 50
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 266 5'
+      Messages:
+        - '&6&lPRIZE&8: &e5 &fGold Ingot'
+    31:
+      DisplayName: '&fDiamond'
+      DisplayItem: '264'
+      DisplayAmount: 2
+      Lore:
+        - '&aProbability&8: &e50%'
+      MaxRange: 100
+      Chance: 50
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 264 2'
+      Messages:
+        - '&6&lPRIZE&8: &e2 &fof Diamond'
+    32:
+      DisplayName: '&fChicken Egg'
+      DisplayItem: '383:93'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e25%'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 383:93 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fChicken Egg'
+    33:
+      DisplayName: '&fPig Egg'
+      DisplayItem: '383:90'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e25%'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 383:90 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fPig Egg'
+    34:
+      DisplayName: '&fSheep Egg'
+      DisplayItem: '383:91'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e25%'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 383:91 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fSheep Egg'
+    35:
+      DisplayName: '&fCow Egg'
+      DisplayItem: '383:92'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e25%'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 383:92 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fCow Egg'
+    36:
+      DisplayName: '&fWolf Egg'
+      DisplayItem: '383:95'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e25%'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Give %Player% 383:95 1'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &fWolf Egg'
+    37:
+      DisplayName: '&e10 &dof money'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e15%'
+      MaxRange: 100
+      Chance: 15
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Eco give %Player% 10'
+      Messages:
+        - '&6&lPRIZE&8: &e10 &dof money'
+    38:
+      DisplayName: '&e50 &dof money'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e10%'
+      MaxRange: 100
+      Chance: 10
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Eco give %Player% 50'
+      Messages:
+        - '&6&lPRIZE&8: &e50 &dof money'   
+    39:
+      DisplayName: '&e100 &dof money'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e10%'
+      MaxRange: 100
+      Chance: 10
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Eco give %Player% 100'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e100 &dof money'
+      Messages:
+        - '&6&lPRIZE&8: &e100 &dof money' 
+    40:
+      DisplayName: '&e600 &dof money'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e5%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Eco give %Player% 600'
+        - 'bc &2&lCONGRATULATIONS &b%Player% &7won &e600 &dof money'
+      Messages:
+        - '&6&lPRIZE&8: &e600 &dof money'
+    41:
+      DisplayName: '&dPadlock &3&lNA&b&lVIGA&f&lTOR'
+      DisplayItem: '288'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e5%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Crazycrate give virtual Navigator 1 %Player%'
+        - 'bc &2&lCONGRATULATIONS&8: &b%Player% &7won &e1 &dPadlock &3&lNA&b&lVIGA&f&lTOR'
+      Messages:
+        - '&6&lPRIZE&8: &e1 &dPadlock &3&lNA&b&lVIGA&f&lTOR'
+    42:
+      DisplayName: '&dRank &3&lNA&b&lVIGA&f&lTOR'
+      DisplayItem: '339'
+      DisplayAmount: 1
+      Lore:
+        - '&aProbability&8: &e1%'
+      MaxRange: 100
+      Chance: 0.01
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'pex user %Player% group set Navigator'
+        - 'bc &2&lCONGRATULATIONS&8: &b%Player% &7won the rank &3&lNA&b&lVIGA&f&lTOR'
+      Messages:
+        - '&6&lPRIZE&8: &dRank &3&lNA&b&lVIGA&f&lTOR'

@@ -1,0 +1,74 @@
+messages:
+  prefix: '&6&lTP&e&lRANDOM&8: &c'
+  no-console: Only players can execute this command!
+  no-permission: You do not have access to this &ncommand&c!
+  reload: Config successfully reloaded!
+  not-enough-money: You don't have enough money to random teleport.
+  cancel-teleportation: You have cancelled the random teleport.
+  randomtp: You have been &6&nsuccessfully&c been randomly teleported.
+  open-gui: Opening gui! Now, choose a distance!
+  cooldown: Please wait %cooldown% to use &c&n/rtp&c again!
+  delayclear: Cooldown cleared!
+gui:
+  animation: true
+  title: '&8!Buy TeleportationÂ¡'
+  distances:
+    small:
+      radius: 1000
+      cost: 0
+    medium:
+      radius: 10000
+      cost: 100
+    large:
+      radius: 100000
+      cost: 5000
+  items:
+    border:
+      material: STAINED_GLASS_PANE
+      durability: 7
+      display-name: '&7'
+      lore:
+      - '&7'
+    small:
+      material: STAINED_GLASS_PANE
+      durability: 4
+      display-name: '&6&lTP&e&lRandom &8| &b&lFREE'
+      lore:
+      - '&7'
+      - '&e&lTeleport Options'
+      - ''
+      - '&6* &e&lRadius &71,000 &ex &71,000'
+      - ''
+      - '&6* &e&lFree'
+    medium:
+      material: STAINED_GLASS_PANE
+      durability: 1
+      display-name: '&6&lTP&e&lRandom &8| &9&lMEDIUM'
+      lore:
+      - '&7'
+      - '&e&lTeleport Options'
+      - ''
+      - '&6* &e&lRadius &710,000 &ex &710,000'
+      - ''
+      - '&6* &e&lCost &7$100'
+    large:
+      material: STAINED_GLASS_PANE
+      durability: 14
+      display-name: '&6&lTP&e&lRandom &8| &d&lLARGE'
+      lore:
+      - '&7'
+      - '&e&lTeleport Options'
+      - ''
+      - '&6* &e&lRadius &7100,000 &ex &7100,000'
+      - ''
+      - '&6* &e&lCost &7$5,000'
+teleportation:
+  world: Survival
+  messages:
+    small: '&c&l- $0'
+    medium: '&c&l- $100'
+    large: '&c&l- $5000'
+fall-teleport: true
+cooldown:
+  enabled: false
+  time: 43200

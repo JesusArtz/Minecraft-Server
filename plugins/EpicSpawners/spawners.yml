@@ -1,0 +1,415 @@
+Entities:
+  Creeper:
+    Pickup-cost: 0
+    entities:
+    - CREEPER
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Creeper
+  Skeleton:
+    Pickup-cost: 0
+    entities:
+    - SKELETON
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Skeleton
+  Spider:
+    Pickup-cost: 0
+    entities:
+    - SPIDER
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Spider
+  Zombie:
+    Pickup-cost: 0
+    entities:
+    - ZOMBIE
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Zombie
+  Slime:
+    Pickup-cost: 0
+    entities:
+    - SLIME
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Slime
+  Ghast:
+    Pickup-cost: 0
+    entities:
+    - GHAST
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Ghast
+  Pig zombie:
+    Pickup-cost: 0
+    entities:
+    - PIG_ZOMBIE
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Pig zombie
+  Enderman:
+    Pickup-cost: 0
+    entities:
+    - ENDERMAN
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Enderman
+  Cave spider:
+    Pickup-cost: 0
+    entities:
+    - CAVE_SPIDER
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Cave spider
+  Silverfish:
+    Pickup-cost: 0
+    entities:
+    - SILVERFISH
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Silverfish
+  Blaze:
+    Pickup-cost: 0
+    entities:
+    - BLAZE
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Blaze
+  Magma cube:
+    Pickup-cost: 0
+    entities:
+    - MAGMA_CUBE
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Magma cube
+  Ender dragon:
+    Pickup-cost: 0
+    entities:
+    - ENDER_DRAGON
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Ender dragon
+  Wither:
+    Pickup-cost: 0
+    entities:
+    - WITHER
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Wither
+  Bat:
+    Pickup-cost: 0
+    entities:
+    - BAT
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Bat
+  Witch:
+    Pickup-cost: 0
+    entities:
+    - WITCH
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Witch
+  Endermite:
+    Pickup-cost: 0
+    entities:
+    - ENDERMITE
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Endermite
+  Guardian:
+    Pickup-cost: 0
+    entities:
+    - GUARDIAN
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Guardian
+  Pig:
+    Pickup-cost: 0
+    entities:
+    - PIG
+    Spawn-Block: GRASS
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Pig
+  Sheep:
+    Pickup-cost: 0
+    entities:
+    - SHEEP
+    Spawn-Block: GRASS
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Sheep
+  Cow:
+    Pickup-cost: 0
+    entities:
+    - COW
+    Spawn-Block: GRASS
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Cow
+  Chicken:
+    Pickup-cost: 0
+    entities:
+    - CHICKEN
+    Spawn-Block: GRASS
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Chicken
+  Squid:
+    Pickup-cost: 0
+    entities:
+    - SQUID
+    Spawn-Block: WATER
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Squid
+  Wolf:
+    Pickup-cost: 0
+    entities:
+    - WOLF
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Wolf
+  Mushroom cow:
+    Pickup-cost: 0
+    entities:
+    - MUSHROOM_COW
+    Spawn-Block: MYCEL
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Mushroom cow
+  Snowman:
+    Pickup-cost: 0
+    entities:
+    - SNOWMAN
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Snowman
+  Ocelot:
+    Pickup-cost: 0
+    entities:
+    - OCELOT
+    Spawn-Block: ', LEAVES'
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Ocelot
+  Iron golem:
+    Pickup-cost: 0
+    entities:
+    - IRON_GOLEM
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Iron golem
+  Horse:
+    Pickup-cost: 0
+    entities:
+    - HORSE
+    Spawn-Block: GRASS
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Horse
+  Rabbit:
+    Pickup-cost: 0
+    entities:
+    - RABBIT
+    Spawn-Block: GRASS
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Rabbit
+  Villager:
+    Pickup-cost: 0
+    entities:
+    - VILLAGER
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Villager
+  Omni:
+    Pickup-cost: 0
+    Spawn-Block: AIR
+    Allowed: true
+    Upgradable: true
+    In-Shop: true
+    Shop-Price: 1000.0
+    CustomGoal: 0
+    Custom-ECO-Cost: 0
+    Custom-XP-Cost: 0
+    Display-Name: Omni

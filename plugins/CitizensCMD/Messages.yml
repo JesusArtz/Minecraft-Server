@@ -1,0 +1,7 @@
+NoPermission: '&4You have no permissions to perform this command!'
+CooldownDaysHours: '&3Please wait &6%D% and %H% &3before using this NPC again.'
+CooldownHoursMinutes: '&3Please wait &6%H% and %M% &3before using this NPC again.'
+CooldownMinutesSeconds: '&3Please wait &6%M% and %S% &3before using this NPC again.'
+CooldownSeconds: '&3Please wait &6%S% &3before using this NPC again.'
+OneTimeClick: '&3You can only use this NPC once!'
+InvalidCommand: '&7Command not found &3/npcmd &7for help.'

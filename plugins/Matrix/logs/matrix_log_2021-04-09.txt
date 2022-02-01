@@ -1,0 +1,775 @@
+(08:45:53) JossielDark failed Fly check | step | p:2 | val: 0.4767499999999991 (+0) | vl:0 ping:361 tps:20.0 lp:30 component: speed.step
+(08:51:07) JossielDark failed Interact check | break block through walls (through: log_2, block: log_2) (+0) | vl:0 ping:289 tps:20.0 lp:18 component: interact.break
+(08:55:17) JossielDark failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.155 air_t:8 fall_t:3 g:-- tag:gn (+1) | vl:1 ping:281 tps:20.0 lp:7 component: fly.main
+(08:56:35) JossielDark failed Phase check | moved into block (block: chest, move: 0.181,0.248,-0.074, at: -128.853,21.001,-8.762, dist: 0.196, loop: false) (+1) | vl:1 ping:301 tps:20.0 lp:7 component: phase.main
+(08:59:02) JossielDark failed Interact check | interact block through solid (through: WORKBENCH, block:CHEST) (+0) | vl:0 ping:291 tps:20.0 lp:245 component: interact.through
+(09:01:04) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:290 tps:20.0 lp:16 component: fly.main
+(09:01:47) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:278 tps:20.0 lp:10 component: speed.main
+(09:01:57) JossielDark failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.155 air_t:8 fall_t:3 g:-- tag:gn (+1) | vl:1 ping:283 tps:20.0 lp:4 component: fly.main
+(09:01:57) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.966 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:2 ping:283 tps:20.0 lp:4 component: fly.main
+(09:01:57) JossielDark failed Fly check | ground spoof (expect: --, move: 0.208,-0.121,-0.191, at: 18.185,22.0,-140.855, type: air, pkt: false) (+1) | vl:3 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:01:58) JossielDark failed Fly check | ground spoof (expect: --, move: 0.114,-0.121,-0.227, at: 18.93,22.0,-144.139, type: air, pkt: false) (+1) | vl:4 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:01:59) JossielDark failed Fly check | ground spoof (expect: --, move: 0.218,-0.121,-0.177, at: 21.287,22.0,-147.098, type: air, pkt: false) (+1) | vl:5 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:01:59) JossielDark failed Fly check | ground spoof (expect: --, move: 0.255,-0.121,-0.145, at: 24.638,22.0,-149.188, type: air, pkt: false) (+1) | vl:6 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:02:00) JossielDark failed Fly check | ground spoof (expect: --, move: 0.217,-0.121,-0.152, at: 28.074,22.0,-151.173, type: air, pkt: false) (+1) | vl:7 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:02:00) JossielDark failed Fly check | ground spoof (expect: --, move: 0.175,-0.121,-0.113, at: 30.124,22.0,-152.742, type: air, pkt: false) (+1) | vl:8 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:02:01) JossielDark failed Fly check | ground spoof (expect: --, move: 0.148,-0.024,-0.115, at: 31.491,23.0,-153.783, type: air, pkt: false) (+1) | vl:9 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:02:01) JossielDark failed Fly check | ground spoof (expect: --, move: 0.215,0.0,-0.164, at: 31.706,23.0,-153.947, type: air, pkt: false) (+1) | vl:10 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:02:02) JossielDark failed Fly check | ground spoof (expect: --, move: 0.134,-0.162,-0.129, at: 33.719,22.0,-155.3, type: air, pkt: false) (+1) | vl:11 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:02:02) JossielDark failed Fly check | ground spoof (expect: --, move: 0.117,-0.121,-0.155, at: 35.201,22.0,-157.005, type: air, pkt: false) (+1) | vl:12 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:02:03) JossielDark failed Fly check | ground spoof (expect: --, move: 0.103,-0.121,-0.168, at: 36.394,22.0,-158.97, type: air, pkt: false) (+1) | vl:13 ping:283 tps:20.0 lp:4 component: fly.gf
+(09:02:03) JossielDark failed Fly check | ground spoof (expect: --, move: 0.075,-0.121,-0.182, at: 37.483,22.0,-161.007, type: air, pkt: false) (+1) | vl:1 ping:282 tps:20.0 lp:4 component: fly.gf
+(09:02:04) JossielDark failed Fly check | ground spoof (expect: --, move: 0.022,-0.121,-0.19, at: 38.121,22.0,-163.2, type: air, pkt: false) (+1) | vl:2 ping:0 tps:20.0 lp:4 component: fly.gf
+(09:02:35) JossielDark failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:292 tps:20.0 lp:8 component: speed.main
+(09:03:28) JossielDark failed Speed check | suspicious movement (move: 0.386, expect: 0.27, tag: c,noslow) (+3) | vl:3 ping:283 tps:20.0 lp:8 component: speed.main
+(09:08:32) JossielDark failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:311 tps:20.0 lp:8 component: speed.main
+(09:10:40) JossielDark failed Fly check | suspicious movement:0.248 predict:0.17 vel:-0.447 air_t:3 tag:vt (+1) | vl:1 ping:294 tps:20.0 lp:5 component: fly.main
+(09:10:40) JossielDark failed Fly check | suspicious movement:0.165 predict:0.088 vel:-0.517 air_t:4 tag:vt (+1) | vl:2 ping:294 tps:20.0 lp:5 component: fly.main
+(09:11:40) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:294 tps:20.0 lp:9 component: fly.main
+(09:11:43) JossielDark failed Fly check | suspicious movement:-0.152 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.155 air_t:8 fall_t:1 g:-- tag:gn (+1) | vl:2 ping:298 tps:20.0 lp:9 component: fly.main
+(11:34:18) JossielDark failed BadPackets check | (timer) send 49 moving packets in 1027ms | tag: limit (+1) | vl:1 ping:284 tps:20.0 lp:70 component: net.timer
+(11:34:18) JossielDark failed Speed check | suspicious movement (move: 3.927, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+1) | vl:1 ping:284 tps:20.0 lp:70 component: speed.main
+(11:34:18) JossielDark failed Speed check | suspicious movement (move: 3.927, predict: 0.283, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.153, motion: 0.037,0.0,3.927, attribute: 0.13, tag: pred) (+1) | vl:2 ping:284 tps:20.0 lp:70 component: move.xz
+(11:34:18) JossielDark failed Speed check | suspicious movement (move: 0.436, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+1) | vl:3 ping:284 tps:20.0 lp:70 component: speed.main
+(11:34:18) JossielDark failed Speed check | suspicious movement (move: 0.436, predict: 0.251, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.121, motion: -0.008,0.0,0.436, attribute: 0.13, tag: pred) (+1) | vl:4 ping:284 tps:20.0 lp:70 component: move.xz
+(11:34:18) JossielDark failed Speed check | sprint with weird direction (dist: 1.211, angle:179.367) (+1) | vl:5 ping:284 tps:20.0 lp:70 component: speed.sprint
+(11:34:18) JossielDark failed Speed check | suspicious movement (move: 1.211, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+1) | vl:6 ping:284 tps:20.0 lp:70 component: speed.main
+(11:34:18) JossielDark failed Speed check | suspicious movement (move: 1.211, predict: 0.277, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.147, motion: 0.018,0.0,-1.211, attribute: 0.13, tag: pred) (+1) | vl:7 ping:284 tps:20.0 lp:70 component: move.xz
+(11:34:19) JossielDark failed Speed check | sprint with weird direction (dist: 0.474, angle:179.225) (+1) | vl:8 ping:284 tps:20.0 lp:70 component: speed.sprint
+(11:34:19) JossielDark failed Speed check | suspicious movement (move: 0.474, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+1) | vl:9 ping:284 tps:20.0 lp:70 component: speed.main
+(11:34:19) JossielDark failed Speed check | suspicious movement (move: 0.474, predict: 0.281, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.151, motion: 0.006,0.0,-0.474, attribute: 0.13, tag: pred) (+1) | vl:10 ping:284 tps:20.0 lp:70 component: move.xz
+(11:36:34) JossielDark failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:282 tps:20.0 lp:20 component: speed.main
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.191, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:1 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.191, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:2 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.191, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:3 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.192, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:4 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.192, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:5 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.191, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:6 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.191, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:7 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.191, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:8 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.192, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:9 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.192, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:10 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.192, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:11 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.192, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:12 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.192, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:13 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.193, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:14 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.193, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:15 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.193, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:16 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:43) JossielDark failed Jesus check | liquid speed (speed: 0.386, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:17 ping:299 tps:20.0 lp:13 component: jesus.out
+(11:36:46) JossielDark failed Jesus check | liquid speed (speed: 0.173, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:18 ping:293 tps:20.0 lp:19 component: jesus.out
+(11:36:46) JossielDark failed Jesus check | liquid speed (speed: 0.347, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:19 ping:293 tps:20.0 lp:19 component: jesus.out
+(11:36:50) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:293 tps:20.0 lp:10 component: fly.main
+(11:36:52) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:2 ping:293 tps:20.0 lp:10 component: fly.main
+(11:36:56) JossielDark failed BadPackets check | (timer) send 37 moving packets in 1025ms | tag: limit (+3) | vl:3 ping:293 tps:20.0 lp:19 component: net.timer
+(11:36:57) JossielDark failed Speed check | suspicious movement (move: 0.422, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:285 tps:20.0 lp:19 component: speed.main
+(11:36:57) JossielDark failed Speed check | suspicious movement (move: 0.422, predict: 0.251, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.121, motion: 0.407,0.0,0.11, attribute: 0.13, tag: pred) (+1) | vl:4 ping:285 tps:20.0 lp:19 component: move.xz
+(11:36:57) JossielDark failed Speed check | sprint with weird direction (dist: 1.442, angle:171.776) (+1) | vl:5 ping:285 tps:20.0 lp:19 component: speed.sprint
+(11:36:57) JossielDark failed Speed check | suspicious movement (move: 1.442, tag: gv-) (+3) | vl:8 ping:285 tps:20.0 lp:19 component: speed.main
+(11:36:57) JossielDark failed Speed check | suspicious movement (move: 1.442, predict: 0.279, friction: 0.6, ground:true, motY: -0.5, increase:0.13, preMove:0.149, motion: -1.442,-0.5,-0.029, attribute: 0.13, tag: pred) (+1) | vl:9 ping:285 tps:20.0 lp:19 component: move.xz
+(11:37:07) JossielDark failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:12 ping:285 tps:20.0 lp:18 component: speed.main
+(11:40:53) JossielDark failed Fly check | suspicious movement:-0.155 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:2 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:288 tps:20.0 lp:21 component: fly.main
+(11:41:16) JossielDark failed Fly check | suspicious movement:-0.374 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.377 air_t:11 fall_t:1 g:-- tag:gn (+1) | vl:2 ping:286 tps:20.0 lp:30 component: fly.main
+(11:42:09) JossielDark failed Phase check | moved into block (block: hopper, move: -0.089,0.0,-0.013, at: -175.011,21.0,26.295, dist: 0.09, loop: false) (+1) | vl:1 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:09) JossielDark failed Phase check | moved into block (block: hopper, move: -0.05,0.0,0.0, at: -175.608,21.0,26.284, dist: 0.05, loop: false) (+1) | vl:2 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:10) JossielDark failed Phase check | moved into block (block: hopper, move: 0.043,0.0,0.033, at: -175.599,21.0,26.706, dist: 0.054, loop: false) (+1) | vl:3 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.173,0.0,0.07, at: -175.376,21.0,26.808, dist: 0.187, loop: false) (+1) | vl:4 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.234,0.0,0.089, at: -175.315,21.0,26.826, dist: 0.251, loop: false) (+1) | vl:5 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.296,0.0,0.106, at: -175.253,21.0,26.844, dist: 0.315, loop: false) (+1) | vl:6 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.358,0.0,0.124, at: -175.191,21.0,26.861, dist: 0.379, loop: false) (+1) | vl:7 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) Execute command: matrix notify JossielDark is phase into block (Phase)
+(11:42:11) JossielDark failed Speed check | suspicious movement (move: 0.444, expect:0.387, t:47, sprint: false, attr: 0.1, tag: a,noslow) (+1) | vl:1 ping:280 tps:20.0 lp:25 component: speed.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.42,0.0,0.142, at: -175.129,21.0,26.879, dist: 0.444, loop: false) (+1) | vl:8 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.033,0.0,0.065, at: -175.502,21.0,26.753, dist: 0.073, loop: false) (+1) | vl:9 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.063,0.0,0.065, at: -175.473,21.0,26.753, dist: 0.09, loop: false) (+1) | vl:10 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.134,0.0,0.065, at: -175.401,21.0,26.753, dist: 0.149, loop: false) (+1) | vl:11 ping:280 tps:20.0 lp:25 component: phase.main
+(11:42:11) JossielDark failed Phase check | moved into block (block: hopper, move: 0.19,0.0,0.065, at: -175.345,21.0,26.753, dist: 0.201, loop: false) (+1) | vl:12 ping:280 tps:20.0 lp:29 component: phase.main
+(11:42:54) JossielDark failed Phase check | moved into block (block: hopper, move: 0.008,0.0,-0.029, at: -174.061,21.0,28.271, dist: 0.03, loop: false) (+1) | vl:1 ping:318 tps:20.0 lp:17 component: phase.main
+(11:43:14) JossielDark failed Inventory check | inventory move | pattern: b | s:25 (+2) | vl:2 ping:311 tps:20.0 lp:9 component: inv.move
+(11:43:30) JossielDark failed Inventory check | inventory move | pattern: b | s:23 (+1) | vl:1 ping:312 tps:20.0 lp:41 component: inv.move
+(11:45:04) JossielDark failed Fly check | suspicious movement:-0.055 predict:-0.447 lm:-0.377 hard_pred:-0.447 sev_pred:-0.078 air_t:10 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:290 tps:20.0 lp:14 component: fly.main
+(11:45:11) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:2 ping:290 tps:20.0 lp:9 component: fly.main
+(11:48:25) JossielDark failed Phase check | moved into block (block: hopper, move: 0.0,0.0,0.064, at: -174.302,21.0,27.741, dist: 0.064, loop: false) (+1) | vl:1 ping:290 tps:20.0 lp:29 component: phase.main
+(11:56:58) JossielDark failed Phase check | moved into block (block: wood_step, move: 0.014,0.0,0.029, at: -174.688,21.0,23.729, dist: 0.032, loop: false) (+1) | vl:1 ping:302 tps:20.0 lp:12 component: phase.main
+(11:56:58) JossielDark failed Speed check | suspicious movement (move: 0.413, expect:0.387, t:9, sprint: false, attr: 0.1, tag: a,noslow) (+3) | vl:3 ping:302 tps:20.0 lp:12 component: speed.main
+(11:58:17) JossielDark failed Fly check | suspicious movement:-0.152 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.155 air_t:8 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:306 tps:20.0 lp:7 component: fly.main
+(12:01:02) JossielDark failed Fly check | suspicious movement:-0.152 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.155 air_t:8 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:289 tps:20.0 lp:8 component: fly.main
+(12:03:46) JossielDark failed Fly check | suspicious movement:-0.155 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:2 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:291 tps:20.0 lp:9 component: fly.main
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:1 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:2 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:3 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:4 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:5 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:6 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:7 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:8 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:9 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:10 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:11 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:12 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:13 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:14 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:10:43) JossielDark failed Jesus check | liquid speed (speed: 0.196, expect:0.16, dmg: false, flow:false, module: out) (+1) | vl:15 ping:295 tps:20.0 lp:7 component: jesus.out
+(12:12:53) JossielDark failed Speed check | suspicious movement (move: 0.42, expect: 0.419, g_tk:1, tag: b) (+2) | vl:2 ping:285 tps:20.0 lp:2 component: speed.main
+(12:13:25) JossielDark failed Speed check | suspicious movement (move: 0.2, expect: 0.17, tag: c,noslow) (+3) | vl:3 ping:285 tps:20.0 lp:4 component: speed.main
+(12:13:50) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:289 tps:20.0 lp:3 component: speed.main
+(12:14:58) JossielDark failed Phase check | moved into block (block: wood_step, move: -0.038,0.0,-0.004, at: -171.71,21.0,26.707, dist: 0.038, loop: false) (+1) | vl:1 ping:299 tps:20.0 lp:7 component: phase.main
+(12:15:19) JossielDark failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+0) | vl:0 ping:297 tps:20.0 lp:33 component: interact.through
+(12:15:20) JossielDark failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+0) | vl:0 ping:297 tps:20.0 lp:33 component: interact.through
+(12:19:11) troya2000 failed Fly check | ground spoof (expect: --, move: -0.303,0.118,-0.415, at: 215.065,80.603,427.936, type: air, pkt: false) (+2) | vl:2 ping:221 tps:20.0 lp:11 component: fly.gf
+(12:19:20) troya2000 failed Speed check | t: spin (+5) | vl:5 ping:230 tps:20.0 lp:12 component: speed.spin
+(12:19:21) troya2000 failed KillAura check | (machine learning) machine learning analyse | m: #30,3,5 | amount: 2 (+4) | vl:4 ping:230 tps:20.0 lp:12 component: ka.ml
+(12:19:24) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.054, move: true) (+1) | vl:1 ping:230 tps:20.0 lp:10 component: hb.mis
+(12:19:39) troya2000 failed Chat check | chat too fast | delay: 2500 (+1) | vl:1 ping:211 tps:20.0 lp:6 component: chat.delay
+(12:19:41) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.9, move: true) (+1) | vl:2 ping:211 tps:20.0 lp:6 component: hb.mis
+(12:19:42) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.924, move: true) (+1) | vl:3 ping:222 tps:20.0 lp:6 component: hb.mis
+(12:19:46) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.023, move: true) (+1) | vl:1 ping:222 tps:20.0 lp:8 component: hb.mis
+(12:19:47) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.286, move: true) (+1) | vl:2 ping:222 tps:20.0 lp:8 component: hb.mis
+(12:19:48) troya2000 failed KillAura check | (machine learning) machine learning analyse | m: #1,27,10 | amount: 2 (+4) | vl:4 ping:222 tps:20.0 lp:8 component: ka.ml
+(12:20:09) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.811, move: true) (+1) | vl:3 ping:206 tps:20.0 lp:3 component: hb.mis
+(12:20:12) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.097, move: true) (+1) | vl:4 ping:206 tps:20.0 lp:19 component: hb.mis
+(12:20:25) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.935, move: true) (+1) | vl:1 ping:218 tps:20.0 lp:6 component: hb.mis
+(12:21:12) troya2000 failed Fly check | ground spoof (expect: --, move: 0.058,0.106,0.448, at: 215.813,73.755,458.359, type: air, pkt: false) (+2) | vl:2 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:21:12) troya2000 failed Fly check | ground spoof (expect: --, move: 0.02,-0.631,0.192, at: 216.129,70.64,461.381, type: air, pkt: false) (+2) | vl:4 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:21:12) troya2000 failed Fly check | ground spoof (expect: --, move: 0.018,-0.696,0.175, at: 216.147,69.944,461.555, type: air, pkt: false) (+2) | vl:6 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:21:12) troya2000 failed Fly check | ground spoof (expect: --, move: 0.016,-0.761,0.159, at: 216.163,69.183,461.714, type: air, pkt: false) (+2) | vl:8 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:21:38) JossielDark failed Chat check | chat too fast | delay: 2129 (+1) | vl:1 ping:293 tps:20.0 lp:28 component: chat.delay
+(12:22:23) JossielDark failed Chat check | chat too fast | delay: 2909 (+1) | vl:1 ping:294 tps:20.0 lp:20 component: chat.delay
+(12:22:56) JossielDark failed Fly check | suspicious movement:-0.228 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:9 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:308 tps:20.0 lp:27 component: fly.main
+(12:23:10) troya2000 failed Fly check | ground spoof (expect: --, move: -0.247,0.052,-0.445, at: 209.072,81.308,425.041, type: air, pkt: false) (+1) | vl:1 ping:213 tps:20.0 lp:44 component: fly.gf
+(12:23:10) troya2000 failed Fly check | ground spoof (expect: --, move: -0.18,-0.541,-0.305, at: 207.428,78.993,422.181, type: air, pkt: false) (+1) | vl:2 ping:213 tps:20.0 lp:44 component: fly.gf
+(12:23:10) troya2000 failed Fly check | ground spoof (expect: --, move: -0.175,-0.608,-0.294, at: 207.253,78.384,421.887, type: air, pkt: false) (+1) | vl:3 ping:213 tps:20.0 lp:44 component: fly.gf
+(12:23:13) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.108, move: true) (+1) | vl:1 ping:220 tps:20.0 lp:5 component: hb.mis
+(12:23:14) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.873, move: true) (+1) | vl:2 ping:220 tps:20.0 lp:5 component: hb.mis
+(12:23:16) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.846, move: true) (+1) | vl:3 ping:220 tps:20.0 lp:5 component: hb.mis
+(12:23:18) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.923, move: true) (+1) | vl:1 ping:220 tps:20.0 lp:3 component: hb.mis
+(12:23:55) troya2000 failed Fly check | ground spoof (expect: --, move: -0.404,0.106,0.132, at: 209.166,80.203,417.622, type: air, pkt: false) (+2) | vl:2 ping:218 tps:20.0 lp:4 component: fly.gf
+(12:23:56) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.869, move: true) (+1) | vl:1 ping:222 tps:20.0 lp:13 component: hb.mis
+(12:23:57) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.818, move: true) (+1) | vl:2 ping:222 tps:20.0 lp:13 component: hb.mis
+(12:23:57) JossielDark failed Speed check | suspicious movement (0.308, air_t: 12, lm:0.0, tag: ed) (+5) | vl:5 ping:287 tps:20.0 lp:9 component: speed.main
+(12:24:00) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.871, move: true) (+1) | vl:3 ping:222 tps:20.0 lp:13 component: hb.mis
+(12:24:01) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.832, move: true) (+1) | vl:4 ping:222 tps:20.0 lp:8 component: hb.mis
+(12:24:02) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.847, move: true) (+1) | vl:5 ping:222 tps:20.0 lp:8 component: hb.mis
+(12:24:13) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.833, move: true) (+1) | vl:6 ping:213 tps:20.0 lp:5 component: hb.mis
+(12:24:38) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.189, move: true) (+1) | vl:1 ping:220 tps:20.0 lp:6 component: hb.mis
+(12:24:41) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.95, move: true) (+1) | vl:2 ping:221 tps:20.0 lp:15 component: hb.mis
+(12:24:43) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.958, move: true) (+1) | vl:3 ping:221 tps:20.0 lp:15 component: hb.mis
+(12:24:44) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.81, move: true) (+1) | vl:4 ping:221 tps:20.0 lp:15 component: hb.mis
+(12:24:52) JossielDark failed Speed check | suspicious movement (move: 0.649, expect: 0.6235, tag: c) (+3) | vl:3 ping:305 tps:20.0 lp:6 component: speed.main
+(12:24:52) JossielDark failed Speed check | suspicious movement (move: 0.38, expect: 0.3665, tag: ea) (+1) | vl:4 ping:305 tps:20.0 lp:6 component: speed.main
+(12:24:52) JossielDark failed Speed check | suspicious movement (move: 0.371, expect: 0.3665, tag: ea) (+1) | vl:5 ping:305 tps:20.0 lp:6 component: speed.main
+(12:26:43) JossielDark failed BadPackets check | (timer) send 42 moving packets in 1018ms | tag: limit (+3) | vl:3 ping:289 tps:20.0 lp:19 component: net.timer
+(12:26:43) JossielDark failed Speed check | suspicious movement (move: 2.004, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:289 tps:20.0 lp:19 component: speed.main
+(12:26:44) JossielDark failed Speed check | suspicious movement (move: 2.004, predict: 0.286, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.156, motion: 1.928,0.0,0.546, attribute: 0.13, tag: pred) (+1) | vl:4 ping:289 tps:20.0 lp:19 component: move.xz
+(12:27:19) troya2000 failed Fly check | ground spoof (expect: --, move: 0.205,0.106,-0.061, at: 630.149,93.75,1460.013, type: air, pkt: false) (+2) | vl:2 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.158,-0.631,-0.047, at: 631.663,90.635,1459.563, type: air, pkt: false) (+2) | vl:4 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.163,-0.696,-0.048, at: 631.826,89.939,1459.515, type: air, pkt: false) (+2) | vl:6 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.167,-0.761,-0.049, at: 631.993,89.178,1459.466, type: air, pkt: false) (+2) | vl:8 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.171,-0.824,-0.048, at: 632.164,88.354,1459.417, type: air, pkt: false) (+2) | vl:10 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.175,-0.886,-0.045, at: 632.34,87.468,1459.373, type: air, pkt: false) (+2) | vl:12 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.179,-0.947,-0.041, at: 632.519,86.521,1459.331, type: air, pkt: false) (+2) | vl:14 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.183,-1.006,-0.038, at: 632.702,85.515,1459.293, type: air, pkt: false) (+2) | vl:16 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.186,-1.064,-0.036, at: 632.888,84.451,1459.257, type: air, pkt: false) (+2) | vl:18 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.189,-1.121,-0.033, at: 633.076,83.329,1459.224, type: air, pkt: false) (+2) | vl:20 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.191,-1.177,-0.031, at: 633.268,82.152,1459.193, type: air, pkt: false) (+2) | vl:22 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.194,-1.232,-0.029, at: 633.461,80.919,1459.164, type: air, pkt: false) (+2) | vl:24 ping:218 tps:20.0 lp:6 component: fly.gf
+(12:27:39) JossielDark failed Phase check | moved into block (block: chest, move: -0.009,0.165,0.153, at: 248.886,71.166,483.762, dist: 0.153, loop: false) (+1) | vl:1 ping:287 tps:20.0 lp:12 component: phase.main
+(12:27:49) JossielDark failed Fly check | suspicious movement:-0.514 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.447 air_t:12 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:276 tps:20.0 lp:33 component: fly.main
+(12:27:52) JossielDark failed Fly check | suspicious movement:-0.052 predict:-0.152 lm:-0.075 hard_pred:-0.152 sev_pred:-0.231 air_t:7 fall_t:2 g:-- tag:gn (+1) | vl:2 ping:276 tps:20.0 lp:33 component: fly.main
+(12:28:50) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:277 tps:20.0 lp:5 component: speed.main
+(12:29:06) troya2000 failed BadPackets check | (timer) send 55 moving packets in 3628ms | tag: limit (+5) | vl:5 ping:220 tps:20.0 lp:12 component: net.timer
+(12:29:26) troya2000 failed Fly check | ground spoof (expect: --, move: 0.045,0.0,0.0, at: 643.989,18.2,1453.786, type: air, pkt: false) (+2) | vl:2 ping:222 tps:20.0 lp:14 component: fly.gf
+(12:29:43) troya2000 failed Fly check | ground spoof (expect: --, move: 0.372,0.106,0.322, at: 239.168,106.206,470.152, type: air, pkt: false) (+2) | vl:4 ping:220 tps:20.0 lp:10 component: fly.gf
+(12:29:43) troya2000 failed Fly check | ground spoof (expect: --, move: 0.259,-0.563,0.212, at: 241.884,103.722,472.435, type: air, pkt: false) (+2) | vl:6 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:43) troya2000 failed Fly check | ground spoof (expect: --, move: 0.252,-0.631,0.205, at: 242.136,103.091,472.64, type: air, pkt: false) (+2) | vl:8 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:43) troya2000 failed Fly check | ground spoof (expect: --, move: 0.245,-0.696,0.198, at: 242.38,102.395,472.838, type: air, pkt: false) (+2) | vl:10 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:43) troya2000 failed Fly check | ground spoof (expect: --, move: 0.239,-0.761,0.192, at: 242.619,101.634,473.029, type: air, pkt: false) (+2) | vl:12 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:43) troya2000 failed Fly check | ground spoof (expect: --, move: 0.233,-0.824,0.186, at: 242.852,100.81,473.216, type: air, pkt: false) (+2) | vl:14 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:43) troya2000 failed Fly check | ground spoof (expect: --, move: 0.228,-0.886,0.181, at: 243.08,99.924,473.397, type: air, pkt: false) (+2) | vl:16 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.223,-0.947,0.176, at: 243.303,98.978,473.573, type: air, pkt: false) (+2) | vl:18 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.219,-1.006,0.172, at: 243.521,97.971,473.745, type: air, pkt: false) (+2) | vl:20 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.215,-1.064,0.168, at: 243.736,96.907,473.914, type: air, pkt: false) (+2) | vl:22 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.211,-1.121,0.165, at: 243.947,95.786,474.079, type: air, pkt: false) (+2) | vl:24 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.207,-1.177,0.162, at: 244.155,94.608,474.241, type: air, pkt: false) (+2) | vl:26 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.204,-1.232,0.16, at: 244.359,93.376,474.401, type: air, pkt: false) (+2) | vl:28 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.201,-1.286,0.158, at: 244.56,92.09,474.559, type: air, pkt: false) (+2) | vl:30 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.199,-1.339,0.156, at: 244.758,90.751,474.714, type: air, pkt: false) (+2) | vl:32 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.196,-1.39,0.154, at: 244.954,89.361,474.868, type: air, pkt: false) (+2) | vl:34 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.194,-1.441,0.152, at: 245.148,87.92,475.02, type: air, pkt: false) (+2) | vl:36 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.192,-1.491,0.15, at: 245.34,86.429,475.17, type: air, pkt: false) (+2) | vl:38 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.19,-1.539,0.149, at: 245.53,84.89,475.319, type: air, pkt: false) (+2) | vl:40 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.188,-1.587,0.148, at: 245.718,83.303,475.467, type: air, pkt: false) (+2) | vl:42 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.186,-1.633,0.148, at: 245.904,81.67,475.615, type: air, pkt: false) (+2) | vl:44 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.184,-1.679,0.147, at: 246.087,79.991,475.762, type: air, pkt: false) (+2) | vl:46 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.181,-1.724,0.148, at: 246.269,78.267,475.91, type: air, pkt: false) (+2) | vl:48 ping:220 tps:20.0 lp:24 component: fly.gf
+(12:29:58) troya2000 failed Fly check | ground spoof (expect: --, move: -0.398,0.106,-0.212, at: 233.71,76.12,486.967, type: air, pkt: false) (+2) | vl:10 ping:220 tps:20.0 lp:3 component: fly.gf
+(12:29:59) troya2000 failed Fly check | ground spoof (expect: --, move: -0.17,-0.563,-0.091, at: 231.407,73.636,485.739, type: air, pkt: false) (+1) | vl:11 ping:220 tps:20.0 lp:35 component: fly.gf
+(12:29:59) troya2000 failed Fly check | ground spoof (expect: --, move: -0.155,-0.631,-0.083, at: 231.252,73.005,485.657, type: air, pkt: false) (+1) | vl:12 ping:220 tps:20.0 lp:35 component: fly.gf
+(12:29:59) troya2000 failed Fly check | ground spoof (expect: --, move: -0.141,-0.696,-0.075, at: 231.111,72.309,485.581, type: air, pkt: false) (+1) | vl:13 ping:214 tps:20.0 lp:35 component: fly.gf
+(12:29:59) troya2000 failed Fly check | ground spoof (expect: --, move: -0.128,-0.761,-0.068, at: 230.982,71.548,485.513, type: air, pkt: false) (+1) | vl:14 ping:214 tps:20.0 lp:35 component: fly.gf
+(12:29:59) troya2000 failed Fly check | ground spoof (expect: --, move: -0.098,-0.824,-0.058, at: 230.884,70.724,485.455, type: air, pkt: false) (+1) | vl:15 ping:214 tps:20.0 lp:35 component: fly.gf
+(12:29:59) troya2000 failed Fly check | ground spoof (expect: --, move: -0.07,-0.886,-0.048, at: 230.814,69.838,485.407, type: air, pkt: false) (+1) | vl:16 ping:214 tps:20.0 lp:35 component: fly.gf
+(12:30:16) JossielDark failed Phase check | moved into block (block: leaves, move: 0.0,0.121,0.0, at: 239.7,79.318,493.739, dist: 0.0, loop: false) (+1) | vl:1 ping:280 tps:20.0 lp:11 component: phase.main
+(12:30:16) JossielDark failed Phase check | moved into block (block: leaves, move: 0.0,0.158,0.0, at: 239.7,79.354,493.739, dist: 0.0, loop: false) (+1) | vl:2 ping:280 tps:20.0 lp:11 component: phase.main
+(12:30:17) JossielDark failed Phase check | moved into block (block: leaves, move: 0.0,0.276,0.0, at: 239.7,79.472,493.739, dist: 0.0, loop: false) (+1) | vl:3 ping:280 tps:20.0 lp:11 component: phase.main
+(12:30:44) troya2000 failed Fly check | ground spoof (expect: --, move: -0.443,0.108,-0.686, at: 198.124,90.47,427.327, type: air, pkt: false) (+1) | vl:1 ping:225 tps:20.0 lp:33 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.207,0.106,-0.215, at: 204.887,89.306,423.805, type: air, pkt: false) (+2) | vl:2 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.089,-0.563,-0.092, at: 206.084,86.822,422.563, type: air, pkt: false) (+2) | vl:4 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.074,-0.631,-0.102, at: 206.158,86.192,422.461, type: air, pkt: false) (+2) | vl:6 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.06,-0.696,-0.111, at: 206.218,85.495,422.35, type: air, pkt: false) (+2) | vl:8 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.043,-0.761,-0.117, at: 206.261,84.735,422.233, type: air, pkt: false) (+2) | vl:10 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.029,-0.824,-0.123, at: 206.29,83.911,422.109, type: air, pkt: false) (+2) | vl:12 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.016,-0.886,-0.128, at: 206.306,83.025,421.981, type: air, pkt: false) (+2) | vl:14 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.003,-0.947,-0.133, at: 206.309,82.078,421.848, type: air, pkt: false) (+2) | vl:16 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: -0.011,-1.006,-0.138, at: 206.298,81.072,421.71, type: air, pkt: false) (+2) | vl:18 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: -0.02,-1.064,-0.142, at: 206.278,80.007,421.568, type: air, pkt: false) (+2) | vl:20 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:00) troya2000 failed Fly check | ground spoof (expect: --, move: -0.03,-1.121,-0.145, at: 206.247,78.886,421.423, type: air, pkt: false) (+2) | vl:22 ping:228 tps:20.0 lp:4 component: fly.gf
+(12:31:03) troya2000 failed KillAura check | (onehit) attack in an abnormal state (pattern: #04, val: -15.0) (+2) | vl:2 ping:228 tps:20.0 lp:4 component: ka.one.4
+(12:31:03) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.939, move: true) (+1) | vl:1 ping:228 tps:20.0 lp:4 component: hb.mis
+(12:31:11) JossielDark failed Fly check | step | p: 1 | m:1.5 ev:-0.155 lm:1.49 (+2) | vl:2 ping:286 tps:20.0 lp:5 component: speed.step
+(12:31:42) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.865, move: true) (+1) | vl:1 ping:215 tps:20.0 lp:4 component: hb.mis
+(12:31:45) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.821, move: true) (+1) | vl:2 ping:215 tps:20.0 lp:10 component: hb.mis
+(12:31:47) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.951, move: true) (+1) | vl:3 ping:215 tps:20.0 lp:10 component: hb.mis
+(12:31:48) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.013, move: true) (+1) | vl:4 ping:215 tps:20.0 lp:10 component: hb.mis
+(12:31:50) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.856, move: true) (+1) | vl:5 ping:212 tps:20.0 lp:7 component: hb.mis
+(12:31:50) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.822, move: true) (+1) | vl:6 ping:212 tps:20.0 lp:7 component: hb.mis
+(12:31:55) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.967, move: true) (+1) | vl:7 ping:212 tps:20.0 lp:6 component: hb.mis
+(12:31:58) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.832, move: true) (+1) | vl:1 ping:212 tps:20.0 lp:6 component: hb.mis
+(12:31:58) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.16, move: true) (+1) | vl:2 ping:212 tps:20.0 lp:6 component: hb.mis
+(12:31:59) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.845, move: true) (+1) | vl:3 ping:212 tps:20.0 lp:6 component: hb.mis
+(12:32:00) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.803, move: true) (+1) | vl:4 ping:212 tps:20.0 lp:4 component: hb.mis
+(12:32:00) JossielDark failed Inventory check | inventory move | pattern: b | s:33 (+1) | vl:1 ping:292 tps:20.0 lp:28 component: inv.move
+(12:32:02) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.961, move: true) (+1) | vl:5 ping:218 tps:20.0 lp:4 component: hb.mis
+(12:32:02) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.958, move: true) (+1) | vl:6 ping:218 tps:20.0 lp:4 component: hb.mis
+(12:32:04) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.828, move: true) (+1) | vl:7 ping:218 tps:20.0 lp:4 component: hb.mis
+(12:32:05) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.954, move: true) (+1) | vl:8 ping:218 tps:20.0 lp:4 component: hb.mis
+(12:32:06) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.821, move: true) (+1) | vl:9 ping:218 tps:20.0 lp:4 component: hb.mis
+(12:32:07) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.099, move: true) (+1) | vl:10 ping:218 tps:20.0 lp:4 component: hb.mis
+(12:32:07) Execute command: matrix notify troya2000 tried to reach entity outside max reach distance (HitBox)
+(12:32:08) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.01, move: true) (+1) | vl:11 ping:218 tps:20.0 lp:4 component: hb.mis
+(12:32:13) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.913, move: true) (+1) | vl:12 ping:213 tps:20.0 lp:7 component: hb.mis
+(12:32:14) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.826, move: true) (+1) | vl:13 ping:213 tps:20.0 lp:7 component: hb.mis
+(12:32:16) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.917, move: true) (+1) | vl:14 ping:213 tps:20.0 lp:4 component: hb.mis
+(12:33:06) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.891, move: true) (+1) | vl:1 ping:225 tps:20.0 lp:36 component: hb.mis
+(12:33:07) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.945, move: true) (+1) | vl:2 ping:224 tps:20.0 lp:24 component: hb.mis
+(12:33:08) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.844, move: true) (+1) | vl:3 ping:224 tps:20.0 lp:24 component: hb.mis
+(12:33:14) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.835, move: true) (+1) | vl:4 ping:224 tps:20.0 lp:7 component: hb.mis
+(12:33:23) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.846, move: true) (+1) | vl:5 ping:214 tps:20.0 lp:6 component: hb.mis
+(12:33:24) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.105, move: true) (+1) | vl:6 ping:214 tps:20.0 lp:13 component: hb.mis
+(12:33:27) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.81, move: true) (+1) | vl:7 ping:214 tps:20.0 lp:13 component: hb.mis
+(12:33:32) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.911, move: true) (+1) | vl:1 ping:224 tps:20.0 lp:8 component: hb.mis
+(12:33:36) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.834, move: true) (+1) | vl:2 ping:224 tps:20.0 lp:9 component: hb.mis
+(12:33:48) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.818, move: true) (+1) | vl:3 ping:212 tps:20.0 lp:6 component: hb.mis
+(12:33:58) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.695, move: true) (+1) | vl:4 ping:216 tps:20.0 lp:17 component: hb.mis
+(12:34:00) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.182, move: true) (+1) | vl:1 ping:216 tps:20.0 lp:25 component: hb.mis
+(12:34:01) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.952, move: true) (+1) | vl:2 ping:216 tps:20.0 lp:25 component: hb.mis
+(12:34:03) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.82, move: true) (+1) | vl:3 ping:212 tps:20.0 lp:25 component: hb.mis
+(12:34:17) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.804, move: true) (+1) | vl:4 ping:213 tps:20.0 lp:9 component: hb.mis
+(12:34:19) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.843, move: true) (+1) | vl:5 ping:213 tps:20.0 lp:29 component: hb.mis
+(12:34:21) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.877, move: true) (+1) | vl:6 ping:213 tps:20.0 lp:29 component: hb.mis
+(12:34:28) JossielDark failed Phase check | moved into block (block: stained_glass_pane, move: 0.114,0.0,0.092, at: -43.266,47.0,69.757, dist: 0.147, loop: false) (+1) | vl:1 ping:299 tps:20.0 lp:32 component: phase.main
+(12:34:29) JossielDark failed Phase check | moved into block (block: stained_glass_pane, move: 0.141,0.0,0.146, at: -42.77,47.0,70.222, dist: 0.203, loop: false) (+1) | vl:2 ping:299 tps:20.0 lp:32 component: phase.main
+(12:34:47) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.988, move: true) (+1) | vl:1 ping:217 tps:20.0 lp:22 component: hb.mis
+(12:34:49) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.344, move: true) (+1) | vl:2 ping:217 tps:20.0 lp:22 component: hb.mis
+(12:34:52) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.439, move: true) (+1) | vl:3 ping:217 tps:20.0 lp:6 component: hb.mis
+(12:34:56) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.532, move: true) (+1) | vl:4 ping:217 tps:20.0 lp:6 component: hb.mis
+(12:35:10) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.129, move: true) (+1) | vl:1 ping:219 tps:20.0 lp:5 component: hb.mis
+(12:35:11) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.889, move: true) (+1) | vl:2 ping:219 tps:20.0 lp:5 component: hb.mis
+(12:35:12) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.106, move: true) (+1) | vl:3 ping:219 tps:20.0 lp:5 component: hb.mis
+(12:35:14) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.185, move: true) (+1) | vl:4 ping:219 tps:20.0 lp:3 component: hb.mis
+(12:35:21) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.874, move: true) (+1) | vl:5 ping:218 tps:20.0 lp:5 component: hb.mis
+(12:35:22) troya2000 failed Speed check | t: spin (+5) | vl:5 ping:218 tps:20.0 lp:4 component: speed.spin
+(12:35:28) JossielDark failed Interact check | interact block through solid (through: FURNACE, block:CHEST) (+0) | vl:0 ping:297 tps:20.0 lp:102 component: interact.through
+(12:35:47) JossielDark failed Fly check | suspicious movement:-0.231 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.304 air_t:3 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:284 tps:20.0 lp:102 component: fly.main
+(12:35:50) troya2000 failed Fly check | ground spoof (expect: --, move: 0.01,0.086,-0.045, at: 206.653,82.735,452.967, type: air, pkt: false) (+1) | vl:1 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:50) troya2000 failed Fly check | ground spoof (expect: --, move: 0.009,0.006,-0.041, at: 206.662,82.741,452.926, type: air, pkt: false) (+1) | vl:2 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.09,-0.646,-0.012, at: 206.362,79.446,452.715, type: air, pkt: false) (+1) | vl:3 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.101,-0.712,-0.009, at: 206.26,78.734,452.706, type: air, pkt: false) (+1) | vl:4 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.112,-0.776,-0.007, at: 206.148,77.958,452.699, type: air, pkt: false) (+1) | vl:5 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.121,-0.839,-0.003, at: 206.027,77.119,452.696, type: air, pkt: false) (+1) | vl:6 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.129,-0.901,0.004, at: 205.898,76.218,452.7, type: air, pkt: false) (+1) | vl:7 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.137,-0.961,0.005, at: 205.761,75.257,452.705, type: air, pkt: false) (+1) | vl:8 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.143,-1.02,0.005, at: 205.618,74.237,452.71, type: air, pkt: false) (+1) | vl:9 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.149,-1.078,0.006, at: 205.469,73.159,452.716, type: air, pkt: false) (+1) | vl:10 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.153,-1.135,0.014, at: 205.315,72.024,452.73, type: air, pkt: false) (+1) | vl:11 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.156,-1.191,0.024, at: 205.16,70.833,452.754, type: air, pkt: false) (+1) | vl:12 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:35:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.155,-1.245,0.036, at: 205.005,69.588,452.79, type: air, pkt: false) (+1) | vl:13 ping:444 tps:20.0 lp:55 component: fly.gf
+(12:36:11) troya2000 failed Fly check | ground spoof (expect: --, move: -0.012,0.086,0.0, at: 185.905,74.101,457.821, type: air, pkt: false) (+1) | vl:1 ping:224 tps:20.0 lp:25 component: fly.gf
+(12:36:12) troya2000 failed Fly check | ground spoof (expect: --, move: 0.032,-0.58,-0.003, at: 185.89,71.459,457.816, type: air, pkt: false) (+1) | vl:2 ping:224 tps:20.0 lp:25 component: fly.gf
+(12:36:27) JossielDark failed Chat check | chat too fast | delay: 2661 (+1) | vl:1 ping:301 tps:20.0 lp:37 component: chat.delay
+(12:37:54) troya2000 failed Fly check | ground spoof (expect: --, move: 0.51,0.106,0.043, at: 21.102,83.477,1035.888, type: air, pkt: false) (+2) | vl:2 ping:214 tps:20.0 lp:14 component: fly.gf
+(12:38:04) troya2000 failed Fly check | ground spoof (expect: --, move: -0.016,0.106,0.077, at: 26.066,86.072,1089.64, type: air, pkt: false) (+2) | vl:2 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: -0.007,-0.563,0.033, at: 25.971,83.588,1090.084, type: air, pkt: false) (+2) | vl:4 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.008,-0.631,0.043, at: 25.979,82.958,1090.127, type: air, pkt: false) (+2) | vl:6 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.021,-0.696,0.053, at: 26.0,82.261,1090.18, type: air, pkt: false) (+2) | vl:8 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.033,-0.761,0.063, at: 26.033,81.5,1090.243, type: air, pkt: false) (+2) | vl:10 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.043,-0.824,0.071, at: 26.076,80.676,1090.314, type: air, pkt: false) (+2) | vl:12 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.039,-0.886,0.065, at: 26.116,79.79,1090.379, type: air, pkt: false) (+2) | vl:14 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.036,-0.947,0.059, at: 26.151,78.844,1090.438, type: air, pkt: false) (+2) | vl:16 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.033,-1.006,0.054, at: 26.184,77.838,1090.492, type: air, pkt: false) (+2) | vl:18 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.03,-1.064,0.049, at: 26.214,76.773,1090.54, type: air, pkt: false) (+2) | vl:20 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.027,-1.121,0.044, at: 26.241,75.652,1090.585, type: air, pkt: false) (+2) | vl:22 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.025,-1.177,0.04, at: 26.265,74.474,1090.625, type: air, pkt: false) (+2) | vl:24 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:06) troya2000 failed Fly check | ground spoof (expect: --, move: 0.009,-1.232,0.022, at: 26.274,73.242,1090.648, type: air, pkt: false) (+2) | vl:26 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:06) troya2000 failed Fly check | ground spoof (expect: --, move: -0.005,-1.286,0.006, at: 26.269,71.956,1090.654, type: air, pkt: false) (+2) | vl:28 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:06) troya2000 failed Fly check | ground spoof (expect: --, move: -0.013,-1.339,-0.009, at: 26.256,70.617,1090.645, type: air, pkt: false) (+2) | vl:30 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:38:22) troya2000 failed Fly check | ground spoof (expect: --, move: -0.362,0.086,0.359, at: 7.065,72.111,1106.223, type: air, pkt: false) (+2) | vl:32 ping:211 tps:20.0 lp:7 component: fly.gf
+(12:38:32) JossielDark failed Inventory check | inventory move | pattern: b | s:9 (+2) | vl:2 ping:289 tps:20.0 lp:22 component: inv.move
+(12:38:34) JossielDark failed Inventory check | inventory move | pattern: b | s:30 (+2) | vl:4 ping:279 tps:20.0 lp:22 component: inv.move
+(12:38:39) troya2000 failed Fly check | ground spoof (expect: --, move: 0.51,0.106,-0.06, at: 36.974,71.331,1093.483, type: air, pkt: false) (+1) | vl:1 ping:214 tps:20.0 lp:29 component: fly.gf
+(12:38:39) troya2000 failed Fly check | ground spoof (expect: --, move: 0.342,-0.563,-0.03, at: 40.622,68.847,1093.081, type: air, pkt: false) (+2) | vl:3 ping:214 tps:20.0 lp:9 component: fly.gf
+(12:38:39) troya2000 failed Fly check | ground spoof (expect: --, move: 0.331,-0.631,-0.022, at: 40.953,68.216,1093.059, type: air, pkt: false) (+2) | vl:5 ping:214 tps:20.0 lp:9 component: fly.gf
+(12:38:40) troya2000 failed Fly check | ground spoof (expect: --, move: 0.319,-0.696,-0.014, at: 41.272,67.52,1093.045, type: air, pkt: false) (+2) | vl:7 ping:214 tps:20.0 lp:9 component: fly.gf
+(12:38:40) troya2000 failed Fly check | ground spoof (expect: --, move: 0.308,-0.761,-0.004, at: 41.581,66.759,1093.04, type: air, pkt: false) (+2) | vl:9 ping:214 tps:20.0 lp:9 component: fly.gf
+(12:38:40) troya2000 failed Fly check | ground spoof (expect: --, move: 0.298,-0.824,0.01, at: 41.878,65.935,1093.05, type: air, pkt: false) (+2) | vl:11 ping:214 tps:20.0 lp:9 component: fly.gf
+(12:38:40) troya2000 failed Fly check | ground spoof (expect: --, move: 0.271,-0.886,0.009, at: 42.149,65.049,1093.059, type: air, pkt: false) (+2) | vl:13 ping:214 tps:20.0 lp:9 component: fly.gf
+(12:38:58) troya2000 failed Fly check | ground spoof (expect: --, move: 0.004,0.106,-0.47, at: 8.328,66.473,1092.054, type: air, pkt: false) (+2) | vl:15 ping:218 tps:20.0 lp:5 component: fly.gf
+(12:39:32) troya2000 failed Fly check | ground spoof (expect: --, move: -0.124,0.052,0.151, at: -142.183,28.68,34.196, type: air, pkt: false) (+2) | vl:2 ping:215 tps:20.0 lp:13 component: fly.gf
+(12:39:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.053,-0.608,0.064, at: -142.899,25.756,35.068, type: air, pkt: false) (+2) | vl:4 ping:219 tps:20.0 lp:13 component: fly.gf
+(12:39:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.048,-0.675,0.059, at: -142.947,25.081,35.126, type: air, pkt: false) (+2) | vl:6 ping:219 tps:20.0 lp:13 component: fly.gf
+(12:39:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.044,-0.74,0.053, at: -142.991,24.342,35.18, type: air, pkt: false) (+2) | vl:8 ping:219 tps:20.0 lp:13 component: fly.gf
+(12:39:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.04,-0.803,0.049, at: -143.031,23.538,35.228, type: air, pkt: false) (+2) | vl:10 ping:219 tps:20.0 lp:13 component: fly.gf
+(12:39:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.036,-0.866,0.044, at: -143.068,22.673,35.272, type: air, pkt: false) (+2) | vl:12 ping:219 tps:20.0 lp:13 component: fly.gf
+(12:39:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.027,-1.045,0.033, at: -143.158,19.714,35.383, type: air, pkt: false) (+2) | vl:14 ping:219 tps:20.0 lp:13 component: fly.gf
+(12:39:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.025,-1.103,0.03, at: -143.183,18.612,35.413, type: air, pkt: false) (+2) | vl:16 ping:219 tps:20.0 lp:13 component: fly.gf
+(12:39:33) troya2000 failed Jesus check | suspicious movement in liquid (motion: -0.023,-1.159,0.028, down: STATIONARY_WATER, vel: -1.195, module: solid) (+2) | vl:2 ping:219 tps:20.0 lp:13 component: jesus.solid
+(12:39:33) troya2000 failed Jesus check | suspicious movement in liquid (motion: -0.015,-0.505,0.018, down: SAND, vel: -0.801, module: solid) (+2) | vl:4 ping:219 tps:20.0 lp:13 component: jesus.solid
+(12:39:48) troya2000 failed Fly check | ground spoof (expect: --, move: -0.082,-0.257,-0.067, at: -145.354,23.413,53.683, type: air, pkt: false) (+2) | vl:2 ping:217 tps:20.0 lp:14 component: fly.gf
+(12:39:54) JossielDark failed Inventory check | inventory move | pattern: b | s:9 (+2) | vl:2 ping:286 tps:20.0 lp:22 component: inv.move
+(12:40:20) JossielDark failed Inventory check | inventory move | pattern: b | s:9 (+2) | vl:2 ping:303 tps:20.0 lp:16 component: inv.move
+(12:40:56) JossielDark failed BadPackets check | (timer) send 44 moving packets in 1004ms | tag: limit (+1) | vl:1 ping:296 tps:20.0 lp:61 component: net.timer
+(12:40:56) JossielDark failed Speed check | suspicious movement (move: 0.634, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:1 ping:296 tps:20.0 lp:61 component: speed.main
+(12:40:56) JossielDark failed Speed check | suspicious movement (move: 0.634, predict: 0.13, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.0, motion: -0.136,0.0,0.619, attribute: 0.13, tag: pred) (+1) | vl:2 ping:296 tps:20.0 lp:61 component: move.xz
+(12:40:56) JossielDark failed Speed check | suspicious movement (move: 0.626, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:3 ping:296 tps:20.0 lp:61 component: speed.main
+(12:40:56) JossielDark failed Speed check | suspicious movement (move: 0.626, predict: 0.237, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.107, motion: 0.289,0.0,-0.555, attribute: 0.13, tag: pred) (+1) | vl:4 ping:296 tps:20.0 lp:61 component: move.xz
+(12:40:56) JossielDark failed Speed check | suspicious movement (move: 0.43, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:5 ping:296 tps:20.0 lp:61 component: speed.main
+(12:40:56) JossielDark failed Speed check | suspicious movement (move: 0.43, predict: 0.26, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.13, motion: 0.189,0.0,-0.386, attribute: 0.13, tag: pred) (+1) | vl:6 ping:296 tps:20.0 lp:61 component: move.xz
+(12:40:57) JossielDark failed Speed check | suspicious movement (move: 0.43, expect: 0.419, g_tk:5, tag: b) (+1) | vl:7 ping:278 tps:20.0 lp:61 component: speed.main
+(12:41:00) JossielDark failed BadPackets check | (timer) send 45 moving packets in 1005ms | tag: limit (+3) | vl:4 ping:278 tps:20.0 lp:24 component: net.timer
+(12:41:00) JossielDark failed Speed check | suspicious movement (move: 0.746, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+3) | vl:10 ping:278 tps:20.0 lp:24 component: speed.main
+(12:41:00) JossielDark failed Speed check | suspicious movement (move: 0.746, predict: 0.13, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.0, motion: -0.183,0.0,0.723, attribute: 0.13, tag: pred) (+1) | vl:11 ping:278 tps:20.0 lp:24 component: move.xz
+(12:41:30) troya2000 failed Fly check | ground spoof (expect: --, move: -0.178,0.106,-0.474, at: -149.175,27.506,31.927, type: air, pkt: false) (+2) | vl:2 ping:225 tps:20.0 lp:7 component: fly.gf
+(12:41:30) troya2000 failed Fly check | ground spoof (expect: --, move: -0.17,0.025,-0.45, at: -149.344,27.531,31.477, type: air, pkt: false) (+2) | vl:4 ping:225 tps:20.0 lp:7 component: fly.gf
+(12:41:30) troya2000 failed Fly check | ground spoof (expect: --, move: -0.12,-0.631,-0.308, at: -150.59,24.391,28.228, type: air, pkt: false) (+2) | vl:6 ping:225 tps:20.0 lp:16 component: fly.gf
+(12:41:30) troya2000 failed Fly check | ground spoof (expect: --, move: -0.116,-0.696,-0.298, at: -150.707,23.695,27.93, type: air, pkt: false) (+2) | vl:8 ping:225 tps:20.0 lp:16 component: fly.gf
+(12:41:59) troya2000 failed Fly check | ground spoof (expect: --, move: 0.051,0.0,0.076, at: -164.588,30.2,39.903, type: air, pkt: false) (+2) | vl:2 ping:220 tps:20.0 lp:3 component: fly.gf
+(12:42:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.024,-0.585,0.036, at: -164.315,27.505,40.311, type: air, pkt: false) (+2) | vl:4 ping:220 tps:20.0 lp:3 component: fly.gf
+(12:42:01) JossielDark failed Inventory check | inventory move | pattern: b | s:13 (+1) | vl:1 ping:284 tps:20.0 lp:48 component: inv.move
+(12:42:09) troya2000 failed Fly check | ground spoof (expect: --, move: -0.169,0.116,-0.384, at: -168.153,24.33,16.714, type: air, pkt: false) (+2) | vl:2 ping:229 tps:20.0 lp:7 component: fly.gf
+(12:42:28) troya2000 failed Speed check | t: spin (+5) | vl:5 ping:213 tps:20.0 lp:21 component: speed.spin
+(12:43:15) JossielDark failed Fly check | suspicious movement:-0.302 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.781 air_t:10 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:281 tps:20.0 lp:32 component: fly.main
+(12:43:50) troya2000 failed Fly check | ground spoof (expect: --, move: -0.484,0.064,0.135, at: -146.11,31.244,4.052, type: air, pkt: false) (+2) | vl:2 ping:215 tps:20.0 lp:6 component: fly.gf
+(12:43:50) troya2000 failed Fly check | ground spoof (expect: --, move: -0.327,-0.599,0.091, at: -149.591,28.415,4.99, type: air, pkt: false) (+2) | vl:4 ping:215 tps:20.0 lp:6 component: fly.gf
+(12:43:50) troya2000 failed Fly check | ground spoof (expect: --, move: -0.314,-0.665,0.092, at: -149.905,27.75,5.082, type: air, pkt: false) (+2) | vl:6 ping:215 tps:20.0 lp:6 component: fly.gf
+(12:43:50) troya2000 failed Fly check | ground spoof (expect: --, move: -0.302,-0.73,0.095, at: -150.207,27.02,5.177, type: air, pkt: false) (+2) | vl:8 ping:215 tps:20.0 lp:6 component: fly.gf
+(12:43:50) troya2000 failed Fly check | ground spoof (expect: --, move: -0.29,-0.794,0.099, at: -150.498,26.226,5.276, type: air, pkt: false) (+2) | vl:10 ping:215 tps:20.0 lp:6 component: fly.gf
+(12:43:50) troya2000 failed Fly check | ground spoof (expect: --, move: -0.278,-0.857,0.104, at: -150.776,25.369,5.38, type: air, pkt: false) (+2) | vl:12 ping:215 tps:20.0 lp:6 component: fly.gf
+(12:43:50) troya2000 failed Fly check | ground spoof (expect: --, move: -0.266,-0.918,0.11, at: -151.041,24.451,5.49, type: air, pkt: false) (+2) | vl:14 ping:215 tps:20.0 lp:6 component: fly.gf
+(12:43:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.254,-0.978,0.115, at: -151.295,23.473,5.605, type: air, pkt: false) (+2) | vl:16 ping:215 tps:20.0 lp:6 component: fly.gf
+(12:43:58) troya2000 failed Fly check | ground spoof (expect: --, move: -0.266,-0.239,0.016, at: -151.561,27.383,15.554, type: air, pkt: false) (+2) | vl:18 ping:213 tps:20.0 lp:10 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.078,-0.056, at: -149.3,29.122,13.418, type: air, pkt: false) (+2) | vl:20 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.155,-0.024, at: -149.3,28.966,13.394, type: air, pkt: false) (+2) | vl:22 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.231,-0.022, at: -149.3,28.736,13.372, type: air, pkt: false) (+2) | vl:24 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.304,-0.02, at: -149.3,28.432,13.352, type: air, pkt: false) (+2) | vl:26 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.377,-0.022, at: -149.3,28.055,13.331, type: air, pkt: false) (+2) | vl:28 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.03,-0.517,-0.038, at: -149.252,27.09,13.267, type: air, pkt: false) (+2) | vl:30 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.048,-0.652,-0.06, at: -149.164,25.854,13.157, type: air, pkt: false) (+2) | vl:32 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.057,-0.717,-0.07, at: -149.107,25.137,13.087, type: air, pkt: false) (+2) | vl:34 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.064,-0.781,-0.079, at: -149.043,24.356,13.008, type: air, pkt: false) (+2) | vl:36 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:02) troya2000 failed Fly check | ground spoof (expect: --, move: 0.07,-0.844,-0.087, at: -148.973,23.512,12.921, type: air, pkt: false) (+2) | vl:38 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:03) troya2000 failed Fly check | ground spoof (expect: --, move: 0.076,-0.905,-0.095, at: -148.897,22.606,12.826, type: air, pkt: false) (+2) | vl:40 ping:213 tps:20.0 lp:5 component: fly.gf
+(12:44:33) troya2000 failed Phase check | moved into block (block: stained_clay, move: 0.0,0.084,-0.022, at: -157.3,12.2,14.125, dist: 0.022, loop: false) (+1) | vl:1 ping:212 tps:20.0 lp:3 component: phase.main
+(12:44:34) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.078,0.052, at: -157.3,12.122,14.228, type: air, pkt: false) (+2) | vl:2 ping:212 tps:20.0 lp:3 component: fly.gf
+(12:44:54) troya2000 failed Fly check | ground spoof (expect: --, move: -0.295,0.025,0.077, at: -137.192,24.107,13.715, type: air, pkt: false) (+2) | vl:2 ping:217 tps:20.0 lp:8 component: fly.gf
+(12:45:54) JossielDark failed BadPackets check | (timer) send 39 moving packets in 1033ms | tag: limit (+3) | vl:3 ping:276 tps:20.0 lp:24 component: net.timer
+(12:45:54) JossielDark failed Speed check | suspicious movement (move: 1.279, expect: 0.6235, tag: c) (+6) | vl:6 ping:276 tps:20.0 lp:24 component: speed.main
+(12:45:54) JossielDark failed Speed check | suspicious movement (move: 1.279, vet: 0.753, tag: d) (+2) | vl:8 ping:276 tps:20.0 lp:24 component: speed.main
+(12:45:54) JossielDark failed Speed check | suspicious movement (move: 1.279, predict: 0.486, friction: 0.6, ground:true, motY: 0.753, increase:0.33, preMove:0.156, motion: 1.104,0.753,-0.645, attribute: 0.13, tag: pred) (+1) | vl:9 ping:276 tps:20.0 lp:24 component: move.xz
+(12:45:54) troya2000 failed BadPackets check | (timer) send 39 moving packets in 1008ms | tag: limit (+5) | vl:5 ping:221 tps:20.0 lp:24 component: net.timer
+(12:45:54) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 203.618,70.502,478.877, type: air, pkt: false) (+2) | vl:2 ping:221 tps:20.0 lp:24 component: fly.gf
+(12:45:54) JossielDark failed Speed check | suspicious movement (move: 0.251, predict: 0.095, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.069, motion: 0.202,0.0,-0.148, attribute: 0.13, tag: pred) (+1) | vl:10 ping:274 tps:20.0 lp:24 component: move.xz
+(12:46:14) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:276 tps:20.0 lp:10 component: speed.main
+(12:46:42) troya2000 failed Fly check | ground spoof (expect: --, move: -0.352,0.106,-0.05, at: 247.498,84.321,838.888, type: air, pkt: false) (+2) | vl:2 ping:215 tps:20.0 lp:4 component: fly.gf
+(12:46:42) troya2000 failed Fly check | ground spoof (expect: --, move: -0.274,-0.563,-0.039, at: 244.771,81.837,838.497, type: air, pkt: false) (+2) | vl:4 ping:215 tps:20.0 lp:4 component: fly.gf
+(12:46:42) troya2000 failed Fly check | ground spoof (expect: --, move: -0.269,-0.631,-0.038, at: 244.502,81.207,838.459, type: air, pkt: false) (+2) | vl:6 ping:215 tps:20.0 lp:4 component: fly.gf
+(12:46:42) troya2000 failed Fly check | ground spoof (expect: --, move: -0.264,-0.696,-0.034, at: 244.238,80.51,838.425, type: air, pkt: false) (+2) | vl:8 ping:215 tps:20.0 lp:4 component: fly.gf
+(12:46:42) troya2000 failed Fly check | ground spoof (expect: --, move: -0.26,-0.761,-0.028, at: 243.978,79.749,838.397, type: air, pkt: false) (+2) | vl:10 ping:215 tps:20.0 lp:4 component: fly.gf
+(12:46:42) troya2000 failed Fly check | ground spoof (expect: --, move: -0.255,-0.824,-0.02, at: 243.723,78.925,838.377, type: air, pkt: false) (+2) | vl:12 ping:215 tps:20.0 lp:4 component: fly.gf
+(12:46:43) troya2000 failed Fly check | ground spoof (expect: --, move: -0.25,-0.886,-0.011, at: 243.473,78.039,838.366, type: air, pkt: false) (+2) | vl:14 ping:221 tps:20.0 lp:4 component: fly.gf
+(12:46:43) troya2000 failed Fly check | ground spoof (expect: --, move: -0.246,-0.947,-0.003, at: 243.227,77.093,838.363, type: air, pkt: false) (+2) | vl:16 ping:221 tps:20.0 lp:4 component: fly.gf
+(12:46:43) troya2000 failed Fly check | ground spoof (expect: --, move: -0.242,-1.006,0.007, at: 242.985,76.087,838.371, type: air, pkt: false) (+2) | vl:18 ping:221 tps:20.0 lp:4 component: fly.gf
+(12:46:43) troya2000 failed Fly check | ground spoof (expect: --, move: -0.239,-1.064,0.014, at: 242.746,75.022,838.384, type: air, pkt: false) (+2) | vl:20 ping:221 tps:20.0 lp:4 component: fly.gf
+(12:46:43) troya2000 failed Fly check | ground spoof (expect: --, move: -0.235,-1.121,0.02, at: 242.511,73.901,838.404, type: air, pkt: false) (+2) | vl:22 ping:221 tps:20.0 lp:4 component: fly.gf
+(12:47:17) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,0.106,0.0, at: 247.593,118.967,834.901, type: air, pkt: false) (+2) | vl:2 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.631,0.0, at: 247.593,115.853,834.901, type: air, pkt: false) (+2) | vl:4 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.696,0.0, at: 247.593,115.156,834.901, type: air, pkt: false) (+2) | vl:6 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.016,-0.761,0.011, at: 247.577,114.395,834.911, type: air, pkt: false) (+2) | vl:8 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.031,-0.824,0.02, at: 247.545,113.571,834.932, type: air, pkt: false) (+2) | vl:10 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.045,-0.886,0.029, at: 247.5,112.685,834.961, type: air, pkt: false) (+2) | vl:12 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.058,-0.947,0.037, at: 247.443,111.739,834.998, type: air, pkt: false) (+2) | vl:14 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.069,-1.006,0.045, at: 247.374,110.733,835.042, type: air, pkt: false) (+2) | vl:16 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.079,-1.064,0.051, at: 247.295,109.668,835.094, type: air, pkt: false) (+2) | vl:18 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.088,-1.121,0.057, at: 247.207,108.547,835.151, type: air, pkt: false) (+2) | vl:20 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.097,-1.177,0.063, at: 247.11,107.369,835.214, type: air, pkt: false) (+2) | vl:22 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.104,-1.232,0.068, at: 247.006,106.137,835.282, type: air, pkt: false) (+2) | vl:24 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.111,-1.286,0.073, at: 246.895,104.851,835.355, type: air, pkt: false) (+2) | vl:26 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.117,-1.339,0.078, at: 246.778,103.512,835.433, type: air, pkt: false) (+2) | vl:28 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.121,-1.39,0.084, at: 246.656,102.122,835.517, type: air, pkt: false) (+2) | vl:30 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.124,-1.441,0.09, at: 246.532,100.681,835.607, type: air, pkt: false) (+2) | vl:32 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.126,-1.491,0.096, at: 246.406,99.19,835.703, type: air, pkt: false) (+2) | vl:34 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.127,-1.539,0.103, at: 246.279,97.651,835.806, type: air, pkt: false) (+2) | vl:36 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.128,-1.587,0.109, at: 246.151,96.064,835.915, type: air, pkt: false) (+2) | vl:38 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.128,-1.633,0.115, at: 246.023,94.431,836.031, type: air, pkt: false) (+2) | vl:40 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.128,-1.679,0.121, at: 245.895,92.752,836.151, type: air, pkt: false) (+2) | vl:42 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.127,-1.724,0.126, at: 245.768,91.028,836.277, type: air, pkt: false) (+2) | vl:44 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.127,-1.768,0.131, at: 245.641,89.26,836.408, type: air, pkt: false) (+2) | vl:46 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.127,-1.811,0.135, at: 245.514,87.449,836.543, type: air, pkt: false) (+2) | vl:48 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.127,-1.853,0.139, at: 245.387,85.596,836.682, type: air, pkt: false) (+2) | vl:50 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) Execute command: matrix notify troya2000 tried to fly (Fly) #1
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.127,-1.894,0.142, at: 245.26,83.701,836.825, type: air, pkt: false) (+2) | vl:52 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.126,-1.935,0.146, at: 245.134,81.766,836.97, type: air, pkt: false) (+2) | vl:54 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.126,-1.975,0.149, at: 245.008,79.792,837.119, type: air, pkt: false) (+2) | vl:56 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.126,-2.014,0.152, at: 244.882,77.778,837.271, type: air, pkt: false) (+2) | vl:58 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.125,-2.052,0.154, at: 244.757,75.727,837.425, type: air, pkt: false) (+2) | vl:60 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:47:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.125,-2.089,0.157, at: 244.632,73.637,837.582, type: air, pkt: false) (+2) | vl:62 ping:214 tps:20.0 lp:20 component: fly.gf
+(12:48:44) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,0.106,0.045, at: 234.705,95.214,709.868, type: air, pkt: false) (+2) | vl:2 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.563,0.019, at: 234.705,92.73,710.126, type: air, pkt: false) (+2) | vl:4 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.631,0.017, at: 234.705,92.1,710.144, type: air, pkt: false) (+2) | vl:6 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.696,0.016, at: 234.705,91.403,710.16, type: air, pkt: false) (+2) | vl:8 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.761,0.014, at: 234.705,90.642,710.174, type: air, pkt: false) (+2) | vl:10 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.824,0.013, at: 234.705,89.818,710.187, type: air, pkt: false) (+2) | vl:12 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.886,0.012, at: 234.705,88.932,710.199, type: air, pkt: false) (+2) | vl:14 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.947,0.011, at: 234.705,87.986,710.21, type: air, pkt: false) (+2) | vl:16 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.006,0.01, at: 234.705,86.98,710.22, type: air, pkt: false) (+2) | vl:18 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.064,0.009, at: 234.705,85.915,710.229, type: air, pkt: false) (+2) | vl:20 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.121,0.008, at: 234.705,84.794,710.237, type: air, pkt: false) (+2) | vl:22 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.177,0.007, at: 234.705,83.616,710.244, type: air, pkt: false) (+2) | vl:24 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.232,0.007, at: 234.705,82.384,710.251, type: air, pkt: false) (+2) | vl:26 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:45) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.286,0.006, at: 234.705,81.098,710.257, type: air, pkt: false) (+2) | vl:28 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.339,0.006, at: 234.705,79.759,710.263, type: air, pkt: false) (+2) | vl:30 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.39,0.005, at: 234.705,78.369,710.268, type: air, pkt: false) (+2) | vl:32 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.441,0.0, at: 234.705,76.928,710.268, type: air, pkt: false) (+2) | vl:34 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.491,0.0, at: 234.705,75.437,710.268, type: air, pkt: false) (+2) | vl:36 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.539,0.0, at: 234.705,73.898,710.268, type: air, pkt: false) (+2) | vl:38 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.587,0.0, at: 234.705,72.311,710.268, type: air, pkt: false) (+2) | vl:40 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.633,0.0, at: 234.705,70.678,710.268, type: air, pkt: false) (+2) | vl:42 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.679,0.0, at: 234.705,68.999,710.268, type: air, pkt: false) (+2) | vl:44 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.724,0.0, at: 234.705,67.275,710.268, type: air, pkt: false) (+2) | vl:46 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-1.768,0.0, at: 234.705,65.507,710.268, type: air, pkt: false) (+2) | vl:48 ping:215 tps:20.0 lp:3 component: fly.gf
+(12:48:54) troya2000 failed Fly check | ground spoof (expect: --, move: -0.033,0.106,-0.006, at: 233.277,69.131,717.771, type: air, pkt: false) (+2) | vl:50 ping:215 tps:20.0 lp:2 component: fly.gf
+(12:48:54) Execute command: matrix notify troya2000 tried to fly (Fly) #1
+(12:48:54) troya2000 failed Fly check | ground spoof (expect: --, move: 0.068,-0.563,0.0, at: 233.351,66.651,717.766, type: air, pkt: false) (+2) | vl:52 ping:215 tps:20.0 lp:2 component: fly.gf
+(12:48:54) troya2000 failed Fly check | ground spoof (expect: --, move: 0.082,-0.63,0.0, at: 233.432,66.021,717.766, type: air, pkt: false) (+2) | vl:54 ping:215 tps:20.0 lp:2 component: fly.gf
+(12:48:54) troya2000 failed Fly check | ground spoof (expect: --, move: 0.094,-0.696,0.0, at: 233.527,65.325,717.766, type: air, pkt: false) (+2) | vl:56 ping:215 tps:20.0 lp:2 component: fly.gf
+(12:48:54) troya2000 failed Fly check | ground spoof (expect: --, move: 0.105,-0.76,0.0, at: 233.632,64.564,717.766, type: air, pkt: false) (+2) | vl:58 ping:215 tps:20.0 lp:2 component: fly.gf
+(12:48:55) troya2000 failed Fly check | ground spoof (expect: --, move: 0.096,-0.824,0.0, at: 233.728,63.741,717.766, type: air, pkt: false) (+2) | vl:60 ping:215 tps:20.0 lp:2 component: fly.gf
+(12:48:55) troya2000 failed Fly check | ground spoof (expect: --, move: 0.087,-0.886,0.0, at: 233.815,62.855,717.766, type: air, pkt: false) (+2) | vl:62 ping:215 tps:20.0 lp:2 component: fly.gf
+(12:48:55) troya2000 failed Jesus check | suspicious movement in liquid (motion: 0.079,-0.946,0.0, down: STATIONARY_WATER, vel: -1.025, module: solid) (+2) | vl:2 ping:215 tps:20.0 lp:2 component: jesus.solid
+(12:48:55) troya2000 failed Jesus check | suspicious movement in liquid (motion: 0.072,-0.909,0.0, down: SAND, vel: -1.083, module: solid) (+2) | vl:4 ping:215 tps:20.0 lp:2 component: jesus.solid
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.143,0.118,0.483, at: 248.192,114.258,823.975, type: air, pkt: false) (+2) | vl:24 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.13,-0.554,0.31, at: 247.001,111.869,827.364, type: air, pkt: false) (+2) | vl:26 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.13,-0.621,0.298, at: 246.871,111.248,827.662, type: air, pkt: false) (+2) | vl:28 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.131,-0.687,0.286, at: 246.74,110.561,827.948, type: air, pkt: false) (+2) | vl:30 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.135,-0.752,0.271, at: 246.605,109.81,828.219, type: air, pkt: false) (+2) | vl:32 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.14,-0.815,0.258, at: 246.465,108.995,828.477, type: air, pkt: false) (+2) | vl:34 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.143,-0.877,0.245, at: 246.322,108.117,828.723, type: air, pkt: false) (+2) | vl:36 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.147,-0.938,0.234, at: 246.175,107.179,828.957, type: air, pkt: false) (+2) | vl:38 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.15,-0.998,0.224, at: 246.025,106.182,829.181, type: air, pkt: false) (+2) | vl:40 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:23) troya2000 failed Fly check | ground spoof (expect: --, move: -0.153,-1.056,0.215, at: 245.872,105.126,829.395, type: air, pkt: false) (+2) | vl:42 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.155,-1.113,0.206, at: 245.717,104.012,829.602, type: air, pkt: false) (+2) | vl:44 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.158,-1.17,0.198, at: 245.559,102.843,829.8, type: air, pkt: false) (+2) | vl:46 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.16,-1.225,0.191, at: 245.399,101.618,829.991, type: air, pkt: false) (+2) | vl:48 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.162,-1.278,0.185, at: 245.237,100.34,830.176, type: air, pkt: false) (+2) | vl:50 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) Execute command: matrix notify troya2000 tried to fly (Fly) #1
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.164,-1.331,0.179, at: 245.074,99.008,830.356, type: air, pkt: false) (+2) | vl:52 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.165,-1.383,0.174, at: 244.908,97.625,830.529, type: air, pkt: false) (+2) | vl:54 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.167,-1.434,0.169, at: 244.742,96.192,830.699, type: air, pkt: false) (+2) | vl:56 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.168,-1.484,0.165, at: 244.574,94.708,830.863, type: air, pkt: false) (+2) | vl:58 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.169,-1.532,0.161, at: 244.404,93.176,831.024, type: air, pkt: false) (+2) | vl:60 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.17,-1.58,0.157, at: 244.234,91.596,831.181, type: air, pkt: false) (+2) | vl:62 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.171,-1.627,0.154, at: 244.063,89.969,831.335, type: air, pkt: false) (+2) | vl:64 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.172,-1.673,0.151, at: 243.891,88.296,831.486, type: air, pkt: false) (+2) | vl:66 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:24) troya2000 failed Fly check | ground spoof (expect: --, move: -0.173,-1.718,0.148, at: 243.718,86.579,831.634, type: air, pkt: false) (+2) | vl:68 ping:222 tps:20.0 lp:5 component: fly.gf
+(12:49:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.104,0.086,0.052, at: 235.659,82.059,836.466, type: air, pkt: false) (+2) | vl:70 ping:224 tps:20.0 lp:9 component: fly.gf
+(12:49:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.049,-0.512,0.024, at: 235.103,79.997,836.743, type: air, pkt: false) (+2) | vl:72 ping:224 tps:20.0 lp:9 component: fly.gf
+(12:49:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.044,-0.58,0.022, at: 235.059,79.417,836.765, type: air, pkt: false) (+2) | vl:74 ping:224 tps:20.0 lp:9 component: fly.gf
+(12:49:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.04,-0.646,0.02, at: 235.018,78.771,836.785, type: air, pkt: false) (+2) | vl:76 ping:224 tps:20.0 lp:9 component: fly.gf
+(12:49:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.037,-0.712,0.018, at: 234.982,78.059,836.803, type: air, pkt: false) (+2) | vl:78 ping:224 tps:20.0 lp:9 component: fly.gf
+(12:49:34) troya2000 failed Fly check | ground spoof (expect: --, move: -0.033,-0.776,0.017, at: 234.948,77.283,836.82, type: air, pkt: false) (+2) | vl:80 ping:224 tps:20.0 lp:9 component: fly.gf
+(12:49:38) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:279 tps:20.0 lp:5 component: fly.main
+(12:52:20) troya2000 failed Jesus check | suspicious movement in liquid (motion: -0.026,-1.036,0.0, down: STATIONARY_WATER, vel: -1.506, module: solid) (+2) | vl:2 ping:219 tps:20.0 lp:4 component: jesus.solid
+(12:52:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,0.052,-0.031, at: 355.625,122.111,711.443, type: air, pkt: false) (+2) | vl:2 ping:237 tps:20.0 lp:12 component: fly.gf
+(12:52:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.541,-0.015, at: 355.625,119.796,711.275, type: air, pkt: false) (+2) | vl:4 ping:237 tps:20.0 lp:12 component: fly.gf
+(12:52:46) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,-0.608,-0.013, at: 355.625,119.187,711.262, type: air, pkt: false) (+2) | vl:6 ping:237 tps:20.0 lp:12 component: fly.gf
+(12:53:58) troya2000 failed Fly check | ground spoof (expect: --, move: -0.969,0.106,-0.305, at: 23.413,124.361,65.438, type: air, pkt: false) (+2) | vl:2 ping:210 tps:20.0 lp:5 component: fly.gf
+(12:53:59) troya2000 failed Fly check | ground spoof (expect: --, move: -0.599,-0.495,-0.187, at: 17.509,122.44,63.586, type: air, pkt: false) (+2) | vl:4 ping:210 tps:20.0 lp:5 component: fly.gf
+(12:54:21) troya2000 failed Fly check | ground spoof (expect: --, move: -0.093,0.106,-0.208, at: -4.244,85.831,-2.849, type: air, pkt: false) (+2) | vl:2 ping:213 tps:20.0 lp:21 component: fly.gf
+(12:54:53) troya2000 failed Fly check | ground spoof (expect: --, move: -0.326,0.118,-0.334, at: 3.226,87.952,-0.234, type: air, pkt: false) (+2) | vl:2 ping:216 tps:20.0 lp:4 component: fly.gf
+(12:54:54) troya2000 failed Fly check | ground spoof (expect: --, move: -0.155,-0.621,-0.257, at: 0.951,84.942,-3.064, type: air, pkt: false) (+2) | vl:4 ping:216 tps:20.0 lp:5 component: fly.gf
+(12:54:54) troya2000 failed Fly check | ground spoof (expect: --, move: -0.146,-0.687,-0.253, at: 0.806,84.255,-3.317, type: air, pkt: false) (+2) | vl:6 ping:216 tps:20.0 lp:5 component: fly.gf
+(12:54:54) troya2000 failed Fly check | ground spoof (expect: --, move: -0.136,-0.752,-0.249, at: 0.67,83.503,-3.566, type: air, pkt: false) (+2) | vl:8 ping:216 tps:20.0 lp:5 component: fly.gf
+(12:54:56) troya2000 failed Phase check | moved into block (block: wooden_door, move: 0.215,0.0,-0.003, at: 5.882,82.0,-5.373, dist: 0.215, loop: false) (+1) | vl:1 ping:216 tps:20.0 lp:5 component: phase.main
+(12:54:56) troya2000 failed Phase check | moved into block (block: wooden_door, move: 0.431,0.0,-0.006, at: 6.097,82.0,-5.376, dist: 0.431, loop: false) (+2) | vl:3 ping:216 tps:20.0 lp:5 component: phase.main
+(12:54:59) troya2000 failed Fly check | ground spoof (expect: --, move: 0.217,0.106,0.95, at: 0.683,90.706,25.3, type: air, pkt: false) (+2) | vl:10 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.141,-0.425,0.625, at: 1.878,89.28,30.524, type: air, pkt: false) (+2) | vl:12 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.132,-0.495,0.594, at: 2.01,88.785,31.118, type: air, pkt: false) (+2) | vl:14 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.124,-0.563,0.565, at: 2.134,88.222,31.683, type: air, pkt: false) (+2) | vl:16 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.116,-0.631,0.54, at: 2.249,87.591,32.223, type: air, pkt: false) (+2) | vl:18 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.108,-0.696,0.517, at: 2.357,86.895,32.74, type: air, pkt: false) (+2) | vl:20 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.1,-0.761,0.495, at: 2.457,86.134,33.235, type: air, pkt: false) (+2) | vl:22 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.093,-0.824,0.476, at: 2.55,85.31,33.711, type: air, pkt: false) (+2) | vl:24 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.086,-0.886,0.459, at: 2.636,84.424,34.17, type: air, pkt: false) (+2) | vl:26 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:00) troya2000 failed Fly check | ground spoof (expect: --, move: 0.079,-0.947,0.443, at: 2.715,83.477,34.613, type: air, pkt: false) (+2) | vl:28 ping:217 tps:20.0 lp:10 component: fly.gf
+(12:55:11) troya2000 failed Fly check | ground spoof (expect: --, move: 0.428,0.064,-0.086, at: -7.292,89.635,59.774, type: air, pkt: false) (+2) | vl:30 ping:220 tps:20.0 lp:3 component: fly.gf
+(12:55:11) troya2000 failed Fly check | ground spoof (expect: --, move: 0.305,-0.599,-0.065, at: -4.133,86.806,59.12, type: air, pkt: false) (+2) | vl:32 ping:220 tps:20.0 lp:3 component: fly.gf
+(12:55:12) troya2000 failed Fly check | ground spoof (expect: --, move: 0.296,-0.665,-0.063, at: -3.837,86.141,59.057, type: air, pkt: false) (+2) | vl:34 ping:220 tps:20.0 lp:3 component: fly.gf
+(12:55:12) troya2000 failed Fly check | ground spoof (expect: --, move: 0.289,-0.73,-0.062, at: -3.548,85.411,58.996, type: air, pkt: false) (+2) | vl:36 ping:220 tps:20.0 lp:3 component: fly.gf
+(12:55:12) troya2000 failed Fly check | ground spoof (expect: --, move: 0.282,-0.794,-0.061, at: -3.266,84.617,58.935, type: air, pkt: false) (+2) | vl:38 ping:220 tps:20.0 lp:3 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.065,-0.712,0.113, at: 239.411,101.149,464.028, type: air, pkt: false) (+1) | vl:1 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.049,-0.901,0.085, at: 239.249,98.633,464.31, type: air, pkt: false) (+1) | vl:2 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.045,-0.961,0.078, at: 239.204,97.672,464.388, type: air, pkt: false) (+1) | vl:3 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.041,-1.02,0.071, at: 239.164,96.652,464.458, type: air, pkt: false) (+1) | vl:4 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.037,-1.078,0.064, at: 239.127,95.574,464.523, type: air, pkt: false) (+1) | vl:5 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.034,-1.135,0.059, at: 239.093,94.439,464.581, type: air, pkt: false) (+1) | vl:6 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.031,-1.191,0.053, at: 239.062,93.248,464.634, type: air, pkt: false) (+1) | vl:7 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.028,-1.245,0.048, at: 239.034,92.003,464.683, type: air, pkt: false) (+1) | vl:8 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.025,-1.299,0.044, at: 239.009,90.704,464.727, type: air, pkt: false) (+1) | vl:9 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.023,-1.351,0.04, at: 238.986,89.353,464.767, type: air, pkt: false) (+1) | vl:10 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:03) troya2000 failed Fly check | ground spoof (expect: --, move: -0.021,-1.403,0.037, at: 238.965,87.95,464.804, type: air, pkt: false) (+1) | vl:11 ping:226 tps:20.0 lp:64 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.303,0.106,0.358, at: 244.84,84.843,471.908, type: air, pkt: false) (+2) | vl:13 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.288,0.025,0.341, at: 245.128,84.869,472.249, type: air, pkt: false) (+2) | vl:15 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.275,-0.054,0.325, at: 245.403,84.815,472.574, type: air, pkt: false) (+2) | vl:17 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.262,-0.131,0.311, at: 245.665,84.684,472.885, type: air, pkt: false) (+2) | vl:19 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.251,-0.207,0.298, at: 245.917,84.477,473.183, type: air, pkt: false) (+2) | vl:21 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.241,-0.281,0.286, at: 246.158,84.196,473.469, type: air, pkt: false) (+2) | vl:23 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.232,-0.354,0.275, at: 246.39,83.843,473.744, type: air, pkt: false) (+2) | vl:25 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.224,-0.425,0.266, at: 246.614,83.418,474.01, type: air, pkt: false) (+2) | vl:27 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.216,-0.495,0.257, at: 246.83,82.923,474.267, type: air, pkt: false) (+2) | vl:29 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:05) troya2000 failed Fly check | ground spoof (expect: --, move: 0.209,-0.563,0.249, at: 247.04,82.359,474.516, type: air, pkt: false) (+2) | vl:31 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:06) troya2000 failed Fly check | ground spoof (expect: --, move: 0.203,-0.631,0.241, at: 247.243,81.729,474.757, type: air, pkt: false) (+2) | vl:33 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:06) troya2000 failed Fly check | ground spoof (expect: --, move: 0.197,-0.696,0.235, at: 247.44,81.032,474.992, type: air, pkt: false) (+2) | vl:35 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:06) troya2000 failed Fly check | ground spoof (expect: --, move: 0.192,-0.761,0.229, at: 247.633,80.271,475.22, type: air, pkt: false) (+2) | vl:37 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:06) troya2000 failed Fly check | ground spoof (expect: --, move: 0.175,-0.824,0.208, at: 247.808,79.447,475.428, type: air, pkt: false) (+2) | vl:39 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:06) troya2000 failed Fly check | ground spoof (expect: --, move: 0.159,-0.886,0.189, at: 247.967,78.561,475.618, type: air, pkt: false) (+2) | vl:41 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:06) troya2000 failed Fly check | ground spoof (expect: --, move: 0.145,-0.947,0.172, at: 248.112,77.615,475.79, type: air, pkt: false) (+2) | vl:43 ping:210 tps:20.0 lp:4 component: fly.gf
+(12:56:18) troya2000 failed Fly check | ground spoof (expect: --, move: -0.933,0.106,-0.314, at: 212.832,75.706,477.067, type: air, pkt: false) (+2) | vl:5 ping:224 tps:20.0 lp:15 component: fly.gf
+(12:56:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.56,-0.563,-0.151, at: 206.529,73.222,475.154, type: air, pkt: false) (+2) | vl:7 ping:224 tps:20.0 lp:15 component: fly.gf
+(12:56:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.535,-0.631,-0.14, at: 205.993,72.591,475.013, type: air, pkt: false) (+2) | vl:9 ping:224 tps:20.0 lp:15 component: fly.gf
+(12:56:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.512,-0.696,-0.131, at: 205.481,71.895,474.882, type: air, pkt: false) (+2) | vl:11 ping:224 tps:20.0 lp:15 component: fly.gf
+(12:56:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.491,-0.761,-0.123, at: 204.989,71.134,474.759, type: air, pkt: false) (+2) | vl:13 ping:224 tps:20.0 lp:15 component: fly.gf
+(12:56:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.472,-0.824,-0.12, at: 204.518,70.31,474.64, type: air, pkt: false) (+2) | vl:15 ping:224 tps:20.0 lp:15 component: fly.gf
+(12:56:19) troya2000 failed Fly check | ground spoof (expect: --, move: -0.452,-0.886,-0.12, at: 204.066,69.424,474.52, type: air, pkt: false) (+2) | vl:17 ping:224 tps:20.0 lp:15 component: fly.gf
+(12:56:19) troya2000 failed Phase check | moved into block (block: chest, move: -0.394,-0.477,-0.122, at: 203.238,68.0,474.277, dist: 0.413, loop: false) (+2) | vl:2 ping:224 tps:20.0 lp:15 component: phase.main
+(12:56:20) troya2000 failed Phase check | moved into block (block: chest, move: -0.076,-0.013,-0.038, at: 203.238,68.0,474.205, dist: 0.085, loop: false) (+1) | vl:3 ping:224 tps:20.0 lp:15 component: phase.main
+(12:58:24) troya2000 failed Fly check | ground spoof (expect: --, move: 0.94,0.086,0.332, at: 242.991,78.48,482.793, type: air, pkt: false) (+2) | vl:2 ping:134 tps:20.0 lp:119 component: fly.gf
+(12:58:24) troya2000 failed Fly check | ground spoof (expect: --, move: 0.881,0.006,0.3, at: 243.872,78.487,483.093, type: air, pkt: false) (+2) | vl:4 ping:134 tps:20.0 lp:119 component: fly.gf
+(12:58:24) troya2000 failed Fly check | ground spoof (expect: --, move: 0.651,-0.371,0.153, at: 247.544,77.371,484.127, type: air, pkt: false) (+2) | vl:6 ping:134 tps:20.0 lp:119 component: fly.gf
+(12:58:25) troya2000 failed Fly check | ground spoof (expect: --, move: 0.555,-0.58,0.09, at: 249.301,75.838,484.458, type: air, pkt: false) (+2) | vl:8 ping:134 tps:20.0 lp:119 component: fly.gf
+(12:58:25) troya2000 failed Fly check | ground spoof (expect: --, move: 0.526,-0.646,0.067, at: 249.827,75.191,484.525, type: air, pkt: false) (+2) | vl:10 ping:134 tps:20.0 lp:119 component: fly.gf
+(12:58:25) troya2000 failed Fly check | ground spoof (expect: --, move: 0.497,-0.712,0.043, at: 250.323,74.479,484.568, type: air, pkt: false) (+2) | vl:12 ping:134 tps:20.0 lp:119 component: fly.gf
+(12:59:26) troya2000 failed Fly check | ground spoof (expect: --, move: -0.109,0.086,-0.401, at: 252.132,73.86,485.039, type: air, pkt: false) (+1) | vl:1 ping:221 tps:20.0 lp:30 component: fly.gf
+(13:00:33) troya2000 failed Fly check | ground spoof (expect: --, move: -0.23,0.106,-0.461, at: 212.183,82.812,433.113, type: air, pkt: false) (+2) | vl:2 ping:221 tps:20.0 lp:3 component: fly.gf
+(13:00:34) troya2000 failed Fly check | ground spoof (expect: --, move: -0.149,-0.631,-0.299, at: 210.395,79.697,429.52, type: air, pkt: false) (+2) | vl:4 ping:221 tps:20.0 lp:3 component: fly.gf
+(13:00:34) troya2000 failed Fly check | ground spoof (expect: --, move: -0.144,-0.696,-0.289, at: 210.251,79.001,429.231, type: air, pkt: false) (+2) | vl:6 ping:221 tps:20.0 lp:3 component: fly.gf
+(13:00:34) troya2000 failed Fly check | ground spoof (expect: --, move: -0.14,-0.761,-0.281, at: 210.111,78.24,428.95, type: air, pkt: false) (+2) | vl:8 ping:221 tps:20.0 lp:3 component: fly.gf
+(13:00:39) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.876, move: true) (+1) | vl:1 ping:221 tps:20.0 lp:9 component: hb.mis
+(13:00:40) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.189, move: true) (+1) | vl:2 ping:221 tps:20.0 lp:9 component: hb.mis
+(13:00:40) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.068, move: true) (+1) | vl:3 ping:221 tps:20.0 lp:9 component: hb.mis
+(13:01:00) troya2000 failed Interact check | attack entity through smooth_brick block (d: 1.417) (+1) | vl:1 ping:217 tps:20.0 lp:70 component: interact.attack
+(13:01:02) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.84, move: true) (+1) | vl:1 ping:217 tps:20.0 lp:70 component: hb.mis
+(13:01:03) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.848, move: true) (+1) | vl:2 ping:208 tps:20.0 lp:29 component: hb.mis
+(13:01:04) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.108, move: true) (+1) | vl:3 ping:208 tps:20.0 lp:29 component: hb.mis
+(13:01:05) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.814, move: true) (+1) | vl:4 ping:208 tps:20.0 lp:29 component: hb.mis
+(13:01:08) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.866, move: true) (+1) | vl:5 ping:208 tps:20.0 lp:9 component: hb.mis
+(13:01:14) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.822, move: true) (+1) | vl:6 ping:223 tps:20.0 lp:7 component: hb.mis
+(13:01:59) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.811, move: true) (+1) | vl:1 ping:208 tps:20.0 lp:9 component: hb.mis
+(13:02:02) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.076, move: true) (+1) | vl:2 ping:208 tps:20.0 lp:5 component: hb.mis
+(13:02:04) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.279, move: true) (+1) | vl:3 ping:208 tps:20.0 lp:5 component: hb.mis
+(13:02:28) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.346, move: true) (+1) | vl:1 ping:226 tps:20.0 lp:5 component: hb.mis
+(13:02:29) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.055, move: true) (+1) | vl:2 ping:226 tps:20.0 lp:5 component: hb.mis
+(13:02:31) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.736, move: true) (+1) | vl:3 ping:223 tps:20.0 lp:5 component: hb.mis
+(13:02:32) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.224, move: true) (+1) | vl:4 ping:223 tps:20.0 lp:4 component: hb.mis
+(13:02:36) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.89, move: true) (+1) | vl:5 ping:223 tps:20.0 lp:4 component: hb.mis
+(13:02:37) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.86, move: true) (+1) | vl:6 ping:223 tps:20.0 lp:3 component: hb.mis
+(13:02:44) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.94, move: true) (+1) | vl:7 ping:215 tps:20.0 lp:5 component: hb.mis
+(13:03:20) troya2000 failed Fly check | ground spoof (expect: --, move: 0.765,0.106,0.655, at: 246.231,80.831,479.415, type: air, pkt: false) (+2) | vl:2 ping:232 tps:20.0 lp:8 component: fly.gf
+(13:03:51) troya2000 failed Fly check | ground spoof (expect: --, move: -0.352,0.064,-0.375, at: 212.29,81.019,428.377, type: air, pkt: false) (+2) | vl:2 ping:219 tps:20.0 lp:5 component: fly.gf
+(13:03:52) troya2000 failed Fly check | ground spoof (expect: --, move: -0.245,-0.531,-0.26, at: 210.009,78.789,425.949, type: air, pkt: false) (+2) | vl:4 ping:219 tps:20.0 lp:5 component: fly.gf
+(13:03:52) troya2000 failed Fly check | ground spoof (expect: --, move: -0.236,-0.599,-0.251, at: 209.774,78.19,425.697, type: air, pkt: false) (+2) | vl:6 ping:219 tps:20.0 lp:5 component: fly.gf
+(13:04:00) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.088, move: true) (+1) | vl:1 ping:209 tps:20.0 lp:8 component: hb.mis
+(13:04:00) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.81, move: true) (+1) | vl:2 ping:209 tps:20.0 lp:8 component: hb.mis
+(13:04:01) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.895, move: true) (+1) | vl:3 ping:209 tps:20.0 lp:8 component: hb.mis
+(13:04:01) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.058, move: true) (+1) | vl:4 ping:209 tps:20.0 lp:8 component: hb.mis
+(13:04:01) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.205, move: true) (+1) | vl:5 ping:209 tps:20.0 lp:8 component: hb.mis
+(13:04:07) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.837, move: true) (+1) | vl:6 ping:209 tps:20.0 lp:11 component: hb.mis
+(13:04:10) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.863, move: true) (+1) | vl:7 ping:212 tps:20.0 lp:6 component: hb.mis
+(13:04:12) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.923, move: true) (+1) | vl:8 ping:212 tps:20.0 lp:6 component: hb.mis
+(13:04:14) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.851, move: true) (+1) | vl:9 ping:212 tps:20.0 lp:3 component: hb.mis
+(13:04:15) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.945, move: true) (+1) | vl:10 ping:212 tps:20.0 lp:3 component: hb.mis
+(13:04:15) Execute command: matrix notify troya2000 tried to reach entity outside max reach distance (HitBox)
+(13:04:18) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.805, move: true) (+1) | vl:11 ping:212 tps:20.0 lp:3 component: hb.mis
+(13:04:22) troya2000 failed KillAura check | (machine learning) machine learning analyse | m: #3,57,0 | amount: 2 (+4) | vl:4 ping:246 tps:20.0 lp:4 component: ka.ml
+(13:05:19) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.989, move: true) (+1) | vl:1 ping:226 tps:20.0 lp:58 component: hb.mis
+(13:05:19) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.077, move: true) (+1) | vl:2 ping:226 tps:20.0 lp:58 component: hb.mis
+(13:05:20) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.004, move: true) (+1) | vl:3 ping:226 tps:20.0 lp:58 component: hb.mis
+(13:05:20) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.002, move: true) (+1) | vl:4 ping:226 tps:20.0 lp:58 component: hb.mis
+(13:05:20) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.903, move: true) (+1) | vl:5 ping:226 tps:20.0 lp:58 component: hb.mis
+(13:05:21) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.377, move: true) (+1) | vl:6 ping:226 tps:20.0 lp:58 component: hb.mis
+(13:05:22) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.915, move: true) (+1) | vl:7 ping:226 tps:20.0 lp:10 component: hb.mis
+(13:05:23) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.091, move: true) (+1) | vl:8 ping:226 tps:20.0 lp:10 component: hb.mis
+(13:05:24) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.995, move: true) (+1) | vl:1 ping:226 tps:20.0 lp:10 component: hb.mis
+(13:05:25) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.911, move: true) (+1) | vl:2 ping:226 tps:20.0 lp:10 component: hb.mis
+(13:05:30) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.809, move: true) (+1) | vl:3 ping:211 tps:20.0 lp:7 component: hb.mis
+(13:05:30) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.919, move: true) (+1) | vl:4 ping:211 tps:20.0 lp:7 component: hb.mis
+(13:05:32) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.827, move: true) (+1) | vl:5 ping:211 tps:20.0 lp:7 component: hb.mis
+(13:05:34) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.186, move: true) (+1) | vl:6 ping:211 tps:20.0 lp:3 component: hb.mis
+(13:05:34) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.96, move: true) (+1) | vl:7 ping:211 tps:20.0 lp:3 component: hb.mis
+(13:05:35) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.094, move: true) (+1) | vl:8 ping:211 tps:20.0 lp:3 component: hb.mis
+(13:05:37) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.852, move: true) (+1) | vl:9 ping:211 tps:20.0 lp:4 component: hb.mis
+(13:05:38) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.827, move: true) (+1) | vl:10 ping:212 tps:20.0 lp:4 component: hb.mis
+(13:05:38) Execute command: matrix notify troya2000 tried to reach entity outside max reach distance (HitBox)
+(13:05:38) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.904, move: true) (+1) | vl:11 ping:212 tps:20.0 lp:4 component: hb.mis
+(13:05:42) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.896, move: true) (+1) | vl:12 ping:212 tps:20.0 lp:3 component: hb.mis
+(13:05:45) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.83, move: true) (+1) | vl:13 ping:212 tps:20.0 lp:3 component: hb.mis
+(13:05:46) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 2.098, move: true) (+1) | vl:14 ping:212 tps:20.0 lp:3 component: hb.mis
+(13:06:55) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.998, move: true) (+1) | vl:1 ping:231 tps:20.0 lp:31 component: hb.mis
+(13:06:55) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.915, move: true) (+1) | vl:2 ping:231 tps:20.0 lp:31 component: hb.mis
+(13:06:57) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.911, move: true) (+1) | vl:1 ping:223 tps:20.0 lp:31 component: hb.mis
+(13:07:01) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.843, move: true) (+1) | vl:2 ping:223 tps:20.0 lp:7 component: hb.mis
+(13:07:03) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.594, move: true) (+1) | vl:3 ping:223 tps:20.0 lp:5 component: hb.mis
+(13:07:13) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.86, move: true) (+1) | vl:4 ping:218 tps:20.0 lp:6 component: hb.mis
+(13:07:22) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.82, move: true) (+1) | vl:5 ping:218 tps:20.0 lp:20 component: hb.mis
+(13:07:27) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.862, move: true) (+1) | vl:1 ping:218 tps:20.0 lp:5 component: hb.mis
+(13:07:32) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.815, move: true) (+1) | vl:2 ping:223 tps:20.0 lp:4 component: hb.mis
+(13:07:45) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.812, move: true) (+1) | vl:3 ping:215 tps:20.0 lp:4 component: hb.mis
+(13:08:27) troya2000 failed Interact check | interact block through solid (through: SMOOTH_BRICK, block:CHEST) (+1) | vl:1 ping:216 tps:20.0 lp:22 component: interact.through
+(13:08:39) troya2000 failed Inventory check | inventory move | pattern: c (+1) | vl:1 ping:218 tps:20.0 lp:39 component: inv.move
+(13:08:49) troya2000 failed Interact check | interact block through solid (through: SMOOTH_BRICK, block:CHEST) (+1) | vl:1 ping:215 tps:20.0 lp:47 component: interact.through
+(13:08:57) troya2000 failed Interact check | interact block through solid (through: SMOOTH_BRICK, block:CHEST) (+1) | vl:2 ping:217 tps:20.0 lp:47 component: interact.through
+(13:09:02) troya2000 failed Interact check | interact block through solid (through: SMOOTH_BRICK, block:CHEST) (+1) | vl:1 ping:217 tps:20.0 lp:48 component: interact.through
+(13:10:39) troya2000 failed Fly check | ground spoof (expect: --, move: -0.294,0.118,-0.236, at: 253.183,77.603,483.675, type: air, pkt: false) (+2) | vl:2 ping:219 tps:20.0 lp:3 component: fly.gf
+(13:10:39) troya2000 failed Fly check | ground spoof (expect: --, move: -0.155,-0.621,-0.143, at: 250.961,74.592,481.703, type: air, pkt: false) (+2) | vl:4 ping:219 tps:20.0 lp:3 component: fly.gf
+(13:10:39) troya2000 failed Fly check | ground spoof (expect: --, move: -0.15,-0.687,-0.147, at: 250.811,73.905,481.556, type: air, pkt: false) (+2) | vl:6 ping:219 tps:20.0 lp:3 component: fly.gf
+(13:10:39) troya2000 failed Fly check | ground spoof (expect: --, move: -0.146,-0.752,-0.151, at: 250.665,73.154,481.405, type: air, pkt: false) (+2) | vl:8 ping:219 tps:20.0 lp:3 component: fly.gf
+(13:10:40) troya2000 failed Fly check | ground spoof (expect: --, move: -0.141,-0.815,-0.155, at: 250.524,72.339,481.25, type: air, pkt: false) (+2) | vl:10 ping:219 tps:20.0 lp:3 component: fly.gf
+(13:10:40) troya2000 failed Fly check | ground spoof (expect: --, move: -0.136,-0.877,-0.159, at: 250.388,71.461,481.09, type: air, pkt: false) (+2) | vl:12 ping:219 tps:20.0 lp:3 component: fly.gf
+(13:11:13) troya2000 failed Inventory check | inventory move | pattern: c (+1) | vl:1 ping:220 tps:20.0 lp:33 component: inv.move
+(13:11:45) troya2000 failed Fly check | ground spoof (expect: --, move: -0.002,0.106,-0.513, at: 211.806,79.447,430.818, type: air, pkt: false) (+2) | vl:2 ping:211 tps:20.0 lp:5 component: fly.gf
+(13:12:39) troya2000 failed Fly check | ground spoof (expect: --, move: 0.0,0.104,0.0, at: 214.754,78.593,421.977, type: air, pkt: false) (+2) | vl:2 ping:219 tps:20.0 lp:6 component: fly.gf
+(13:12:51) troya2000 failed Fly check | ground spoof (expect: --, move: 0.871,0.106,0.38, at: 241.996,80.831,481.284, type: air, pkt: false) (+2) | vl:4 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.616,-0.354,0.228, at: 246.261,79.831,482.996, type: air, pkt: false) (+2) | vl:6 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.585,-0.425,0.2, at: 246.846,79.406,483.196, type: air, pkt: false) (+2) | vl:8 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.556,-0.495,0.172, at: 247.402,78.911,483.367, type: air, pkt: false) (+2) | vl:10 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.529,-0.563,0.146, at: 247.931,78.347,483.513, type: air, pkt: false) (+2) | vl:12 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.505,-0.631,0.122, at: 248.436,77.717,483.635, type: air, pkt: false) (+2) | vl:14 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.483,-0.696,0.101, at: 248.918,77.02,483.736, type: air, pkt: false) (+2) | vl:16 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.462,-0.761,0.081, at: 249.381,76.259,483.817, type: air, pkt: false) (+2) | vl:18 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.444,-0.824,0.064, at: 249.825,75.435,483.881, type: air, pkt: false) (+2) | vl:20 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:12:52) troya2000 failed Fly check | ground spoof (expect: --, move: 0.426,-0.886,0.046, at: 250.251,74.549,483.926, type: air, pkt: false) (+2) | vl:22 ping:219 tps:20.0 lp:20 component: fly.gf
+(13:15:55) troya2000 failed Fly check | ground spoof (expect: --, move: -0.101,0.106,-0.501, at: 212.66,80.197,429.968, type: air, pkt: false) (+2) | vl:2 ping:217 tps:20.0 lp:19 component: fly.gf
+(13:16:09) troya2000 failed Fly check | ground spoof (expect: --, move: -0.008,0.086,0.019, at: 216.827,83.472,426.83, type: air, pkt: false) (+2) | vl:2 ping:232 tps:20.0 lp:9 component: fly.gf
+(13:17:46) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.969, move: true) (+1) | vl:1 ping:223 tps:20.0 lp:33 component: hb.mis
+(13:17:47) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.951, move: true) (+1) | vl:2 ping:223 tps:20.0 lp:33 component: hb.mis
+(13:18:18) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.816, move: true) (+1) | vl:1 ping:222 tps:20.0 lp:20 component: hb.mis
+(13:18:53) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.848, move: true) (+1) | vl:1 ping:218 tps:20.0 lp:9 component: hb.mis
+(13:19:09) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.853, move: true) (+1) | vl:1 ping:222 tps:20.0 lp:10 component: hb.mis
+(13:19:16) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.923, move: true) (+1) | vl:2 ping:213 tps:20.0 lp:7 component: hb.mis
+(13:19:22) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.883, move: true) (+1) | vl:3 ping:213 tps:20.0 lp:7 component: hb.mis
+(13:20:25) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.22, move: true) (+1) | vl:1 ping:217 tps:20.0 lp:35 component: hb.mis
+(13:20:26) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.934, move: true) (+1) | vl:2 ping:217 tps:20.0 lp:35 component: hb.mis
+(13:20:27) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.878, move: true) (+1) | vl:3 ping:217 tps:20.0 lp:35 component: hb.mis
+(13:20:29) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.077, move: true) (+1) | vl:4 ping:217 tps:20.0 lp:35 component: hb.mis
+(13:20:30) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.81, move: true) (+1) | vl:5 ping:217 tps:20.0 lp:6 component: hb.mis
+(13:20:31) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.871, move: true) (+1) | vl:6 ping:217 tps:20.0 lp:6 component: hb.mis
+(13:20:32) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.003, move: true) (+1) | vl:7 ping:223 tps:20.0 lp:6 component: hb.mis
+(13:20:33) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.982, move: true) (+1) | vl:8 ping:223 tps:20.0 lp:6 component: hb.mis
+(13:20:34) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.854, move: true) (+1) | vl:9 ping:223 tps:20.0 lp:6 component: hb.mis
+(13:20:34) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.963, move: true) (+1) | vl:10 ping:223 tps:20.0 lp:6 component: hb.mis
+(13:20:34) Execute command: matrix notify troya2000 tried to reach entity outside max reach distance (HitBox)
+(13:20:36) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.824, move: true) (+1) | vl:11 ping:223 tps:20.0 lp:7 component: hb.mis
+(13:20:37) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.899, move: true) (+1) | vl:12 ping:223 tps:20.0 lp:7 component: hb.mis
+(13:20:37) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.018, move: true) (+1) | vl:13 ping:223 tps:20.0 lp:7 component: hb.mis
+(13:20:39) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.912, move: true) (+1) | vl:14 ping:223 tps:20.0 lp:7 component: hb.mis
+(13:20:40) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.021, move: true) (+1) | vl:15 ping:223 tps:20.0 lp:6 component: hb.mis
+(13:20:40) Execute command: matrix notify troya2000 tried to reach entity outside max reach distance (HitBox) #2
+(13:20:42) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.116, move: true) (+1) | vl:16 ping:223 tps:20.0 lp:6 component: hb.mis
+(13:20:43) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 0.946, move: true) (+1) | vl:17 ping:225 tps:20.0 lp:6 component: hb.mis
+(13:20:46) troya2000 failed HitBox check | missed entity hitbox (entity: skeleton, offset: 1.425, move: true) (+1) | vl:6 ping:225 tps:20.0 lp:5 component: hb.mis
+(13:20:48) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.992, move: true) (+1) | vl:7 ping:225 tps:20.0 lp:5 component: hb.mis
+(13:20:49) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.854, move: true) (+1) | vl:8 ping:225 tps:20.0 lp:5 component: hb.mis
+(13:20:55) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.83, move: true) (+1) | vl:9 ping:223 tps:20.0 lp:5 component: hb.mis
+(13:20:56) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 0.809, move: true) (+1) | vl:10 ping:223 tps:20.0 lp:6 component: hb.mis
+(13:20:56) Execute command: matrix notify troya2000 tried to reach entity outside max reach distance (HitBox)
+(13:21:06) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.308, move: true) (+1) | vl:11 ping:217 tps:20.0 lp:14 component: hb.mis
+(13:21:07) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.731, move: true) (+1) | vl:12 ping:217 tps:20.0 lp:5 component: hb.mis
+(13:21:08) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.026, move: true) (+1) | vl:13 ping:217 tps:20.0 lp:5 component: hb.mis
+(13:21:13) troya2000 failed HitBox check | missed entity hitbox (entity: zombie, offset: 1.196, move: true) (+1) | vl:14 ping:217 tps:20.0 lp:6 component: hb.mis
+(14:04:10) Spartano_12J failed Fly check | ground spoof (expect: +-, move: 0.0,-0.392,0.0, at: 0.469,49.608,0.526, type: air, pkt: false) (+5) | vl:5 ping:0 tps:20.0 lp:0 component: fly.gf
+(19:09:17) Spartano_12J failed Fly check | suspicious movement:0.42 predict:0.338 vel:-0.078 air_t:1 tag:vt (+5) | vl:5 ping:0 tps:20.0 lp:0 component: fly.main
+(19:09:17) Spartano_12J failed Fly check | suspicious movement:0.333 predict:0.253 vel:0.42 air_t:2 tag:vt (+5) | vl:10 ping:0 tps:20.0 lp:0 component: fly.main
+(19:09:17) Spartano_12J failed Fly check | suspicious movement:0.248 predict:0.17 vel:0.333 air_t:3 tag:vt (+5) | vl:15 ping:0 tps:20.0 lp:0 component: fly.main
+(19:09:17) Spartano_12J failed Fly check | suspicious movement:0.165 predict:0.088 vel:0.248 air_t:4 tag:vt (+5) | vl:20 ping:0 tps:20.0 lp:0 component: fly.main
+(20:50:21) JossielDark failed BadPackets check | (timer) send 63 moving packets in 1107ms | tag: limit (+1) | vl:1 ping:310 tps:20.0 lp:68 component: net.timer
+(20:50:21) JossielDark failed Speed check | suspicious movement (move: 3.142, expect: 0.4065, tag: ea) (+3) | vl:3 ping:310 tps:20.0 lp:68 component: speed.main
+(20:50:21) JossielDark failed Speed check | suspicious movement (move: 3.142, predict: 0.226, friction: 0.6, ground:false, motY: -0.08, increase:0.026, preMove:0.2, motion: 2.173,-0.08,2.27, attribute: 0.13, tag: pred) (+1) | vl:4 ping:310 tps:20.0 lp:68 component: move.xz
+(20:50:27) JossielDark failed BadPackets check | (timer) send 38 moving packets in 1027ms | tag: limit (+1) | vl:2 ping:310 tps:20.0 lp:35 component: net.timer
+(20:50:27) JossielDark failed Fly check | suspicious movement:-0.234 predict:-0.155 lm:-0.078 hard_pred:-0.155 sev_pred:0.333 air_t:4 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:310 tps:20.0 lp:35 component: fly.main
+(20:50:27) JossielDark failed Speed check | suspicious movement (move: 0.219, predict: 0.148, friction: 0.6, ground:false, motY: -0.42, increase:0.026, preMove:0.122, motion: 0.206,-0.42,0.074, attribute: 0.13, tag: pred) (+1) | vl:1 ping:310 tps:20.0 lp:35 component: move.xz
+(20:50:27) JossielDark failed Fly check | suspicious movement:-0.42 predict:-0.307 lm:-0.234 hard_pred:-0.307 sev_pred:0.333 air_t:5 fall_t:1 g:-+ tag:gn (+1) | vl:2 ping:310 tps:20.0 lp:35 component: fly.main
+(20:50:40) JossielDark failed BadPackets check | (timer) send 50 moving packets in 1013ms | tag: limit (+1) | vl:1 ping:354 tps:20.0 lp:25 component: net.timer
+(20:50:40) JossielDark failed Speed check | suspicious movement (move: 2.314, tag: gv-) (+1) | vl:2 ping:354 tps:20.0 lp:25 component: speed.main
+(20:50:40) JossielDark failed Speed check | suspicious movement (move: 2.314, predict: 0.28, friction: 0.6, ground:true, motY: -0.08, increase:0.13, preMove:0.15, motion: -0.415,-0.08,-2.276, attribute: 0.13, tag: pred) (+1) | vl:3 ping:354 tps:20.0 lp:25 component: move.xz
+(20:50:40) JossielDark failed Speed check | suspicious movement (move: 0.35, predict: 0.216, friction: 0.6, ground:false, motY: -0.078, increase:0.052, preMove:0.164, motion: -0.334,-0.078,-0.103, attribute: 0.13, tag: pred) (+1) | vl:4 ping:354 tps:20.0 lp:25 component: move.xz
+(20:50:40) JossielDark failed Speed check | suspicious movement (move: 0.585, expect: 0.4065, tag: ea) (+1) | vl:5 ping:354 tps:20.0 lp:25 component: speed.main
+(20:50:40) JossielDark failed Speed check | suspicious movement (move: 0.585, predict: 0.138, friction: 0.6, ground:false, motY: 0.464, increase:0.026, preMove:0.112, motion: 0.566,0.464,0.149, attribute: 0.13, tag: pred) (+1) | vl:6 ping:354 tps:20.0 lp:25 component: move.xz
+(20:51:10) JossielDark failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:281 tps:20.0 lp:9 component: speed.main
+(20:51:16) JossielDark failed Speed check | suspicious movement (move: 0.305, expect: 0.27, tag: c,noslow) (+3) | vl:6 ping:298 tps:20.0 lp:14 component: speed.main
+(20:53:27) JossielDark failed Speed check | (sneak) send sneak packet frequently (+1) | vl:1 ping:290 tps:20.0 lp:30 component: speed.noslow.a
+(20:53:28) JossielDark failed BadPackets check | (timer) moved too many times (timer: 6.667, t:150, buffer:20, tag: timer) (+1) | vl:1 ping:3110 tps:20.0 lp:30 component: net.timer
+(20:53:29) JossielDark failed BadPackets check | (timer) send 92 moving packets in 1110ms | tag: limit (+1) | vl:2 ping:3110 tps:20.0 lp:45 component: net.timer
+(20:54:11) JossielDark failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+0) | vl:0 ping:294 tps:20.0 lp:23 component: interact.through
+(20:54:48) JossielDark failed Fly check | suspicious movement:-0.152 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.155 air_t:8 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:307 tps:20.0 lp:35 component: fly.main
+(20:55:25) JossielDark failed Fly check | suspicious movement:0.165 predict:0.088 vel:0.083 air_t:4 tag:vt (+1) | vl:1 ping:291 tps:20.0 lp:9 component: fly.main
+(20:55:46) JossielDark failed BadPackets check | (timer) send 70 moving packets in 1135ms | tag: limit (+1) | vl:1 ping:311 tps:20.0 lp:28 component: net.timer
+(20:55:46) JossielDark failed Fly check | suspicious movement:0.0 predict:-0.078 vel:-0.377 air_t:12 tag:m4 (+1) | vl:1 ping:311 tps:20.0 lp:28 component: fly.main
+(20:55:46) JossielDark failed Fly check | suspicious movement:0.0 predict:-0.078 vel:-0.447 air_t:12 tag:m4 (+1) | vl:2 ping:311 tps:20.0 lp:28 component: fly.main
+(20:57:06) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:285 tps:20.0 lp:5 component: speed.main
+(20:57:29) JossielDark failed FastHeal check | regen health too fast (difficulty: hard, delay: 3.538, ver: 8) (+1) | vl:1 ping:282 tps:20.0 lp:8 component: heal
+(20:57:41) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:313 tps:20.0 lp:10 component: speed.main
+(20:58:25) JossielDark failed Fly check | suspicious movement:-0.228 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:9 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:290 tps:20.0 lp:10 component: fly.main
+(20:58:26) JossielDark failed Fly check | suspicious movement: 0.42 vel: -0.231 pred: -0.078 (jump) (+1) | vl:2 ping:290 tps:20.0 lp:10 component: fly.jmp
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.26, predict: 0.249, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.119, motion: 0.256,0.0,0.048, attribute: 0.13, tag: pred) (+1) | vl:1 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.322, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:2 ping:279 tps:20.0 lp:26 component: speed.main
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.438, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:3 ping:279 tps:20.0 lp:26 component: speed.main
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.438, predict: 0.306, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.176, motion: -0.437,0.0,-0.024, attribute: 0.13, tag: pred) (+1) | vl:4 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.456, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:5 ping:279 tps:20.0 lp:26 component: speed.main
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.456, predict: 0.369, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.239, motion: -0.301,0.0,0.343, attribute: 0.13, tag: pred) (+1) | vl:6 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.427, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:7 ping:279 tps:20.0 lp:26 component: speed.main
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.427, predict: 0.379, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.249, motion: -0.21,0.0,0.372, attribute: 0.13, tag: pred) (+1) | vl:8 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.419, expect:0.2873, t:0, sprint: false, attr: 0.1, tag: a) (+1) | vl:9 ping:279 tps:20.0 lp:26 component: speed.main
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.419, predict: 0.363, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.233, motion: -0.16,0.0,0.387, attribute: 0.13, tag: pred) (+1) | vl:10 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.074, predict: 0.049, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.023, motion: 0.067,0.0,0.031, attribute: 0.13, tag: pred) (+1) | vl:11 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.246, predict: 0.093, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.067, motion: 0.223,0.0,0.103, attribute: 0.13, tag: pred) (+1) | vl:12 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.467, expect: 0.4065, tag: ea) (+1) | vl:13 ping:279 tps:20.0 lp:26 component: speed.main
+(20:59:10) JossielDark failed Speed check | suspicious movement (move: 0.467, predict: 0.111, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.085, motion: 0.424,0.0,0.196, attribute: 0.13, tag: pred) (+1) | vl:14 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:11) JossielDark failed Speed check | suspicious movement (move: 0.074, predict: 0.049, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.023, motion: 0.067,0.0,0.031, attribute: 0.13, tag: pred) (+1) | vl:15 ping:279 tps:20.0 lp:26 component: move.xz
+(20:59:13) JossielDark failed BadPackets check | (timer) send 43 moving packets in 2892ms | tag: limit (+1) | vl:1 ping:279 tps:20.0 lp:26 component: net.timer
+(21:02:17) JossielDark failed Phase check | moved into block (block: dirt, move: -0.062,0.034,-0.034, at: 28.3,4.2,-166.762, dist: 0.07, loop: false) (+1) | vl:1 ping:279 tps:20.0 lp:18 component: phase.main
+(21:02:18) JossielDark failed Phase check | moved into block (block: dirt, move: 0.016,0.2,-0.469, at: 28.461,4.2,-168.689, dist: 0.469, loop: false) (+1) | vl:2 ping:279 tps:20.0 lp:18 component: phase.main
+(21:02:49) JossielDark failed Speed check | suspicious movement (move: 0.287, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:3 ping:281 tps:20.0 lp:4 component: speed.main
+(21:03:00) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+3) | vl:6 ping:282 tps:20.0 lp:5 component: speed.main
+(21:10:21) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:294 tps:20.0 lp:14 component: fly.main
+(21:14:03) JossielDark failed Phase check | moved into block (block: dark_oak_door, move: -0.158,0.0,-0.015, at: -144.671,21.0,12.3, dist: 0.159, loop: false) (+1) | vl:1 ping:296 tps:20.0 lp:13 component: phase.main
+(21:14:03) JossielDark failed Phase check | moved into block (block: dark_oak_door, move: -0.339,0.0,-0.015, at: -144.851,21.0,12.3, dist: 0.339, loop: false) (+1) | vl:2 ping:296 tps:20.0 lp:13 component: phase.main
+(21:17:23) JossielDark failed Fly check | suspicious movement:-0.228 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:9 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:294 tps:20.0 lp:33 component: fly.main
+(21:18:12) JossielDark failed Fly check | suspicious movement:-0.155 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.231 air_t:2 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:290 tps:20.0 lp:8 component: fly.main
+(21:19:03) JossielDark failed Fly check | suspicious movement:-0.152 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.155 air_t:8 fall_t:1 g:-- tag:gn (+1) | vl:1 ping:298 tps:20.0 lp:27 component: fly.main
+(21:22:00) JossielDark failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+0) | vl:0 ping:285 tps:20.0 lp:5 component: interact.through
+(21:22:19) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:295 tps:20.0 lp:13 component: fly.main
+(21:22:40) JossielDark failed Jesus check | move vertically too fast (motion: 0.456, expect: 0.33999999999999997, module: vertical) (+1) | vl:1 ping:282 tps:20.0 lp:11 component: jesus.ver
+(21:25:32) JossielDark failed Speed check | suspicious movement (move: 0.288, expect:0.2873, t:0, sprint: true, attr: 0.13, tag: a) (+1) | vl:1 ping:333 tps:20.0 lp:45 component: speed.main
+(21:26:58) JossielDark failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:11 fall_t:6 g:-- tag:gn (+1) | vl:1 ping:286 tps:20.0 lp:10 component: fly.main
+(21:29:48) JossielDark failed Speed check | suspicious movement (move: 0.321, expect: 0.17, tag: c,noslow) (+3) | vl:3 ping:281 tps:20.0 lp:4 component: speed.main
+(21:29:49) JossielDark failed Speed check | suspicious movement (move: 0.321, expect: 0.17, tag: c,noslow) (+3) | vl:6 ping:281 tps:20.0 lp:4 component: speed.main
+(21:29:50) JossielDark failed Speed check | suspicious movement (move: 0.321, expect: 0.17, tag: c,noslow) (+3) | vl:9 ping:281 tps:20.0 lp:4 component: speed.main
+(21:35:15) JossielDark failed Speed check | suspicious movement (move: 0.39, expect: 0.27, tag: c,noslow) (+3) | vl:3 ping:292 tps:20.0 lp:9 component: speed.main
+(21:35:16) JossielDark failed Speed check | suspicious movement (move: 0.321, expect: 0.27, tag: c,noslow) (+3) | vl:6 ping:292 tps:20.0 lp:9 component: speed.main

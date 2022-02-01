@@ -1,0 +1,21 @@
+Bars:
+- Title:
+    1: '&6&lJUGANDO EN &E&LFRUTYCRAFT'
+    2: '&E&LVISITA NUESTRA TIENDA &6&lfrutycraft.tebex.io'
+  #Cycles between colors red and blue
+  Color:
+    1: red
+  #Updates every 100 ticks (= 5 seconds)
+  Update-Delay: 100
+  #You can have Enabled-Worlds and Disabled-Worlds on each bar.
+  #If the bar has one of these keys specified, it will not look at the keys in the main config (bottom of this file)
+  #Enabled-Worlds:
+  #- world
+#Use Enabled-Worlds to create a whitelist that will only allow the bars to show in those worlds
+#Enabled-Worlds:
+#- world
+#- world_nether
+#Use Disabled-Worlds to create a blacklist that will hide the bossbar in those worlds
+#If Enabled-Worlds is specified, this does nothing
+#Disabled-Worlds:
+#- world_the_end

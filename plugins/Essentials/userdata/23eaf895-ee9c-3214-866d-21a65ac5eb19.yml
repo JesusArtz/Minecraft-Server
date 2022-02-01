@@ -1,0 +1,23 @@
+lastAccountName: ian_mx
+timestamps:
+  login: 1616189574486
+  logout: 1616189578806
+  kits:
+    user: 1616178098548
+  lastteleport: 1616186926556
+ipAddress: 187.189.0.205
+logoutlocation:
+  world: world
+  x: 0.46875522525879365
+  y: 50.0
+  z: 0.5257768590240784
+  yaw: -0.023831716
+  pitch: -1.6258942
+lastlocation:
+  world: Survival
+  x: 343.0
+  y: 49.0
+  z: 36.0
+  yaw: -17.981123
+  pitch: -16.342094
+money: '0.0'

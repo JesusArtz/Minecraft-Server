@@ -1,0 +1,109 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicSpawners&8]'
+    exit: '&cGå ut'
+    next: '&9Neste'
+    back: '&9Tilbake'
+    confirm: '&a&lBekreft'
+    currency: $
+# Interface Messages
+interface:
+  spawner:
+    upgradewithxp: '&aOppgrader med XP'
+    upgradewithxplore: '&7Pris: &a%cost% Leveler'
+    upgradewitheconomy: '&aOppgrader med penger'
+    upgradewitheconomylore: '&7Pris: &a%cost%'
+    statstitle: '&6Fremkaller Statistikk'
+    stats: '&7Fremkalt &6%amount% &7ganger så langt.'
+    onlyspawnson: '&7Fremklarre bare på &6%block%&7.'
+    boost: '&7klikk for å &6Øke'
+    cantboost: '&cKan ikke øke.'
+    convert: '&7Klikk for å &6Konvertere'
+    boostedstats: '&a&lForløpig økt!|&7Legger til &6%amount% &7ekstra &6%type%''s &7til hver fremkalling.|&7Utgår &6%time%&7.'
+    boostednever: aldri
+    tutorialtitle: '&a&lNyttig Informasjon'
+    tutorial: '{[LEVELUP]Du kan stable eller"leveleopp" denne fremkalleren med: [Bruker en annen fremkaller på denne fremkalleren][Leveler opp med XP][Leveler opp med ØKONOMI].}|{[DROP]En <TYPE> fremkaller vil droppe når du dreper <AMT> [natural ]<TYPE>''s}|{[OMNI][Stabling av forskjellige fremkallere av andre typer vil lage en OmniSpawner].}|{[WATER][Fremkallere vil drive tilbake vann].}|{[REDSTONE][Du kan skru av denne fremkalleren ved å koble til et rødsteinsignal].}|{[INVSTACK][Du kan stable fremkallere fra ditt inventar ved å plassere de over hverandre.]}'
+    howtonext: '&aKlikk for å gå til neste side.'
+    howtoback: '&aKlikk for å gå til første side.'
+    paused: '&6Fremkalling stanset grunnet:'
+    conditionBiome1: Blir ikke plassert i en &6%biome%&7 biome.
+    conditionBiome2: Blir ikke plassert i den korrekte biomen.
+    conditionHeight: Y-koordinatene er ikke mellom &6%min%&7 og &6%max%&7.
+    conditionLight: Mangler &6lys&7.
+    conditionDark: Mangler &6mørke&7.
+    conditionNearbyEntities: Det er mer enn &6%max%&7 enheter rundt fremkalleren.
+    conditionNearbyPlayers: Det er mindre enn &6%amount%&7 spillere inennfor &6%distance%&7 blokker fra denne fremkalleren.
+    conditionStorm: Det er ingen stormer.
+  convert:
+    title: Fremkaller konvertering
+    lore: '&7Klikk her for å konvertere.'
+  shop:
+    title: Fremkaller butikk
+    spawnershoptitle: '&8Kjøp en %type%'
+    buyprice: '&7Pris: &a%cost%'
+    lore: '&7Klikk her for å kjøpe.'
+    add1: '&a&lLegg til 1'
+    add10: '&a&lLegg til 10'
+    set1: '&c&lSett til 1'
+    set64: '&a&lSett til 64'
+    remove1: '&c&lFjern 1'
+    remove10: '&c&lFjern 10'
+  spawnerstats:
+    title: '&5&lFremkaller Statistikk'
+    prefix: '&7Fremkallerens statistikk:'
+    nokills: '&7Du har ikke drept noen mønstere. Gå og drep noen!'
+  boost:
+    title: '&8Øker %spawner% &8med %amount%'
+    cost: '&7Pris &6&l%cost%.'
+    boostfor: '&7&lØk for &6&l%amount% &7&lMinutter'
+# Command Messages
+command:
+  give:
+    success: '&7Du har fått %amount% &6%type%&7.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cDu har ikke privileger for å gjøre dette.'
+  upgrade:
+    cannotafford: '&cDu har ikke råd til denne oppgraderingen.'
+    success: '&7Du har oppgardert fremkalleren til &6%level%x&7.'
+    maxed: '&7Denne fremkalleren er på maks level.'
+    successmaxed: '&7Du makset ut denne fremkalleren til &6%level%x&7.'
+  downgrade:
+    success: '&7Du har degradert denne fremkalleren til &6%level%x&7.'
+  block:
+    place: '&7Du plasserte en &6%type%&7.'
+    broken: Denne fremkalleren har blitt slettet og du kan ikke plassere den lenger.
+    chargeplace: '&7Du vil bli trukket &6%cost% &7hvis du ikke ødelegger denne fremkalleren i løpet av 1 minutt.'
+    break: '&7YDu ødelag en &6%type%&7.'
+    chargebreak: '&7Du vil bli trukket &6%cost% &7hvs du ødelegger denne fremkalleren. Gjenta for å godkjenne.'
+    blacklisted: '&cDenne handlingen er ikke tilgjengelig.'
+    omnitake: '&7Du har tatt en &6%type%&7 fra OmniSpawneren.'
+    forcedeny: '&cDenne fremkalleren er for narme en annen fremkaller.'
+    mergedistance: '&7Denne fremkalleren ble slåt sammen med en annen fremkaller i nærheten.'
+    chunklimit: '&cIkke mer enn &4%amount% fremkallere &ckan bli plassert i denne chunken.'
+    cannotbreak: '&7Du har ikke råd til å ødelegge denne fremkalleren.'
+  goal:
+    alert: '&7YDu trenger &6%goal% &7fler drepte for å få &6%type% Fremkaller&7.'
+    reached: '&7En &6%type% Fremkaller &7har blitt dropped!'
+  egg:
+    needmore: '&7Du trenger &6%amount% &7Monster Eggs for å konvertere denne fremkalleren.'
+    sametype: '&7Denne fremkalleren allerede fremkaller &6%type%s&7.'
+  shop:
+    cannotafford: '&cDu har ikke råd til å kjøpe dette.'
+    purchasesuccess: '&9Kjøpet ditt ble vellykket.'
+  omni:
+    cannotmerge: '&cDu kan ikke slå sammen to OmniSpawners.'
+    combinefail: '&cDenne OmniSpawneren nekter å absorbere flere fremkallere av denne typen.'
+    combinesuccess: '&7Fremkalleren din ble absorbert til en OmniSpawner.'
+    takespawner: '&7Du har tatt en &6%type%&7 fra OmniSpawner.'
+  convert:
+    success: '&7Konverteringen var vellykket.'
+  boost:
+    applied: '&6Økningen ditt har blitt brukt.'
+  combine:
+    onlyone: '&cDu kan bare kombinere en fremkaller om gangen.'
+  spawner:
+    toomany: '&cDu kan plassere bare &4%amount% &cfremkallere...'

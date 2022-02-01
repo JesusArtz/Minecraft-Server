@@ -1,0 +1,398 @@
+# This is the BannerBoard configuration
+# Make sure to always make a backup of this file before making any changes!
+# Made by BigTeddy98
+# 
+# Every BannerBoard has some internal settings stored in this file.
+# Please do not make any changes to whatever is in the internal section.
+
+lastUsedId: 22
+skins:
+  profileLookupURL: https://sessionserver.mojang.com/session/minecraft/profile/
+  offlineMode:
+    uuidLookupURL: https://api.mojang.com/users/profiles/minecraft/
+    isOfflineMode: false
+idrange:
+  startid: 25000
+  amount: 5000
+skinserver: http://www.skinrender.com:2798/
+skinrender_key: INSERT_SKINRENDER_KEY_HERE
+bannerboards:
+  '1':
+    internal:
+      frames:
+      - world_-19.0_47.0_42.0_0.0_0.0
+      - world_-19.0_46.0_42.0_0.0_0.0
+      - world_-19.0_47.0_41.0_0.0_0.0
+      - world_-19.0_46.0_41.0_0.0_0.0
+      - world_-19.0_47.0_40.0_0.0_0.0
+      - world_-19.0_46.0_40.0_0.0_0.0
+      - world_-19.0_47.0_39.0_0.0_0.0
+      - world_-19.0_46.0_39.0_0.0_0.0
+      - world_-19.0_47.0_38.0_0.0_0.0
+      - world_-19.0_46.0_38.0_0.0_0.0
+      facing: WEST
+    configurable:
+      renderers:
+      - IMAGE -src auctions.png -width 646 -height 256
+  '2':
+    internal:
+      frames:
+      - world_38.0_54.0_22.0_0.0_0.0
+      - world_38.0_53.0_22.0_0.0_0.0
+      - world_38.0_52.0_22.0_0.0_0.0
+      - world_38.0_51.0_22.0_0.0_0.0
+      - world_38.0_54.0_23.0_0.0_0.0
+      - world_38.0_53.0_23.0_0.0_0.0
+      - world_38.0_52.0_23.0_0.0_0.0
+      - world_38.0_51.0_23.0_0.0_0.0
+      - world_38.0_54.0_24.0_0.0_0.0
+      - world_38.0_53.0_24.0_0.0_0.0
+      - world_38.0_52.0_24.0_0.0_0.0
+      - world_38.0_51.0_24.0_0.0_0.0
+      - world_38.0_54.0_25.0_0.0_0.0
+      - world_38.0_53.0_25.0_0.0_0.0
+      - world_38.0_52.0_25.0_0.0_0.0
+      - world_38.0_51.0_25.0_0.0_0.0
+      - world_38.0_54.0_26.0_0.0_0.0
+      - world_38.0_53.0_26.0_0.0_0.0
+      - world_38.0_52.0_26.0_0.0_0.0
+      - world_38.0_51.0_26.0_0.0_0.0
+      - world_38.0_54.0_27.0_0.0_0.0
+      - world_38.0_53.0_27.0_0.0_0.0
+      - world_38.0_52.0_27.0_0.0_0.0
+      - world_38.0_51.0_27.0_0.0_0.0
+      - world_38.0_54.0_28.0_0.0_0.0
+      - world_38.0_53.0_28.0_0.0_0.0
+      - world_38.0_52.0_28.0_0.0_0.0
+      - world_38.0_51.0_28.0_0.0_0.0
+      - world_38.0_54.0_29.0_0.0_0.0
+      - world_38.0_53.0_29.0_0.0_0.0
+      - world_38.0_52.0_29.0_0.0_0.0
+      - world_38.0_51.0_29.0_0.0_0.0
+      - world_38.0_54.0_30.0_0.0_0.0
+      - world_38.0_53.0_30.0_0.0_0.0
+      - world_38.0_52.0_30.0_0.0_0.0
+      - world_38.0_51.0_30.0_0.0_0.0
+      - world_38.0_54.0_31.0_0.0_0.0
+      - world_38.0_53.0_31.0_0.0_0.0
+      - world_38.0_52.0_31.0_0.0_0.0
+      - world_38.0_51.0_31.0_0.0_0.0
+      facing: EAST
+    configurable:
+      renderers:
+      - IMAGE -src warppvp.png -width 1280 -height 512
+  '3':
+    internal:
+      frames:
+      - world_82.0_49.0_36.0_0.0_0.0
+      - world_82.0_48.0_36.0_0.0_0.0
+      - world_82.0_47.0_36.0_0.0_0.0
+      - world_82.0_49.0_37.0_0.0_0.0
+      - world_82.0_48.0_37.0_0.0_0.0
+      - world_82.0_47.0_37.0_0.0_0.0
+      - world_82.0_49.0_38.0_0.0_0.0
+      - world_82.0_48.0_38.0_0.0_0.0
+      - world_82.0_47.0_38.0_0.0_0.0
+      - world_82.0_49.0_39.0_0.0_0.0
+      - world_82.0_48.0_39.0_0.0_0.0
+      - world_82.0_47.0_39.0_0.0_0.0
+      - world_82.0_49.0_40.0_0.0_0.0
+      - world_82.0_48.0_40.0_0.0_0.0
+      - world_82.0_47.0_40.0_0.0_0.0
+      facing: EAST
+    configurable:
+      renderers:
+      - IMAGE -src help.png -width 640 -height 384
+  '4':
+    internal:
+      frames:
+      - world_46.0_49.0_69.0_0.0_0.0
+      - world_46.0_48.0_69.0_0.0_0.0
+      - world_46.0_49.0_70.0_0.0_0.0
+      - world_46.0_48.0_70.0_0.0_0.0
+      - world_46.0_49.0_71.0_0.0_0.0
+      - world_46.0_48.0_71.0_0.0_0.0
+      - world_46.0_49.0_72.0_0.0_0.0
+      - world_46.0_48.0_72.0_0.0_0.0
+      - world_46.0_49.0_73.0_0.0_0.0
+      - world_46.0_48.0_73.0_0.0_0.0
+      facing: EAST
+    configurable:
+      renderers:
+      - IMAGE -src portals.png -width 640 -height 256
+  '5':
+    internal:
+      frames:
+      - world_55.0_46.0_99.0_0.0_0.0
+      - world_55.0_46.0_100.0_0.0_0.0
+      - world_55.0_46.0_101.0_0.0_0.0
+      - world_55.0_46.0_102.0_0.0_0.0
+      - world_55.0_46.0_103.0_0.0_0.0
+      - world_55.0_46.0_104.0_0.0_0.0
+      - world_55.0_46.0_105.0_0.0_0.0
+      facing: EAST
+    configurable:
+      renderers:
+      - IMAGE -src resources.png -width 896 -height 128
+  '6':
+    internal:
+      frames:
+      - world_51.0_46.0_109.0_0.0_0.0
+      - world_50.0_46.0_109.0_0.0_0.0
+      - world_49.0_46.0_109.0_0.0_0.0
+      - world_48.0_46.0_109.0_0.0_0.0
+      - world_47.0_46.0_109.0_0.0_0.0
+      - world_46.0_46.0_109.0_0.0_0.0
+      - world_45.0_46.0_109.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - IMAGE -src resources.png -width 896 -height 128
+  '8':
+    internal:
+      frames:
+      - world_24.0_51.0_106.0_0.0_0.0
+      - world_24.0_50.0_106.0_0.0_0.0
+      - world_24.0_49.0_106.0_0.0_0.0
+      - world_23.0_51.0_106.0_0.0_0.0
+      - world_23.0_50.0_106.0_0.0_0.0
+      - world_23.0_49.0_106.0_0.0_0.0
+      - world_22.0_51.0_106.0_0.0_0.0
+      - world_22.0_50.0_106.0_0.0_0.0
+      - world_22.0_49.0_106.0_0.0_0.0
+      - world_21.0_51.0_106.0_0.0_0.0
+      - world_21.0_50.0_106.0_0.0_0.0
+      - world_21.0_49.0_106.0_0.0_0.0
+      - world_20.0_51.0_106.0_0.0_0.0
+      - world_20.0_50.0_106.0_0.0_0.0
+      - world_20.0_49.0_106.0_0.0_0.0
+      - world_19.0_51.0_106.0_0.0_0.0
+      - world_19.0_50.0_106.0_0.0_0.0
+      - world_19.0_49.0_106.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - IMAGE -src drawers.png -width 768 -height 384
+  '9':
+    internal:
+      frames:
+      - world_16.0_48.0_66.0_0.0_0.0
+      - world_17.0_48.0_66.0_0.0_0.0
+      - world_18.0_48.0_66.0_0.0_0.0
+      - world_19.0_48.0_66.0_0.0_0.0
+      - world_20.0_48.0_66.0_0.0_0.0
+      - world_21.0_48.0_66.0_0.0_0.0
+      - world_22.0_48.0_66.0_0.0_0.0
+      - world_23.0_48.0_66.0_0.0_0.0
+      - world_24.0_48.0_66.0_0.0_0.0
+      - world_25.0_48.0_66.0_0.0_0.0
+      - world_26.0_48.0_66.0_0.0_0.0
+      facing: NORTH
+    configurable:
+      renderers:
+      - IMAGE -src millonaire.png -width 1408 -height 128
+  '10':
+    internal:
+      frames:
+      - world_-21.0_50.0_74.0_0.0_0.0
+      - world_-21.0_49.0_74.0_0.0_0.0
+      - world_-21.0_48.0_74.0_0.0_0.0
+      - world_-22.0_50.0_74.0_0.0_0.0
+      - world_-22.0_49.0_74.0_0.0_0.0
+      - world_-22.0_48.0_74.0_0.0_0.0
+      - world_-23.0_50.0_74.0_0.0_0.0
+      - world_-23.0_49.0_74.0_0.0_0.0
+      - world_-23.0_48.0_74.0_0.0_0.0
+      - world_-24.0_50.0_74.0_0.0_0.0
+      - world_-24.0_49.0_74.0_0.0_0.0
+      - world_-24.0_48.0_74.0_0.0_0.0
+      - world_-25.0_50.0_74.0_0.0_0.0
+      - world_-25.0_49.0_74.0_0.0_0.0
+      - world_-25.0_48.0_74.0_0.0_0.0
+      - world_-26.0_50.0_74.0_0.0_0.0
+      - world_-26.0_49.0_74.0_0.0_0.0
+      - world_-26.0_48.0_74.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - IMAGE -src shop.png -width 768 -height 384
+  '11':
+    internal:
+      frames:
+      - world_-26.0_52.0_91.0_0.0_0.0
+      - world_-26.0_51.0_91.0_0.0_0.0
+      - world_-26.0_50.0_91.0_0.0_0.0
+      - world_-26.0_49.0_91.0_0.0_0.0
+      - world_-27.0_52.0_91.0_0.0_0.0
+      - world_-27.0_51.0_91.0_0.0_0.0
+      - world_-27.0_50.0_91.0_0.0_0.0
+      - world_-27.0_49.0_91.0_0.0_0.0
+      - world_-28.0_52.0_91.0_0.0_0.0
+      - world_-28.0_51.0_91.0_0.0_0.0
+      - world_-28.0_50.0_91.0_0.0_0.0
+      - world_-28.0_49.0_91.0_0.0_0.0
+      - world_-29.0_52.0_91.0_0.0_0.0
+      - world_-29.0_51.0_91.0_0.0_0.0
+      - world_-29.0_50.0_91.0_0.0_0.0
+      - world_-29.0_49.0_91.0_0.0_0.0
+      - world_-30.0_52.0_91.0_0.0_0.0
+      - world_-30.0_51.0_91.0_0.0_0.0
+      - world_-30.0_50.0_91.0_0.0_0.0
+      - world_-30.0_49.0_91.0_0.0_0.0
+      - world_-31.0_52.0_91.0_0.0_0.0
+      - world_-31.0_51.0_91.0_0.0_0.0
+      - world_-31.0_50.0_91.0_0.0_0.0
+      - world_-31.0_49.0_91.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - IMAGE -src shop2.png -width 768 -height 512
+  '12':
+    internal:
+      frames:
+      - world_-18.0_52.0_79.0_0.0_0.0
+      - world_-18.0_52.0_80.0_0.0_0.0
+      - world_-18.0_52.0_81.0_0.0_0.0
+      - world_-18.0_52.0_82.0_0.0_0.0
+      - world_-18.0_52.0_83.0_0.0_0.0
+      - world_-18.0_52.0_84.0_0.0_0.0
+      facing: EAST
+    configurable:
+      renderers:
+      - IMAGE -src enchant.png -width 768 -height 128
+  '13':
+    internal:
+      frames:
+      - world_-38.0_51.0_91.0_0.0_0.0
+      - world_-39.0_51.0_91.0_0.0_0.0
+      - world_-40.0_51.0_91.0_0.0_0.0
+      - world_-41.0_51.0_91.0_0.0_0.0
+      - world_-42.0_51.0_91.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - IMAGE -src food.png -width 640 -height 128
+  '14':
+    internal:
+      frames:
+      - world_-47.0_51.0_85.0_0.0_0.0
+      - world_-47.0_51.0_84.0_0.0_0.0
+      - world_-47.0_51.0_83.0_0.0_0.0
+      - world_-47.0_51.0_82.0_0.0_0.0
+      - world_-47.0_51.0_81.0_0.0_0.0
+      - world_-47.0_51.0_80.0_0.0_0.0
+      - world_-47.0_51.0_79.0_0.0_0.0
+      - world_-47.0_51.0_78.0_0.0_0.0
+      facing: WEST
+    configurable:
+      renderers:
+      - IMAGE -src blocks.png -width 1024 -height 128
+  '15':
+    internal:
+      frames:
+      - world_-42.0_51.0_72.0_0.0_0.0
+      - world_-41.0_51.0_72.0_0.0_0.0
+      - world_-40.0_51.0_72.0_0.0_0.0
+      - world_-39.0_51.0_72.0_0.0_0.0
+      - world_-38.0_51.0_72.0_0.0_0.0
+      facing: NORTH
+    configurable:
+      renderers:
+      - IMAGE -src others.png -width 640 -height 128
+  '16':
+    internal:
+      frames:
+      - world_35.0_46.0_26.0_0.0_0.0
+      - world_35.0_46.0_27.0_0.0_0.0
+      facing: EAST
+    configurable:
+      renderers:
+      - IMAGE -src coliseum.png -width 256 -height 128
+  '17':
+    internal:
+      frames:
+      - world_pvp_-3.0_60.0_49.0_0.0_0.0
+      - world_pvp_-3.0_60.0_50.0_0.0_0.0
+      - world_pvp_-3.0_60.0_51.0_0.0_0.0
+      facing: EAST
+    configurable:
+      renderers:
+      - IMAGE -src tops.png -width 384 -height 128
+  '18':
+    internal:
+      frames:
+      - world_pvp_-12.0_64.0_47.0_0.0_0.0
+      - world_pvp_-12.0_63.0_47.0_0.0_0.0
+      - world_pvp_-11.0_64.0_47.0_0.0_0.0
+      - world_pvp_-11.0_63.0_47.0_0.0_0.0
+      - world_pvp_-10.0_64.0_47.0_0.0_0.0
+      - world_pvp_-10.0_63.0_47.0_0.0_0.0
+      - world_pvp_-9.0_64.0_47.0_0.0_0.0
+      - world_pvp_-9.0_63.0_47.0_0.0_0.0
+      - world_pvp_-8.0_64.0_47.0_0.0_0.0
+      - world_pvp_-8.0_63.0_47.0_0.0_0.0
+      - world_pvp_-7.0_64.0_47.0_0.0_0.0
+      - world_pvp_-7.0_63.0_47.0_0.0_0.0
+      - world_pvp_-6.0_64.0_47.0_0.0_0.0
+      - world_pvp_-6.0_63.0_47.0_0.0_0.0
+      facing: NORTH
+    configurable:
+      renderers:
+      - IMAGE -src coliseum.png -width 896 -height 256
+  '19':
+    internal:
+      frames:
+      - world_pvp_-6.0_64.0_43.0_0.0_0.0
+      - world_pvp_-6.0_63.0_43.0_0.0_0.0
+      - world_pvp_-7.0_64.0_43.0_0.0_0.0
+      - world_pvp_-7.0_63.0_43.0_0.0_0.0
+      - world_pvp_-8.0_64.0_43.0_0.0_0.0
+      - world_pvp_-8.0_63.0_43.0_0.0_0.0
+      - world_pvp_-9.0_64.0_43.0_0.0_0.0
+      - world_pvp_-9.0_63.0_43.0_0.0_0.0
+      - world_pvp_-10.0_64.0_43.0_0.0_0.0
+      - world_pvp_-10.0_63.0_43.0_0.0_0.0
+      - world_pvp_-11.0_64.0_43.0_0.0_0.0
+      - world_pvp_-11.0_63.0_43.0_0.0_0.0
+      - world_pvp_-12.0_64.0_43.0_0.0_0.0
+      - world_pvp_-12.0_63.0_43.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - IMAGE -src coliseum.png -width 896 -height 256
+  '21':
+    internal:
+      frames:
+      - world_the_end_89.0_57.0_3.0_0.0_0.0
+      - world_the_end_89.0_56.0_3.0_0.0_0.0
+      - world_the_end_89.0_57.0_2.0_0.0_0.0
+      - world_the_end_89.0_56.0_2.0_0.0_0.0
+      - world_the_end_89.0_57.0_1.0_0.0_0.0
+      - world_the_end_89.0_56.0_1.0_0.0_0.0
+      - world_the_end_89.0_57.0_0.0_0.0_0.0
+      - world_the_end_89.0_56.0_0.0_0.0_0.0
+      - world_the_end_89.0_57.0_-1.0_0.0_0.0
+      - world_the_end_89.0_56.0_-1.0_0.0_0.0
+      - world_the_end_89.0_57.0_-2.0_0.0_0.0
+      - world_the_end_89.0_56.0_-2.0_0.0_0.0
+      - world_the_end_89.0_57.0_-3.0_0.0_0.0
+      - world_the_end_89.0_56.0_-3.0_0.0_0.0
+      facing: WEST
+    configurable:
+      renderers:
+      - IMAGE -src end.png -width 896 -height 256
+  '22':
+    internal:
+      frames:
+      - Survival_-7.0_84.0_-2.0_0.0_0.0
+      - Survival_-7.0_83.0_-2.0_0.0_0.0
+      - Survival_-7.0_84.0_-3.0_0.0_0.0
+      - Survival_-7.0_83.0_-3.0_0.0_0.0
+      - Survival_-7.0_84.0_-4.0_0.0_0.0
+      - Survival_-7.0_83.0_-4.0_0.0_0.0
+      - Survival_-7.0_84.0_-5.0_0.0_0.0
+      - Survival_-7.0_83.0_-5.0_0.0_0.0
+      facing: WEST
+    configurable:
+      renderers:
+      - IMAGE -src survival.png -width 512 -height 256

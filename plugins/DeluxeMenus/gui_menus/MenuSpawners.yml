@@ -1,0 +1,833 @@
+#
+menu_title: '&8¡Survival Spawners!'
+open_command: Spawners
+size: 54
+items:
+  '1':
+    material: 'hdb-7035'
+    slot: 10
+    display_name: '&e&lAnimales'
+  'Bars1':
+    material: 101
+    slot: 11
+    display_name: '&3&l»&b&l»»&f&l»'
+  'Sheep':
+    material: 52
+    slot: 12
+    display_name: '&eSheep &fSpawner'
+    lore:
+    - '&8Price: &2$1000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] es give %player_name% Sheep 1 1'
+    - '[message] &aYou have successfully purchased a sheep spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 999999.999'
+    - '[console] es give %player_name% Sheep 1 1'
+    - '[message] &aYou have successfully purchased a sheep spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 1000000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 1000000
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Pig':
+    material: 52
+    slot: 13
+    display_name: '&ePig &fSpawner'
+    lore:
+    - '&8Price: &2$2000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 1999999.999'
+    - '[console] es give %player_name% Pig 1 1'
+    - '[message] &aYou have successfully purchased a pig spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 1999999.999'
+    - '[console] es give %player_name% Pig 1 1'
+    - '[message] &aYou have successfully purchased a pig spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 2000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 2000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Cow':
+    material: 52
+    slot: 14
+    display_name: '&eCow &fSpawner'
+    lore:
+    - '&8Price: &2$3000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 2999999.999'
+    - '[console] es give %player_name% Cow 1 1'
+    - '[message] &aYou have successfully purchased a Cow spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 2999999.999'
+    - '[console] es give %player_name% Cow 1 1'
+    - '[message] &aYou have successfully purchased a Cow spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 3000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 3000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Chicken':
+    material: 52
+    slot: 15
+    display_name: '&eChicken &fSpawner'
+    lore:
+    - '&8Price: &2$4000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 3999999.999'
+    - '[console] es give %player_name% Chicken 1 1'
+    - '[message] &aYou have successfully purchased a Chicken spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 3999999.999'
+    - '[console] es give %player_name% Chicken 1 1'
+    - '[message] &aYou have successfully purchased a Chicken spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 4000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 4000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Wolf':
+    material: 52
+    slot: 16
+    display_name: '&eChicken &fSpawner'
+    lore:
+    - '&8Price: &2$5000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 4999999.999'
+    - '[console] es give %player_name% Wolf 1 1'
+    - '[message] &aYou have successfully purchased a Wolf spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 4999999.999'
+    - '[console] es give %player_name% Wolf 1 1'
+    - '[message] &aYou have successfully purchased a Wolf spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 5000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 5000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  '2':
+    material: 'hdb-14289'
+    slot: 19
+    display_name: '&e&lMobs'
+  'Bars2':
+    material: 101
+    slot: 20
+    display_name: '&3&l»&b&l»»&f&l»'
+  'Zombie':
+    material: 52
+    slot: 21
+    display_name: '&eZombie &fSpawner'
+    lore:
+    - '&8Price: &2$6000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 5999999.999'
+    - '[console] es give %player_name% Zombie 1 1'
+    - '[message] &aYou have successfully purchased a Zombie spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 5999999.999'
+    - '[console] es give %player_name% Zombie 1 1'
+    - '[message] &aYou have successfully purchased a Zombie spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 6000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 6000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Skeleton':
+    material: 52
+    slot: 22
+    display_name: '&eSkeleton &fSpawner'
+    lore:
+    - '&8Price: &2$7000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 6999999.999'
+    - '[console] es give %player_name% Skeleton 1 1'
+    - '[message] &aYou have successfully purchased a Skeleton spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 6999999.999'
+    - '[console] es give %player_name% Skeleton 1 1'
+    - '[message] &aYou have successfully purchased a Skeleton spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 7000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 7000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Spider':
+    material: 52
+    slot: 23
+    display_name: '&eSpider &fSpawner'
+    lore:
+    - '&8Price: &2$8000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 7999999.999'
+    - '[console] es give %player_name% Spider 1 1'
+    - '[message] &aYou have successfully purchased a Spider spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 7999999.999'
+    - '[console] es give %player_name% Spider 1 1'
+    - '[message] &aYou have successfully purchased a Spider spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 8000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 8000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Slime':
+    material: 52
+    slot: 24
+    display_name: '&eSlime &fSpawner'
+    lore:
+    - '&8Price: &2$9000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 8999999.999'
+    - '[console] es give %player_name% Slime 1 1'
+    - '[message] &aYou have successfully purchased a Slime spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 8999999.999'
+    - '[console] es give %player_name% Slime 1 1'
+    - '[message] &aYou have successfully purchased a Slime spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 9000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 9000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Enderman':
+    material: 52
+    slot: 25
+    display_name: '&eEnderman &fSpawner'
+    lore:
+    - '&8Price: &2$10000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 9999999.999'
+    - '[console] es give %player_name% Enderman 1 1'
+    - '[message] &aYou have successfully purchased a Enderman spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 9999999.999'
+    - '[console] es give %player_name% Enderman 1 1'
+    - '[message] &aYou have successfully purchased a Enderman spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 10000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 10000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  '3':
+    material: 'hdb-12782'
+    slot: 28
+    display_name: '&e&lMobs Raros'
+  'Bars3':
+    material: 101
+    slot: 29
+    display_name: '&3&l»&b&l»»&f&l»'
+  'Squid':
+    material: 52
+    slot: 30
+    display_name: '&eSquid &fSpawner'
+    lore:
+    - '&8Price: &2$15000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 14999999.999'
+    - '[console] es give %player_name% Squid 1 1'
+    - '[message] &aYou have successfully purchased a Squid spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 14999999.999'
+    - '[console] es give %player_name% Squid 1 1'
+    - '[message] &aYou have successfully purchased a Squid spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 15000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 15000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Villager':
+    material: 52
+    slot: 31
+    display_name: '&eVillager &fSpawner'
+    lore:
+    - '&8Price: &2$20000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 19999999.999'
+    - '[console] es give %player_name% Villager 1 1'
+    - '[message] &aYou have successfully purchased a Villager spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 19999999.999'
+    - '[console] es give %player_name% Villager 1 1'
+    - '[message] &aYou have successfully purchased a Villager spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 20000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 20000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Blaze':
+    material: 52
+    slot: 32
+    display_name: '&eBlaze &fSpawner'
+    lore:
+    - '&8Price: &2$25000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 24999999.999'
+    - '[console] es give %player_name% Blaze 1 1'
+    - '[message] &aYou have successfully purchased a Blaze spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 24999999.999'
+    - '[console] es give %player_name% Blaze 1 1'
+    - '[message] &aYou have successfully purchased a Blaze spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 25000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 25000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Horse':
+    material: 52
+    slot: 33
+    display_name: '&eHorse &fSpawner'
+    lore:
+    - '&8Price: &2$30000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 29999999.999'
+    - '[console] es give %player_name% Horse 1 1'
+    - '[message] &aYou have successfully purchased a Horse spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 29999999.999'
+    - '[console] es give %player_name% Horse 1 1'
+    - '[message] &aYou have successfully purchased a Horse spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 30000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 30000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'MagmaCube':
+    material: 52
+    slot: 34
+    display_name: '&eMagma Cube &fSpawner'
+    lore:
+    - '&8Price: &2$35000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 34999999.999'
+    - '[console] es give %player_name% Magma_Cube 1 1'
+    - '[message] &aYou have successfully purchased a Magma cube spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 34999999.999'
+    - '[console] es give %player_name% Magma_Cube 1 1'
+    - '[message] &aYou have successfully purchased a Magma cube spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 35000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 35000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  '4':
+    material: 'hdb-341'
+    slot: 37
+    display_name: '&e&lMonsters Epics'
+  'Bars4':
+    material: 101
+    slot: 38
+    display_name: '&3&l»&b&l»»&f&l»'
+  'Witch':
+    material: 52
+    slot: 39
+    display_name: '&eWitch &fSpawner'
+    lore:
+    - '&8Price: &2$50000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 49999999.999'
+    - '[console] es give %player_name% Witch 1 1'
+    - '[message] &aYou have successfully purchased a Witch spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 49999999.999'
+    - '[console] es give %player_name% Witch 1 1'
+    - '[message] &aYou have successfully purchased a Witch spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 50000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 50000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Pig_Zombie':
+    material: 52
+    slot: 40
+    display_name: '&ePig Zombie &fSpawner'
+    lore:
+    - '&8Price: &2$60000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 59999999.999'
+    - '[console] es give %player_name% Pig_Zombie 1 1'
+    - '[message] &aYou have successfully purchased a Pig Zombie spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 59999999.999'
+    - '[console] es give %player_name% Pig_Zombie 1 1'
+    - '[message] &aYou have successfully purchased a Pig Zombie spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 60000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 60000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Guardian':
+    material: 52
+    slot: 41
+    display_name: '&eGuardian &fSpawner'
+    lore:
+    - '&8Price: &2$70000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 69999999.999'
+    - '[console] es give %player_name% Guardian 1 1'
+    - '[message] &aYou have successfully purchased a Guardian spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 69999999.999'
+    - '[console] es give %player_name% Guardian 1 1'
+    - '[message] &aYou have successfully purchased a Guardian spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 70000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 70000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Iron_Golem':
+    material: 52
+    slot: 42
+    display_name: '&eIron Golem &fSpawner'
+    lore:
+    - '&8Price: &2$80000000'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 79999999.999'
+    - '[console] es give %player_name% Iron_Golem 1 1'
+    - '[message] &aYou have successfully purchased a Iron Golem spawner!'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 79999999.999'
+    - '[console] es give %player_name% Iron_Golem 1 1'
+    - '[message] &aYou have successfully purchased a Iron Golem spawner!'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 80000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 80000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Random':
+    material: 52
+    slot: 43
+    display_name: '&eRandom &fSpawners'
+    lore:
+    - '&8Price: &2$100000000'
+    - '&bMultiplied Generators: &7x2, x3, x5'
+    - '&eQuantity: &6x2, x3, x5'
+    - '&aBuy with click Right/Left!'
+    left_click_commands:
+    - '[console] eco take %player_name% 99999999.999'
+    - '[console] es give %player_name% Wither 1 1'
+    - '[message] &aYou have successfully purchased a Random spawner!'
+    - '[sound] LEVEL_UP'
+    - '[close]'
+    right_click_commands:
+    - '[console] eco take %player_name% 99999999.999'
+    - '[console] es give %player_name% Wither 1 1'
+    - '[message] &aYou have successfully purchased a Iron Random spawner!'
+    - '[sound] LEVEL_UP'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+    right_click_requirement:
+      requirements:
+        Money:
+          type: has money
+          amount: 100000000.0
+      deny_commands:
+      - '[message] &cYou do not have enough money to buy.'
+      - '[close]'
+  'Back':
+    material: 'hdb-10786'
+    slot: 49
+    display_name: '&4&l‹‹ Back'
+    left_click_commands:
+    - '[openguimenu] menu'
+    right_click_commands:
+    - '[openguimenu] menu'
+  'Next':
+    material: 'hdb-10783'
+    slot: 4
+    display_name: '&2&l›› Next'
+  'Panel1':
+    material: 160
+    data: 15
+    slot: 0
+    display_name: '&8'
+  'Panel2':
+    material: 160
+    data: 15
+    slot: 1
+    display_name: '&8'
+  'Panel3':
+    material: 160
+    data: 15
+    slot: 2
+    display_name: '&8'
+  'Panel4':
+    material: 160
+    data: 15
+    slot: 3
+    display_name: '&8'
+  'Panel5':
+    material: 160
+    data: 15
+    slot: 5
+    display_name: '&8'
+  'Panel6':
+    material: 160
+    data: 15
+    slot: 6
+    display_name: '&8'
+  'Panel7':
+    material: 160
+    data: 15
+    slot: 7
+    display_name: '&8'
+  'Panel8':
+    material: 160
+    data: 15
+    slot: 8
+    display_name: '&8'
+  'Panel9':
+    material: 160
+    data: 15
+    slot: 9
+    display_name: '&8'
+  'Panel10':
+    material: 160
+    data: 15
+    slot: 17
+    display_name: '&8'
+  'Panel11':
+    material: 160
+    data: 15
+    slot: 18
+    display_name: '&8'
+  'Panel12':
+    material: 160
+    data: 15
+    slot: 26
+    display_name: '&8'
+  'Panel13':
+    material: 160
+    data: 15
+    slot: 27
+    display_name: '&8'
+  'Panel14':
+    material: 160
+    data: 15
+    slot: 35
+    display_name: '&8'
+  'Panel16':
+    material: 160
+    data: 15
+    slot: 36
+    display_name: '&8'
+  'Panel17':
+    material: 160
+    data: 15
+    slot: 44
+    display_name: '&8'
+  'Panel18':
+    material: 160
+    data: 15
+    slot: 45
+    display_name: '&8'
+  'Panel19':
+    material: 160
+    data: 15
+    slot: 46
+    display_name: '&8'
+  'Panel20':
+    material: 160
+    data: 15
+    slot: 47
+    display_name: '&8'
+  'Panel21':
+    material: 160
+    data: 15
+    slot: 48
+    display_name: '&8'
+  'Panel23':
+    material: 160
+    data: 15
+    slot: 50
+    display_name: '&8'
+  'Panel24':
+    material: 160
+    data: 15
+    slot: 51
+    display_name: '&8'
+  'Panel25':
+    material: 160
+    data: 15
+    slot: 52
+    display_name: '&8'
+  'Panel26':
+    material: 160
+    data: 15
+    slot: 53
+    display_name: '&8'

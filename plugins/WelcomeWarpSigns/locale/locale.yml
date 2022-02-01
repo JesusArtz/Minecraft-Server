@@ -1,0 +1,41 @@
+###########################################################################################
+# This is a YML file. Be careful when editing. Check your edits in a YAML checker like    #
+# the one at http://yaml-online-parser.appspot.com                                        #
+# If this file is deleted, then it will be recreate at the next reload.                   #
+###########################################################################################
+
+--- 
+adminHelp: 
+  help: "Warp Signs Admin:"
+  reload: "reload configuration from file."
+newsheadline: "Welcome Warp News"
+error: 
+  noPermission: "You don't have permission to use that command!"
+  unknownCommand: "Unknown command."
+  unknownPlayer: "That player is unknown."
+  useInGame: "This command must be used in-game."
+  wrongWorld: "You cannot do that in this world."
+  errorYouDoNotHavePermission: "You do not have permission to use that command!"
+warps: 
+  helpColor: "&e"
+  helpWarp: "Warp to <player>'s welcome sign."
+  helpWarps: "Lists all available welcome-sign warps."
+  deactivate: "Deactivating old sign!"
+  errorDoesNotExist: "That warp doesn't exist!"
+  errorDuplicate: "Lo siento, ya hay un cartel en ese lugar!"
+  errorNoPerm: "You do not have permission to place Welcome Signs yet!"
+  errorNoRemove: "You can only remove your own Welcome Sign!"
+  errorNoWarpsYet: "There are no warps available yet!"
+  errorNotReadyYet: "That warp is not ready yet. Try again later."
+  errorNotSafe: "That warp is not safe right now. Try again later."
+  next: "Next"
+  playerWarped: "[name] &2warped to your sign!"
+  previous: "Previous"
+  removed: "Welcome sign removed!"
+  signRemoved: "Your welcome sign was removed!"
+  success: "Welcome sign placed successfully!"
+  title: "Welcome warps"
+  warpTip: "Para crear un warp usa un cartel y pon [WELCOME] arriba del todo."
+  warpToPlayersSign: "Warping to <player>'s welcome sign."
+  warpsAvailable: "The following warps are available"
+  welcomeLine: "[WELCOME]"

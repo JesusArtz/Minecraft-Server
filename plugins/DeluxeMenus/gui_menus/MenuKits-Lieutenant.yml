@@ -1,0 +1,200 @@
+#
+menu_title: '&8!Kit &5&lLI&d&lEUTE&f&lNANT&8¡'
+open_command: MenuKitsLieutenant
+size: 54
+items:
+  'Sword':
+    material: 276
+    slot: 19
+    display_name: '&8Sword of &5&lLI&d&lEUTE&f&lNANT'
+    enchantments:
+    - 'DAMAGE_ALL;5'
+    - 'FIRE_ASPECT;1'
+    - 'DURABILITY;3'
+  '1':
+    material: 310
+    slot: 11
+    display_name: '&8Helmet of &5&lLI&d&lEUTE&f&lNANT'
+    enchantments:
+    - 'PROTECTION_ENVIRONMENTAL;4'
+    - 'DURABILITY;3'
+  '2':
+    material: 311
+    slot: 20
+    display_name: '&8Chestplate of &5&lLI&d&lEUTE&f&lNANT'
+    enchantments:
+    - 'PROTECTION_ENVIRONMENTAL;4'
+    - 'DURABILITY;3'
+  '3':
+    material: 312
+    slot: 29
+    display_name: '&8Leggings of &5&lLI&d&lEUTE&f&lNANT'
+    enchantments:
+    - 'PROTECTION_ENVIRONMENTAL;4'
+    - 'DURABILITY;3'
+  '4':
+    material: 313
+    slot: 38
+    display_name: '&8Boots of &5&lLI&d&lEUTE&f&lNANT'
+    enchantments:
+    - 'PROTECTION_ENVIRONMENTAL;4'
+    - 'DURABILITY;3'
+  'Pickaxe':
+    material: 278
+    slot: 22
+    display_name: '&8Pickaxe of &5&lLI&d&lEUTE&f&lNANT'
+    enchantments:
+    - 'DIG_SPEED;5'
+    - 'DURABILITY;3'
+  'Axe':
+    material: 279
+    slot: 23
+    display_name: '&8Axe of &5&lLI&d&lEUTE&f&lNANT'
+    enchantments:
+    - 'DIG_SPEED;5'
+    - 'DURABILITY;3'
+  'Shovel':
+    material: 277
+    slot: 24
+    display_name: '&8Shovel of &5&lLI&d&lEUTE&f&lNANT'
+    enchantments:
+    - 'DIG_SPEED;5'
+    - 'DURABILITY;3'
+  'Golden-Apple':
+    material: 322
+    data: 1
+    amount: 10
+    slot: 31
+    display_name: '&bGolden Apple'
+  'Next':
+    material: 'hdb-10783'
+    slot: 4
+    display_name: '&2&l›› Next'
+  'Back':
+    material: 'hdb-10786'
+    slot: 49
+    display_name: '&4&l‹‹ Back'
+    left_click_commands:
+    - '[openguimenu] Kits'
+    right_click_commands:
+    - '[openguimenu] Kits'
+  'Panel1':
+    material: 160
+    data: 5
+    slot: 0
+    display_name: '&8'
+  'Panel2':
+    material: 160
+    data: 2
+    slot: 1
+    display_name: '&8'
+  'Panel3':
+    material: 160
+    data: 6
+    slot: 2
+    display_name: '&8'
+  'Panel4':
+    material: 160
+    data: 4
+    slot: 3
+    display_name: '&8'
+  'Panel5':
+    material: 160
+    data: 5
+    slot: 5
+    display_name: '&8'
+  'Panel6':
+    material: 160
+    data: 7
+    slot: 6
+    display_name: '&8'
+  'Panel7':
+    material: 160
+    data: 3
+    slot: 7
+    display_name: '&8'
+  'Panel8':
+    material: 160
+    data: 5
+    slot: 8
+    display_name: '&8'
+  'Panel9':
+    material: 160
+    data: 7
+    slot: 9
+    display_name: '&8'
+  'Panel10':
+    material: 160
+    data: 6
+    slot: 17
+    display_name: '&8'
+  'Panel11':
+    material: 160
+    data: 2
+    slot: 18
+    display_name: '&8'
+  'Panel12':
+    material: 160
+    data: 3
+    slot: 26
+    display_name: '&8'
+  'Panel13':
+    material: 160
+    data: 3
+    slot: 27
+    display_name: '&8'
+  'Panel14':
+    material: 160
+    data: 2
+    slot: 35
+    display_name: '&8'
+  'Panel16':
+    material: 160
+    data: 6
+    slot: 36
+    display_name: '&8'
+  'Panel17':
+    material: 160
+    data: 7
+    slot: 44
+    display_name: '&8'
+  'Panel18':
+    material: 160
+    data: 5
+    slot: 45
+    display_name: '&8'
+  'Panel19':
+    material: 160
+    data: 3
+    slot: 46
+    display_name: '&8'
+  'Panel20':
+    material: 160
+    data: 7
+    slot: 47
+    display_name: '&8'
+  'Panel21':
+    material: 160
+    data: 5
+    slot: 48
+    display_name: '&8'
+  'Panel22':
+    material: 160
+    data: 4
+    slot: 50
+    display_name: '&8'
+  'Panel23':
+    material: 160
+    data: 6
+    slot: 51
+    display_name: '&8'
+  'Panel24':
+    material: 160
+    data: 2
+    slot: 52
+    display_name: '&8'
+  'Panel25':
+    material: 160
+    data: 5
+    slot: 53
+    display_name: '&8'

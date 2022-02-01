@@ -1,0 +1,33 @@
+lastAccountName: SaBUT1
+timestamps:
+  login: 1618159954379
+  lastteleport: 1618164799861
+  logout: 1618107115685
+  kits:
+    pvp: 1616770361791
+    user: 1615772601500
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Survival
+  x: 240.63701425101047
+  y: 73.0
+  z: 322.95252546090074
+  yaw: -74.108215
+  pitch: 38.699936
+logoutlocation:
+  world: Survival_plots
+  x: -134.2196673660748
+  y: 20.0
+  z: -10.939059791590921
+  yaw: -195.7498
+  pitch: 18.749979
+socialspy: false
+money: '20757.34200000000017128'
+homes:
+  home:
+    world: Survival
+    x: 822.4761142161325
+    y: 74.0
+    z: -323.2532861867819
+    yaw: -272.62842
+    pitch: 31.350086

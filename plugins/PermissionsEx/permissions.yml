@@ -1,0 +1,342 @@
+groups:
+  Usuario:
+    permissions:
+    - gadgetsmenu.menuselector
+    - gadgetsmenu.animations.normal
+    - gadgetsmenu.mysteryboxes.open.*
+    - eastereggs.default
+    - nte.user
+    - modifyworld.*
+    - plots.permpack.basicflags
+    - plots.permpack.basicinbox
+    - plots.permpack.basic
+    - plots.plot.1
+    - plots.use
+    - PLOTSQUARED.12
+    - deliveryman.User
+    - SUPERDELIVERYMAN.11
+    - randomtp.use
+    - RANDOMTP.10
+    - protectionstones.center
+    - protectionstones.view
+    - protectionstones.info
+    - protectionstones.priority
+    - protectionstones.flags
+    - protectionstones.members
+    - protectionstones.destroy
+    - protectionstones.create
+    - PROTECTIONSTONE.9
+    - MyPet.leash.ZombieVillager
+    - MyPet.leash.ZombieHorse
+    - MyPet.leash.Zombie
+    - MyPet.leash.Wolf
+    - MyPet.leash.WitherSkeleton
+    - MyPet.leash.Wither
+    - MyPet.leash.Witch
+    - MyPet.leash.Villager
+    - MyPet.leash.Vindicator
+    - MyPet.leash.Vex
+    - MyPet.leash.Stray
+    - MyPet.leash.Squid
+    - MyPet.leash.Spider
+    - MyPet.leash.Snowman
+    - MyPet.leash.Slime
+    - MyPet.leash.SkeletonHorse
+    - MyPet.leash.Skeleton
+    - MyPet.leash.Silverfish
+    - MyPet.leash.Sheep
+    - MyPet.leash.Rabbit
+    - MyPet.leash.PolarBear
+    - MyPet.leash.PigZombie
+    - MyPet.leash.Pig
+    - MyPet.leash.Parrot
+    - MyPet.leash.Ocelot
+    - MyPet.leash.Mule
+    - MyPet.leash.Mooshroom
+    - MyPet.leash.MagmaCube
+    - MyPet.leash.Llama
+    - MyPet.leash.IronGolem
+    - MyPet.leash.Illusioner
+    - marry.default
+    - MARRIAGE.7
+    - essentials.realname
+    - essentials.recipe
+    - essentials.msg
+    - essentials.kits.User
+    - essentials.kits.PvP
+    - essentials.kits.New
+    - essentials.kit
+    - essentials.signs.use.kit
+    - essentials.lockette
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.delhome
+    - essentials.sethome.multiple.User
+    - essentials.sethome
+    - essentials.home
+    - essentials.pay
+    - essentials.balance
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.spawn
+    - ESSENTIALS.6
+    - epicspawners.place.*
+    - epicspawners.overview
+    - EPICSPAWNERLITE.5
+    - crazycrates.menu
+    - crazycrates.access
+    - CRAZYCRATES.4
+    - crazyauctions.sell.3
+    - crazyauctions.view
+    - crazyauctions.access
+    - CRAZYAUCTIONS.3
+    - ChestShop.shop.buy
+    - ChestShop.shop.sell
+    - ChestShop.shop.create.*
+    - CHESTSHOP.2
+    - achievement.stats
+    - achievement.month
+    - achievement.week
+    - achievement.top
+    - achievement.list
+    - achievement.book
+    - ADVANCEDACHIEVEMENTS.1
+    - tag.miembro
+    - liteboard.see.Lobby.yml
+    - essentials.reply
+    - essentials.ignore
+    - chestcommands.open.servidores.yml
+    - essentials.helpop
+    - playeroptions.use'
+    - jumppads.use
+    - chestcommands.open.survival.yml
+    - chestcommands.open.battleroyale.yml
+    - chestcommands.open.csgo.yml
+    - eastereggs.default
+    options:
+      default: true
+      prefix: '&7Usuario '
+      build: true
+      rank: '200'
+  Vip:
+    permissions:
+    - essentials.back
+    - crazyauctions.access
+    - crazyauctions.view
+    - crazyauctions.sell.5
+    - crazyauctions.bid.5
+    - essentials.sethome.multiple.Navigator
+    - essentials.kits.Navigator
+    - essentials.fly
+    - essentials.craft
+    - essentials.enderchest
+    - essentials.nick
+    - essentials.nick.<color>
+    - deliveryman.Navigator
+    - essentials.hat
+    - modifyworld.*
+    - -nte.user
+    - nte.navigator
+    - essentials.chat.ignoreexempt
+    - essentials.chat.color
+    - essentials.chat.format
+    - chestcommands.open.servidores.yml
+    - essentials.chat.magic
+    - essentials.chat.url
+    - essentials.msg.format
+    - essentials.nick.format
+    - essentials.chat.format
+    - cs.weapon.AWP2
+    - cs.weapon.SCOUT
+    - cs.weapon.GLOCK
+    - tag.vip
+    - BJ.RANK1
+    inheritance:
+    - Usuario
+    options:
+      build: true
+      rank: '150'
+      prefix: '&3&lV&b&lI&f&lP &3'
+  Vip+:
+    permissions:
+    - crazyauctions.access
+    - crazyauctions.view
+    - crazyauctions.sell.8
+    - crazyauctions.bid.8
+    - essentials.sethome.multiple.Admiral
+    - essentials.kits.Admiral
+    - deliveryman.Admiral
+    - modifyworld.*
+    - -nte.user
+    - -nte.navigator
+    - nte.admiral
+    - essentials.chat.ignoreexempt
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.chat.magic
+    - essentials.chat.url
+    - essentials.msg.format
+    - chestcommands.open.servidores.yml
+    - essentials.nick.format
+    - essentials.chat.format
+    - tag.vipp
+    - deluxemenus.menu.selector
+    - cs.weapon.M4A4
+    - cs.weapon.P90
+    inheritance:
+    - Usuario
+    - Vip
+    options:
+      build: true
+      rank: '150'
+      prefix: '&6&lV&e&lI&f&lP+ &6'
+  Elite:
+    permissions:
+    - crazyauctions.access
+    - crazyauctions.view
+    - crazyauctions.sell.10
+    - crazyauctions.bid.10
+    - essentials.sethome.multiple.Captain
+    - essentials.kits.Captain
+    - deliveryman.Captain
+    - epicspawners.silkdrop.*
+    - modifyworld.*
+    - -nte.user
+    - -nte.navigator
+    - -nte.admiral
+    - nte.captain
+    inheritance:
+    - Usuario
+    - Vip
+    - Admiral
+    options:
+      build: true
+      rank: '100'
+      prefix: '&2&lE&a&lLI&f&lTE &2'
+  Lieutenant:
+    permissions:
+    - crazyauctions.access
+    - crazyauctions.view
+    - crazyauctions.sell.15
+    - crazyauctions.bid.15
+    - essentials.sethome.multiple.Lieutenant
+    - essentials.kits.Lieutenant
+    - deliveryman.Lieutenant
+    - epicspawners.no-silk-drop
+    - modifyworld.*
+    - -nte.user
+    - -nte.navigator
+    - -nte.admiral
+    - -nte.captain
+    - nte.lieutenant
+    options:
+      prefix: '&5&lLI&d&lEUTE&f&lNANT &5'
+      build: true
+      rank: '50'
+    inheritance:
+    - Usuario
+    - Vip
+    - Admiral
+    - Captain
+  Youtuber:
+    inheritance:
+    - Usuario
+    permissions:
+    - essentials.chat.ignoreexempt
+    - essentials.chat.color
+    - essentials.chat.format
+    - chestcommands.open.servidores.yml
+    - essentials.chat.magic
+    - essentials.chat.url
+    - essentials.msg.format
+    - essentials.nick.format
+    - essentials.chat.format
+    - tag.youtuber
+    - deluxemenus.menu.selector
+    - cs.weapon.M4A4
+    - cs.weapon.P90
+    - cs.weapon.AWP2
+    - cs.weapon.SCOUT
+    - cs.weapon.GLOCK
+    options:
+      rank: '550'
+      prefix: '&c&lYou&f&lTuber &e'
+  Helper:
+    permissions:
+    - modifyworld.*
+    - -nte.user
+    - nte.helper
+    options:
+      build: true
+      rank: '10'
+      prefix: '&9&lAYUDANTE &9'
+    inheritance:
+    - User
+  Mod:
+    permissions:
+    - sancionar.admin
+    - modifyworld.*
+    - -nte.user
+    - -nte.navigator
+    - -nte.admiral
+    - -nte.captain
+    - -nte.lieutenant
+    - -nte.helper
+    - nte.mod
+    inheritance:
+    - User
+    - Navigator
+    - Admiral
+    - Captain
+    options:
+      prefix: '&a&lMOD &a'
+      build: true
+      rank: '10'
+  Admin:
+    permissions:
+    - sancionar.admin
+    - modifyworld.*
+    - -nte.user
+    - -nte.navigator
+    - -nte.admiral
+    - -nte.captain
+    - -nte.lieutenant
+    - -nte.helper
+    - -nte.mod
+    - nte.admin
+    inheritance:
+    - User
+    - Navigator
+    - Admiral
+    - Captain
+    options:
+      prefix: '&c&lADMIN &c'
+      build: true
+      rank: '10'
+  Owner:
+    options:
+      prefix: '&4&lOWNER &4'
+      build: true
+    permissions:
+    - sancionar.admin
+    - -nte.user
+    - -nte.navigator
+    - -nte.admiral
+    - -nte.captain
+    - -nte.lieutenant
+    - -nte.helper
+    - -nte.mod
+    - nte.owner
+    - '*'
+schema-version: 1
+users:
+  b5b59d97-0ec3-34d8-b64c-e235bd46a5df:
+    group:
+    - Usuario
+    options:
+      name: SimoneVergasola
+  3f66e663-e1bc-3820-8e91-6bf87237d9fd:
+    group:
+    - Vip
+    options:
+      name: troya2000

@@ -1,0 +1,109 @@
+# Mensajes Generales
+
+general:
+  nametag:
+    prefix: '&8[&6EpicSpawners&8]'
+    exit: '&cSalir'
+    next: '&9Siguiente'
+    back: '&9Atrás'
+    confirm: '&a&lConfirmar'
+    currency: $
+# Mensajes de Interfaz
+interface:
+  spawner:
+    upgradewithxp: '&aMejorar con XP'
+    upgradewithxplore: '&7Costo: &a%cost% Niveles'
+    upgradewitheconomy: '&aMejorar con Dinero'
+    upgradewitheconomylore: '&7Costo: &a%cost%'
+    statstitle: '&6Estadísticas de Generador'
+    stats: '&7Ha generado &a%amount% &7hasta ahora.'
+    onlyspawnson: '&7Solo genera en &6%block%&7.'
+    boost: '&7Clic derecho para &aAumentar&7.'
+    cantboost: '&cNo se puede Aumentar.'
+    convert: '&7Clic izquierdo para &aConvertir&7.'
+    boostedstats: '&a&l¡Actualmente acelerado!|&7Añadiendo &6%amount% &7extra &6%type%s&7a cada generador.|&7Expira en &6%time%&7.'
+    boostednever: Nunca
+    tutorialtitle: '&a&lInformación Útil'
+    tutorial: '{[LEVELUP]Puedes combinar o "levelup" este generador con: [Usando otro generador en este generador][Subiendo el nivel con XP][Subiendo el nivel con Dinero].}|{[DROP]Un generador de <TYPE> se soltará cuando mates <AMT> <TYPE> [naturales ]}|{[OMNI][Combinar generadores de diferentes tipos creará un Generador Omni].}|{[WATER][Los generadores repelerán el agua].}|{[REDSTONE][Puedes desactivar este generador aplicando redstone a él.]}'
+    howtonext: '&aHaz click para ir a la siguiente página.'
+    howtoback: '&aHaz click para volver a la primera página.'
+    paused: '&6Generación Pausada debido a:'
+    conditionBiome1: No esta colocado en un bioma &6%biome&7.
+    conditionBiome2: No esta colocado en el bioma correcto.
+    conditionHeight: La coordenada Y no esta entre &6%min%&7 y &6%max%&7.
+    conditionLight: Falta &6luz&7.
+    conditionDark: Falta &6oscuridad&7.
+    conditionNearbyEntities: Hay más de &6%max%&7 entidades alrededor de este generador.
+    conditionNearbyPlayers: Hay menos de &6%amount%&7 jugadores dentro de un rango de &6%distance%&7 bloques del generador.
+    conditionStorm: No hay tormenta.
+  convert:
+    title: Conversión de Generador
+    lore: '&7Haz click para Convertir.'
+  shop:
+    title: Tienda de Generadores
+    spawnershoptitle: '&8Compra un %type%'
+    buyprice: '&7Precio: &a%cost%'
+    lore: '&7Haz click para comprarlo.'
+    add1: '&a&lAñadir 1'
+    add10: '&a&lAñadir 10'
+    set1: '&c&lEstablecer a 1'
+    set64: '&a&lEstablecer a 64'
+    remove1: '&c&lQuitar 1'
+    remove10: '&c&lQuitar 10'
+  spawnerstats:
+    title: '&5&lEstadísticas de Generador'
+    prefix: '&7Las estadísticas de tus generadores:'
+    nokills: '&7Todavía no has asesinado monstruos. ¡Anda a matar alguno!'
+  boost:
+    title: '&cAcelerando generador %spawner% &cpor %amount%'
+    cost: '&7Cuesta &6&l%cost%.'
+    boostfor: '&7&lAcelerado por &6&l%amount% &7&lMinutos'
+# Mensajes de Comandos
+command:
+  give:
+    success: '&7Has recibido %amount% &6Generadores de %type%&7.'
+# Mensajes de Eventos
+event:
+  general:
+    nopermission: '&cNo tienes permitido hacer eso.'
+  upgrade:
+    cannotafford: '&cNo puedes pagar esta mejora.'
+    success: '&7Has mejorado este generador a &6%level%x&7.'
+    maxed: '&7Este generador está al máximo nivel.'
+    successmaxed: '&7Este generador ha llegado al máximo en &6%level%x&7.'
+  downgrade:
+    success: '&7Has desmejorado este generador a &6%level%x&7.'
+  block:
+    place: '&7Has colocado &6%type%&7.'
+    broken: Este tipo de generador ha sido removido y no puedes colocarlo.
+    chargeplace: '&7Se te cobrará &6%cost% &7si no rompes este generador en un minuto.'
+    break: '&7Has destruido &6%type%&7.'
+    chargebreak: '&7Se te cobrará &6%cost% &7por romper este generador. Rompelo de nuevo para confirmar.'
+    blacklisted: '&cEsa acción está desactivada.'
+    omnitake: '&7Has tomado un &6%type%&7 del Generador Omni.'
+    forcedeny: '&cEste generador está muy cerca de otro generador.'
+    mergedistance: '&7Este generador ha sido combinado con otro generador cerca.'
+    chunklimit: '&cNo se pueden colocar mas de &4%amount% spawners &cen este chunk.'
+    cannotbreak: '&7No puedes darte el lujo de romper este generador.'
+  goal:
+    alert: '&7Necesitas &6%goal% &7más asesinatos para obtener un &6Generador de %type%&7.'
+    reached: '&7Un Generador de &6%type% &7ha sido soltado!'
+  egg:
+    needmore: '&7Necesitas &6%amount% &7Huevos de Mounstruos para convertir este generador.'
+    sametype: '&7Este generador ya genera &6%type%s&7.'
+  shop:
+    cannotafford: '&cNo tienes dinero suficiente para comprarlo.'
+    purchasesuccess: '&9Tu compra se ha completado con éxito.'
+  omni:
+    cannotmerge: '&cNo puedes unir dos OmniSpawners.'
+    combinefail: '&cEl Generador Omni se niega a absorver más generadores de este tipo.'
+    combinesuccess: '&7Tu generador fue absorvido en el Generador Omni.'
+    takespawner: '&7Tomaste un &6%type%&7 del Generador Omni.'
+  convert:
+    success: '&9Tu conversión se ha completado con éxito.'
+  boost:
+    applied: '&6Tu aumento ha sido aplicado.'
+  combine:
+    onlyone: '&cSolo puedes combinar un generador a la vez.'
+  spawner:
+    toomany: '&cSolo puedes colocar &4%amount% &cgeneradores...'

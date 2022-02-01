@@ -1,0 +1,20 @@
+#----------------------------------------
+# PlotSquared Plot
+# PlotSquared Plot
+# https://www.spigotmc.org/resources/plotsquared.1177/
+#----------------------------------------
+
+# DO NOT EDIT THIS CONFIG VERSION!
+config: 2
+
+
+# Do you want to enable this event hook?
+# Enabling this hook will trigger
+# when the player enters/leaves a plot
+# for the player that enters the plot
+enabled: false
+
+# What do you want to trigger?
+trigger: "default"
+
+

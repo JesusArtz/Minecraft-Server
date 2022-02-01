@@ -1,0 +1,19 @@
+{
+  "Type": "IRON_GOLEM",
+  "Loot": [
+    {
+      "Type": "RED_ROSE",
+      "Chance": 100.0,
+      "Min": 0,
+      "Max": 2,
+      "Looting": true
+    },
+    {
+      "Type": "IRON_INGOT",
+      "Chance": 100.0,
+      "Min": 3,
+      "Max": 5,
+      "Looting": true
+    }
+  ]
+}

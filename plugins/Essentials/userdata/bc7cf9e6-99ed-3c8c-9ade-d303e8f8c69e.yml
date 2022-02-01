@@ -1,0 +1,40 @@
+lastAccountName: _zBear_
+timestamps:
+  login: 1617848945720
+  logout: 1617849096461
+  kits:
+    pvp: 1617467991167
+    user: 1617143658375
+  lastteleport: 1617472080318
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Survival_plots
+  x: -75.96140074843757
+  y: 21.0
+  z: -153.6009496374026
+  yaw: -351.13177
+  pitch: -13.911794
+socialspy: false
+lastlocation:
+  world: Survival_plots
+  x: -78.43723305103917
+  y: 20.5
+  z: -145.8675765294135
+  yaw: -344.18066
+  pitch: 20.077927
+money: '2019.875'
+homes:
+  xp:
+    world: Survival
+    x: 451.3364445378538
+    y: 10.0
+    z: 180.30000001192093
+    yaw: -357.85214
+    pitch: 62.808132
+  arbol:
+    world: Survival
+    x: 922.1076530358472
+    y: 71.0
+    z: -247.44403590581692
+    yaw: -252.18085
+    pitch: 1.4842011

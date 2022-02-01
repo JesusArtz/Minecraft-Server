@@ -1,0 +1,161 @@
+Mobs:
+  CREEPER:
+    Enabled: true
+    Display Name: Creeper
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  SKELETON:
+    Enabled: true
+    Display Name: Skeleton
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  SPIDER:
+    Enabled: true
+    Display Name: Spider
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  GIANT:
+    Enabled: true
+    Display Name: Giant
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  ZOMBIE:
+    Enabled: true
+    Display Name: Zombie
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  SLIME:
+    Enabled: true
+    Display Name: Slime
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  GHAST:
+    Enabled: true
+    Display Name: Ghast
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  PIG_ZOMBIE:
+    Enabled: true
+    Display Name: Pig zombie
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  ENDERMAN:
+    Enabled: true
+    Display Name: Enderman
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  CAVE_SPIDER:
+    Enabled: true
+    Display Name: Cave spider
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  SILVERFISH:
+    Enabled: true
+    Display Name: Silverfish
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  BLAZE:
+    Enabled: true
+    Display Name: Blaze
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  MAGMA_CUBE:
+    Enabled: true
+    Display Name: Magma cube
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  ENDER_DRAGON:
+    Enabled: true
+    Display Name: Ender dragon
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  WITHER:
+    Enabled: true
+    Display Name: Wither
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  BAT:
+    Enabled: true
+    Display Name: Bat
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  WITCH:
+    Enabled: true
+    Display Name: Witch
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  ENDERMITE:
+    Enabled: true
+    Display Name: Endermite
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  GUARDIAN:
+    Enabled: true
+    Display Name: Guardian
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  PIG:
+    Enabled: true
+    Display Name: Pig
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  SHEEP:
+    Enabled: true
+    Display Name: Sheep
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  COW:
+    Enabled: true
+    Display Name: Cow
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  CHICKEN:
+    Enabled: true
+    Display Name: Chicken
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  SQUID:
+    Enabled: true
+    Display Name: Squid
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  WOLF:
+    Enabled: true
+    Display Name: Wolf
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  MUSHROOM_COW:
+    Enabled: true
+    Display Name: Mushroom cow
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  SNOWMAN:
+    Enabled: true
+    Display Name: Snowman
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  OCELOT:
+    Enabled: true
+    Display Name: Ocelot
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  IRON_GOLEM:
+    Enabled: true
+    Display Name: Iron golem
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  HORSE:
+    Enabled: true
+    Display Name: Horse
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  RABBIT:
+    Enabled: true
+    Display Name: Rabbit
+    Max Stack Size: -1
+    Kill Whole Stack: false
+  VILLAGER:
+    Enabled: true
+    Display Name: Villager
+    Max Stack Size: -1
+    Kill Whole Stack: false

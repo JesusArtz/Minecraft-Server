@@ -1,0 +1,32 @@
+socialspy: false
+lastAccountName: Ju4nch0
+timestamps:
+  login: 1616629159438
+  lastteleport: 1616425049531
+  kits:
+    user: 1615847377584
+  logout: 1616629175560
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Survival
+  x: 664.157489970623
+  y: 17.0
+  z: 771.0913541592438
+  yaw: -114.68051
+  pitch: 21.911608
+logoutlocation:
+  world: world
+  x: 0.22821719937185486
+  y: 50.0625
+  z: 7.7512947076618595
+  yaw: 170.60138
+  pitch: 35.88985
+money: '1393.3269999999999907'
+homes:
+  a:
+    world: Survival
+    x: 627.0949018200292
+    y: 47.0
+    z: 765.2389569012976
+    yaw: -178.14323
+    pitch: 17.428062

@@ -1,0 +1,286 @@
+﻿Rewards:
+  1:
+    slot: 11
+    permission: 'deliveryman.User'
+    type: normal
+    cooldown:
+      type: cooldown
+      time: 86400
+    cooldown_format:
+      until_days: '<days>d, <hours>h, <mins>m, <secs>s'
+      until_hours: '<hours>h, <mins>m, <secs>s'
+      until_minutes: '<mins>m, <secs>s'
+      until_seconds: '<secs>s'
+    states:
+      claimable:
+        item_id: 425
+        item_subid: 15
+        item_amount: 1
+        item_name: '&f&lUSER &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&bReward successfully cashed!'
+        sound: LEVEL_UP
+        sound_speed: 1.0
+        claim_commands:
+        - 'crazycrate give virtual User 1 <player>'
+      cooldown:
+        item_id: 287
+        item_subid: 0
+        item_amount: 1
+        item_name: '&c&lWAITING..'
+        item_lore:
+        - ''
+        - '&7You have already claimed this'
+        - '&7reward, come back later!'
+        - ''
+        - '&bAvailable in&8: &c<cooldown>'
+        message: '&cReward already claimed! come back in &d<cooldown>'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+      no_permission:
+        item_id: 425
+        item_subid: 15
+        item_amount: 1
+        item_name: '&f%lUSER &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&cThis article requires rank &f&lUSER&c, buy it in&8: &eserver.es/donate'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+  2:
+    slot: 12
+    permission: 'deliveryman.Navigator'
+    type: normal
+    cooldown:
+      type: cooldown
+      time: 86400
+    cooldown_format:
+      until_days: '<days>d, <hours>h, <mins>m, <secs>s'
+      until_hours: '<hours>h, <mins>m, <secs>s'
+      until_minutes: '<mins>m, <secs>s'
+      until_seconds: '<secs>s'
+    states:
+      claimable:
+        item_id: 425
+        item_subid: 12
+        item_amount: 1
+        item_name: '&3&lNA&b&lVIGA&f&lTOR &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&bReward successfully cashed!'
+        sound: LEVEL_UP
+        sound_speed: 1.0
+        claim_commands:
+        - 'crazycrate give virtual Navigator 1 <player>'
+      cooldown:
+        item_id: 287
+        item_subid: 0
+        item_amount: 1
+        item_name: '&c&lWAITING..'
+        item_lore:
+        - ''
+        - '&7You have already claimed this'
+        - '&7reward, come back later!'
+        - ''
+        - '&bAvailable in&8: &c<cooldown>'
+        message: '&cReward already claimed! come back in &d<cooldown>'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+      no_permission:
+        item_id: 425
+        item_subid: 12
+        item_amount: 1
+        item_name: '&3&lNA&b&lVIGA&f&lTOR &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&cThis article requires rank &3&lNA&b&lVIGA&f&lTOR&c, buy it in&8: &eserver.es/donate'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+  3:
+    slot: 13
+    permission: 'deliveryman.Admiral'
+    type: normal
+    cooldown:
+      type: cooldown
+      time: 86400
+    cooldown_format:
+      until_days: '<days>d, <hours>h, <mins>m, <secs>s'
+      until_hours: '<hours>h, <mins>m, <secs>s'
+      until_minutes: '<mins>m, <secs>s'
+      until_seconds: '<secs>s'
+    states:
+      claimable:
+        item_id: 425
+        item_subid: 11
+        item_amount: 1
+        item_name: '&6&lAD&e&lMIR&f&lAL &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&bReward successfully cashed!'
+        sound: LEVEL_UP
+        sound_speed: 1.0
+        claim_commands:
+        - 'crazycrate give virtual Admiral 1 <player>'
+      cooldown:
+        item_id: 287
+        item_subid: 0
+        item_amount: 1
+        item_name: '&c&lWAITING..'
+        item_lore:
+        - ''
+        - '&7You have already claimed this'
+        - '&7reward, come back later!'
+        - ''
+        - '&bAvailable in&8: &c<cooldown>'
+        message: '&cReward already claimed! come back in &d<cooldown>'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+      no_permission:
+        item_id: 425
+        item_subid: 11
+        item_amount: 1
+        item_name: '&6&lAD&e&lMIR&f&lAL &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&cThis article requires rank &6&lAD&e&lMIR&f&lAL&c, buy it in&8: &eserver.es/donate'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+  4:
+    slot: 14
+    permission: 'deliveryman.Captain'
+    type: normal
+    cooldown:
+      type: cooldown
+      time: 86400
+    cooldown_format:
+      until_days: '<days>d, <hours>h, <mins>m, <secs>s'
+      until_hours: '<hours>h, <mins>m, <secs>s'
+      until_minutes: '<mins>m, <secs>s'
+      until_seconds: '<secs>s'
+    states:
+      claimable:
+        item_id: 425
+        item_subid: 10
+        item_amount: 1
+        item_name: '&2&lCA&a&lPTA&f&lIN &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&bReward successfully cashed!'
+        sound: LEVEL_UP
+        sound_speed: 1.0
+        claim_commands:
+        - 'crazycrate give virtual Captain 1 <player>'
+      cooldown:
+        item_id: 287
+        item_subid: 0
+        item_amount: 1
+        item_name: '&c&lWAITING..'
+        item_lore:
+        - ''
+        - '&7You have already claimed this'
+        - '&7reward, come back later!'
+        - ''
+        - '&bAvailable in&8: &c<cooldown>'
+        message: '&cReward already claimed! come back in &d<cooldown>'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+      no_permission:
+        item_id: 425
+        item_subid: 10
+        item_amount: 1
+        item_name: '&2&lCA&a&lPTA&f&lIN &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&cThis article requires rank &2&lCA&a&lPTA&f&lIN&c, buy it in&8: &eserver.es/donate'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+  5:
+    slot: 15
+    permission: 'deliveryman.Lieutenant'
+    type: normal
+    cooldown:
+      type: cooldown
+      time: 86400
+    cooldown_format:
+      until_days: '<days>d, <hours>h, <mins>m, <secs>s'
+      until_hours: '<hours>h, <mins>m, <secs>s'
+      until_minutes: '<mins>m, <secs>s'
+      until_seconds: '<secs>s'
+    states:
+      claimable:
+        item_id: 425
+        item_subid: 13
+        item_amount: 1
+        item_name: '&5&lLI&d&lEUTE&f&lNANT &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&bReward successfully cashed!'
+        sound: LEVEL_UP
+        sound_speed: 1.0
+        claim_commands:
+        - 'crazycrate give virtual Lieutenant 1 <player>'
+      cooldown:
+        item_id: 287
+        item_subid: 0
+        item_amount: 1
+        item_name: '&c&lWAITING..'
+        item_lore:
+        - ''
+        - '&7You have already claimed this'
+        - '&7reward, come back later!'
+        - ''
+        - '&bAvailable in&8: &c<cooldown>'
+        message: '&cReward already claimed! come back in &d<cooldown>'
+        sound: ANVIL_LAND
+        sound_speed: 1.0
+      no_permission:
+        item_id: 425
+        item_subid: 13
+        item_amount: 1
+        item_name: '&5&lLI&d&lEUTE&f&lNANT &b&lREWARD'
+        item_lore:
+        - ''
+        - '&7Claim this item and get'
+        - '&e1&7 Padlock'
+        - ''
+        - '&aClick to Claim!'
+        message: '&cThis article requires rank &5&lLI&d&lEUTE&f&lNANT&c, buy it in&8: &eserver.es/donate'
+        sound: ANVIL_LAND
+        sound_speed: 1.0

@@ -1,0 +1,44 @@
+# Skript Sancion GUI creado por el server FrutyCraft.eu.
+
+options:
+
+	permiso: sancionar.admin
+	msg.permiso: &cUsted no puede hacer eso.
+	
+	comando: sancionar
+
+	razon1: Uso de Hacks
+	razon2:	Bug abuse
+	razon3: Elo Boost
+	razon4: DDoS
+	razon5: Elo Manipulation
+	razon6: X-Ray
+	razon7: Mods ilegales
+	
+	sancion1: /tempban %arg-1% 14d Uso de Hacks
+	sancion2: /tempban %arg-1% 10d Bug Abuse
+	sancion3: /tempban %arg-1% 5d Elo Boost
+	sancion4: /tempban %arg-1% 6d DDoS
+	sancion5: /tempban %arg-1% 5d Elo Manipulation
+	sancion6: /tempban %arg-1% 10d X-Ray
+	sancion7: /tempban %arg-1% 8d Mods ilegales
+
+
+command /{@comando} [<offline player>]:
+	permission: {@permiso}
+	permission message: {@msg.permiso}
+	trigger:
+		if arg-1 is not set:
+			send "&c/{@comando} <player>" to player
+			stop
+		if arg-1 is set:
+			open chest with 1 row named "&aSancionar a &f%arg-1%" to player
+			wait 3 ticks
+			format slot 0 of player with wool named "&b{@razon1}" to close then run [make player execute command "{@sancion1}"]
+			format slot 1 of player with wool named "&b{@razon2}" to close then run [make player execute command "{@sancion2}"]
+			format slot 2 of player with wool named "&b{@razon3}" to close then run [make player execute command "{@sancion3}"]
+			format slot 3 of player with wool named "&b{@razon4}" to close then run [make player execute command "{@sancion4}"]
+			format slot 4 of player with wool named "&b{@razon5}" to close then run [make player execute command "{@sancion5}"]
+			format slot 5 of player with wool named "&b{@razon6}" to close then run [make player execute command "{@sancion6}"]
+			format slot 6 of player with wool named "&b{@razon7}" to close then run [make player execute command "{@sancion7}"]
+			stop

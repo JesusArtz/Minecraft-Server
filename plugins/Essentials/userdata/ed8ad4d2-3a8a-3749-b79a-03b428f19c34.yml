@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: Agusmilocco
+timestamps:
+  login: 1617432261475
+  logout: 1617432330155
+  kits:
+    pvp: 1615778799089
+    user: 1615778784598
+  lastteleport: 1617120034376
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Survival
+  x: 729.4189742316577
+  y: 67.0
+  z: 605.3818494160969
+  yaw: -177.24126
+  pitch: 19.188007
+lastlocation:
+  world: world
+  x: 0.5221031171538941
+  y: 50.0625
+  z: 6.919891884538831
+  yaw: -0.25169513
+  pitch: -6.4373693
+money: '437.6269999999999983'
+homes:
+  home:
+    world: Survival
+    x: 693.9933381254891
+    y: 73.0
+    z: -84.2571538572767
+    yaw: 283.1273
+    pitch: 18.098614
