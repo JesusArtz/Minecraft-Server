@@ -39,14 +39,14 @@ bars:
         style: PROGRESS
         color: BLUE
         progress: 100
-        text: "&fGracias por jugar en &bFrutyCraft Network"
+        text: "&fGracias por jugar en &bMexicoDev"
       frame2:
         style: PROGRESS
         color: GREEN
         progress: 100
-        text: "&fDiscord: &adiscord.com/invite/CUt9c9EfHH"
+        text: "&fDiscord: &ahttps://discord.gg/VwHPgrBEeB"
       frame3:
         style: PROGRESS
         color: YELLOW
         progress: 100
-        text: "&fGracias por jugar en &bFrutyCraft Network"
+        text: "&fGracias por jugar en &bMexicoDev"

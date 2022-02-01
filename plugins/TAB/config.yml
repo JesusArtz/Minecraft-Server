@@ -34,11 +34,11 @@ unlimited-nametag-prefix-suffix-mode:
   space-between-lines: 0.22
 header:
 - '&r'
-- '&e&lFRUTYCRAFT&r'
+- '&e&lMEXICODEV&r'
 - '&r'
 footer:
 - '&r'
-- ' &eWeb&8:&bfrutycraft.tebex.io&r     &eShop&8:&bfrutycraft.tebex.io&r '
+- ' &eWeb&8:&bmexicodev.org&r     &eShop&8:&bmexicodev.org&r '
 - ' &eTwitter&8:&b@Proximamente...&r '
 - '&r'
 enable-collision: true

@@ -12,8 +12,8 @@
 #==================#
 # sending MOTD list
 MotdList:
-- '        &3&lFRUTYCRAFT NETWORK       &c1.8&7/&c1.16        &7     
-                         &9SURVIVAL HA VUELTO!!'
+- '        &3&lMEXICODEV NETWORK       &c1.8&7/&c1.16        &7     
+                         &9SURVIVAL COMPLETO!!'
 
 # if use show fake max players count feature, change this to numeric
 FakeMaxPlayer: disable

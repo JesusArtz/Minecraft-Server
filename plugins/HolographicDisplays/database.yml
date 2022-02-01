@@ -1,7 +1,7 @@
 spawn:
   location: world, 0.500, 54.000, 7.500
   lines:
-  - '&u&lBienvenido a FrutyCraft Survival'
+  - '&u&lBienvenido a MexicoDev Survival'
   - '&8▆▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▆'
   - Explora el lugar y diviértete
   - grandes aventuras!
@@ -9,7 +9,7 @@ spawn:
   - '&eLugares disponibles actualmente'
   - '&aPortales&f, &aAyuda&f, &aCrates&f, &aTienda&f, &aComida&f, &aRecompensas'
   - '&8[x]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[x]'
-  - '&dfrutycraft.tebex.io'
+  - '&dmexicodev.org'
   - 'ICON: prismarine:2'
 portals:
   location: world, 50.349, 49.436, 63.812
